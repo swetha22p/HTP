@@ -1,0 +1,322 @@
+<segment_id=news_headline_4_0011a>
+#उठने लगे कई सवाल।
+#uTane lage kaI savAla .
+#uTane lage kaI savAla.
+uTa_1-nA_lagA_1	1	-	-	0:main	-	-	-	-
+kaI_1	3	-	-	4:quant	-	-	-	-
+savAla_1	4	-	-	1:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_4_0011b>
+#इस बीच बड़ा सवाल यह है।
+#isa bIca badZA savAla yaha hE.
+#Meanwhile, the big question is this .
+$wyax	1	-	-	2:dem	-	proximal	-	-
+bIca_1	2	-	-	6:k7t	-	-	-	-
+badZA_1	3	-	-	4:mod	-	-	-	-
+savAla_1	4	-	-	6:k1	-	-	-	-
+$wyax	5	-	-	6:k1s	news_headline_4_0011c.10:coref	proximal	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_4_0011c>
+#कि इजरायल को इस गोपनीय बैठक की जानकारी कैसे मिली
+#ki ijarAyala ko isa gopanIya bETaka kI jAnakArI kEse milI
+#ki ijarAyala ko isa gopanIya bETaka kI jAnakArI kEse milI
+ijarAyala	2	-	-	-	-	-	-	11:begin
+$wyax	4	-	-	6:dem	-	proximal	-	-
+gopanIya_1	5	-	-	6:mod	-	-	-	-
+bETaka_1	6	-	-	8:r6	-	-	-	-
+jAnakArI_1	8	-	-	10:k1	-	-	-	-
+$kim	9	-	-	10:k5	-	-	-	-
+mila_1-yA_WA_1	10	-	-	0:main	-	-	-	-
+[ne_1]	11	place	-	10:k4	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_4_0012>
+#क्या ईरान की लीडरशिप में कोई ‘जासूस’ मौजूद था जो इजरायल को अंदर की खबरें दे रहा था ?
+#kyA IrAna kI lIdaraSipa meM koI ‘jAsUsa’ mOjUxa WA jo ijarAyala ko aMxara kI KabareM xe rahA WA ?
+#Was there a 'spy' within Iran's leadership who was providing inside information to Israel?
+IrAna	2	-	-	-	-	-	-	19:begin
+^lIdaraSipa_1	4	-	-	11:k7	-	-	-	-
+koI	6	-	-	8:intf	-	-	-	-
+jAsUsa_1	8	-	-	11:k1	-	-	-	-
+mOjUxa_1	10	-	-	11:k1s	-	-	-	-
+hE_1-past	11	-	-	0:main	8:coref	-	-	-
+$yax	12	-	-	18:k1	-	-	-	-
+ijarAyala	13	-	-	-	-	-	-	20:begin
+aMxara_1	15	-	-	17:r6	-	-	-	-
+Kabara_1	17	-	pl	18:k2	-	-	-	-
+xe_1-0_rahA_WA_1	18	-	-	8:rcelab	-	-	-	-
+[ne_1]	19	place	-	4:r6	-	-	-	-
+[ne_2]	20	place	-	18:k4	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=news_headline_4_0013>
+#ईरानी खुफिया एजेंसियां अब इस संदिग्ध लीक की जांच में जुटी हैं।
+#IrAnI KuPiyA ejeMsiyAM aba isa saMxigXa lIka kI jAMca meM jutI hEM.
+#Iranian intelligence agencies are now investigating this suspected leak.
+IrAnI	1	-	-	-	-	-	-	15:begin
+KuPiyA	2	-	-	-	-	-	-	15:inside
+ejeMsiyAM	3	-	-	-	-	-	-	15:inside
+aba_1	4	-	-	11:k7t	-	-	-	-
+$wyax	5	-	-	7:dem	-	proximal	-	-
+saMxigXa_1	6	-	-	7:mod	-	-	-	-
+lIka_1	7	-	-	9:r6	-	-	-	-
+jAMca_1	9	-	-	11:k7	-	-	-	-
+juta_1-yA_hE_1	11	-	-	0:main	-	-	-	-
+[ne_1]	15	org	-	11:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_4_0014a>
+#रिपोर्ट्स में यह कहा गया है।
+#riportsa meM yaha kahA gayA hE .
+#riportsa meM yaha kahA gayA hE.
+^riportsa_1	1	-	-	4:k7	-	-	-	-
+$wyax	3	-	-	4:k2	news_headline_4_0014b.19:coref	proximal	-	-
+kaha_1-yA_jA_yA_hE_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_4_0014b>
+#कि हमला उस रणनीति पर आधारित था, जिससे पहले हिजबुल्ला के प्रमुख हसन नसरल्ला को बेरुत में मार दिया गया था।
+#ki hamalA usa raNanIwi para AXAriwa WA, jisase pahale hijabullA ke pramuKa hasana nasarallA ko beruwa meM mAra xiyA gayA WA.
+#That the attack was based on the strategy used to kill Hezbollah chief Hassan Nasrallah in Beirut.
+hamalA_1	2	-	-	7:k1	-	-	-	-
+$wyax	3	-	-	4:dem	-	distal	-	-
+raNanIwi_1	4	-	-	7:k7	-	-	-	-
+AXAriwa_1	6	-	-	7:k1s	-	-	-	-
+hE_1-past	7	-	-	0:main	-	-	-	-
+$yax	9	-	-	10:rkl	4:coref	-	-	-
+pahalA_1	10	-	-	19:k7t	-	-	-	-
+hijabullA	11	-	-	13:r6	-	-	-	26:begin
+pramuKa_1	13	-	-	27:mod	-	-	-	-
+hasana	14	-	-	-	-	-	-	24:begin
+nasarallA	15	-	-	-	-	-	-	24:inside
+beruwa	17	-	-	19:k7p	-	-	-	27:begin
+mAra_1-yA_jA_yA_hE_1	19	-	-	4:rcdelim	-	[shade:xe_1]	-	-
+[ne_1]	24	per/male	-	19:k4	-	-	-	-
+[ne_2]	26	org	-	27:r6	-	-	-	-
+[ne_3]	27	place	-	19:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_4_0015a>
+#राष्ट्रपति पेसेश्कियन ने हमले की पुष्टि करते हुए यह कहा।
+#rARtrapawi peseSkiyana ne hamale kI puRti karawe hue yaha kahA.
+#President Peshekian confirmed the attack saying this .
+rARtrapawi	1	-	-	-	-	-	-	13:begin
+peseSkiyana	2	-	-	-	-	-	-	13:inside
+hamalA_1	4	-	-	12:k2	-	-	-	-
+puRti_1	6	-	-	-	-	-	-	12:kriyAmUla
+kara_1	7	-	-	-	-	-	-	12:verbalizer
+$wyax	9	-	-	10:k2	news_headline_4_0015b.7:coref	proximal	-	-
+kaha_1-yA_WA_1	10	-	-	0:main	-	-	-	-
+[cp_1]	12	-	-	10:rblpk	-	-	-	-
+[ne_1]	13	ne	-	10:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_4_0015b>
+#हां, उन्होंने कोशिश की।
+#hAM , unhoMne koSiSa kI .
+#hAM, unhoMne koSiSa kI.
+$wyax	3	-	-	5:k1	news_headline_4_0015a.13:coref	distal	-	-
+koSiSa_1	4	-	-	-	-	-	-	7:kriyAmUla
+kara_1-yA_1	5	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_4_0015c>
+#लेकिन वे नाकाम रहे।
+#lekina ve nAkAma rahe .
+#lekina ve nAkAma rahe.
+$wyax	2	-	-	4:k1	news_headline_4_0015a.13:coref	distal	-	-
+nAkAma_1	3	-	-	-	-	-	-	6:kriyAmUla
+raha_1-e_1	4	-	-	-	-	-	-	6:verbalizer
+[cp_1]	6	-	-	-	news_headline_4_0015b.7:viroXI	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_4_0015d>
+#उन्होंने यह बात एक इंटरव्यू में अमेरिकी पत्रकार टकर कार्लसन से बातचीत के दौरान कही।
+#unhoMne yaha bAwa eka iMtaravyU meM amerikI pawrakAra takara kArlasana se bAwacIwa ke xOrAna kahI.
+#He said this during an interview with American journalist Tucker Carlson.
+$wyax	1	-	-	15:k1	news_headline_4_0015a.13:coref	distal	-	-
+$wyax	2	-	-	3:dem	news_headline_4_0015b.7:coref	proximal	-	-
+bAwa_1	3	-	-	15:k2	-	-	-	-
+eka_1	4	-	-	5:card	-	-	-	-
+^iMtaravyU_1	5	-	-	15:k7	-	-	-	-
+amerikA_1	7	-	-	8:mod	-	-	-	-
+pawrakAra_1	8	-	-	17:rs	-	-	-	-
+takara	9	-	-	-	-	-	-	17:begin
+kArlasana	10	-	-	-	-	-	-	17:inside
+bAwacIwa_1	12	-	-	15:k7t	-	-	-	-
+kaha_1-yA_WA_1	15	-	-	0:main	-	-	-	-
+[ne_1]	17	per/male	-	15:rask2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_4_0016>
+#इजरायल ने इस मामले पर कोई टिप्पणी नहीं की थी।
+#ijarAyala ne isa mAmale para koI tippaNI nahIM kI WI.
+#Israel did not comment on the matter.
+ijarAyala	1	-	-	-	-	-	-	13:begin
+$wyax	3	-	-	4:dem	-	proximal	-	-
+mAmalA_1	4	-	-	9:k7	-	def	-	-
+koI	6	-	-	7:mod	-	-	-	-
+tippaNI_1	7	-	-	9:k2	-	-	-	-
+nahIM_1	8	-	-	9:neg	-	-	-	-
+kara_1-yA_WA_1	9	-	-	0:main	-	-	-	-
+[ne_1]	13	place	-	9:k1	-	-	-	-
+%negative
+</segment_id>
+<segment_id=news_headline_4_0017a>
+#खराब हुआ था इजरायल का F-15।
+#KarAba huA WA ijarAyala kA _F-15_ .
+#KarAba huA WA ijarAyala kA _F-15._
+KarAba_1	1	-	-	-	-	-	-	8:kriyAmUla
+ho_1-yA_WA_1	2	-	-	-	-	-	-	8:verbalizer
+ijarAyala	4	-	-	-	-	-	-	9:begin
+F-15	6	-	-	-	-	-	-	10:begin
+[cp_1]	8	-	-	0:main	-	-	-	-
+[ne_1]	9	place	-	10:r6	-	-	-	-
+[ne_1]	10	ne	-	8:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_4_0017b>
+#वहीं, दूसरा खुलासा इजरायली वायुसेना से जुड़ा है।
+#vahIM, xUsarA KulAsA ijarAyalI vAyusenA se judZA hE.
+#While the second revelation is related to the Israeli Air Force.
+$wyax	1	-	-	8:k7t	-	-	-	-
+xUsarA_1	3	-	-	4:ord	-	-	-	-
+KulAsA_1	4	-	-	10:k1	-	-	-	-
+ijarAyalI	5	-	-	6:mod	-	-	-	9:begin
+vAyusenA	6	-	-	8:ras-k1	-	-	-	9:inside
+judZA_1	8	-	-	10:k1s	-	-	-	-
+[ne_1]	9	org	-	10:k2as	-	-	-	-
+hE_1-pres	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_4_0018>
+#रविवार को आई रिपोर्ट के मुताबिक इजरायली ऑपरेशन के दौरान इजरायल का एक एफ-15 फाइटर जेट ईरानी सीमा में पहुंचते ही टेक्निकल फेलियर का शिकार हो गया।
+#ravivAra ko AI riporta ke muwAbika ijarAyalI OYpareSana ke xOrAna ijarAyala kA eka ePa-15 PAitara jeta IrAnI sImA meM pahuMcawe hI teknikala Peliyara kA SikAra ho gayA.
+#According to reports on Sunday, during an Israeli operation, an Israeli F-15 fighter jet suffered a technical failure as it approached the Iranian border.
+ravivAra_1	1	dow	-	3:k7t	-	-	-	-
+A_1	3	-	-	4:rbks	-	-	-	-
+^riporta_1	4	-	-	26:k7a	-	-	-	-
+ijarAyalI	7	-	-	-	-	-	-	32:begin
+^OYpareSana	8	-	-	-	-	-	-	32:inside
+ijarAyala	11	-	-	-	-	-	-	33:begin
+eka_1	13	-	-	34:card	-	-	-	-
+ePa-15	14	-	-	-	-	-	-	34:begin
+PAitara	15	-	-	-	-	-	-	34:inside
+jeta	16	-	-	-	-	-	-	34:inside
+IrAnI_1	17	-	-	18:mod	-	-	-	-
+sImA_1	18	-	-	20:k7	-	-	-	-
+pahuMc_1	20	-	-	26:rblak	-	-	-	-
+^teknikala	22	-	-	-	-	-	-	29:mod
+^Peliyara_1	23	-	-	-	-	-	-	29:head
+SikAra_1	25	-	-	26:k2	-	-	-	-
+ho_1-yA_WA_1	26	-	-	0:main	-	-	-	-
+[nc_1]	29	-	-	20:k1	-	-	-	-
+[ne_1]	30	-	-	25:r6	-	-	-	-
+[ne_1]	32	-	-	26:k7p	-	-	-	-
+[ne_2]	33	place	-	34:r6	-	-	-	-
+[ne_3]	34	-	-	20:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_4_0019>
+#तकनीकी खराबी के चलते हुए यह जमीन पर उतरने की कगार पर पहुंच गया था .।
+#wakanIkI KarAbI ke calawe hue yaha jamIna para uwarane kI kagAra para pahuMca gayA WA ..
+#Due to technical fault, it was on the verge of landing on the ground.
+wakanIkI_1	1	-	-	2:mod	-	-	-	-
+KarAbI_1	2	-	-	13:rh	-	-	-	-
+$wyax	6	-	-	7:dem	news_headline_4_0018.34:coref	proximal	-	-
+jamIna_1	7	-	-	9:k7p	-	def	-	-
+uwara_1	9	-	-	11:r6	-	-	-	-
+kagAra_1	11	-	-	13:k7	-	-	-	-
+pahuMca_1-yA_WA_1	13	-	-	0:main	-	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_4_0020>
+#ये लड़ाकू विमान उस वक्त ईरान की सीमा के भीतर काफी अंदर तक दाखिल हो चुका था, जब इसके फ्यूल टैंक में खराबी आ गई।
+#ye ladZAkU vimAna usa vakwa IrAna kI sImA ke BIwara kAPI aMxara waka xAKila ho cukA WA , jaba isake PyUla tEMka meM KarAbI A gaI .
+#This fighter plane had entered deep inside the Iranian border when its fuel tank malfunctioned.
+$wyax	1	-	-	3:dem	-	proximal	-	-
+ladZAkU_1	2	-	-	3:mod	-	-	-	-
+vimAna_1	3	-	-	29:k1	-	-	-	-
+$wyax	4	-	-	5:dem	-	distal	-	-
+vakwa_1	5	-	-	29:k7t	-	-	-	-
+IrAna	6	-	-	-	-	-	-	30:begin
+sImA_1	8	-	-	10:rdl	-	-	-	-
+BIwara_1	10	-	-	29:k7p	-	-	-	-
+kAPI_1	11	-	-	12:quant	-	-	-	-
+aMxara_1	12	-	-	15:k7	-	-	-	31:end
+xAKila_1	14	-	-	-	-	-	-	29:kriyAmUla
+ho_1-0_cukA_WA_1	15	-	-	-	-	-	-	29:verbalizer
+$yax	19	-	-	25:k7t	-	-	-	-
+$wyax	20	-	-	28:r6	3:coref	proximal	-	-
+^PyUla_1	21	-	-	-	-	-	-	28:mod
+^tEMka_1	22	-	-	-	-	-	-	28:head
+KarAbI_1	24	-	-	25:k1	-	-	-	-
+A_1-yA_hE_1	25	-	-	5:rcsamAnakAla	-	[shade:jA_1]	-	-
+[nc_1]	28	-	-	25:k7p	-	-	-	-
+[cp_1]	29	-	-	0:main	-	-	-	-
+[ne_1]	30	place	-	8:r6	-	-	-	-
+[span_1]	31	-	-	29:k2p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_4_0021a>
+#इजरायली चैनल 12 की रिपोर्ट के मुताबिक, पायलट ने तुरंत खतरे की जानकारी दी।
+#ijarAyalI cEnala 12 kI riporta ke muwAbika, pAyalata ne wuraMwa Kaware kI jAnakArI xI.
+#According to Israeli Channel 12 report, the pilot immediately reported the danger .
+ijarAyalI_1	1	-	-	2:mod	-	-	-	-
+cEnala_1	2	-	-	3:rs	-	-	-	-
+12	3	numex	-	5:r6	5:r6	-	-	-
+^riporta_1	5	-	-	15:k7a	-	-	-	-
+pAyalata_1	9	anim	-	15:k1	-	def	-	-
+wuraMwa_1	11	-	-	15:k7t	-	-	-	-
+KawarA_1	12	-	-	14:r6	-	def	-	-
+jAnakArI_1	14	-	-	15:k2	-	-	-	-
+xe_1-yA_1	15	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_4_0021b>
+#और उसने मिशन कंट्रोल को सतर्क किया .।
+#Ora usane miSana kaMtrola ko sawarka kiyA . .
+#Ora usane miSana kaMtrola ko sawarka kiyA ..
+$wyax	2	-	-	10:k1	news_headline_4_0021a.9:coref	distal	-	-
+^miSana_1	3	-	-	7:k2	-	-	-	11:mod
+^kaMtrola_1	4	-	-	7:k2	-	-	-	11:head
+sawarka_1	6	-	-	-	-	-	-	10:kriyAmUla
+kara_1-yA_1	7	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	news_headline_4_0021a.15:samuccaya	-	-	-
+[nc_1]	11	-	-	10:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_4_0022a>
+#उस वक्त कोई रीफ्यूलिंग एयरक्राफ्ट साथ नहीं था।
+#usa vakwa koI rIPyUliMga eyarakrAPta sAWa nahIM WA.
+#At that time there was no refuelling aircraft available .
+$wyax	1	-	-	2:dem	-	distal	-	-
+vakwa_1	2	-	-	8:k7t	-	-	-	-
+koI	3	-	-	10:mod	-	-	-	-
+^rIPyUliMga_1	4	-	-	-	-	-	-	10:mod
+^eyarakrAPta_1	5	-	-	-	-	-	-	10:head
+sAWa_1	6	-	-	8:k1s	-	-	-	-
+nahIM_1	7	-	-	8:neg	-	-	-	-
+hE_1-past	8	-	-	0:main	-	-	-	-
+[nc_1]	10	-	-	8:k1	-	-	-	-
+%negative
+</segment_id>
+<segment_id=news_headline_4_0022b>
+#ऐसे में आनन-फानन में एक वैकल्पिक विमान भेजने की योजना बनाई गई।
+#Ese meM Anana-PAnana meM eka vEkalpika vimAna Bejane kI yojanA banAI gaI.
+#Hence a plan was hastily made to send an alternative aircraft.
+$wyax	1	-	-	12:dem	-	-	-	-
+Anana-PAnana_1	3	-	-	11:k7	-	-	-	-
+eka_1	5	numex	-	7:card	-	-	-	-
+vEkalpika_1	6	-	-	7:mod	-	-	-	-
+vimAna_1	7	-	-	8:k2	-	-	-	-
+Beja_1	8	-	-	10:r6	-	-	-	-
+yojanA_1	10	-	-	11:k2	-	-	-	-
+banA_1-yA_jA_yA_hE_1	11	-	-	0:main	-	-	-	-
+prakAra_1	12	-	-	11:krvn	-	-	-	-
+%affirmative
+</segment_id>

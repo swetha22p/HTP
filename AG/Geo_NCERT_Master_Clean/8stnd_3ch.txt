@@ -1,0 +1,3366 @@
+<segment_id=Geo_ncert_8stnd_3ch_0001>
+#किरी सुकान्त से मिलने धनबाद के निकट उसके पैतृक स्थान पर जा रही थी।
+#kirI sukAnwa se milane XanabAxa ke nikata usake pEwqka sWAna para jA rahI WI.
+#Kiri was visiting Sukant in his native place near Dhanbad.
+kirI	1	female	-	-	-	-	-	16:begin
+sukAnwa	2	male	-	-	-	-	-	17:begin
+mila_1(meet_2)	4	-	-	12:rt	-	-	-	-
+XanabAxa	5	-	-	-	-	-	-	18:begin
+nikata_1(near_5)	7	-	-	-	-	-	-	19:whole
+$wyax	8	-	-	10:r6	17:coref	distal	-	-
+pEwqka_8	9	-	-	10:mod	-	-	-	-
+sWAna_1(place_14)	10	-	-	-	-	-	-	19:part
+jA_1-0_rahA_WA_1	12	-	-	0:main	-	-	-	-
+[ne_1]	16	per	-	4:k1	-	-	-	-
+[ne_2]	17	per	-	4:k2	-	-	-	-
+[ne_3]	18	place	-	7:rdl	-	-	-	-
+[spatial_1]	19	-	-	12:k2p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0002>
+#किरी विशाल काले क्षेत्र को देखकर आश्चर्यचकित थी।
+#kirI viSAla kAle kRewra ko xeKakara AScaryacakiwa WI.
+#Kiri was amazed to see that large areas were black.
+kirI	1	female	-	-	-	-	-	10:begin
+viSAla_2(large_8)	2	-	-	4:mod	-	-	-	-
+kAlA_1(black_1)	3	-	-	4:mod	-	-	-	-
+kRewra_5(area_2)	4	-	-	6:k2	-	-	-	-
+xeKa_1(see_1)	6	-	-	8:rpk	-	-	-	-
+AScaryacakiwa_1	7	-	-	8:k1s	-	-	-	-
+hE_1-past	8	-	-	0:main	-	-	-	-
+[ne_1]	10	per	-	8:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0003>
+#सुकान्त, यह स्थान इतना काला और धूल भरा क्यों है?
+#sukAnwa, yaha sWAna iwanA kAlA Ora XUla BarA kyoM hE?
+#“Sukant, why is this place so black and dusty?”
+sukAnwa	1	male	-	-	-	-	-	13:begin
+$wyax	3	-	-	4:dem	-	proximal	-	-
+sWAna_1(place_14)	4	-	-	15:k7p	-	-	-	-
+iwanA_2(so_9)	5	-	-	6:quant	-	-	-	-
+kAlA_1(black_1)	6	-	-	-	-	-	-	14:op1
+XUla_1(dust_5)	8	-	-	-	-	-	-	16:mod
+Bara_1(fill_3)	9	-	kqw	-	-	-	-	16:head
+$kim	10	-	-	15:rh	-	-	-	-
+[ne_1]	13	per	-	15:rd	-	-	-	-
+[conj_1]	14	-	-	15:k1	-	-	-	-
+hE_1-pres	15	-	-	0:main	-	-	-	-
+[compound_1]	16	-	-	-	-	-	-	14:op2
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0004>
+#यह कोयला खदान के निकट होने के कारण है।
+#yaha koyalA KaxAna ke nikata hone ke kAraNa hE.
+#This is because of the coal mines nearby.
+$wyax	1	-	-	9:k1	Geo_ncert_8stnd_3ch_0003.4:coref	proximal	-	-
+koyalA_1(coal_1)	2	-	-	-	-	-	-	11:mod
+KaxAna_2(mine_2)	3	-	-	-	-	-	-	11:head
+nikata_1_1(near_5)	5	-	-	9:k7p	-	-	-	-
+ho_6_1(be_4)	6	-	-	9:rh	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+[nc_1]	11	-	-	5:rdl	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0005>
+#क्या आप वहाँ ट्रकों को देख रही हो?
+#kyA Apa vahAz trakoM ko xeKa rahI ho?
+#Do you see the trucks?
+$addressee	2	anim	-	6:k1	Geo_ncert_8stnd_3ch_0003.4:coref	respect	-	-
+$wyax	3	-	-	6:k7p	-	distal	-	-
+traka_1(truck_1)	4	-	pl	6:k2	-	def	-	-
+xeKa_1-0_rahA_hE_1	6	-	-	0:main	-	-	-	-
+%yn_interrogative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0006>
+#ये सभी खनिज कोयले को ले जा रहे हैं।
+#ye saBI Kanija koyale ko le jA rahe hEM.
+#They are carrying the mineral coal
+$wyax	1	-	-	6:k1	Geo_ncert_8stnd_3ch_0005.4:coref	proximal	-	-
+saBI_1(all_1)	2	-	-	7:quant	-	-	-	-
+Kanija_1(mineral_1)	3	-	-	4:mod	-	-	-	7:mod
+koyalA_1(coal_1)	4	-	-	6:k2	-	-	-	7:head
+le+jA_1-0_rahA_hE_1	6	-	-	0:main	-	-	-	-
+[nc_1]	7	-	-	6:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0007>
+#क्या आपने कभी नानबाई को बिस्कुट बनाते हुए देखा है?
+#kyA Apane kaBI nAnabAI ko biskuta banAwe hue xeKA hE?
+#Have you ever seen a baker baking biscuits?
+$addressee	2	anim	-	9:k1	-	respect	-	-
+kaBI_2(ever_2)	3	-	-	9:k7t	-	-	-	-
+nAnabAI_1	4	anim	-	9:k2	-	-	-	-
+biskuta_1(biscuit_1)	6	-	-	7:k2	-	-	-	-
+banA_1(make_1)	7	-	kqw	9:rsk	-	-	-	-
+xeKa_1-yA_hE_1	9	-	-	0:main	-	-	-	-
+%yn_interrogative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0008>
+#उसमें आटा, दूध, चीनी और कभी-कभी अंडे को भी मिलाया जाता है।
+#usameM AtA, xUXa, cInI Ora kaBI-kaBI aMde ko BI milAyA jAwA hE.
+#The flour, milk, sugar and sometimes eggs are mixed together.
+$wyax	1	-	-	12:k7	Geo_ncert_8stnd_3ch_0007.6:coref	distal	-	-
+AtA_1	2	-	-	-	-	-	-	16:op1
+xUXa_1(milk_3)	4	-	-	-	-	-	-	16:op2
+cInI_1(sugar_1)	6	-	-	-	-	-	-	16:op3
+kaBI_1(sometime_1)	8	-	xviwva	-	-	-	-	-
+aMdA_1(egg_2)	9	-	-	12:k2	-	BI_1	-	16:op4
+milA_1-yA_jA_wA_hE_1	12	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	12:k2	-	def	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0009a>
+#जब आप पके हुए बिस्कुट खाते हैं।
+#jaba Apa pake hue biskuta KAwe hEM.
+#While you eat the baked biscuits.
+$addressee	1	anim	-	5:k1	-	respect	-	-
+paka_1	2	-	kqw	4:rvks	-	-	-	-
+biskuta_1(biscuit_1)	4	-	-	5:k2	-	def	-	-
+KA_1-wA_hE_1	5	-	-	0:main	Geo_ncert_8stnd_3ch_0009b.9:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0009b>
+#तो क्या आप इनके अवयवों को पृथक रूप में देख सकते हैं?
+#wo kyA Apa inake avayavoM ko pqWaka rUpa meM xeKa sakawe hEM?
+#wo kyA Apa inake avayavoM ko pqWaka rUpa meM xeKa sakawe hEM?
+$addressee	2	anim	-	9:k1	-	respect	-	-
+$wyax	3	-	-	4:r6	Geo_ncert_8stnd_3ch_0009a.4:coref	proximal	-	-
+avayava_6(ingredient_2)	4	-	pl	9:k2	-	-	-	-
+pqWaka_1	6	-	-	9:krvn	-	-	-	-
+xeKa_1-0_sakawA_hE_1	9	-	-	0:main	-	-	-	-
+%yn_interrogative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0010>
+#जिस प्रकार बिस्कुट में मिली हुई कई वस्तुओं को आप नहीं देख सकती हैं, उसी प्रकार, इस पृथ्वी पर चट्टानों में कई पदार्थ मिले होते हैं जो खनिज कहलाते हैं।
+#jisa prakAra biskuta meM milI huI kaI vaswuoM ko Apa nahIM xeKa sakawI hEM, usI prakAra, isa pqWvI para cattAnoM meM kaI paxArWa mile howe hEM jo Kanija kahalAwe hEM.
+#just as in the biscuits, there are a number of things that you cannot see, rocks on this earth have several materials called minerals mixed in them.
+$yax	1	-	-	2:dem	-	-	-	-
+prakAra_5(way_8)	2	-	-	12:krvn	-	-	-	-
+biskuta_1(biscuit_1)	3	-	-	5:k7	-	-	-	-
+mila_11(mix_2)	5	-	kqw	8:rvks	-	-	-	-
+kaI_5(many_11)	7	-	-	8:quant	-	-	-	-
+vaswu_2(thing_3)	8	-	pl	12:k2	-	-	-	-
+$addressee	10	anim	-	12:k1	-	respect	-	-
+nahIM_1(not_1)	11	-	-	12:neg	-	-	-	-
+xeKa_1-0_sakawA_hE_1	12	-	-	17:rcdelim	-	-	-	-
+$wyax	16	-	-	17:dem	-	distal	-	-
+prakAra_5(way_8)	17	-	-	33:krvn	-	-	-	-
+$wyax	19	-	-	20:dem	-	proximal	-	-
+pqWvI_1(earth_9)	20	-	-	-	-	-	-	32:whole
+cattAna_1(rock_1)	22	-	pl	-	-	-	-	32:part
+kaI_1(several_6)	24	-	-	25:quant	-	-	-	-
+paxArWa_10(material_7)	25	-	-	33:k1	-	-	-	-
+mila_11(mix_2)	26	-	kqw	33:k1s	-	-	-	-
+$yax	29	-	-	31:k2	-	-	-	-
+Kanija_1(mineral_1)	30	-	-	31:k2s	-	-	-	-
+kahalA_1-wA_hE_1	31	-	-	25:rcelab	-	-	-	-
+[spatial_1]	32	-	-	33:k7p	-	-	-	-
+ho_1-wA_hE_1	33	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0011>
+#ये खनिज पृथ्वी की चट्टान पर्पटी पर सभी जगह फैले हुए हैं।
+#ye Kanija pqWvI kI cattAna parpatI para saBI jagaha PEle hue hEM.
+#These minerals are scattered throughout the earth’s rocky crust”
+$wyax	1	-	-	2:dem	-	proximal	-	-
+Kanija_1(mineral_1)	2	-	-	15:k1	-	-	-	-
+pqWvI_1(earth_9)	3	-	-	17:r6	-	-	-	-
+cattAna_1(rock_1)	5	-	-	-	-	-	-	16:mod
+parpatI_4(crust_2)	6	-	-	-	-	-	-	16:head
+saBI_2(entire_15)	8	-	-	9:quant	-	-	-	-
+jagaha_1(place_3)	9	-	-	-	-	-	-	17:part
+PEla_5(scatter_16)	10	-	kqw	15:k1s	-	-	-	-
+hE_1-pres	15	-	-	0:main	-	-	-	-
+[nc_1]	16	-	-	-	-	-	-	17:whole
+[spatial_1]	17	-	-	15:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0012>
+#प्राकृतिक रूप से प्राप्त होने वाला पदार्थ जिसका निश्चित रासायनिक संघटन हो, वह एक खनिज है।
+#prAkqwika rUpa se prApwa hone vAlA paxArWa jisakA niSciwa rAsAyanika saMGatana ho, vaha eka Kanija hE.
+#A naturally occurring substance that has a definite chemical composition is a mineral
+prAkqwika_1(natural_7)	1	-	-	20:krvn	-	-	-	-
+prApwa_3(procured_1)	4	-	-	-	-	-	-	20:kriyAmUla
+ho_6(be_4)	5	-	-	-	-	-	-	20:verbalizer
+paxArWa_2(substance_4)	7	-	-	17:k1	-	-	-	-
+$yax	8	-	-	11:r6	7:coref	-	-	-
+niSciwa_1(definite_2)	9	-	-	11:mod	-	-	-	-
+rAsAyanika_1(chemical_1)	10	-	-	11:mod	-	-	-	-
+saMGatana_4(composition_8)	11	-	-	12:k1	-	-	-	-
+ho_1-e_2	12	-	-	7:rcdelim	-	-	-	-
+eka_2(a_1)	15	-	-	16:quant	-	-	-	-
+Kanija_1(mineral_1)	16	-	-	17:k1s	-	-	-	-
+hE_1-pres	17	-	-	0:main	-	-	-	-
+[cp_1]	20	-	-	7:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0013>
+#खनिज सभी स्थानों पर समान रूप से वितरित नहीं हैं।
+#Kanija saBI sWAnoM para samAna rUpa se viwariwa nahIM hEM.
+#Minerals are not evenly distributed over space.
+Kanija_1(mineral_1)	1	-	-	10:k1	-	-	-	-
+saBI_1(all_1)	2	-	-	3:quant	-	-	-	-
+sWAna_4(space_10)	3	-	pl	10:k7p	-	-	-	-
+samAna_8(even_7)	5	-	-	8:mod	-	-	-	-
+viwariwa_1(distributed_2)	8	-	-	10:k1s	-	-	-	-
+nahIM_1(not_1)	9	-	-	10:neg	-	-	-	-
+hE_1-pres	10	-	-	0:main	-	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0014>
+#वे किसी विशेष क्षेत्र में या शैल समूहों में संकेंद्रित हैं।
+#ve kisI viSeRa kRewra meM yA SEla samUhoM meM saMkeMxriwa hEM.
+#They are concentrated in a particular area or rock formations.
+koI_4(some_1)	1	-	-	3:quant	-	-	-	-
+viSeRa_3(particular_4)	2	-	-	3:mod	-	-	-	-
+kRewra_5(area_2)	3	-	-	-	-	-	-	12:op1
+SEla_1(rock_5)	6	-	-	-	-	-	-	8:mod
+samUha_16(formation_3)	7	-	pl	10:k7	-	-	-	8:head
+[nc_1]	8	-	-	-	-	-	-	12:op2
+saMkeMxriwa_1(concentrated_11)	9	-	-	10:k1s	-	-	-	-
+hE_1-pres	10	-	-	0:main	-	-	-	-
+[disjunct_1]	12	-	-	10:k7p	-	-	-	-
+$wyax	13	-	-	10:k1	Geo_ncert_8stnd_3ch_0013.1:coref	distal	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0015>
+#कुछ खनिज ऐसे क्षेत्रों में पाए जाते हैं जो आसानी से अभिगम्य नहीं हैं जैसे आर्कटिक महासागर संस्तर और अंटार्कटिका।
+#kuCa Kanija Ese kRewroM meM pAe jAwe hEM jo AsAnI se aBigamya nahIM hEM jEse Arkatika mahAsAgara saMswara Ora aMtArkatikA.
+#Some minerals are found in areas which are not easily accessible such as the Arctic ocean bed and Antarctica.
+kuCa_1(some_2)	1	-	-	2:quant	-	-	-	-
+Kanija_1(mineral_1)	2	-	-	6:k1	-	-	-	-
+$wyax	3	-	-	24:dem	-	proximal	-	-
+kRewra_5(area_2)	4	-	pl	6:k7p	-	-	-	-
+pA_1-yA_jA_wA_hE_1	6	-	-	0:main	-	-	-	-
+$yax	9	-	-	14:k1	4:coref	-	-	-
+AsAnI_3(ease_4)	10	-	-	14:krvn	-	-	-	-
+aBigamya_1(accessible_6)	12	-	-	14:k1s	-	-	-	-
+nahIM_1(not_1)	13	-	-	14:neg	-	-	-	-
+hE_1-pres	14	-	-	4:rcelab	-	-	-	-
+Arkatika	16	-	-	-	-	-	-	26:begin
+mahAsAgara	17	-	-	-	-	-	-	26:inside
+saMswara_1(bed_22)	18	-	-	-	-	-	-	22:head
+aMtArkatikA	20	-	-	-	-	-	-	25:begin
+[nc_1]	22	-	-	-	-	-	-	23:op1
+[conj_1]	23	-	-	4:re	-	-	-	-
+prakAra_7(type_6)	24	-	-	6:krvn	-	-	-	-
+[ne_2]	25	place	-	-	-	-	-	23:op2
+[ne_1]	26	place	-	-	-	-	-	22:mod
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0016>
+#खनिज विभिन्न प्रकार के भूवैज्ञानिक परिवेश में अलग-अलग दशाओं में निर्मित होते हैं।
+#Kanija viBinna prakAra ke BUvEjFAnika pariveSa meM alaga-alaga xaSAoM meM nirmiwa howe hEM.
+#Minerals are formed in different types of geological environments under varying conditions.
+Kanija_1(mineral_1)	1	-	-	12:k1	-	-	-	-
+viBinna_1(different_13)	2	-	-	3:mod	-	-	-	-
+prakAra_7(type_6)	3	-	-	5:r6	-	-	-	-
+BUvEjFAnika_1(geological_1)	5	-	-	6:mod	-	-	-	-
+pariveSa_1(environment_1)	6	-	-	12:k7	-	-	-	-
+alaga_7(different_4)	8	-	xviwva	9:mod	-	-	-	-
+xaSA_1(condition_4)	9	-	pl	12:k7	-	-	-	-
+nirmiwa_9(formed_3)	11	-	-	12:k1s	-	-	-	-
+ho_1-wA_hE_1	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0017>
+#वे बिना किसी मानवीय हस्तक्षेप के, प्राकृतिक प्रक्रियाओं द्वारा निर्मित होते हैं।
+#ve binA kisI mAnavIya haswakRepa ke, prAkqwika prakriyAoM xvArA nirmiwa howe hEM.
+#They are created by natural processes without any human interference.
+$wyax	1	-	-	12:k1	Geo_ncert_8stnd_3ch_0016.1:coref	distal	-	-
+koI_1(any_1)	3	-	-	5:mod	-	-	-	-
+mAnavIya_1(human_1)	4	-	-	5:mod	-	-	-	-
+haswakRepa_1(interference_8)	5	-	-	12:rasnegk1	-	-	-	-
+prAkqwika_1(natural_7)	8	-	-	9:mod	-	-	-	-
+prakriyA_1(process_3)	9	-	pl	12:k3	-	-	-	-
+nirmiwa_4(created_1)	11	-	-	12:k1s	-	-	-	-
+ho_1-wA_hE_1	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0018>
+#वे अपने भौतिक गुणों, जैसे रंग, घनत्व, कठोरता और रासायनिक गुणों यथा विलेयता के आधार पर पहचाने जा सकते हैं।
+#ve apane BOwika guNoM, jEse raMga, Ganawva, kaTorawA Ora rAsAyanika guNoM yaWA vileyawA ke AXAra para pahacAne jA sakawe hEM.
+#They can be identified on the basis of their physical properties such as colour, density, hardness and chemical property such as solubility.
+$wyax	1	-	-	20:k1	Geo_ncert_8stnd_3ch_0016.1:coref	distal	-	-
+apanA	2	-	-	4:r6	-	-	-	-
+BOwika_2(physical_4)	3	-	-	4:mod	-	-	-	-
+guNa_3(property_2)	4	-	pl	-	-	-	-	22:op1
+raMga_1(colour_1)	7	-	-	-	-	-	-	21:op1
+Ganawva_1(density_4)	9	-	-	-	-	-	-	21:op2
+kaTorawA_1(hardness_2)	11	-	-	-	-	-	-	21:op3
+rAsAyanika_1(chemical_1)	13	-	-	14:mod	-	-	-	-
+guNa_3(property_2)	14	-	pl	-	-	-	-	22:op2
+vileyawA_1(solubility_1)	16	-	-	14:r6	-	-	-	-
+pahacAna_1-yA_jA_sakawA_hE_1	20	-	-	0:main	-	-	-	-
+[conj_1]	21	-	-	4:re	-	-	-	-
+[conj_2]	22	-	-	20:k7a	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0019>
+#पृथ्वी पर तीन हजार से अधिक विभिन्न खनिज हैं।
+#pqWvI para wIna hajAra se aXika viBinna Kanija hEM.
+#There are over three thousand different minerals.
+pqWvI_1(earth_9)	1	-	-	9:k7p	-	def	-	-
+3000	3	numex	-	8:quantmore	-	-	-	-
+viBinna_1(different_13)	7	-	-	8:mod	-	-	-	-
+Kanija_1(mineral_1)	8	-	-	9:k1	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0020>
+#धात्विक खनिजों में धातु कच्चे रूप में होती है।
+#XAwvika KanijoM meM XAwu kacce rUpa meM howI hE.
+#Metallic minerals contain metal in raw form.
+XAwvika_1(metallic_2)	1	-	-	2:mod	-	-	-	-
+Kanija_1(mineral_1)	2	-	pl	8:k7	-	-	-	-
+XAwu_1(metal_1)	4	-	-	8:k1	-	-	-	-
+kaccA_3(raw_3)	5	-	-	8:krvn	-	-	-	-
+ho_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0021a>
+#धातुएँ कठोर पदार्थ हैं।
+#XAwuez kaTora paxArWa hEM.
+#Metals are hard substances.
+XAwu_1(metal_1)	1	-	pl	4:k1	-	-	-	-
+kaTora_1(hard_2)	2	-	-	3:mod	-	-	-	-
+paxArWa_2(substance_4)	3	-	-	4:k1s	-	-	-	-
+hE_1-pres	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0021b>
+#जो ऊष्मा और विद्युत को संचालित करती हैं।
+#jo URmA Ora vixyuwa ko saMcAliwa karawI hEM.
+#That conduct heat and electricity.
+$yax	1	-	-	7:k1	Geo_ncert_8stnd_3ch_0021a.1:coref	-	-	-
+URmA_1(heat_1)	2	-	-	-	-	-	-	4:op1
+vixyuwa_3(electricity_2)	3	-	-	-	-	-	-	4:op2
+[conj_1]	4	-	-	7:k2	-	-	-	-
+saMcAliwa_2(conducted_1)	5	-	-	-	-	-	-	7:kriyAmUla
+kara_1-wA_hE_1	6	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0021c>
+#और जिनमें द्युति या चमक की विशेषता होती है।
+#Ora jinameM xyuwi yA camaka kI viSeRawA howI hE.
+#And that have a characteristic lustre or shine.
+$yax	1	-	-	7:k7	Geo_ncert_8stnd_3ch_0021a.1:coref	-	-	-
+xyuwi_2(lustre_11)	2	-	-	-	-	-	-	11:op1
+camaka_4(shine_1)	4	-	-	-	-	-	-	11:op2
+viSeRawA_6(characteristic_10)	6	-	-	7:k1	-	-	-	-
+ho_1-wA_hE_1	7	-	-	Geo_ncert_8stnd_3ch_0021a.1:rcdelim	-	-	-	-
+[disjunct_1]	11	-	-	6:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0022>
+#लौह अयस्क, बॉक्साइट, मैंगनीज अयस्क इनके कुछ उदाहरण हैं।
+#lOha ayaska, bOYksAita, mEMganIja ayaska inake kuCa uxAharaNa hEM.
+#Iron ore, bauxite, manganese ore are some examples.
+lOha_1(iron_2)	1	-	-	-	-	-	-	12:mod
+ayaska_1(ore_1)	2	-	-	-	-	-	-	12:head
+bOYksAita_1(bauxite_1)	4	-	-	2:ccof	-	-	-	14:op2
+mEMganIja_1(manganese_1)	6	-	-	7:mod	-	-	-	13:mod
+ayaska_1(ore_1)	7	-	-	11:k1	-	-	-	13:head
+$wyax	8	-	-	10:r6	Geo_ncert_8stnd_3ch_0021a.3:coref	proximal	-	-
+kuCa_1(some_2)	9	-	-	10:quant	-	-	-	-
+uxAharaNa_1(example_1)	10	-	-	11:k1s	-	-	-	-
+hE_1-pres	11	-	-	0:main	-	-	-	-
+[nc_1]	12	-	-	-	-	-	-	14:op1
+[nc_2]	13	-	-	-	-	-	-	14:op3
+[conj_1]	14	-	-	11:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0023>
+#लौह खनिजों, जैसे लौह अयस्क, मैंगनीज और क्रोमाइट में लोहा होता है।
+#lOha KanijoM, jEse lOha ayaska, mEMganIja Ora kromAita meM lohA howA hE.
+#lOha KanijoM, jEse lOha ayaska, mEMganIja Ora kromAita meM lohA howA hE.
+lOha_1(iron_2)	1	-	-	-	-	-	-	3:mod
+Kanija_1(mineral_1)	2	-	pl	-	-	-	-	3:head
+[nc_1]	3	-	-	11:k7	-	-	-	-
+lOha_1(iron_2)	4	-	-	-	-	-	-	6:mod
+ayaska_1(ore_1)	5	-	-	-	-	-	-	6:head
+[nc_2]	6	-	-	-	-	-	-	9:op1
+mEMganIja_1(manganese_1)	7	-	-	-	-	-	-	9:op2
+kromAita_1(chromite_1)	8	-	-	-	-	-	-	9:op3
+[conj_1]	9	-	-	3:re	-	-	-	-
+lohA_1(iron_1)	10	-	-	11:k1	-	-	-	-
+ho_1-wA_hE_1	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0024a>
+#अलौह खनिज में लोहा नहीं होता है।
+#alOha Kanija meM lohA nahIM howA hE.
+#A non-ferrous mineral does not contain iron.
+alOha_1	1	-	-	2:mod	-	-	-	-
+Kanija_1(mineral_1)	2	-	-	6:k7	-	-	-	-
+lohA_1(iron_1)	4	-	-	6:k1	-	-	-	-
+nahIM_1(not_1)	5	-	-	6:neg	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0024b>
+#किंतु उसमे कुछ अन्य धातु, यथा सोना, चाँदी, ताँबा या सीसा हो सकती है।
+#kiMwu kuCa anya XAwu, yaWA sonA, cAzxI, wAzbA yA sIsA ho sakawI hE.
+#kiMwu usame kuCa anya XAwu, yaWA sonA, cAzxI, wAzbA yA sIsA ho sakawI hE.
+kuCa_1(some_2)	1	-	-	3:quant	-	-	-	-
+anya_1(other_1)	2	-	-	3:mod	-	-	-	-
+XAwu_1(metal_1)	3	-	-	13:k1	-	-	-	-
+sonA_1(gold_4)	6	-	-	-	-	-	-	17:op1
+cAzxI_1(silver_1)	8	-	-	-	-	-	-	17:op2
+wAzbA_1(copper_1)	10	-	-	-	-	-	-	17:op3
+sIsA_1(lead_5)	12	-	-	-	-	-	-	17:op4
+ho_1-0_sakawA_hE_1	13	-	-	0:main	Geo_ncert_8stnd_3ch_0024a.6:viroXI	-	-	-
+[disjunct_1]	17	-	-	3:re	-	-	-	-
+$wyax	18	-	-	13:k7	Geo_ncert_8stnd_3ch_0024a.2:coref	distal	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0025>
+#अधात्विक खनिजों में धातुएँ नहीं होती हैं।
+#aXAwvika KanijoM meM XAwuez nahIM howI hEM.
+#aXAwvika KanijoM meM XAwuez nahIM howI hEM.
+aXAwvika_1(non-metallic_1)	1	-	-	2:mod	-	-	-	-
+Kanija_1(mineral_1)	2	-	pl	6:k7	-	-	-	-
+XAwu_1(metal_1)	4	-	pl	6:k1	-	-	-	-
+nahIM_1(not_1)	5	-	-	6:neg	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0026>
+#चूना पत्थर, अभ्रक और जिप्सम इन खनिजों के उदाहरण हैं।
+#cUnA pawWara, aBraka Ora jipsama ina KanijoM ke uxAharaNa hEM.
+#Limestone, mica and gypsum are examples of such minerals.
+cUnA_1(lime_3)	1	-	-	-	-	-	-	3:mod
+pawWara_1(stone_1)	2	-	-	-	-	-	-	3:head
+[nc_1]	3	-	-	-	-	-	-	6:op1
+aBraka_1(mica_2)	4	-	-	-	-	-	-	6:op2
+jipsama_1(gypsum_2)	5	-	-	-	-	-	-	6:op3
+[conj_1]	6	-	-	10:k1	-	-	-	-
+$wyax	7	-	-	8:dem	-	proximal	-	-
+Kanija_1(mineral_1)	8	-	pl	9:r6	-	-	-	-
+uxAharaNa_1(example_1)	9	-	-	10:k1s	-	-	-	-
+hE_1-pres	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0027>
+#खनिज ईंधन जैसे कोयला और पेट्रोलियम भी अधात्विक खनिज हैं।
+#Kanija IMXana jEse koyalA Ora petroliyama BI aXAwvika Kanija hEM.
+#The mineral fuels like coal and petroleum are also non-metallic minerals.
+Kanija_1(mineral_1)	1	-	-	-	-	-	-	12:mod
+IMXana_1(fuel_2)	2	-	-	-	-	-	-	12:head
+koyalA_1(coal_1)	4	-	-	-	-	-	-	13:op1
+petroliyama_1(petroleum_1)	6	-	-	-	-	-	-	13:op2
+aXAwvika_1(non-metallic_1)	8	-	-	9:mod	-	-	-	-
+Kanija_1(mineral_1)	9	-	-	10:k1s	-	-	-	-
+hE_1-pres	10	-	-	0:main	-	-	-	-
+[nc_1]	12	-	-	10:k1	-	def	-	-
+[conj_1]	13	-	-	12:re	-	BI_1	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0028>
+#खनिजों को खनन, प्रवेधन या आखनन द्वारा निष्कर्षित किया जा सकता है।
+#KanijoM ko Kanana, praveXana yA AKanana xvArA niRkarRiwa kiyA jA sakawA hE .
+#KanijoM ko Kanana, praveXana yA AKanana xvArA niRkarRiwa kiyA jA sakawA hE.
+Kanija_1(mineral_1)	1	-	pl	8:k2	-	-	-	-
+Kanana_1(mining_1)	2	-	-	-	-	-	-	5:op1
+praveXana_2(drilling_1)	3	-	-	-	-	-	-	5:op2
+AKanana_1(quarrying_1)	4	-	-	-	-	-	-	5:op3
+[disjunct_1]	5	-	-	8:k1	-	-	-	-
+niRkarRiwa_1(extracted_2)	6	-	-	-	-	-	-	8:kriyAmUla
+kara_1-yA_jA_sakawA_hE_1	7	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	0:main	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0029>
+#पृथ्वी की सतह के अंदर दबी शैलों से खनिजों को बाहर निकालने की प्रक्रिया खनन कहलाती है।
+#pqWvI kI sawaha ke aMxara xabI SEloM se KanijoM ko bAhara nikAlane kI prakriyA Kanana kahalAwI hE.
+#The process of taking out minerals from rocks buried under the earth’s surface is called mining.
+pqWvI_1(earth_9)	1	-	-	3:r6	-	-	-	-
+sawaha_1(surface_3)	3	-	-	4:rdl	-	-	-	-
+aMxara_2(inside_1)	4	-	-	16:k7p	-	-	-	-
+xaba_1(trap_14)	6	-	kqw	7:rbks	-	-	-	-
+SEla_1(rock_5)	7	-	pl	12:k5	-	-	-	-
+Kanija_1(mineral_1)	9	-	pl	12:k2	-	-	-	-
+bAhara_1(out_1)	11	-	-	12:rd	-	-	-	-
+nikAla_36(take_14)	12	-	-	14:r6	-	-	-	-
+prakriyA_1(process_3)	14	-	-	16:k2	-	def	-	-
+Kanana_1(mining_1)	15	-	-	16:k2s	-	-	-	-
+kahalA_1-wA_hE_1	16	-	-	0:main	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0030a>
+#खनिज जो कम गहराई में स्थित हैं वे पृष्ठीय स्तर को हटाकर निकाले जाते हैं।
+#Kanija jo kama gaharAI meM sWiwa hEM ve pqRTIya swara ko hatAkara nikAle jAwe hEM.
+#Minerals that lie at shallow depths are taken out by removing the surface layer.
+Kanija_1(mineral_1)	1	-	-	13:k1	-	-	-	-
+$yax	2	-	-	7:k1	1:coref	-	-	-
+gaharAI_1(depth_2)	4	-	-	7:k7	-	-	-	-
+sWiwa_2(located_2)	6	-	-	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	1:rcelab	-	-	-	-
+pqRTIya_1(surface_11)	9	-	-	10:mod	-	-	-	-
+swara_3(layer_4)	10	-	-	12:k2	-	def	-	-
+hatA_4(remove_9)	12	-	-	13:rpk	-	-	-	-
+nikAla_1-yA_jA_wA_hE_1	13	-	-	0:main	-	-	-	-
+kama_4(less_1)	14	-	-	4:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0030b>
+#इसे विवृत खनन कहते हैं।
+#ise vivqwa Kanana kahawe hEM.
+#This is known as open-cast mining.
+$wyax	1	-	-	4:k2	Geo_ncert_8stnd_3ch_0030a.13:coref	-	-	-
+vivqwa_6	2	-	-	3:mod	-	-	-	-
+Kanana_1(mining_1)	3	-	-	4:k2s	-	-	-	-
+kaha_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0031>
+#गहन वेधन जिन्हें कूपक कहते हैं, अधिक गहराई में स्थित खनिज निक्षेपों तक पहुँचने के लिए बनाए जाते हैं।
+#gahana veXana jinheM kUpaka kahawe hEM, aXika gaharAI meM sWiwa Kanija nikRepoM waka pahuzcane ke lie banAe jAwe hEM.
+#Deep bores, called shafts, have to be made to reach mineral deposits that lie at great depths.
+gahana_1(deep_4)	1	-	-	2:mod	-	-	-	-
+veXana_9	2	-	-	18:k1	-	-	-	-
+$yax	3	-	-	5:k2	2:coref	-	-	-
+kUpaka_1(shaft_10)	4	-	-	5:k2s	-	-	-	-
+kaha_1-wA_hE_1	5	-	-	2:rcdelim	-	-	-	-
+gaharAI_1(depth_2)	9	-	-	11:k7p	-	-	-	-
+sWiwa_2(located_2)	11	-	-	22:mod	-	-	-	-
+Kanija_1(mineral_1)	12	-	-	-	-	-	-	22:mod
+nikRepa_3(deposit_3)	13	-	pl	-	-	-	-	22:head
+pahuzca_1(reach_1)	15	-	-	18:rt	-	-	-	-
+banA_1-yA_jA_wA_hE_1	18	-	-	0:main	-	-	-	-
+[nc_1]	22	-	-	-	-	-	-	24:end
+aXika_1(more_1)	23	-	-	9:mod	-	-	-	-
+[span_1]	24	-	-	15:k7p	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0032>
+#खनिज विभिन्न प्रकार की शैलों में पाए जाते है।
+#Kanija viBinna prakAra kI SEloM meM pAe jAwe hE.
+#Minerals occur in different types of rocks.
+Kanija_1(mineral_1)	1	-	-	7:k1	-	-	-	-
+viBinna_1(different_13)	2	-	-	3:mod	-	-	-	-
+prakAra_7(type_6)	3	-	-	5:r6	-	-	-	-
+SEla_1(rock_5)	5	-	pl	7:k7p	-	-	-	-
+pA_1-yA_jA_wA_hE_1	7	-	-	0:main	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0033a>
+#कुछ खनिज आग्नेय शैलों में पाए जाते है।
+#kuCa Kanija Agneya SEloM meM pAe jAwe hE.
+#Some are found in igenous rocks.
+kuCa_1(some_2)	1	-	-	2:quant	-	-	-	-
+Kanija_1(mineral_1)	2	-	-	5:k2	-	-	-	-
+Agneya_4(igneous_1)	3	-	-	4:mod	-	-	-	-
+SEla_1(rock_5)	4	-	pl	5:k7p	-	-	-	-
+pA_1-yA_jA_wA_hE_1	5	-	-	0:main	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0033b>
+#कुछ खनिज कायांतरित शैलों में पाए जाते है।
+#kuCa Kanija kAyAMwariwa SEloM meM pAe jAwe hE.
+#Some are found in metamorphic rocks.
+kuCa_1(some_2)	1	-	-	2:quant	-	-	-	-
+Kanija_1(mineral_1)	2	-	-	5:k1	-	-	-	-
+kAyAMwariwa_1(metamorphic_1)	3	-	-	4:mod	-	-	-	-
+SEla_1(rock_5)	4	-	pl	5:k7p	-	-	-	-
+pA_1-yA_jA_wA_hE_1	5	-	-	0:main	Geo_ncert_8stnd_3ch_0033a.5:samuccaya	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0033c>
+#जबकि अन्य खनिज अवसादी शैलों में पाए जाते है।
+#jabaki anya Kanija avasAxI SEloM meM pAe jAwe hE.
+#Others occur in sedimentary rocks.
+anya_1(other_1)	1	-	-	2:quant	-	-	-	-
+Kanija_1(mineral_1)	2	-	-	5:k2	-	-	-	-
+avasAxI_1(sedimentary_1)	3	-	-	4:mod	-	-	-	-
+SEla_1(rock_5)	4	-	pl	5:k7p	-	-	-	-
+pA_1-yA_jA_wA_hE_1	5	-	-	0:main	Geo_ncert_8stnd_3ch_0033a.5:viroXI_xyowaka	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0034>
+#धात्विक खनिज आग्नेय और कायांतरित शैल समूहो, जिनसे विशाल पठारों का निर्माण होता है, में पाए जाते है।
+#XAwvika Kanija Agneya Ora kAyAMwariwa SEla samUho, jinase viSAla paTAroM kA nirmANa howA hE, meM pAe jAwe hE.
+#Metallic minerals are found in igneous and metamorphic rock formations that form large plateaus.
+XAwvika_1(metallic_2)	1	-	-	2:mod	-	-	-	-
+Kanija_1(mineral_1)	2	-	-	14:k1	-	-	-	-
+Agneya_4(igneous_1)	3	-	-	-	-	-	-	5:op1
+kAyAMwariwa_1(metamorphic_1)	4	-	-	-	-	-	-	5:op2
+[conj_1]	5	-	-	8:rs	-	-	-	-
+SEla_1(rock_5)	6	-	-	-	-	-	-	8:mod
+samUha_16(formation_3)	7	-	pl	-	-	-	-	8:head
+[nc_1]	8	-	-	14:k7p	-	-	-	-
+$yax	9	-	-	13:rh	2:coref	-	-	-
+viSAla_2(large_8)	10	-	-	11:mod	-	-	-	-
+paTAra_1(plateau_2)	11	-	pl	13:k2	-	-	-	-
+nirmANa_16(formation_4)	12	-	-	13:k2s	-	-	-	-
+ho_1-wA_hE_1	13	-	-	8:rcdelim	-	-	-	-
+pA_1-yA_jA_wA_hE_1	14	-	-	0:main	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0035>
+#उत्तरी स्वीडन में लौह अयस्क,कनाडा में ताँबा और निकेल के निक्षेप, दक्षिण अफ्रीका में लोहा,निकेल, क्रोमाइट और प्लेटिनम, आग्नेय और कायांतरित शैलों में पाए जाने वाले खनिजों के उदाहरण है।
+#uwwarI svIdana meM lOha ayaska,kanAdA meM wAzbA Ora nikela ke nikRepa, xakRiNa aPrIkA meM lohA,nikela, kromAita Ora pletinama, Agneya Ora kAyAMwariwa SEloM meM pAe jAne vAle KanijoM ke uxAharaNa hE.
+#Iron-ore in north Sweden, copper and nickel deposits in Ontario, Canada, iron, nickel, chromites and platinum in South Africa are examples of minerals found in igneous and metamorphic rocks.
+uwwarI_1(northern_2)	1	-	-	3:mod	-	-	-	-
+svIdana	2	-	-	-	-	-	-	3:begin
+[ne_1]	3	place	-	30:k7p	-	-	-	-
+lOha_1(iron_2)	4	-	-	-	-	-	-	6:mod
+ayaska_1(ore_1)	5	-	-	-	-	-	-	6:head
+[nc_1]	6	-	-	-	-	-	-	21:op1
+kanAdA	7	-	-	-	-	-	-	8:begin
+[ne_2]	8	place	-	31:k7p	-	-	-	-
+wAzbA_1(copper_1)	9	-	-	-	-	-	-	11:op1
+nikela_1(nickel_3)	10	-	-	-	-	-	-	11:op2
+[conj_1]	11	-	-	12:r6	-	-	-	-
+nikRepa_3(deposit_3)	12	-	-	-	-	-	-	21:op2
+xakRiNa	13	-	-	-	-	-	-	15:begin
+aPrIkA	14	-	-	-	-	-	-	15:inside
+[ne_3]	15	place	-	32:k7p	-	-	-	-
+lohA_1(iron_1)	16	-	-	-	-	-	-	20:op1
+nikela_1	17	-	-	-	-	-	-	20:op2
+kromAita_1(chromite_1)	18	-	-	-	-	-	-	20:op3
+pletinama_1(platinum_1)	19	-	-	-	-	-	-	20:op4
+[conj_2]	20	-	-	-	-	-	-	21:op3
+[conj_3]	21	-	-	29:k1	-	-	-	-
+Agneya_4(igneous_1)	22	-	-	-	-	-	-	24:op1
+kAyAMwariwa_1(metamorphic_1)	23	-	-	-	-	-	-	24:op2
+[conj_4]	24	-	-	25:rs	-	-	-	-
+SEla_1(rock_5)	25	-	pl	26:k7p	-	-	-	-
+pA_13(find_4)	26	-	-	27:mod	-	-	-	-
+Kanija_1(mineral_1)	27	-	pl	28:r6	-	-	-	-
+uxAharaNa_1(example_1)	28	-	-	29:k1s	-	-	-	-
+hE_1-pres	29	-	-	0:main	-	-	-	-
+pA_13(find_4)	30	-	-	6:mod	-	-	-	-
+pA_13(find_4)	31	-	-	11:mod	-	-	-	-
+pA_13(find_4)	32	-	-	20:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0036>
+#मैदानों और नवीन वलित पर्वतों के अवसादी शैल समूहों में अधात्विक खनिज जैसे चूना पत्थर पाए जाते है।
+#mExAnoM Ora navIna valiwa parvawoM ke avasAxI SEla samUhoM meM aXAwvika Kanija jEse cUnA pawWara pAe jAwe hE .
+#mExAnoM Ora navIna valiwa parvawoM ke avasAxI SEla samUhoM meM aXAwvika Kanija jEse cUnA pawWara pAe jAwe hE.
+mExAna_5(plain_5)	1	-	pl	-	-	-	-	5:op1
+navIna_6(young_38)	3	-	-	4:mod	-	-	-	-
+parvawa_1(mountain_3)	4	-	pl	-	-	-	-	5:op2
+[conj_1]	5	-	-	9:r6	-	-	-	-
+avasAxI_1(sedimentary_1)	6	-	-	9:mod	-	-	-	-
+SEla_1(rock_5)	7	-	-	-	-	-	-	9:mod
+samUha_16(formation_3)	8	-	pl	-	-	-	-	9:head
+[nc_1]	9	-	-	16:k7p	-	-	-	-
+aXAwvika_1(non-metallic_1)	11	-	-	12:mod	-	-	-	-
+Kanija_1(mineral_1)	12	-	-	16:k1	-	-	-	-
+cUnA_1(lime_3)	14	-	-	-	-	-	-	17:mod
+pawWara_1(stone_1)	15	-	-	-	-	-	-	17:head
+pA_1-yA_jA_wA_hE_1	16	-	-	0:main	-	-	-	-
+[nc_2]	17	-	-	12:re	-	-	-	-
+valiwa_1(folded_1)	18	-	-	4:mod	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0037>
+#फ्रांस के कॉकेशस प्रदेश के चूना पत्थर निक्षेप,जॉर्जिया और यूक्रेन के मैंगनीज निक्षेप और अल्जीरिया के फास्फेट संस्तर इसके कुछ उदाहरण है।
+#PrAMsa ke kOYkeSasa praxeSa ke cUnA pawWara nikRepa,jOYrjiyA Ora yUkrena ke mEMganIja nikRepa Ora aljIriyA ke PAsPeta saMswara isake kuCa uxAharaNa hE.
+#Limestone deposits of Caucasus region of France, manganese deposits of Georgia and Ukraine and phosphate beds of Algeria are some examples.
+PrAMsa	1	-	-	-	-	-	-	2:begin
+[ne_1]	2	place	-	4:r6	-	-	-	-
+kOYkeSasa	3	-	-	-	-	-	-	4:begin
+[ne_2]	4	place	-	5:rs	-	-	-	-
+praxeSa_1(region_6)	5	-	-	10:r6	-	-	-	-
+cUnA_1(lime_3)	6	-	-	-	-	-	-	8:mod
+pawWara_1(stone_1)	7	-	-	-	-	-	-	8:head
+[nc_1]	8	-	-	-	-	-	-	10:mod
+nikRepa_3(deposit_3)	9	-	-	-	-	-	-	10:head
+[nc_2]	10	-	-	-	-	-	-	24:op1
+jOYrjiyA	11	-	-	-	-	-	-	12:begin
+[ne_3]	12	place	-	-	-	-	-	15:op1
+yUkrena	13	-	-	-	-	-	-	14:begin
+[ne_4]	14	place	-	-	-	-	-	15:op2
+[conj_1]	15	-	-	18:r6	-	-	-	-
+mEMganIja_1(manganese_1)	16	-	-	-	-	-	-	18:mod
+nikRepa_3(deposit_3)	17	-	-	-	-	-	-	18:head
+[nc_3]	18	-	-	-	-	-	-	24:op2
+aljIriyA	19	-	-	-	-	-	-	20:begin
+[ne_5]	20	-	-	23:r6	-	-	-	-
+PAsPeta_1(phosphate_2)	21	-	-	-	-	-	-	23:mod
+saMswara_1(bed_22)	22	-	-	-	-	-	-	23:head
+[nc_4]	23	-	-	-	-	-	-	24:op3
+[conj_2]	24	-	-	28:k1	-	-	-	-
+$wyax	25	-	-	27:r6	Geo_ncert_8stnd_3ch_0036.5:coref	proximal	-	-
+kuCa_1(some_2)	26	-	-	27:quant	-	-	-	-
+uxAharaNa_1(example_1)	27	-	-	28:k1s	-	-	-	-
+hE_1-pres	28	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0038>
+#खनिज ईंधन जैसे कोयला और पेट्रोलियम भी अवसादी स्तर में पाए जाते है।
+#Kanija IMXana jEse koyalA Ora petroliyama BI avasAxI swara meM pAe jAwe hE.
+#Mineral fuels such as coal and petroleum are also found in the sedimentary strata
+Kanija_1(mineral_1)	1	-	-	-	-	-	-	15:mod
+IMXana_1(fuel_2)	2	-	-	-	-	-	-	15:head
+koyalA_1(coal_1)	4	-	-	-	-	-	-	16:op1
+petroliyama_1(petroleum_1)	6	-	-	-	-	-	-	16:op2
+avasAxI_1(sedimentary_1)	8	-	-	9:mod	-	-	-	-
+swara_4(strata_1)	9	-	-	11:k7	-	-	-	-
+pA_1-yA_jA_wA_hE_1	11	-	-	0:main	-	-	-	-
+[nc_1]	15	-	-	11:k1	-	-	-	-
+[conj_1]	16	-	-	15:re	-	BI_1	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0039>
+#चीन और भारत के पास विशाल लौह अयस्क निक्षेप हैं।
+#cIna Ora BArawa ke pAsa viSAla lOha ayaska nikRepa hEM.
+#cIna Ora BArawa ke pAsa viSAla lOha ayaska nikRepa hEM.
+cIna	1	-	-	-	-	-	-	14:begin
+BArawa	3	-	-	-	-	-	-	15:begin
+viSAla_2(large_8)	6	-	-	17:mod	-	-	-	-
+lOha_1(iron_2)	7	-	-	-	-	-	-	12:mod
+ayaska_1(ore_1)	8	-	-	-	-	-	-	12:head
+nikRepa_3(deposit_3)	9	-	-	-	-	-	-	17:head
+hE_1-pres	10	-	-	0:main	-	-	-	-
+[nc_1]	12	-	-	-	-	-	-	17:mod
+[ne_1]	14	place	-	-	-	-	-	16:op1
+[ne_2]	15	place	-	-	-	-	-	16:op2
+[conj_1]	16	-	-	17:rsma	-	-	-	-
+[nc_2]	17	-	-	10:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0040>
+#यह महाद्वीप विश्व का आधे से अधिक टिन का उत्पादन करता है।
+#yaha mahAxvIpa viSva kA AXe se aXika tina kA uwpAxana karawA hE.
+#The continent produces more than half of the world’s tin.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+mahAxvIpa_1(continent_1)	2	-	-	11:k1	-	-	-	-
+viSva_11(world_20)	3	-	-	8:r6	-	def	-	-
+AXA_1(half_1)	5	-	-	8:quantmore	-	-	-	-
+tina_1(tin_6)	8	-	-	11:k2	-	-	-	-
+uwpAxana_1(production_2)	9	-	-	-	-	-	-	11:kriyAmUla
+kara_1-wA_hE_1	10	-	-	-	-	-	-	11:verbalizer
+[cp_1]	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0041>
+#चीन, मलेशिया और इंडोनेशिया विश्व के अग्रणी टिन उत्पादकों में है।
+#cIna, maleSiyA Ora iMdoneSiyA viSva ke agraNI tina uwpAxakoM meM hE.
+#China, Malaysia and Indonesia are among the world’s leading tin producers
+cIna	1	-	-	-	-	-	-	2:begin
+[ne_1]	2	place	-	-	-	-	-	7:op1
+maleSiyA	3	-	-	-	-	-	-	4:begin
+[ne_2]	4	place	-	-	-	-	-	7:op2
+iMdoneSiyA	5	-	-	-	-	-	-	6:begin
+[ne_3]	6	place	-	-	-	-	-	7:op3
+[conj_1]	7	-	-	13:k1	-	-	-	-
+viSva_11(world_20)	8	-	-	12:r6	-	def	-	-
+agraNI_1(leading_1)	9	-	-	12:mod	-	-	-	-
+tina_1(tin_6)	10	-	-	-	-	-	-	12:mod
+uwpAxaka_1(producer_1)	11	-	pl	-	-	-	-	12:head
+[nc_1]	12	-	-	13:k7	-	-	-	-
+hE_1-pres	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0042>
+#चीन सीसा, एन्टीमनी और टंगस्टन के उत्पादन में भी अग्रणी है।
+#cIna sIsA, entImanI Ora taMgastana ke uwpAxana meM BI agraNI hE.
+#China also leads in production of lead, antimony and tungsten.
+cIna	1	-	-	-	-	-	-	2:begin
+[ne_1]	2	place	-	12:k1	-	-	-	-
+sIsA_1(lead_5)	3	-	-	-	-	-	-	7:op1
+entImanI_1(antimony_2)	4	-	-	-	-	-	-	7:op2
+taMgastana_1(tungsten_2)	6	-	-	-	-	-	-	7:op3
+[conj_1]	7	-	-	8:r6	-	-	-	-
+uwpAxana_1(production_2)	8	-	-	12:k7	-	BI_1	-	-
+agraNI_1(leading_1)	11	-	-	12:k1s	-	-	-	-
+hE_1-pres	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0043>
+#एशिया में मैंगनीज, बॉक्साइट, निकेल, जस्ता और ताँबा के भी निक्षेप हैं।
+#eSiyA meM mEMganIja, bOYksAita, nikela, jaswA Ora wAzbA ke BI nikRepa hEM.
+#eSiyA meM mEMganIja, bOYksAita, nikela, jaswA Ora wAzbA ke BI nikRepa hEM.
+eSiyA	1	-	-	15:k7p	-	-	-	18:begin
+mEMganIja_1(manganese_1)	3	-	-	-	-	-	-	17:op1
+bOYksAita_1(bauxite_1)	5	-	-	-	-	-	-	17:op2
+nikela_1	7	-	-	-	-	-	-	17:op3
+jaswA_1(zinc_2)	9	-	-	-	-	-	-	17:op4
+wAzbA_1(copper_1)	11	-	-	-	-	-	-	17:op5
+nikRepa_3(deposit_3)	14	-	-	15:k1	-	-	-	-
+hE_1-pres	15	-	-	0:main	-	-	-	-
+[conj_1]	17	-	-	14:r6	-	BI_1	-	-
+[ne_1]	18	place	-	15:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0044>
+#यूरोप विश्व में लौह अयस्क का अग्रणी उत्पादक है।
+#yUropa viSva meM lOha ayaska kA agraNI uwpAxaka hE.
+#Europe is the leading producer of iron-ore in the world.
+yUropa	1	-	-	-	-	-	-	11:begin
+viSva_11(world_20)	2	-	-	11:rn	-	-	-	-
+lOha_1(iron_2)	4	-	-	-	-	def	-	12:mod
+ayaska_1(ore_1)	5	-	-	-	-	-	-	12:head
+agraNI_1(leading_1)	7	-	-	8:mod	-	-	-	-
+uwpAxaka_1(producer_1)	8	-	-	9:k1s	-	def	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+[ne_1]	11	place	-	9:k1	-	-	-	-
+[nc_1]	12	-	-	8:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0045>
+#रूस, यूक्रेन, स्वीडन और फ्रांस लौह अयस्क के विशाल निक्षेप वाले देश हैं।
+#rUsa, yUkrena, svIdana Ora PrAMsa lOha ayaska ke viSAla nikRepa vAle xeSa hEM.
+#The countries with large deposits of iron ore are Russia, Ukraine, Sweden and France.
+rUsa	1	-	-	-	-	-	-	19:begin
+yUkrena	3	-	-	-	-	-	-	20:begin
+svIdana	5	-	-	-	-	-	-	21:begin
+PrAMsa	7	-	-	-	-	-	-	22:begin
+lOha_1(iron_2)	8	-	-	-	-	-	-	24:mod
+ayaska_1(ore_1)	9	-	-	-	-	-	-	24:head
+viSAla_2(large_8)	11	-	-	12:mod	-	-	-	-
+nikRepa_3(deposit_3)	12	-	mawup	14:mod	-	-	-	-
+xeSa_1(country_1)	14	-	-	15:k1s	-	def	-	-
+hE_1-pres	15	-	-	0:main	-	-	-	-
+[ne_1]	19	place	-	-	-	-	-	23:op1
+[ne_2]	20	place	-	-	-	-	-	23:op2
+[ne_3]	21	place	-	-	-	-	-	23:op3
+[ne_4]	22	place	-	-	-	-	-	23:op4
+[conj_1]	23	-	-	15:k1	-	-	-	-
+[nc_1]	24	-	-	12:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0046>
+#ताँबा, सीसा, जस्ता, मैंगनीज और निकेल खनिजों के निक्षेप पूर्वी यूरोप और यूरोपीय रूस में पाए जाते हैं।
+#wAzbA, sIsA, jaswA, mEMganIja Ora nikela KanijoM ke nikRepa pUrvI yUropa Ora yUropIya rUsa meM pAe jAwe hEM.
+#Minerals deposits of copper, lead, zinc, manganese and nickel are found in eastern Europe and European Russia.
+wAzbA_1(copper_1)	1	-	-	-	-	-	-	24:op1
+sIsA_1(lead_5)	3	-	-	-	-	-	-	24:op2
+jaswA_1(zinc_2)	5	-	-	-	-	-	-	24:op3
+mEMganIja_1(manganese_1)	7	-	-	-	-	-	-	24:op4
+nikela_1(nickel_3)	9	-	-	-	-	-	-	24:op5
+Kanija_1(mineral_1)	10	-	pl	-	-	-	-	25:head
+nikRepa_3(deposit_3)	12	-	-	19:k2	-	-	-	-
+pUrvI_1(eastern_2)	13	-	-	26:mod	-	-	-	-
+yUropa	14	-	-	-	-	-	-	26:begin
+yUropIya	16	-	-	-	-	-	-	27:begin
+rUsa	17	-	-	-	-	-	-	27:inside
+pA_1-yA_jA_wA_hE_1	19	-	-	0:main	-	-	-	-
+[conj_1]	24	-	-	-	-	-	-	25:mod
+[nc_1]	25	-	-	12:r6	-	-	-	-
+[ne_1]	26	place	-	-	-	-	-	28:op1
+[ne_2]	27	place	-	-	-	-	-	28:op2
+[conj_2]	28	-	-	19:k7p	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0047>
+#ब्राजील विश्व में उच्च कोटि के लौह-अयस्क का सबसे बड़ा उत्पादक है।
+#brAjIla viSva meM ucca koti ke lOha-ayaska kA sabase badZA uwpAxaka hE.
+#Brazil is the largest producer of high grade iron-ore in the world.
+brAjIla	1	-	-	-	-	-	-	2:begin
+[ne_1]	2	place	-	12:k1	-	-	-	-
+viSva_11(world_20)	3	-	-	2:rn	-	def	-	-
+ucca_1(high_1)	4	-	-	5:mod	-	-	-	-
+koti_5(grade_3)	5	-	-	7:r6	-	-	-	-
+lOha+ayaska_1(iron-ore_2)	7	-	-	11:r6	-	-	-	-
+badZA_2(large_5)	10	-	superl	11:mod	-	-	-	-
+uwpAxaka_1(producer_1)	11	-	-	12:k1s	-	-	-	-
+hE_1-pres	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0048>
+#चिली और पेरू ताँबे के अग्रणी उत्पादक हैं।
+#cilI Ora perU wAzbe ke agraNI uwpAxaka hEM.
+#Chile and Peru are leading producers of copper.
+cilI	1	-	-	-	-	-	-	11:begin
+perU	3	-	-	-	-	-	-	12:begin
+wAzbA_1(copper_1)	4	-	-	7:r6	-	-	-	-
+agraNI_1(leading_1)	6	-	-	7:mod	-	-	-	-
+uwpAxaka_1(producer_1)	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+[ne_1]	11	-	-	-	-	-	-	13:op1
+[ne_2]	12	-	-	-	-	-	-	13:op2
+[conj_1]	13	-	-	8:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0049>
+#ब्राजील और बोलीविया विश्व में टिन के सबसे बड़े उत्पादकों में से दो उत्पादक हैं।
+#brAjIla Ora bolIviyA viSva meM tina ke sabase badZe uwpAxakoM meM se xo uwpAxaka hEM.
+#Brazil and Bolivia are among the world’s largest producers of tin.
+brAjIla	1	-	-	-	-	-	-	2:begin
+[ne_1]	2	place	-	-	-	-	-	5:op1
+bolIviyA	3	-	-	-	-	-	-	4:begin
+[ne_2]	4	place	-	-	-	-	-	5:op2
+[conj_1]	5	-	-	12:k1	-	-	-	-
+viSva_11(world_20)	6	-	-	5:rn	-	def	-	-
+tina_1(tin_6)	7	-	-	9:r6	-	-	-	-
+badZA_2(large_5)	8	-	superl	9:mod	-	-	-	-
+uwpAxaka_1(producer_1)	9	-	pl	11:rn	-	-	-	-
+2	10	numex	-	11:card	-	-	-	-
+uwpAxaka_1(producer_1)	11	-	-	12:k1s	-	-	-	-
+hE_1-pres	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0050>
+#दक्षिण अमेरिका के पास सोना, चाँदी, जस्ता, क्रोमियम, मैंगनीज, बॉक्साइट, अभ्रक, प्लैटिनम, एसबेस्टस और हीरा के विशाल निक्षेप भी हैं।
+#xakRiNa amerikA ke pAsa sonA, cAzxI, jaswA, kromiyama, mEMganIja, bOYksAita, aBraka, plEtinama, esabestasa Ora hIrA ke viSAla nikRepa BI hEM.
+#xakRiNa amerikA ke pAsa sonA, cAzxI, jaswA, kromiyama, mEMganIja, bOYksAita, aBraka, plEtinama, esabestasa Ora hIrA ke viSAla nikRepa BI hEM.
+xakRiNa	1	-	-	-	-	-	-	3:begin
+amerikA	2	-	-	-	-	-	-	3:inside
+[ne_1]	3	place	-	26:rsma	-	-	-	-
+sonA_1(gold_4)	5	-	-	-	-	-	-	31:op1
+cAzxI_1(silver_1)	7	-	-	-	-	-	-	31:op2
+jaswA_1(zinc_2)	9	-	-	-	-	-	-	31:op3
+kromiyama_1(chromium_1)	11	-	-	-	-	-	-	31:op4
+mEMganIja_1(manganese_1)	13	-	-	-	-	-	-	31:op5
+bOYksAita_1(bauxite_1)	15	-	-	-	-	-	-	31:op6
+aBraka_1(mica_2)	17	-	-	-	-	-	-	31:op7
+plEtinama_1(platinum_1)	19	-	-	-	-	-	-	31:op8
+esabestasa_1(asbestos_2)	21	-	-	-	-	-	-	31:op9
+hIrA_1(diamond_3)	23	-	-	-	-	-	-	31:op10
+viSAla_2(large_8)	25	-	-	26:mod	-	-	-	-
+nikRepa_3(deposit_3)	26	-	-	28:k1	-	BI_1	-	-
+hE_1-pres	28	-	-	0:main	-	-	-	-
+[conj_1]	31	-	-	26:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0051>
+#खनिज तेल वेनेजुएला, अर्जेंटीना, चिली, पेरू और कोलंबिया में पाया जाता है।
+#Kanija wela venejuelA, arjeMtInA, cilI, perU Ora kolaMbiyA meM pAyA jAwA hE.
+#Mineral oil is found in Venezuela, Argentina, Chile, Peru and Columbia.
+Kanija_1(mineral_1)	1	-	-	-	-	-	-	3:mod
+wela_1(oil_1)	2	-	-	-	-	-	-	3:head
+[nc_1]	3	-	-	15:k2	-	-	-	-
+venejuelA	4	-	-	-	-	-	-	5:begin
+[ne_1]	5	place	-	-	-	-	-	14:op1
+arjeMtInA	6	-	-	-	-	-	-	7:begin
+[ne_2]	7	place	-	-	-	-	-	14:op2
+cilI	8	-	-	-	-	-	-	9:begin
+[ne_3]	9	place	-	-	-	-	-	14:op3
+perU	10	-	-	-	-	-	-	11:begin
+[ne_4]	11	place	-	-	-	-	-	14:op4
+kolaMbiyA	12	-	-	-	-	-	-	13:begin
+[ne_5]	13	place	-	-	-	-	-	14:op5
+[conj_1]	14	-	-	15:k7p	-	-	-	-
+pA_1-yA_jA_wA_hE_1	15	-	-	0:main	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0052>
+#अफ्रीका खनिज संसाधनों में धनी है।
+#aPrIkA Kanija saMsAXanoM meM XanI hE.
+#Africa is rich in mineral resources.
+aPrIkA	1	-	-	-	-	-	-	9:begin
+Kanija_1(mineral_1)	2	-	-	-	-	-	-	8:mod
+saMsAXana_1(resource_1)	3	-	pl	-	-	-	-	8:head
+XanI_14(rich_43)	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+[nc_1]	8	-	-	6:k7	-	-	-	-
+[ne_1]	9	place	-	6:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0053>
+#यह हीरा, सोना और प्लेटिनम का विश्व में सबसे बड़ा उत्पादक है।
+#yaha hIrA, sonA Ora pletinama kA viSva meM sabase badZA uwpAxaka hE.
+#It is the world’s largest producer of diamonds, gold and platinum.
+$wyax	1	-	-	13:k1	-	proximal	-	-
+hIrA_1(diamond_3)	2	-	-	-	-	-	-	15:op1
+sonA_1(gold_4)	4	-	-	-	-	-	-	15:op2
+pletinama_1(platinum_1)	6	-	-	-	-	-	-	15:op3
+viSva_11(world_20)	8	-	-	13:k7p	-	def	-	-
+badZA_2(large_5)	11	-	superl	12:mod	-	-	-	-
+uwpAxaka_1(producer_1)	12	-	-	13:k1s	-	-	-	-
+hE_1-pres	13	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	12:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0054>
+#दक्षिण अफ्रीका, जिम्बाब्वे और जायरे विश्व के सोने का एक बड़ा भाग उत्पादित करते हैं।
+#xakRiNa aPrIkA, jimbAbve Ora jAyare viSva ke sone kA eka badZA BAga uwpAxiwa karawe hEM.
+#South Africa, Zimbabwe and Zaire produce a large portion of the world’s gold
+xakRiNa	1	-	-	-	-	-	-	3:begin
+aPrIkA	2	-	-	-	-	-	-	3:inside
+[ne_1]	3	place	-	-	-	-	-	8:op1
+jimbAbve	4	-	-	-	-	-	-	5:begin
+[ne_2]	5	place	-	-	-	-	-	8:op2
+jAyare	6	-	-	-	-	-	-	7:begin
+[ne_3]	7	place	-	-	-	-	-	8:op3
+[conj_1]	8	-	-	16:k1	-	-	-	-
+viSva_11(world_20)	9	-	-	10:r6	-	def	-	-
+sonA_1(gold_4)	10	-	-	13:r6	-	-	-	-
+eka_2(a_1)	11	-	-	13:quant	-	-	-	-
+badZA_2(large_5)	12	-	-	13:mod	-	-	-	-
+BAga_1(portion_7)	13	-	-	16:k2	-	-	-	-
+uwpAxiwa_1(produced_10)	14	-	-	-	-	-	-	16:kriyAmUla
+kara_1-wA_hE_1	15	-	-	-	-	-	-	16:verbalizer
+[cp_1]	16	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0055>
+#ताँबा, लौह अयस्क, क्रोमियम, यूरेनियम, कोबाल्ट और बॉक्साइट दक्षिण अफ्रीका में पाए जाने वाले अन्य खनिज हैं।
+#wAzbA, lOha ayaska, kromiyama, yUreniyama, kobAlta Ora bOYksAita xakRiNa aPrIkA meM pAe jAne vAle anya Kanija hEM.
+#The other minerals found in Africa are copper, iron ore, chromium, uranium, cobalt and bauxite.
+wAzbA_1(copper_1)	1	-	-	-	-	-	-	9:op1
+lOha_1(iron_2)	2	-	-	-	-	-	-	4:mod
+ayaska_1(ore_1)	3	-	-	-	-	-	-	4:head
+[nc_1]	4	-	-	-	-	-	-	9:op2
+kromiyama_1(chromium_1)	5	-	-	-	-	-	-	9:op3
+yUreniyama_1(uranium_1)	6	-	-	-	-	-	-	9:op4
+kobAlta_1	7	-	-	-	-	-	-	9:op5
+bOYksAita_1(bauxite_1)	8	-	-	-	-	-	-	9:op6
+[conj_1]	9	-	-	16:k1	-	-	-	-
+xakRiNa	10	-	-	-	-	-	-	12:begin
+aPrIkA	11	-	-	-	-	-	-	12:inside
+[ne_1]	12	place	-	13:k7p	-	-	-	-
+pA_13(find_4)	13	-	-	15:mod	-	-	-	-
+anya_1(other_1)	14	-	-	15:mod	-	-	-	-
+Kanija_1(mineral_1)	15	-	-	16:k1s	-	-	-	-
+hE_1-pres	16	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0056>
+#तेल नाइजीरिया, लीबिया और अंगोला में पाया जाता है।
+#wela nAijIriyA, lIbiyA Ora aMgolA meM pAyA jAwA hE.
+#Oil is found in Nigeria, Libya and Angola.
+wela_1(oil_1)	1	-	-	8:k2	-	-	-	-
+nAijIriyA	2	-	-	-	-	-	-	3:begin
+[ne_1]	3	place	-	-	-	-	-	9:op1
+lIbiyA	4	-	-	-	-	-	-	5:begin
+[ne_2]	5	place	-	-	-	-	-	9:op2
+aMgolA	6	-	-	-	-	-	-	7:begin
+[ne_3]	7	place	-	-	-	-	-	9:op3
+pA_1-yA_jA_wA_hE_1	8	-	-	0:main	-	-	-	-
+[conj_1]	9	-	-	8:k7p	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0057>
+#आस्ट्रेलिया विश्व में बॉक्साइट का सबसे बड़ा उत्पादक है।
+#AstreliyA viSva meM bOYksAita kA sabase badZA uwpAxaka hE.
+#Australia is the largest producer of bauxite in the world.
+AstreliyA	1	-	-	9:k1	-	-	-	2:begin
+[ne_1]	2	place	-	7:k1	-	-	-	-
+viSva_11(world_20)	3	-	-	2:rn	-	def	-	-
+bOYksAita_1(bauxite_1)	4	-	-	6:r6	-	-	-	-
+badZA_2(large_5)	5	-	superl	6:mod	-	-	-	-
+uwpAxaka_1(producer_1)	6	-	-	7:k1s	-	def	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0058>
+#यह सोना, हीरा, लौह-अयस्क, टिन और निकेल का अग्रणी उत्पादक है।
+#yaha sonA, hIrA, lOha-ayaska, tina Ora nikela kA agraNI uwpAxaka hE.
+#It is a leading producer of gold, diamond, iron ore, tin and nickel.
+$wyax	1	-	-	14:k1	Geo_ncert_8stnd_3ch_0057.2:coref	proximal	-	-
+sonA_1(gold_4)	2	-	-	-	-	-	-	16:op1
+hIrA_1(diamond_3)	4	-	-	-	-	-	-	16:op2
+lOha+ayaska_1	6	-	-	-	-	-	-	16:op3
+tina_1(tin_6)	8	-	-	-	-	-	-	16:op4
+nikela_1	10	-	-	-	-	-	-	16:op5
+agraNI_1(leading_1)	12	-	-	13:mod	-	-	-	-
+uwpAxaka_1(producer_1)	13	-	-	14:k1s	-	-	-	-
+hE_1-pres	14	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	13:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0059>
+#यह ताँबा, सीसा, जस्ता और मैंगनीज में भी संपन्न है।
+#yaha wAzbA, sIsA, jaswA Ora mEMganIja meM BI saMpanna hE.
+#It is also rich in copper, lead, zinc and manganese.
+$wyax	1	-	-	12:k1	Geo_ncert_8stnd_3ch_0057.2:coref	proximal	-	-
+wAzbA_1(copper_1)	2	-	-	-	-	-	-	14:op1
+sIsA_1(lead_5)	4	-	-	-	-	-	-	14:op2
+jaswA_1(zinc_2)	6	-	-	-	-	-	-	14:op3
+mEMganIja_1(manganese_1)	8	-	-	-	-	-	-	14:op4
+saMpanna_1	11	-	-	12:k1s	-	-	-	-
+hE_1-pres	12	-	-	0:main	-	-	-	-
+[conj_1]	14	-	-	12:k7	-	BI_1	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0060>
+#पश्चिम आस्ट्रेलिया के कालगूर्ली और कूलगार्डी क्षेत्रों में सोने के सबसे बड़े निक्षेप हैं।
+#paScima AstreliyA ke kAlagUrlI Ora kUlagArdI kRewroM meM sone ke sabase badZe nikRepa hEM.
+#Kalgoorlie and Coolgardie areas of western Australia have the largest deposits of gold.
+paScima_2(western_3)	1	-	-	3:mod	-	-	-	-
+AstreliyA	2	-	-	-	-	-	-	3:begin
+[ne_1]	3	place	-	9:r6	-	-	-	-
+kAlagUrlI	4	-	-	-	-	-	-	5:begin
+[ne_2]	5	place	-	-	-	-	-	8:op1
+kUlagArdI	6	-	-	-	-	-	-	7:begin
+[ne_3]	7	place	-	-	-	-	-	8:op2
+[conj_1]	8	-	-	9:rs	-	-	-	-
+kRewra_5(area_2)	9	-	pl	13:k7p	-	-	-	-
+sonA_1(gold_4)	10	-	-	12:r6	-	-	-	-
+badZA_2(large_5)	11	-	superl	12:mod	-	-	-	-
+nikRepa_3(deposit_3)	12	-	-	13:k1	-	def	-	-
+hE_1-pres	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0061>
+#विभिन्न खनिज निक्षेपों, पूर्वानुमान से कुछ संभवतः विशाल, के लिए अंटार्कटिका का भूविज्ञान पर्याप्त रूप से सुप्रसिद्ध है।
+#viBinna Kanija nikRepoM, pUrvAnumAna se kuCa saMBavawaH viSAla, ke lie aMtArkatikA kA BUvijFAna paryApwa rUpa se suprasixXa hE.
+#The geology of Antarctica is sufficiently well known to predict the existence of a variety of mineral deposits, some probably large.
+viBinna_4(various_8)	1	-	-	4:mod	-	-	-	-
+Kanija_1(mineral_1)	2	-	-	-	-	-	-	4:mod
+nikRepa_3(deposit_3)	3	-	pl	-	-	-	-	4:head
+[nc_1]	4	-	-	14:rt	-	-	-	-
+pUrvAnumAna_2(estimate_7)	5	-	-	-	-	-	-	-
+kuCa_1(some_2)	6	-	-	-	-	-	-	-
+saMBavawaH_1	7	-	-	-	-	-	-	-
+viSAla_2(large_8)	8	-	-	-	-	-	-	-
+aMtArkatikA	9	-	-	-	-	-	-	10:begin
+[ne_1]	10	place	-	11:r6	-	-	-	-
+BUvijFAna_1(geology_2)	11	-	-	14:k1	-	def	-	-
+paryApwa_2(sufficient_2)	12	-	-	13:mod	-	-	-	-
+suprasixXa_5(well-known_1)	13	-	-	14:k1s	-	-	-	-
+hE_1-pres	14	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0062>
+#ट्रांस-अंटार्कटिका पर्वत में स्थित कोयले और पूर्वी अंटार्कटिका के प्रिंस चार्ल्स पर्वत के निकट स्थित लोहे के महत्त्वपूर्ण मात्रा में निक्षेपों का पूर्वानुमान किया गया है।
+#trAMsa-aMtArkatikA parvawa meM sWiwa koyale Ora pUrvI aMtArkatikA ke priMsa cArlsa parvawa ke nikata sWiwa lohe ke mahawwvapUrNa mAwrA meM nikRepoM kA pUrvAnumAna kiyA gayA hE.
+#Significant size of deposits of coal in the Transantarctic Mountains and iron near the Prince Charles Mountains of East Antarctica is forecasted.
+trAMsaMtArkatikA	1	-	-	2:mod	-	-	-	3:begin
+parvawa	2	-	-	22:k7p	-	-	-	3:inside
+[ne_1]	3	place	-	22:k7p	-	def	-	-
+koyalA_1(coal_1)	4	-	-	-	-	-	-	14:op1
+pUrvI_1	5	-	-	7:mod	-	-	-	-
+aMtArkatikA	6	-	-	-	-	-	-	7:begin
+[ne_2]	7	place	-	11:r6	-	-	-	-
+priMsa	8	-	-	-	-	-	-	11:begin
+cArlsa	9	-	-	-	-	-	-	11:inside
+parvawa	10	-	-	-	-	-	-	11:inside
+[ne_3]	11	place	-	12:rdl	-	def	-	-
+nikata_1(near_5)	12	-	-	21:k7p	-	-	-	-
+lohA_1(iron_1)	13	-	-	-	-	-	-	14:op2
+[conj_1]	14	-	-	16:r6	-	-	-	-
+mahawwvapUrNa_2(significant_4)	15	-	-	15:mod	-	-	-	-
+mAwrA_2(scale_5)	16	-	-	20:k7	-	-	-	-
+nikRepa_3(deposit_3)	17	-	pl	20:k2	-	-	-	-
+pUrvAnumAna_1(forecast_1)	18	-	-	-	-	-	-	20:kriyAmUla
+kara_1-yA_jA_yA_hE_1	19	-	-	-	-	-	-	20:verbalizer
+[cp_1]	20	-	-	0:main	-	-	-	-
+sWiwa_2(located_2)	21	-	-	13:mod	-	-	-	-
+sWiwa_2(located_2)	22	-	-	4:mod	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0063>
+#लौह अयस्क, सोना, चाँदी और तेल भी वाणिज्यिक मात्रा में उपलब्ध हैं।
+#lOha ayaska, sonA, cAzxI Ora wela BI vANijyika mAwrA meM upalabXa hEM.
+#iron ore, gold, silver and oil are also present in commercial quantities.
+lOha_1(iron_2)	1	-	-	-	-	-	-	18:mod
+ayaska_1(ore_1)	2	-	-	-	-	-	-	18:head
+sonA_1(gold_4)	4	-	-	-	-	-	-	17:op2
+cAzxI_1(silver_1)	6	-	-	-	-	-	-	17:op3
+wela_1(oil_1)	8	-	-	-	-	BI	-	17:op4
+vANijyika_1(commercial_1)	10	-	-	11:mod	-	-	-	-
+mAwrA_1(quantity_4)	11	-	-	14:k7	-	-	-	-
+upalabXa_1(available_1)	13	-	-	14:k1s	-	-	-	-
+hE_1-pres	14	-	-	0:main	-	-	-	-
+[conj_1]	17	-	-	14:k1	-	BI_1	-	-
+[nc_1]	18	-	-	-	-	-	-	17:op1
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0064>
+#खनिजों का उपयोग कई उद्योगों में होता है।
+#KanijoM kA upayoga kaI uxyogoM meM howA hE.
+#Minerals are used in many industries.
+Kanija_1(mineral_1)	1	-	pl	3:r6	-	-	-	-
+upayoga_1(use_2)	3	-	-	7:k1	-	-	-	-
+kaI_5(many_11)	4	-	-	5:quant	-	-	-	-
+uxyoga_1(industry_1)	5	-	pl	7:k7	-	-	-	-
+ho_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0065>
+#रत्नों के लिए प्रयोग किए जाने वाले खनिज प्रायः कठोर होते हैं।
+#rawnoM ke lie prayoga kie jAne vAle Kanija prAyaH kaTora howe hEM.
+#Minerals which are used for gems are usually hard.
+rawna_1(gem_4)	1	-	pl	14:rt	-	-	-	-
+prayoga_2(use_3)	4	-	-	-	-	-	-	14:kriyAmUla
+kara_17(do_2)	5	-	-	-	-	-	-	14:verbalizer
+Kanija_1(mineral_1)	8	-	-	11:k1	-	-	-	-
+prAyaH_2(generally_9)	9	-	-	11:krvn	-	-	-	-
+kaTora_1(hard_2)	10	-	-	11:k1s	-	-	-	-
+ho_1-wA_hE_1	11	-	-	0:main	-	-	-	-
+[cp_1]	14	-	-	8:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0066>
+#इन्हें आभूषण बनाने के लिए विभिन्न शैलियों में जड़ा जाता है।
+#inheM ABURaNa banAne ke lie viBinna SEliyoM meM jadZA jAwA hE.
+#These are then set in various styles for jewellery.
+$wyax	1	-	-	9:k2	Geo_ncert_8stnd_3ch_0065.1:coref	proximal	-	-
+ABURaNa_4	2	-	-	3:k2	-	-	-	-
+banA_1(make_1)	3	-	-	9:rt	-	-	-	-
+viBinna_4(various_8)	6	-	-	7:mod	-	-	-	-
+SElI_1(style_6)	7	-	pl	9:k7	-	-	-	-
+jadZa_1-yA_jA_wA_hE_1	9	-	-	0:main	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0067>
+#ताँबा एक अन्य धातु है जिसका उपयोग सिक्के से लेकर पाइप तक प्रत्येक वस्तु में किया जाता है।
+#wAzbA eka anya XAwu hE jisakA upayoga sikke se lekara pAipa waka prawyeka vaswu meM kiyA jAwA hE.
+#Copper is another metal used in everything from coins to pipes.
+wAzbA_1(copper_1)	1	-	-	5:k1	-	-	-	-
+eka_2(a_1)	2	-	-	4:card	-	-	-	-
+anya_1(other_1)	3	-	-	4:mod	-	-	-	-
+XAwu_1(metal_1)	4	-	-	5:k1s	-	-	-	-
+hE_1-pres	5	-	-	0:main	-	-	-	-
+$yax	6	-	-	20:k2	1:coref	-	-	-
+upayoga_1(use_2)	7	-	-	-	-	-	-	20:kriyAmUla
+sikkA_1(coin_3)	8	-	-	-	-	-	-	21:start
+pAipa_1(pipe_4)	11	-	-	-	-	-	-	21:end
+prawyeka_2(every_2)	13	-	-	14:quant	-	-	-	-
+vaswu_2(thing_3)	14	-	-	20:k7	-	-	-	-
+kara_1-yA_jA_wA_hE_1	16	-	-	-	-	-	-	20:verbalizer
+[cp_1]	20	-	-	1:rcdelim	-	-	-	-
+[span_1]	21	-	-	14:rs	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0068>
+#कंप्यूटर उद्योग में प्रयुक्त होने वाला सिलिकन, क्वार्ट्ज से प्राप्त किया जाता है।
+#kaMpyUtara uxyoga meM prayukwa hone vAlA silikana, kvArtja se prApwa kiyA jAwA hE.
+#Silicon, used in the computer industry is obtained from quartz.
+kaMpyUtara_1(computer_4)	1	-	-	-	-	-	-	16:mod
+uxyoga_1(industry_1)	2	-	-	-	-	-	-	16:head
+prayukwa_1(used_3)	4	-	-	5:k1	-	-	-	-
+ho_8(be_2)	5	-	-	7:mod	-	-	-	-
+silikana_1	7	-	-	18:k1	-	-	-	-
+kvArtja_1(quartz_15)	9	-	-	18:k5	-	-	-	-
+prApwa_2(obtained_1)	11	-	-	-	-	-	-	18:kriyAmUla
+kara_1-yA_jA_wA_hE_1	12	-	-	-	-	-	-	18:verbalizer
+[nc_1]	16	-	-	18:k7p	-	def	-	-
+[cp_2]	18	-	-	0:main	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0069>
+#खनिज अनवीकरणीय संसाधन है।
+#Kanija anavIkaraNIya saMsAXana hE.
+#Minerals are a non-renewable resource.
+Kanija_1(mineral_1)	1	-	-	4:k1	-	-	-	-
+anavIkaraNIya_1	2	-	-	3:mod	-	-	-	-
+saMsAXana_1(resource_1)	3	-	-	4:k1s	-	-	-	-
+hE_1-pres	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0070>
+#खनिजों के निर्माण और संचयन में हजार वर्ष का समय लगता है।
+#KanijoM ke nirmANa Ora saMcayana meM hajAra varRa kA samaya lagawA hE.
+#It takes thousands of years for the formation and concentration of minerals.
+Kanija_1(mineral_1)	1	-	pl	12:r6	-	-	-	-
+nirmANa_16(formation_4)	3	-	-	-	-	-	-	12:op1
+saMcayana_5(concentration_16)	5	-	-	-	-	-	-	12:op2
+1000	7	numex	-	8:card	-	-	-	-
+varRa_1(year_4)	8	-	-	13:r6	-	-	-	-
+laga_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+[conj_1]	12	-	-	9:k7	-	-	-	-
+samaya_1(time_8)	13	-	-	9:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0071>
+#मानवीय उपभोग की दर की तुलना में निर्माण की दर बहुत धीमी है।
+#mAnavIya upaBoga kI xara kI wulanA meM nirmANa kI xara bahuwa XImI hE.
+#The rate of formation is much smaller than the rate at which the humans consume these minerals.
+mAnavIya_1(human_1)	1	-	-	2:mod	-	-	-	-
+upaBoga_6(consumption_3)	2	-	-	4:r6	-	-	-	-
+xara_1(rate_1)	4	-	-	10:rv	-	-	-	-
+nirmANa_16(formation_4)	8	-	-	10:r6	-	-	-	-
+xara_1(rate_1)	10	-	-	13:k1	-	-	-	-
+bahuwa_7(very_1)	11	-	-	12:intf	-	-	-	-
+XImA_1(slow_1)	12	-	-	13:k1s	-	-	-	-
+hE_1-pres	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0072>
+#खनन की प्रक्रिया में बर्बादी को घटाना आवश्यक है।
+#Kanana kI prakriyA meM barbAxI ko GatAnA AvaSyaka hE.
+#it is necessary to reduce wastage in the process of mining.
+Kanana_1(mining_1)	1	-	-	3:r6	-	-	-	-
+prakriyA_1(process_3)	3	-	-	7:k7	-	def	-	-
+barbAxI_1(wastage_5)	5	-	-	7:k2	-	-	-	-
+GatA_1(reduce_1)	7	-	-	9:k1	-	-	-	-
+AvaSyaka_1(necessary_1)	8	-	-	9:k1s	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0073>
+#धातुओं का पुनर्चक्रण एक अन्य तरीका है जिससे खनिज संसाधनों को संरक्षित किया जा सकता है।
+#XAwuoM kA punarcakraNa eka anya warIkA hE jisase Kanija saMsAXanoM ko saMrakRiwa kiyA jA sakawA hE.
+#Recycling of metals is another way in which the mineral resources can be conserved.
+XAwu_1(metal_1)	1	-	pl	3:r6	-	-	-	-
+punarcakraNa_1(recycling_1)	3	-	-	7:k1	-	-	-	-
+eka_2(a_1)	4	-	-	6:quant	-	-	-	-
+anya_2(another_1)	5	-	-	6:mod	-	-	-	-
+warIkA_4(way_25)	6	-	-	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+$yax	8	-	-	19:rh	Geo_ncert_8stnd_3ch_0072.1:coref	-	-	-
+Kanija_1(mineral_1)	9	-	-	-	-	-	-	18:mod
+saMsAXana_2(resources_7)	10	-	pl	-	-	-	-	18:head
+saMrakRiwa_2(protected_3)	12	-	-	-	-	-	-	19:kriyAmUla
+kara_1-yA_jA_sakawA_hE_1	13	-	-	-	-	-	-	19:verbalizer
+[nc_1]	18	-	-	19:k2	-	-	-	-
+[cp_1]	19	-	-	3:rcdelim	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0074>
+#सन्नी की माँ अपने दिन की शुरुआत गीजर का बटन दबाने से करती है।
+#sannI kI mAz apane xina kI SuruAwa gIjara kA batana xabAne se karawI hE.
+#Sunny’s mother begins her day by switching on the geyser.
+sannI	1	male	-	-	-	-	-	2:begin
+[ne_1]	2	per	-	3:r6	-	-	-	-
+mAz_1(mother_8)	3	anim	-	16:k1	-	-	-	-
+apanA	4	-	-	5:r6	-	-	-	-
+xina_1(day_6)	5	-	-	16:k2	-	-	-	-
+SuruAwa_1(beginning_14)	7	-	-	-	-	-	-	16:kriyAmUla
+gIjara_1(geyser_1)	8	-	-	10:r6	-	-	-	-
+batana_1(button_1)	10	-	-	11:k2	-	-	-	-
+xabA_1(press_3)	11	-	-	16:krvn	-	-	-	-
+kara_1-wA_hE_1	13	-	-	-	-	-	-	16:verbalizer
+[cp_1]	16	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0075>
+#वह सन्नी को जगाने से पहले उसके विद्यालय की वर्दी पर इस्त्री करती है।
+#vaha sannI ko jagAne se pahale usake vixyAlaya kI varxI para iswrI karawI hE.
+#vaha sannI ko jagAne se pahale usake vixyAlaya kI varxI para iswrI karawI hE.
+$wyax	1	-	-	16:k1	Geo_ncert_8stnd_3ch_0074.3:coref	distal	-	-
+sannI	2	male	-	-	-	-	-	3:begin
+[ne_1]	3	per	-	4:k2	-	-	-	-
+jagA_4(rouse_1)	4	-	-	16:rblak	-	-	-	-
+$wyax	7	-	-	8:r6	Geo_ncert_8stnd_3ch_0074.2:coref	distal	-	-
+vixyAlaya_1(school_3)	8	-	-	10:r6	-	-	-	-
+varxI_1(uniform_10)	10	-	-	16:k7p	-	-	-	-
+iswrI_1	12	-	-	-	-	-	-	16:kriyAmUla
+kara_1-wA_hE_1	13	-	-	-	-	-	-	16:verbalizer
+[cp_1]	16	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0076>
+#इसके बाद वह उनके लिए ब्लेंडर में एक गिलास संतरे का जूस तैयार करने के लिए रसोईघर में तेजी से पहुँचती है।
+#isake bAxa vaha unake lie bleMdara meM eka gilAsa saMware kA jUsa wEyAra karane ke lie rasoIGara meM wejI se pahuzcawI hE.
+#She then rushes to the kitchen to prepare a glass of orange juice for him in the blender.
+$wyax	3	-	-	21:k1	Geo_ncert_8stnd_3ch_0074.3:coref	distal	-	-
+$wyax	4	-	-	24:rt	Geo_ncert_8stnd_3ch_0074.2:coref	distal	-	-
+^bleMdara_1	6	-	-	24:k7p	-	def	-	-
+eka_2(a_1)	8	-	-	9:quant	-	-	-	-
+gilAsa_2(glass_3)	9	-	-	12:mod	-	-	-	-
+saMwarA_1(orange_2)	10	-	-	12:r6	-	-	-	-
+jUsa_1(juice_4)	12	-	-	24:k2	-	-	-	-
+wEyAra_7	13	-	-	-	-	-	-	24:kriyAmUla
+kara_17(do_2)	14	-	-	-	-	-	-	24:verbalizer
+rasoIGara_1(kitchen_4)	17	-	-	21:k7p	-	def	-	-
+wejI_3(quickness_10)	19	-	-	21:krvn	-	-	-	-
+pahuzca_1-wA_hE_1	21	-	-	0:main	Geo_ncert_8stnd_3ch_0075.16:uwwarkAla	-	-	-
+[cp_1]	24	-	-	21:rt	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0077>
+#विद्यालय जाते समय सन्नी बत्तियों और पंखों के बटन बंद करना भूल जाता है।
+#vixyAlaya jAwe samaya sannI bawwiyoM Ora paMKoM ke batana baMxa karanA BUla jAwA hE.
+#vixyAlaya jAwe samaya sannI bawwiyoM Ora paMKoM ke batana baMxa karanA BUla jAwA hE.
+vixyAlaya_1(school_3)	1	-	-	2:k2p	-	-	-	-
+jA_1(go_1)	2	-	-	12:k7t	-	-	-	-
+sannI	4	male	-	-	-	-	-	16:begin
+bawwI_4(light_9)	5	-	pl	-	-	-	-	18:op1
+paMKA_1(fan_1)	7	-	pl	-	-	-	-	18:op2
+batana_1(button_1)	9	-	-	17:k2	-	-	-	-
+baMxa_1(closed_3)	10	-	-	-	-	-	-	17:kriyAmUla
+kara_17(do_2)	11	-	-	-	-	-	-	17:verbalizer
+BUla_1-wA_hE_1	12	-	-	0:main	-	[shade:ja_1]	-	-
+[ne_1]	16	per	-	12:k1	-	-	-	-
+[cp_1]	17	-	-	12:k2	-	-	-	-
+[conj_1]	18	-	-	9:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0078a>
+#माँ उन बटनों को बंद करते समय यह सोचती है।
+#mAz una batanoM ko baMxa karawe samaya yaha socawI hE.
+#mAz una batanoM ko baMxa karawe samaya yaha socawI hE.
+mA_3(mother_22)	1	anim	-	9:k1	-	-	-	-
+$wyax	2	-	-	3:dem	-	distal	-	-
+batana_1(button_1)	3	-	pl	7:k2	-	-	-	-
+baMxa_1(closed_3)	5	-	-	-	-	-	-	7:kriyAmUla
+kara_17(do_2)	6	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	9:k7t	-	-	-	-
+$wyax	8	-	-	9:k2	Geo_ncert_8stnd_3ch_0078b.6:coref	proximal	-	-
+soca_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0078b>
+#कि शहरों में जीवन आरामदायक प्रतीत होता है।
+#ki SaharoM meM jIvana ArAmaxAyaka prawIwa howA hE.
+#That life in the cities may be more comfortable.
+Sahara_1(city_6)	1	-	pl	6:k7p	-	def	-	-
+jIvana_1(life_7)	3	-	-	6:k1	-	-	-	-
+ArAmaxAyaka_4	4	-	-	5:k2	-	-	-	-
+prawIwa_1(appear_1)	5	-	-	6:k1s	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0078c>
+#लेकिन विद्युत उपकरणों जो सभी बिजली की खपत करते हैं पर अधिक से अधिक निर्भरता माँग और पूर्ति के बीच विशाल अंतर पैदा करती है।
+#lekina vixyuwa upakaraNoM jo saBI bijalI kI Kapawa karawe hEM para aXika se aXika nirBarawA mAzga Ora pUrwi ke bIca viSAla aMwara pExA karawI hE.
+#But its dependency on more and more gadgets all of which consume energy has led to a wide gap between the demand and the supply.
+vixyuwa_6(electric_3)	1	-	-	-	-	-	-	20:mod
+upakaraNa_1(appliance_1)	2	-	pl	-	-	-	-	20:head
+$yax	3	-	-	9:k1	-	-	-	-
+saBI_1(all_1)	4	-	-	5:quant	-	-	-	-
+bijalI_1(electricity_1)	5	-	-	9:k2	-	-	-	-
+Kapawa_1(consumption_1)	7	-	-	-	-	-	-	9:kriyAmUla
+kara_1-wA_hE_1	8	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	20:rcelab	Geo_ncert_8stnd_3ch_0078b.6:viroXI	-	-	-
+aXika+se+aXika_1(maximum_4)	10	-	-	11:mod	-	-	-	-
+nirBarawA_1(dependence_5)	11	-	-	14:mod	-	-	-	-
+mAzga_1(demand_2)	12	-	-	-	-	-	-	14:op1
+pUrwI_2	13	-	-	-	-	-	-	14:op2
+[conj_1]	14	-	-	19:k7p	-	-	-	-
+viSAla_2(large_8)	15	-	-	16:quant	-	-	-	-
+aMwara_19(gap_9)	16	-	-	19:k2	-	-	-	-
+pExA_2(created_2)	17	-	-	-	-	-	-	19:kriyAmUla
+kara_1-wA_hE_1	18	-	-	-	-	-	-	19:verbalizer
+[cp_2]	19	-	-	0:main	-	-	-	-
+[nc_1]	20	-	-	19:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0078d>
+#-
+#-
+#-
+-	-	-	-	-	-	-	-	-
+%
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0079>
+#विज्ञान एवं प्रौद्योगिकी के नए प्रचलन से जीवन शैलियों में बहुत तेजी से परिवर्तन आ रहे हैं।
+#vijFAna evaM prOxyogikI ke nae pracalana se jIvana SEliyoM meM bahuwa wejI se parivarwana A rahe hEM.
+#With the advent of science and technology the life styles are changing very fast.
+vijFAna_1(science_1)	1	-	-	-	-	-	-	20:op1
+prOxyogikI_1(technology_3)	3	-	-	-	-	-	-	20:op2
+nayA_1(new_5)	5	-	-	6:mod	-	-	-	-
+pracalana_2(prevalence_1)	6	-	-	15:rh	-	def	-	-
+jIvana_1(life_7)	8	-	-	-	-	-	-	19:mod
+SElI_1(style_6)	9	-	pl	-	-	-	-	19:head
+bahuwa_7(very_1)	11	-	-	12:quant	-	-	-	-
+wejI_7(rapidity_3)	12	-	-	15:krvn	-	-	-	-
+parivarwana_1(change_4)	14	-	-	15:k1	-	-	-	-
+A_1-0_rahA_hE_1	15	-	-	0:main	-	-	-	-
+[nc_1]	19	-	-	15:k7	-	def	-	-
+[conj_1]	20	-	-	6:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0080>
+#शक्ति अथवा ऊर्जा हमारे जीवन में बहुत महत्त्वपूर्ण भूमिका निभाते हैं।
+#Sakwi aWavA UrjA hamAre jIvana meM bahuwa mahawwvapUrNa BUmikA niBAwe hEM.
+#Power or energy plays a vital role in our lives.
+Sakwi_1(power_20)	1	-	-	3:rs	-	-	-	-
+UrjA_1(energy_1)	3	-	-	10:k1	-	-	-	-
+$speaker	4	anim	pl	5:r6	-	-	-	-
+jIvana_1(life_7)	5	-	-	10:k7	-	-	-	-
+bahuwa_7(very_1)	7	-	-	8:intf	-	-	-	-
+mahawwvapUrNa_1(important_4)	8	-	-	9:mod	-	-	-	-
+BUmikA_2(role_2)	9	-	-	10:k2	-	-	-	-
+niBA_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0081>
+#हमें उद्योग, कृषि, परिवहन, संचार और प्रतिरक्षा के लिए भी शक्ति की आवश्यकता होती है।
+#hameM uxyoga, kqRi, parivahana, saMcAra Ora prawirakRA ke lie BI Sakwi kI AvaSyakawA howI hE.
+#hameM uxyoga, kqRi, parivahana, saMcAra Ora prawirakRA ke lie BI Sakwi kI AvaSyakawA howI hE.
+$speaker	1	anim	pl	17:k4a	-	-	-	-
+uxyoga_1(industry_1)	2	-	-	-	-	-	-	21:op1
+kqRi_1(agriculture_1)	4	-	-	-	-	-	-	21:op2
+parivahana_2(transport_2)	6	-	-	-	-	-	-	21:op3
+saMcAra_1(communication_2)	8	-	-	-	-	-	-	21:op4
+prawirakRA_1(defence_2)	10	-	-	-	-	-	-	21:op5
+Sakwi_1(power_20)	14	-	-	16:r6	-	-	-	-
+AvaSyakawA_2(need_1)	16	-	-	17:k1	-	-	-	-
+ho_1-wA_hE_1	17	-	-	0:main	-	-	-	-
+[conj_1]	21	-	-	17:rt	-	BI_1	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0082>
+#ऊर्जा संसाधनों को विस्तृत रूप से परंपरागत और गैर-परंपरागत संसाधनों में वर्गीकृत किया जा सकता है।
+#UrjA saMsAXanoM ko viswqwa rUpa se paraMparAgawa Ora gEra-paraMparAgawa saMsAXanoM meM vargIkqwa kiyA jA sakawA hE.
+#UrjA saMsAXanoM ko viswqwa rUpa se paraMparAgawa Ora gEra-paraMparAgawa saMsAXanoM meM vargIkqwa kiyA jA sakawA hE.
+UrjA_2(power_32)	1	-	-	-	-	-	-	18:mod
+saMsAXana_1(resource_1)	2	-	pl	-	-	-	-	18:head
+viswqwa_17	4	-	-	19:krvn	-	-	-	-
+paraMparAgawa_2	7	-	-	-	-	-	-	20:op1
+gEra+paraMparAgawa_1	9	-	-	-	-	-	-	20:op2
+saMsAXana_1(resource_1)	10	-	pl	19:k7	-	-	-	-
+vargIkqwa_2(categorized_1)	12	-	-	-	-	-	-	19:kriyAmUla
+kara_1-yA_jA_sakawA_hE_1	13	-	-	-	-	-	-	19:verbalizer
+[nc_1]	18	-	-	19:k2	-	-	-	-
+[cp_1]	19	-	-	0:main	-	-	-	-
+[conj_1]	20	-	-	10:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0083>
+#ऊर्जा के परंपरागत स्रोत वे हैं जो लंबे समय से सामान्य उपयोग में लाए जा रहे हैं।
+#UrjA ke paraMparAgawa srowa ve hEM jo laMbe samaya se sAmAnya upayoga meM lAe jA rahe hEM.
+#Conventional sources of energy are those which have been in common use for a long time.
+UrjA_1(energy_1)	1	-	-	4:r6	-	-	-	-
+paraMparAgawa_1	3	-	-	4:mod	-	-	-	-
+srowa_1(source_10)	4	-	-	6:k1	-	-	-	-
+$wyax	5	-	-	6:k1s	-	distal	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+$yax	7	-	-	14:k1	-	-	-	-
+laMbA_1(long_2)	8	-	-	9:mod	-	-	-	-
+samaya_1(time_8)	9	-	-	14:dur	-	-	-	-
+sAmAnya_2(common_6)	11	-	-	12:mod	-	-	-	-
+upayoga_1(use_2)	12	-	-	14:k7	-	-	-	-
+lA_1-yA_jA_rAhA_hE_1	14	-	-	4:rcelab	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0084>
+#ईंधन और जीवाश्मी ईंधन परंपरागत ऊर्जा के दो मुख्य स्रोत हैं।
+#IMXana Ora jIvASmI IMXana paraMparAgawa UrjA ke xo muKya srowa hEM.
+#Firewood and fossil fuels are the two main conventional energy sources.
+IMXana_2(firewood_1)	1	-	-	-	-	-	-	5:op1
+jIvASmI_1(fossil_1)	2	-	-	-	-	-	-	4:mod
+IMXana_1(fuel_2)	3	-	-	-	-	-	-	4:head
+[nc_1]	4	-	-	-	-	-	-	5:op2
+[conj_1]	5	-	-	11:k1	-	-	-	-
+paraMparAgawa_1	6	-	-	7:mod	-	-	-	-
+UrjA_1(energy_1)	7	-	-	10:r6	-	-	-	-
+2	8	-	-	10:card	-	-	-	-
+muKya_18(main_1)	9	-	-	10:mod	-	-	-	-
+srowa_1(source_10)	10	-	-	11:k1s	-	-	-	-
+hE_1-pres	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0085>
+#इसका उपयोग पकाने और ऊष्मा प्राप्त करने के लिए व्यापक रूप से होता है।
+#isakA upayoga pakAne Ora URmA prApwa karane ke lie vyApaka rUpa se howA hE.
+#It is widely used for cooking and heating.
+$wyax	1	-	-	2:r6	Geo_ncert_8stnd_3ch_0085H.1:coref	proximal	-	-
+upayoga_1(use_2)	2	-	-	10:k1	-	-	-	-
+pakA_2(cook_1)	3	-	-	-	-	-	-	8:op1
+URmA_1(heat_1)	4	-	-	7:k2	-	-	-	-
+prApwa_5(received_1)	5	-	-	-	-	-	-	7:kriyAmUla
+kara_17(do_2)	6	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	-	-	-	-	8:op2
+[conj_1]	8	-	-	10:rt	-	-	-	-
+vyApaka_3(pervasive_2)	9	-	-	10:krvn	-	-	-	-
+ho_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0085H>
+#ईंधन
+#IMXana
+#IMXana
+IMXana_1(fuel_2)	1	-	-	0:main	-	-	-	-
+%heading
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0086>
+#हमारे देश में ग्रामीणों द्वारा उपयोग की गई पचास प्रतिशत से अधिक ऊर्जा ईंधन से प्राप्त होती है।
+#hamAre xeSa meM grAmINoM xvArA upayoga kI gaI pacAsa prawiSawa se aXika UrjA IMXana se prApwa howI hE.
+#In our country more than fifty per cent of the energy used by villagers comes from fire wood.
+$speaker	1	anim	pl	2:r6	-	-	-	-
+xeSa_1(country_1)	2	-	-	21:k7p	-	-	-	-
+grAmINa_2	4	anim	pl	21:k1	-	-	-	-
+upayoga_1(use_2)	6	-	-	-	-	-	-	21:kriyAmUla
+kara_17(do_2)	7	-	kqw	-	-	-	-	21:verbalizer
+50	9	numex	-	10:card	-	-	-	-
+BAga_1(portion_7)	10	-	-	13:quantmore	-	-	-	-
+UrjA_1(energy_1)	13	-	-	17:k1	-	-	-	-
+IMXana_2(firewood_1)	14	-	-	17:k5	-	-	-	-
+prApwa_2(obtained_1)	16	-	-	17:k1s	-	-	-	-
+ho_1-wA_hE_1	17	-	-	0:main	-	-	-	-
+[cp_1]	21	-	-	13:rbks	-	-	-	-
+BAga_1(portion_7)	23	-	-	10:rn	-	-	-	-
+100	24	numex	-	23:card	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0087>
+#पौधों और जानवरों के अवशेष जो लाखों वर्षों तक धरती के अंदर दबे रहे थे, ताप और दाब के प्रभाव से जीवाश्मी ईंधनों में परिवर्तित हो गए।
+#pOXoM Ora jAnavaroM ke avaSeRa jo lAKoM varRoM waka XarawI ke aMxara xabe rahe We, wApa Ora xAba ke praBAva se jIvASmI IMXanoM meM parivarwiwa ho gae.
+#Remains of plants and animals which were buried under the earth for millions of years got converted by the heat and pressure into fossil fuels.
+pOXa_3(plant_22)	1	-	pl	-	-	-	-	3:op1
+jAnavara_1(animal_2)	2	-	pl	-	-	-	-	3:op2
+[conj_1]	3	-	-	5:r6	-	-	-	-
+avaSeRa_2(remains_1)	5	-	-	27:k1	-	-	-	-
+$yax	6	-	-	14:k1	5:coref	-	-	-
+100000	7	numex	-	8:card	-	-	-	-
+varRa_1(year_4)	8	-	pl	-	-	-	-	9:end
+[span_1]	9	-	-	14:dur	-	-	-	-
+XarawI_3(earth_15)	10	-	-	12:rdl	-	def	-	-
+aMxara_7(under_3)	12	-	-	14:k7p	-	-	-	-
+xaba_1(trap_14)	13	-	kqw	14:krvn	-	-	-	-
+rahA_1-yA_WA_1	14	-	-	5:rcelab	-	-	-	-
+wApa_1(heat_6)	17	-	-	-	-	-	-	20:op1
+xAba_1(pressure_3)	19	-	-	-	-	-	-	20:op2
+[conj_2]	20	-	-	21:r6	-	def	-	-
+praBAva_2(effect_6)	21	-	-	27:rh	-	-	-	-
+jIvASmI_1(fossil_1)	23	-	-	-	-	-	-	25:mod
+IMXana_1(fuel_2)	24	-	pl	-	-	-	-	25:head
+[nc_1]	25	-	-	27:k7	-	-	-	-
+parivarwiwa_5(transformed_1)	26	-	-	27:k1s	-	-	-	-
+ho_1-yA_hE_2	27	-	-	0:main	-	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0088>
+#जीवाश्मी ईंधन, जैसे कोयला, पेट्रोलियम और प्राकृतिक गैस परंपरागत ऊर्जा के मुख्य स्रोत हैं।
+#jIvASmI IMXana, jEse koyalA, petroliyama Ora prAkqwika gEsa paraMparAgawa UrjA ke muKya srowa hEM.
+#Fossil fuel such as coal, petroleum and natural gas are the main sources of conventional energy.
+jIvASmI_1(fossil_1)	1	-	-	-	-	-	-	13:mod
+IMXana_1(fuel_2)	2	-	-	-	-	-	-	13:head
+koyalA_1(coal_1)	3	-	-	-	-	-	-	7:op1
+petroliyama_1(petroleum_1)	4	-	-	-	-	-	-	7:op2
+prAkqwika_1(natural_7)	5	-	-	6:mod	-	-	-	-
+gEsa_1(gas_1)	6	-	-	-	-	-	-	7:op3
+[conj_1]	7	-	-	13:re	-	-	-	-
+paraMparAgawa_1	8	-	-	9:mod	-	-	-	-
+UrjA_1(energy_1)	9	-	-	11:r6	-	-	-	-
+muKya_18(main_1)	10	-	-	11:mod	-	-	-	-
+srowa_1(source_10)	11	-	-	12:k1s	-	def	-	-
+hE_1-pres	12	-	-	0:main	-	-	-	-
+[nc_1]	13	-	-	12:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0089>
+#इन खनिजों के भंडार सीमित हैं।
+#ina KanijoM ke BaMdAra sImiwa hEM.
+#The reserves of these minerals are limited.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+Kanija_1(mineral_1)	2	-	pl	4:r6	-	-	-	-
+BaMdAra_4(reserve_2)	4	-	-	6:k1	-	def	-	-
+sImiwa_2(limited_4)	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0090>
+#विश्व की बढ़ती जनसंख्या जिस दर से इनका उपयोग कर रही है वह इनके निर्माण की दर से कई अधिक है।
+#viSva kI baDZawI janasaMKyA jisa xara se inakA upayoga kara rahI hE vaha inake nirmANa kI xara se kaI aXika hE.
+#The rate at which the growing world population is consuming them is far greater than the rate of their formation.
+viSva_11(world_20)	1	-	-	4:r6	-	def	-	-
+baDZa_1(increase_7)	3	-	kqw	4:rvks	-	-	-	-
+janasaMKyA_1(population_3)	4	-	-	11:k1	-	def	-	-
+$yax	5	-	-	6:dem	-	-	-	-
+xara_1(rate_1)	6	-	-	11:krvn	-	-	-	-
+$wyax	8	-	-	11:k2	Geo_ncert_8stnd_3ch_0088.7:coref	proximal	-	-
+upayoga_8(consumption_3)	9	-	-	-	-	-	-	11:kriyAmUla
+kara_1-0_rahA_hE_1	10	-	-	-	-	-	-	11:verbalizer
+[cp_1]	11	-	-	0:main	-	-	-	-
+$wyax	13	-	-	21:k1	6:coref	distal	-	-
+$wyax	14	-	-	15:r6	Geo_ncert_8stnd_3ch_0089.2:coref	proximal	-	-
+nirmANa_16(formation_4)	15	-	-	17:r6	-	-	-	-
+xara_1(rate_1)	17	-	-	21:rh	-	-	-	-
+kaI_5(many_11)	19	-	-	20:quant	-	-	-	-
+aXika_1(more_1)	20	-	-	21:k1	-	-	-	-
+hE_1-pres	21	-	-	4:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0091>
+#इसलिए ये शीघ्र ही समाप्त होने वाले हैं।
+#isalie ye SIGra hI samApwa hone vAle hEM.
+#So, these are likely to be exhausted soon
+$wyax	1	-	-	5:k1	Geo_ncert_8stnd_3ch_0089.2:coref	proximal	-	-
+SIGra_2(soon_2)	2	-	-	5:krvn	-	hI_2	-	-
+samApwa_11	4	-	-	5:k1s	-	-	-	-
+ho_5(become_1)	5	-	-	6:k1	-	-	-	-
+hE_1-pres	6	-	-	0:main	Geo_ncert_8stnd_3ch_0090.21:pariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0092>
+#यह बहुतायत में पाया जाने वाला जीवाश्मी ईंधन है।
+#yaha bahuwAyawa meM pAyA jAne vAlA jIvASmI IMXana hE.
+#This is the most abundantly found fossil fuel.
+$wyax	1	-	-	9:k1	Geo_ncert_8stnd_3ch_0092H.1:coref	proximal	-	-
+bahuwAyawa_2(abundance_8)	2	-	-	4:k7p	-	-	-	-
+pA_13(find_4)	4	-	-	11:mod	-	-	-	-
+jIvASmI_1(fossil_1)	7	-	-	-	-	-	-	11:mod
+IMXana_1(fuel_2)	8	-	-	-	-	-	-	11:head
+hE_1-pres	9	-	-	0:main	-	-	-	-
+[nc_1]	11	-	-	9:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0092H>
+#कोयला
+#koyalA
+#koyalA
+koyalA_1(coal_1)	1	-	-	0:main	-	-	-	-
+%heading
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0093>
+#इसका उपयोग घरेलू ईंधन, उद्योगों जैसे लोहा और इस्पात, वाष्प इंजनों और विद्युत उत्पन्न करने में किया जाता है।
+#isakA upayoga GarelU IMXana, uxyogoM jEse lohA Ora ispAwa, vARpa iMjanoM Ora vixyuwa uwpanna karane meM kiyA jAwA hE.
+#It is used as a domestic fuel, in industries such as iron and steel, steam engines and to generate electricity.
+$wyax	1	-	-	21:k2	Geo_ncert_8stnd_3ch_0092.11:coref	proximal	-	-
+upayoga_1(use_2)	2	-	-	-	-	-	-	21:kriyAmUla
+GarelU_1(domestic_2)	3	-	-	4:mod	-	-	-	-
+IMXana_1(fuel_2)	4	-	-	-	-	-	-	19:op1
+uxyoga_1(industry_1)	6	-	pl	-	-	-	-	19:op2
+lohA_1(iron_1)	8	-	-	-	-	-	-	10:op1
+ispAwa_1(steel_5)	9	-	-	-	-	-	-	10:op2
+[conj_1]	10	-	-	6:re	-	-	-	-
+vARpa_3(steam_4)	11	-	-	-	-	-	-	13:mod
+iMjana_1(engine_1)	12	-	pl	-	-	-	-	13:head
+[nc_1]	13	-	-	-	-	-	-	19:op3
+vixyuwa_3(electricity_2)	15	-	-	18:k2	-	-	-	-
+uwpanna_6(generate_2)	16	-	-	-	-	-	-	18:kriyAmUla
+kara_17(do_2)	17	-	-	-	-	-	-	18:verbalizer
+[cp_1]	18	-	-	-	-	-	-	19:op4
+[conj_2]	19	-	-	21:k7	-	-	-	-
+kara_1-yA_jA_wA_hE_1	20	-	-	-	-	-	-	21:verbalizer
+[cp_2]	21	-	-	0:main	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0094>
+#कोयले से प्राप्त विद्युत को तापीय ऊर्जा कहा जाता है।
+#koyale se prApwa vixyuwa ko wApIya UrjA kahA jAwA hE.
+#Electricity from coal is called thermal power.
+koyalA_1(coal_1)	1	-	-	3:k5	-	-	-	-
+prApwa_3(procured_1)	3	-	-	4:mod	-	-	-	-
+vixyuwa_3(electricity_2)	4	-	-	8:k2	-	-	-	-
+wApIya_1(thermal_2)	6	-	-	7:mod	-	-	-	-
+UrjA_2(power_32)	7	-	-	8:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	8	-	-	0:main	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0095>
+#कोयला जिसका हम आज उपयोग कर रहे हैं लाखों वर्ष पूर्व विशाल फर्न और दलदल के पृथ्वी की परतों में दबने से बना।
+#koyalA jisakA hama Aja upayoga kara rahe hEM lAKoM varRa pUrva viSAla Parna Ora xalaxala ke pqWvI kI parawoM meM xabane se banA.
+#The coal which we are using today was formed millions of years ago when giant ferns and swamps got buried under the layers of earth.
+koyalA_1(coal_1)	1	-	-	24:k1	-	-	-	-
+$yax	2	-	-	26:k2	1:coref	-	-	-
+$speaker	3	anim	pl	26:k1	-	-	-	-
+Aja_1(today_2)	4	-	-	26:k7t	-	-	-	-
+upayoga_1(use_2)	5	-	-	-	-	-	-	26:kriyAmUla
+kara_17(do_2)	6	-	-	-	-	-	-	26:verbalizer
+$wyax	9	-	-	24:k1s	1:coref	distal	-	-
+100000	10	numex	-	11:card	-	-	-	-
+varRa_1(year_4)	11	-	-	12:mod	-	-	-	-
+pUrva_3(before_11)	12	-	-	24:rblpk	-	-	-	-
+viSAla_2(large_8)	13	-	-	14:intf	-	-	-	-
+Parna_1	14	-	-	-	-	-	-	27:op1
+xalaxala_4(swamp_1)	16	-	-	-	-	-	-	27:op2
+pqWvI_1(earth_9)	18	-	-	20:r6	-	-	-	-
+parawa_1(layer_3)	20	-	pl	22:k7p	-	def	-	-
+xaba_1(trap_14)	22	-	-	24:rh	-	-	-	-
+bana_1-yA_hE_2	24	-	-	0:main	-	-	-	-
+[cp_1]	26	-	-	1:rcelab	-	-	-	-
+[conj_1]	27	-	-	18:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0096>
+#कोयला इसलिए अंतर्हित धूप के रूप में जाना जाता है।
+#koyalA isalie aMwarhiwa XUpa ke rUpa meM jAnA jAwA hE.
+#Coal is therefore referred to as Buried Sunshine.
+koyalA_1(coal_1)	1	-	-	5:k2	-	-	-	-
+aMwarhiwa_7	2	-	-	3:mod	-	-	-	-
+XUpa_1(sunshine_2)	3	-	-	4:r6	-	-	-	-
+rUpa_1(form_10)	4	-	-	5:k7	-	-	-	-
+jAna_1-yA_jA_wA_hE_1	5	-	-	0:main	Geo_ncert_8stnd_3ch_0095.24:viroXI	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0097>
+#पेट्रोल जिससे आपकी कार चलती है और तेल जो आपकी साइकिल को चरमराने से रोकता है, दोनों की शुरुआत गाढे, काले द्रव से होती है जिसे पेट्रोलियम कहते है।
+#petrola jisase ApakI kAra calawI hE Ora wela jo ApakI sAikila ko caramarAne se rokawA hE, xonoM kI SuruAwa gADe, kAle xrava se howI hE jise petroliyama kahawe hE.
+#The petrol that keeps your car running as well as the oil that keeps your cycle from squeaking, both began as a thick black liquid called Petroleum.
+petrola_1(petrol_2)	1	-	-	-	-	def	-	12:op1
+$yax	2	-	-	5:k3	1:coref	-	-	-
+$addressee	3	anim	-	4:r6	-	respect	-	-
+kAra_1(car_1)	4	-	-	5:k1	-	-	-	-
+cala_1-wA_hE_1	5	-	-	1:rcelab	-	-	-	-
+wela_1(oil_1)	6	-	-	8:k1	-	def	-	12:op2
+$yax	7	-	-	11:k1	6:coref	-	-	-
+$addressee	8	anim	-	4:r6	-	respect	-	-
+sAikila_1(bicycle_3)	9	-	-	11:k2	-	-	-	-
+caramarA_2(squeak_2)	10	-	-	11:rh	-	-	-	-
+roka_1-wA_hE_1	11	-	-	6:rcelab	Geo_ncert_8stnd_3ch_0097a.8:samuccaya	-	-	-
+[conj_1]	12	-	-	13:rs	-	-	-	-
+xonoM_1(both_4)	13	-	-	14:r6	-	-	-	-
+SuruAwa_1(beginning_14)	14	-	-	19:k1	-	-	-	-
+gADZA_1(thick_1)	15	-	-	19:k7	-	-	-	17:op1
+kAlA_1(black_1)	16	-	-	17:mod	-	-	-	17:op2
+[conj_2]	17	-	-	18:mod	-	-	-	-
+xrava_15(liquid_1)	18	-	-	19:k5	-	-	-	-
+ho_1-wA_hE_1	19	-	-	0:main	-	-	-	-
+$yax	20	-	-	22:k2	18:coref	-	-	-
+petroliyama_1(petroleum_1)	21	-	-	22:k2s	-	-	-	-
+kaha_1-wA_hE_1	22	-	-	13:rcdelim	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0097a>
+#-
+#-
+#-
+petrola_1	1	-	-	5:k1	-	-	-	-
+$yax	2	-	-	5:rh	-	-	-	-
+$addressee	3	-	-	4:r6	-	respect	-	-
+kAra_1	4	-	-	5:k1	-	-	-	-
+cala_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0098a>
+#यह शैलों की परतों के मध्य पाया जाता है।
+#yaha SEloM kI parawoM ke maXya pAyA jAwA hE.
+#It is found between the layers of rocks.
+$wyax	1	-	-	7:k2	Geo_ncert_8stnd_3ch_0097.21:coref	proximal	-	-
+SEla_1(rock_5)	2	-	pl	4:r6	-	-	-	-
+parawa_1(layer_3)	4	-	pl	6:rdl	-	def	-	-
+maXya_1(middle_2)	6	-	-	7:k7p	-	-	-	-
+pA_1-yA_jA_wA_hE_1	7	-	-	0:main	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0098b>
+#और इसका वेधन अपतटीय व तटीय क्षेत्रों में स्थित तेल क्षेत्रों से किया जाता है।
+#Ora isakA veXana apawatIya va watIya kRewroM meM sWiwa wela kRewroM se kiyA jAwA hE.
+#And it is drilled from oil fields located in off-shore and coastal areas.
+$wyax	1	-	-	2:r6	Geo_ncert_8stnd_3ch_0097.21:coref	proximal	-	-
+veXana_9	2	-	-	12:k2	-	-	-	-
+apawatIya_1(off-shore_1)	3	-	-	-	-	-	-	18:op1
+watIya_1(coastal_3)	5	-	-	-	-	-	-	18:op2
+kRewra_5(area_2)	6	-	pl	8:k7p	-	-	-	-
+sWiwa_2(located_2)	8	-	-	17:mod	-	-	-	-
+wela_1(oil_1)	9	-	-	-	-	-	-	17:mod
+kRewra_1(field_1)	10	-	pl	-	-	-	-	17:head
+kara_1-yA_jA_wA_hE_1	12	-	-	0:main	Geo_ncert_8stnd_3ch_0098a.7:samuccaya	-	-	-
+[nc_1]	17	-	-	12:k5	-	-	-	-
+[conj_1]	18	-	-	6:mod	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0099>
+#तदुपरांत इसे परिष्करणशाला भेजा जाता है जहाँ अपरिष्कृत पेट्रोलियम के प्रक्रमण से विभिन्न तरह के उत्पाद जैसे डीजल, पेट्रोल, मिट्टी का तेल, मोम, प्लास्टिक और स्नेहक तैयार किए जाते है।
+#waxuparAMwa ise pariRkaraNaSAlA BejA jAwA hE jahAz apariRkqwa petroliyama ke prakramaNa se viBinna waraha ke uwpAxa jEse dIjala, petrola, mittI kA wela, moma, plAstika Ora snehaka wEyAra kie jAwe hE.
+#This is then sent to refineries which process the crude oil and produce a variety of products like diesel, petrol, kerosene, wax, plastics and lubricants.
+$wyax	1	-	-	4:k2	Geo_ncert_8stnd_3ch_0097.21:coref	proximal	-	-
+pariRkaraNaSAlA_1(refinery_2)	3	-	-	4:k7p	-	-	-	-
+Beja_1-yA_jA_wA_hE_1	4	-	-	0:main	-	-	-	-
+$yax	7	-	-	37:k7p	-	-	-	-
+apariRkqwa_2(crude_2)	8	-	-	9:mod	-	-	-	-
+petroliyama_1(petroleum_1)	9	-	-	11:r6	-	-	-	-
+prakramaNa_2(process_9)	11	-	-	37:k3	-	def	-	-
+viBinna_4(various_8)	13	-	-	14:mod	-	-	-	-
+waraha_1(kind_4)	14	-	-	16:r6	-	-	-	-
+uwpAxa_3(product_1)	16	-	-	37:k2	-	-	-	-
+dIjala_1(diesel_1)	18	-	-	-	-	-	-	38:op1
+petrola_1(petrol_2)	20	-	-	-	-	-	-	38:op2
+mittI_2(soil_4)	22	-	-	24:r6	-	-	-	-
+wela_1(oil_1)	24	-	-	-	-	-	-	38:op3
+moma_1(wax_1)	26	-	-	-	-	-	-	38:op4
+plAstika_2	28	-	-	-	-	-	-	38:op5
+snehaka_1(lubricant_1)	30	-	-	-	-	-	-	38:op6
+wEyAra_1(ready_4)	31	-	-	-	-	-	-	37:kriyAmUla
+kara_1-yA_jA_wA_hE_1	32	-	-	-	Geo_ncert_8stnd_3ch_0098b.12:uwwarkAla	-	-	37:verbalizer
+[cp_2]	37	-	-	3:rcloc	-	-	-	-
+[conj_1]	38	-	-	16:re	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0100a>
+#पेट्रोलियम और इससे बने उत्पादों को काला सोना कहा जाता है।
+#petroliyama Ora isase bane uwpAxoM ko kAlA sonA kahA jAwA hE.
+#Petroleum and its derivatives are called Black Gold.
+petroliyama_1(petroleum_1)	1	-	-	-	-	-	-	14:op1
+$wyax	3	-	-	4:k5	1:coref	proximal	-	-
+bana_15(made_12)	4	-	kqw	5:rvks	-	-	-	-
+uwpAxa_3(product_1)	5	-	pl	-	-	-	-	14:op2
+kAlA_1(black_1)	7	-	-	8:mod	-	-	-	-
+sonA_1(gold_4)	8	-	-	9:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	9	-	-	0:main	-	-	-	-
+[conj_1]	14	-	-	9:k2	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0100b>
+#क्योंकि ये बहुत अधिक मूल्यवान है।
+#kyoMki ye bahuwa aXika mUlyavAna hE.
+#As they are very valuable.
+$wyax	1	-	-	5:k1	Geo_ncert_8stnd_3ch_0100a.8:coref	proximal	-	-
+bahuwa_7(very_1)	2	-	-	4:intf	-	-	-	-
+aXika_1(more_1)	3	-	-	4:quant	-	-	-	-
+mUlyavAna_2(valuable_8)	4	-	-	5:k1s	-	-	-	-
+hE_1-pres	5	-	-	0:main	Geo_ncert_8stnd_3ch_0100a.9:kAryakAraNa	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0101>
+#पेट्रोलियम के मुख्य उत्पादक देश ईरान, इराक, सऊदी अरब और कतर है।
+#petroliyama ke muKya uwpAxaka xeSa IrAna, irAka, saUxI araba Ora kawara hE.
+#The chief petroleum producing countries are Iran, Iraq, Saudi Arabia and Qatar.
+petroliyama_1(petroleum_1)	1	-	-	4:r6	-	-	-	-
+muKya_2(chief_10)	3	-	-	4:mod	-	-	-	-
+uwpAxaka_4(producing_1)	4	-	-	5:mod	-	-	-	-
+xeSa_1(country_1)	5	-	-	15:k1	-	def	-	-
+IrAna	6	-	-	-	-	-	-	7:begin
+[ne_1]	7	place	-	-	-	-	-	18:op1
+irAka	8	-	-	-	-	-	-	9:begin
+[ne_2]	9	place	-	-	-	-	-	18:op2
+saUxI	10	-	-	-	-	-	-	12:begin
+araba	11	-	-	-	-	-	-	12:inside
+[ne_3]	12	place	-	-	-	-	-	18:op3
+kawara	13	-	-	-	-	-	-	14:begin
+[ne_4]	14	place	-	-	-	-	-	18:op4
+hE_1-pres	15	-	-	0:main	-	-	-	-
+[conj_1]	18	-	-	15:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0102>
+#अन्य मुख्य उत्पादक संयुक्त राज्य अमेरिका, रूस, वेनेजुएला और अल्जीरिया है।
+#anya muKya uwpAxaka saMyukwa rAjya amerikA, rUsa, venejuelA Ora aljIriyA hE.
+#The other major producers are USA, Russia, Venezuela, and Algeria.
+anya_1(other_1)	1	-	-	3:mod	-	-	-	-
+muKya_15(major_6)	2	-	-	3:mod	-	-	-	-
+uwpAxaka_4(producing_1)	3	-	-	14:k1	-	-	-	-
+saMyukwa_2(joint_8)	4	-	-	-	-	-	-	7:begin
+rAjya_1(state_14)	5	-	-	-	-	-	-	7:inside
+amerikA	6	-	-	-	-	-	-	7:inside
+[ne_1]	7	place	-	-	-	-	-	16:op1
+rUsa	8	-	-	-	-	-	-	9:begin
+[ne_2]	9	place	-	-	-	-	-	16:op2
+venejuelA	10	-	-	-	-	-	-	11:begin
+[ne_3]	11	place	-	-	-	-	-	16:op3
+aljIriyA	12	-	-	-	-	-	-	13:begin
+[ne_4]	13	place	-	-	-	-	-	16:op4
+hE_1-pres	14	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	14:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0103>
+#भारत में मुख्य उत्पादक क्षेत्र असम में डिग्बोइ,मुंबई में ‘बाम्बे हाई’ तथा कृष्णा और गोदावरी नदियों के डेल्टा है।
+#BArawa meM muKya uwpAxaka kRewra asama meM digboi,muMbaI meM ‘bAmbe hAI’ waWA kqRNA Ora goxAvarI naxiyoM ke deltA hE.
+#The leading producers in India are Digboi in Assam, Bombay High in Mumbai and the deltas of Krishna and Godavari rivers.
+BArawa	1	-	-	-	-	-	-	2:begin
+[ne_1]	2	place	-	21:k7p	-	-	-	-
+muKya_6(leading_4)	3	-	-	4:mod	-	-	-	-
+uwpAxaka_4(producing_1)	4	-	-	5:mod	-	-	-	-
+kRewra_4(region_3)	5	-	-	21:k1	-	-	-	-
+asama	6	-	-	-	-	-	-	26:begin
+digboi	8	-	-	-	-	-	-	27:begin
+muMbaI	10	-	-	-	-	-	-	29:begin
+bAmbe	12	-	-	-	-	-	-	30:begin
+hAI	13	-	-	-	-	-	-	30:inside
+kqRNA	15	-	-	-	-	-	-	32:begin
+goxAvarI	17	-	-	-	-	-	-	33:begin
+naxI_1(river_3)	18	-	pl	20:r6	-	-	-	-
+deltA_1(delta_1)	20	-	-	-	-	-	-	35:op3
+hE_1-pres	21	-	-	0:main	-	-	-	-
+[ne_2]	26	place	-	-	-	-	-	28:whole
+[ne_3]	27	place	-	-	-	-	-	28:part
+[spatial_1]	28	-	-	-	-	-	-	35:op1
+[ne_4]	29	place	-	-	-	-	-	31:whole
+[ne_5]	30	place	-	-	-	-	-	31:part
+[spatial_2]	31	-	-	-	-	-	-	35:op2
+[ne_6]	32	ne	-	-	-	-	-	34:op1
+[ne_7]	33	ne	-	-	-	-	-	34:op2
+[conj_1]	34	-	-	18:rs	-	-	-	-
+[conj_2]	35	-	-	21:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0104a>
+#प्राकृतिक गैस पेट्रोलियम निक्षेपों के साथ पायी जाती है।
+#prAkqwika gEsa petroliyama nikRepoM ke sAWa pAyI jAwI hE.
+#Natural gas is found with petroleum deposits.
+prAkqwika_1(natural_7)	1	-	-	2:mod	-	-	-	-
+gEsa_1(gas_1)	2	-	-	7:k2	-	-	-	-
+petroliyama_1(petroleum_1)	3	-	-	-	-	-	-	6:mod
+nikRepa_3(deposit_3)	4	-	pl	-	-	-	-	6:head
+[nc_1]	6	-	-	7:rask2	-	-	-	-
+pA_1-yA_jA_wA_hE_1	7	-	-	0:main	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0104b>
+#और यह तब निर्मुक्त होती है जब अपरिष्कृत तेल को धरातल पर लाया जाता है।
+#Ora yaha waba nirmukwa howI hE jaba apariRkqwa wela ko XarAwala para lAyA jAwA hE.
+#And it is released when crude oil is brought to the surface.
+$wyax	1	-	-	4:k1	Geo_ncert_8stnd_3ch_0104a.2:coref	proximal	-	-
+$wyax	2	-	-	4:k7t	-	-	-	-
+nirmukwa_1(released_4)	3	-	-	4:k1s	-	-	-	-
+ho_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+$yax	5	-	-	9:k7t	Geo_ncert_8stnd_3ch_0104a.7:samuccaya	-	-	-
+apariRkqwa_2(crude_2)	6	-	-	7:mod	-	-	-	-
+wela_1(oil_1)	7	-	-	9:k2	-	-	-	-
+XarAwala_1(surface_2)	8	-	-	9:k7p	-	def	-	-
+lA_1-yA_jA_wA_hE_1	9	-	-	2:rcsamAnakAla	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0104c>
+#-
+#-
+#-
+-	-	-	-	-	-	-	-	-
+%
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0105>
+#इसका प्रयोग घरेलू और वाणिज्यिक ईंधनों के रूप में किया जा सकता है।
+#isakA prayoga GarelU Ora vANijyika IMXanoM ke rUpa meM kiyA jA sakawA hE.
+#It can be used as a domestic and industrial fuel.
+$wyax	1	-	-	9:k2	Geo_ncert_8stnd_3ch_0104a.2:coref	proximal	-	-
+prayoga_2(use_3)	2	-	-	-	-	-	-	9:kriyAmUla
+GarelU_1(domestic_2)	3	-	-	-	-	-	-	6:op1
+vANijyika_4	4	-	-	-	-	-	-	6:op2
+IMXana_1(fuel_2)	5	-	pl	7:r6	-	-	-	-
+[conj_1]	6	-	-	5:mod	-	-	-	-
+rUpa_1(form_10)	7	-	-	9:krvn	-	-	-	-
+kara_1-yA_jA_sakawA_hE_1	8	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0106>
+#रूस, नार्वे, यू-के. और नीदरलैंड प्राकृतिक गैस के प्रमुख उत्पादक हैं।
+#rUsa, nArve, yU-ke. Ora nIxaralEMda prAkqwika gEsa ke pramuKa uwpAxaka hEM.
+#Russia, Norway, UK and the Netherlands are the major producers of natural gas.
+rUsa	1	-	-	-	-	-	-	2:begin
+[ne_1]	2	place	-	-	-	-	-	16:op1
+nArve	3	-	-	-	-	-	-	4:begin
+[ne_2]	4	place	-	-	-	-	-	16:op2
+yU.ke.	5	-	-	-	-	-	-	6:begin
+[ne_3]	6	place	-	-	-	-	-	16:op3
+nIxaralEMda	7	-	-	-	-	-	-	8:begin
+[ne_4]	8	place	-	-	-	-	-	16:op4
+prAkqwika_1(natural_7)	9	-	-	10:mod	-	-	-	-
+gEsa_1(gas_1)	10	-	-	12:r6	-	-	-	-
+pramuKa_10(major_1)	11	-	-	12:mod	-	-	-	-
+uwpAxaka_1(producer_1)	12	-	-	13:k1s	-	def	-	-
+hE_1-pres	13	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	13:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0107>
+#भारत में जैसलमेर, कृष्णा-गोदावरी डेल्टा, त्रिपुरा और मुंबई के कुछ अपतटीय क्षेत्रों में प्राकृतिक गैस संसाधन हैं।
+#BArawa meM jEsalamera, kqRNA-goxAvarI deltA, wripurA Ora muMbaI ke kuCa apawatIya kRewroM meM prAkqwika gEsa saMsAXana hEM.
+#In India Jaisalmer, Krishna Godavari delta, Tripura and some areas off shore in Mumbai have natural gas resources.
+BArawa	1	-	-	-	-	-	-	2:begin
+[ne_1]	2	place	-	-	-	-	-	16:whole
+jEsalamera	3	-	-	-	-	-	-	4:begin
+[ne_2]	4	place	-	-	-	-	-	12:op1
+kqRNA-goxAvarI	5	-	-	-	-	-	-	7:begin
+deltA	6	-	-	-	-	-	-	7:inside
+[ne_3]	7	place	-	-	-	-	-	12:op2
+wripurA	8	-	-	-	-	-	-	9:begin
+[ne_4]	9	place	-	-	-	-	-	12:op3
+muMbaI	10	-	-	-	-	-	-	11:begin
+[ne_5]	11	place	-	-	-	-	-	12:op4
+[conj_1]	12	-	-	15:r6	-	-	-	-
+kuCa_1(some_2)	13	-	-	15:quant	-	-	-	-
+apawatIya_1(off-shore_1)	14	-	-	15:mod	-	-	-	-
+kRewra_5(area_2)	15	-	pl	-	-	-	-	16:part
+[spatial_1]	16	-	-	22:k7p	-	-	-	-
+prAkqwika_1(natural_7)	17	-	-	-	-	-	-	19:mod
+gEsa_1(gas_1)	18	-	-	-	-	-	-	19:head
+[nc_1]	19	-	-	-	-	-	-	21:mod
+saMsAXana_1(resource_1)	20	-	-	-	-	-	-	21:head
+[nc_2]	21	-	-	22:k1	-	-	-	-
+hE_1-pres	22	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0108>
+#विश्व के बहुत कम देशों के पास प्राकृतिक गैस के अपने पर्याप्त भंडार हैं।
+#viSva ke bahuwa kama xeSoM ke pAsa prAkqwika gEsa ke apane paryApwa BaMdAra hEM.
+#Very few countries in the world have sufficient natural gas reserves of their own.
+viSva_11(world_20)	1	-	-	5:r6	-	def	-	-
+bahuwa_7(very_1)	3	-	-	4:intf	-	-	-	-
+kama_2(few_4)	4	-	-	5:quant	-	-	-	-
+xeSa_1(country_1)	5	-	pl	14:rsm	-	-	-	-
+prAkqwika_1(natural_7)	8	-	-	9:mod	-	-	-	-
+gEsa_1(gas_1)	9	-	-	13:r6	-	-	-	-
+apanA	11	-	-	13:r6	-	-	-	-
+paryApwa_2(sufficient_2)	12	-	-	13:mod	-	-	-	-
+BaMdAra_4(reserve_2)	13	-	-	14:k1	-	-	-	-
+hE_1-pres	14	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0109>
+#हमारे द्वारा जीवाश्मी ईंधनों के उपभोग की तीव्र वृद्धि ने चिंताजनक दर से इन्हें समाप्ति तक पहुँचा दिया है।
+#hamAre xvArA jIvASmI IMXanoM ke upaBoga kI wIvra vqxXi ne ciMwAjanaka xara se inheM samApwi waka pahuzcA xiyA hE.
+#The sharp increase in our consumption of fossil fuels has led to their depletion at an alarming rate.
+$speaker	1	anim	pl	23:k1	-	-	-	-
+jIvASmI_1(fossil_1)	3	-	-	-	-	-	-	5:mod
+IMXana_1(fuel_2)	4	-	pl	-	-	-	-	5:head
+[nc_1]	5	-	-	23:k2	-	-	-	-
+upaBoga_6(consumption_3)	6	-	-	-	-	-	-	23:kriyAmUla
+wIvra_28	8	-	-	9:mod	-	-	-	-
+vqxXi_1(increase_10)	9	-	-	17:k1	-	def	-	-
+ciMwAjanaka_2	11	-	-	12:mod	-	-	-	-
+xara_1(rate_1)	12	-	-	-	-	-	-	21:start
+$wyax	14	-	pl	17:k2	9:coref	proximal	-	-
+samApwi_8	15	-	-	-	-	-	-	21:end
+pahuzcA_1-yA_hE_1	17	-	-	0:main	-	[shade:xe_1]	-	-
+[span_1]	21	-	-	17:k7	-	-	-	-
+kara_17(do_2)	22	-	-	-	-	-	-	23:verbalizer
+[cp_1]	23	-	-	9:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0110>
+#इन ईंधनों के जलने से निकलने वाले विषैले प्रदूषक भी चिंता का विषय हैं।
+#ina IMXanoM ke jalane se nikalane vAle viREle praxURaka BI ciMwA kA viRaya hEM.
+#The toxic pollutants released from burning these fuels are also a cause for concern.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+IMXana_1(fuel_2)	2	-	pl	4:k1	-	-	-	-
+jala_3(burn_2)	4	-	-	6:rh	-	-	-	-
+nikala_37	6	-	-	9:mod	-	-	-	-
+viRElA_3(toxic_2)	8	-	pl	9:mod	-	-	-	-
+praxURaka_1(pollutants_2)	9	-	-	14:k1	-	BI_1	-	-
+ciMwA_2(concern_2)	11	-	-	13:r6	-	-	-	-
+viRaya_3(matter_6)	13	-	-	14:k1s	-	-	-	-
+hE_1-pres	14	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0111>
+#जीवाश्मी ईंधन का अनियंत्रित जलना अनियंत्रित टोंटी के टपकने के समान है जो अंततः सूख जाती है।
+#jIvASmI IMXana kA aniyaMwriwa jalanA aniyaMwriwa toMtI ke tapakane ke samAna hE jo aMwawaH sUKa jAwI hE.
+#Unchecked burning of fossil fuel is like an unchecked dripping tap which will eventually run dry.
+jIvASmI_1(fossil_1)	1	-	-	-	-	-	-	3:mod
+IMXana_1(fuel_2)	2	-	-	-	-	-	-	3:head
+[nc_1]	3	-	-	5:k1	-	-	-	-
+aniyaMwriwa_1(uncontrolled_1)	4	-	-	5:mod	-	-	-	-
+jala_3(burn_2)	5	-	-	12:k1	-	-	-	-
+aniyaMwriwa_1(uncontrolled_1)	6	-	-	9:mod	-	-	-	-
+toMtI_1(tap_4)	7	-	-	9:k1	-	-	-	-
+tapaka_1(drip_2)	9	-	-	5:ru	-	-	-	-
+hE_1-pres	12	-	-	0:main	-	-	-	-
+$yax	13	-	-	15:k1	2:coref	-	-	-
+aMwawaH_1	14	-	-	15:krvn	-	-	-	-
+sUKa_1-wA_hE_1	15	-	-	5:rcelab	-	[shade:ja_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0112>
+#इसने हमारा ध्यान ऊर्जा के विभिन्न गैर-परंपरागत स्रोत के दोहन की ओर बढ़ाया जो कि जीवाश्मी ईंधनों के स्वच्छतर विकल्प हैं।
+#isane hamArA XyAna UrjA ke viBinna gEra-paraMparAgawa srowa ke xohana kI ora baDZAyA jo ki jIvASmI IMXanoM ke svacCawara vikalpa hEM.
+#This has led to the tapping of various non- conventional sources of energy that are cleaner alternatives to fossil fuels.
+$wyax	1	-	-	13:k1	Geo_ncert_8stnd_3ch_0111.2:coref	proximal	-	-
+$speaker	2	anim	pl	3:r6	-	-	-	-
+XyAna_1(attention_3)	3	-	-	13:k2	-	-	-	-
+UrjA_1(energy_1)	4	-	-	8:r6	-	-	-	-
+viBinna_4(various_8)	6	-	-	8:mod	-	-	-	-
+gEra+paraMparAgawa_1	7	-	-	8:mod	-	-	-	-
+srowa_1(source_10)	8	-	-	10:r6	-	-	-	-
+xohana_6	10	-	-	13:rd	-	-	-	-
+baDZA_1-yA_hE_2	13	-	-	0:main	-	-	-	-
+$yax	14	-	-	21:k1	10:coref	-	-	-
+jIvASmI_1(fossil_1)	16	-	-	-	-	-	-	25:mod
+IMXana_1(fuel_2)	17	-	pl	-	-	-	-	25:head
+svacCa_1(clean_22)	19	-	compermore	20:mod	-	-	-	-
+vikalpa_2(alternative_2)	20	-	-	21:k1s	-	-	-	-
+hE_1-pres	21	-	-	1:rcelab	-	-	-	-
+[nc_1]	25	-	-	20:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0113>
+#बाँधों में वर्षा जल अथवा नदी जल ऊँचाई से गिराने के लिए संग्रहित किया जाता है।
+#bAzXoM meM varRA jala aWavA naxI jala UzcAI se girAne ke lie saMgrahiwa kiyA jAwA hE.
+#Rain water or river water stored in dams is made to fall from heights.
+bAzXa_1(dam_1)	1	-	pl	19:k7p	-	-	-	-
+varRA_1(rain_6)	3	-	-	-	-	-	-	21:mod
+jala_1(water_3)	4	-	-	-	-	-	-	21:head
+naxI_1(river_3)	6	-	-	-	-	-	-	22:mod
+jala_1(water_3)	7	-	pl	-	-	-	-	22:head
+UzcAI_1(height_1)	8	-	-	10:k5	-	-	-	-
+girA_1(fell_2)	10	-	-	19:rt	-	-	-	-
+saMgrahiwa_6(stored_2)	13	-	-	-	-	-	-	19:kriyAmUla
+kara_1-yA_jA_wA_hE_1	14	-	-	-	-	-	-	19:verbalizer
+[cp_1]	19	-	-	0:main	-	-	-	-
+[nc_1]	21	-	-	-	-	-	-	23:op1
+[nc_2]	22	-	-	-	-	-	-	23:op2
+[disjunct_1]	23	-	-	19:k2	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0114>
+#बाँध के अंदर से पाइप के द्वारा बहता जल बाँध के नीचे स्थित टरबाइन के ऊपर गिरता है।
+#bAzXa ke aMxara se pAipa ke xvArA bahawA jala bAzXa ke nIce sWiwa tarabAina ke Upara girawA hE.
+#The falling water flows through pipes inside the dam over turbine blades placed at the bottom of the dam.
+bAzXa_1(dam_1)	1	-	-	3:rdl	-	def	-	-
+aMxara_2(inside_1)	3	-	-	8:rp	-	-	-	-
+pAipa_1(pipe_4)	5	-	-	8:k3	-	-	-	-
+baha_1(flow_5)	8	-	kqw	9:rvks	-	-	-	-
+jala_1(water_3)	9	-	-	17:k1	-	def	-	-
+bAzXa_1(dam_1)	10	-	-	12:rdl	-	def	-	-
+nIce_6	12	-	-	13:k7p	-	def	-	-
+sWiwa_3(placed_2)	13	-	-	14:mod	-	-	-	-
+tarabAina_1(turbine_1)	14	-	-	16:rdl	-	-	-	-
+Upara_1(on_1)	16	-	-	17:k7p	-	-	-	-
+gira_1-wA_hE_1	17	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0115>
+#घूमते हुए ब्लेड जेनरेटर को विद्युत के लिए घुमाते हैं।
+#GUmawe hue bleda jenaretara ko vixyuwa ke lie GumAwe hEM.
+#The moving blades then turn the generator to produce electricity.
+GUma_6(turn_2)	1	-	kqw	9:rsk	-	-	-	-
+bleda_1(blade_5)	3	-	-	9:k1	-	def	-	-
+jenaretara_1(generator_1)	4	-	-	9:k2	-	def	-	-
+vixyuwa_3(electricity_2)	6	-	-	9:rt	-	-	-	-
+GumA_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0116>
+#यह जल विद्युत कहलाती है।
+#yaha jala vixyuwa kahalAwI hE.
+#This is called hydro electricity.
+$wyax	1	-	-	4:k2	Geo_ncert_8stnd_3ch_0115.6:coref	proximal	-	-
+jala_8(hydro_2)	2	-	-	-	-	-	-	7:mod
+vixyuwa_3(electricity_2)	3	-	-	-	-	-	-	7:head
+kahalA_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+[nc_1]	7	-	-	4:k2s	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0117>
+#विद्युत उत्पन्न करने के बाद जो जल बहता है उसका उपयोग कृषि में किया जाता है।
+#vixyuwa uwpanna karane ke bAxa jo jala bahawA hE usakA upayoga kqRi meM kiyA jAwA hE.
+#The water discharged after the generation of electricity is used for irrigation.
+vixyuwa_3(electricity_2)	1	-	-	18:k2	-	-	-	-
+uwpanna_6(generate_2)	2	-	-	-	-	-	-	18:kriyAmUla
+kara_17(do_2)	3	-	-	-	-	-	-	18:verbalizer
+$yax	6	-	-	7:dem	-	-	-	-
+jala_1(water_3)	7	-	-	8:k1	-	def	-	-
+baha_1-wA_hE_1	8	-	-	10:rcelab	-	-	-	-
+$wyax	10	-	-	19:k1	7:coref	distal	-	-
+upayoga_1(use_2)	11	-	-	-	-	-	-	19:kriyAmUla
+kqRi_1(agriculture_1)	12	-	-	19:k7	-	-	-	-
+kara_1-yA_jA_wA_hE_1	14	-	-	-	-	-	-	19:verbalizer
+[cp_1]	18	-	-	19:rblpk	-	-	-	-
+[cp_2]	19	-	-	0:main	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0118>
+#विश्व में जल विद्युत के अग्रणी उत्पादक देश पराग्वे, नार्वे, ब्राजील और चीन हैं।
+#viSva meM jala vixyuwa ke agraNI uwpAxaka xeSa parAgve, nArve, brAjIla Ora cIna hEM.
+#The leading producers of hydel power in the world are Paraguay, Norway, Brazil, and China.
+viSva_11(world_20)	1	-	-	17:k7p	-	def	-	-
+jala_8(hydro_2)	2	-	-	-	-	-	-	4:mod
+vixyuwa_5(power_42)	3	-	-	-	-	-	-	4:head
+[nc_1]	4	-	-	6:r6	-	-	-	-
+agraNI_1(leading_1)	5	-	-	7:mod	-	-	-	-
+uwpAxaka_1(producer_1)	6	-	-	7:mod	-	-	-	-
+xeSa_1(country_1)	7	-	-	17:k1	-	def	-	-
+parAgve	9	-	-	-	-	-	-	10:begin
+[ne_1]	10	place	-	-	-	-	-	18:op1
+nArve	11	-	-	-	-	-	-	12:begin
+[ne_2]	12	place	-	-	-	-	-	18:op2
+brAjIla	13	-	-	-	-	-	-	14:begin
+[ne_3]	14	place	-	-	-	-	-	18:op3
+cIna	15	-	-	-	-	-	-	16:begin
+[ne_4]	16	place	-	-	-	-	-	18:op4
+hE_1-pres	17	-	-	0:main	-	-	-	-
+[conj_1]	18	-	-	17:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0119>
+#भारत में कुछ महत्त्वपूर्ण जल विद्युत केंद्र भाखडा नंगल, गाँधी सागर, नागार्जुन सागर और दामोदर नदी घाटी परियोजनाएँ हैं।
+#BArawa meM kuCa mahawwvapUrNa jala vixyuwa keMxra BAKadA naMgala, gAzXI sAgara, nAgArjuna sAgara Ora xAmoxara naxI GAtI pariyojanAez hEM.
+#Some important hydel power stations in India are Bhakra Nangal, Gandhi Sagar, Nagarjunsagar and Damodar valley projects.
+BArawa	1	-	-	-	-	-	-	2:begin
+[ne_1]	2	place	-	26:k7p	-	-	-	-
+kuCa_1(some_2)	3	-	-	9:quant	-	-	-	-
+mahawwvapUrNa_1(important_4)	4	-	-	9:mod	-	-	-	-
+jala_8(hydro_2)	5	-	-	-	-	-	-	7:mod
+vixyuwa_5(power_42)	6	-	-	-	-	-	-	7:head
+[nc_1]	7	-	-	-	-	-	-	9:mod
+keMxra_6(station_5)	8	-	-	-	-	-	-	9:head
+[nc_2]	9	-	-	26:k1	-	-	-	-
+BAKadA	10	-	-	-	-	-	-	12:begin
+naMgala	11	-	-	-	-	-	-	12:inside
+[ne_2]	12	ne	-	-	-	-	-	23:op1
+gAzXI	13	-	-	-	-	-	-	15:begin
+sAgara	14	-	-	-	-	-	-	15:inside
+[ne_3]	15	ne	-	-	-	-	-	23:op2
+nAgArjuna	16	-	-	-	-	-	-	18:begin
+sAgara	17	-	-	-	-	-	-	18:inside
+[ne_4]	18	ne	-	-	-	-	-	23:op3
+xAmoxara	19	-	-	-	-	-	-	22:begin
+naxI	20	-	-	-	-	-	-	22:inside
+GAtI	21	-	-	-	-	-	-	22:inside
+[ne_5]	22	ne	-	-	-	-	-	25:mod
+[conj_1]	23	-	-	26:k1s	-	-	-	-
+pariyojanA_1(project_2)	24	-	pl	-	-	-	-	25:head
+[nc_3]	25	-	-	-	-	-	-	23:op4
+hE_1-pres	26	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0120>
+#जीवाश्मी ईंधनों के बढ़ते उपयोग से ऊर्जा के गैर-परंपरागत स्त्रोत का अभाव उत्पन्न हो रहा है।
+#jIvASmI IMXanoM ke baDZawe upayoga se UrjA ke gEra-paraMparAgawa swrowa kA aBAva uwpanna ho rahA hE.
+#The increasing use of fossil fuels is leading to its shortage.
+jIvASmI_1(fossil_1)	1	-	-	-	-	-	-	3:mod
+IMXana_1(fuel_2)	2	-	pl	-	-	-	-	3:head
+[nc_1]	3	-	-	4:k1	-	-	-	-
+baDZa_1(increase_7)	4	-	kqw	5:rvks	-	-	-	-
+upayoga_1(use_2)	5	-	-	14:rh	-	def	-	-
+UrjA_1(energy_1)	6	-	-	10:r6	-	-	-	-
+gEra+paraMparAgawa_1	7	-	-	10:mod	-	-	-	-
+swrowa_1(source_9)	10	-	-	12:r6	-	-	-	-
+aBAva_4(shortage_1)	12	-	-	14:k1	-	-	-	-
+uwpanna_4(create_15)	13	-	-	14:k1s	-	-	-	-
+ho_1-0_raha_hE_1	14	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0121a>
+#ऐसा अनुमान किया जाता है।
+#EsA anumAna kiyA jAwA hE.
+#This is estimated.
+$wyax	1	-	-	9:dem	-	proximal	-	-
+anumAna_2(estimate_3)	2	-	-	-	-	-	-	8:kriyAmUla
+kara_1-yA_jA_wA_hE_1	4	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	0:main	-	-	-	-
+prakAra_1(kind_8)	9	-	-	8:k2	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0121b>
+#कि यदि वर्तमान दर से इनका उपभोग लगातार होता रहा।
+#ki yaxi varwamAna xara se inakA upaBoga lagAwAra howA rahA.
+#That if the present rate of consumption continues.
+varwamAna_1(present_12)	2	-	-	3:mod	-	-	-	-
+xara_1(rate_1)	3	-	-	8:rh	-	def	-	-
+$wyax	5	-	-	6:r6	Geo_ncert_8stnd_3ch_0120.3:coref	proximal	-	-
+upaBoga_6(consumption_3)	6	-	-	8:k1	-	-	-	-
+lagAwAra_1(continuously_2)	7	-	-	8:krvn	-	-	-	-
+ho_1-wA_rahA_hE_1-e_2	8	-	-	0:main	Geo_ncert_8stnd_3ch_0121c.9:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0121c>
+#तो इन ईंधनों के भंडार समाप्त हो जाएँगे।
+#wo ina IMXanoM ke BaMdAra samApwa ho jAezge.
+#Then the reserves of these fuel will get exhausted.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+IMXana_1(fuel_2)	2	-	pl	4:r6	-	-	-	-
+BaMdAra_4(reserve_2)	4	-	-	6:k1	-	def	-	-
+samApwa_1(finished_6)	5	-	-	6:k1s	-	-	-	-
+ho_1-gA_1	6	-	-	0:main	-	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0122>
+#इसके अतिरिक्त, इनका उपयोग पर्यावरणीय प्रदूषण भी पैदा करता है।
+#isake awirikwa, inakA upayoga paryAvaraNIya praxURaNa BI pExA karawA hE.
+#isake awirikwa, inakA upayoga paryAvaraNIya praxURaNa BI pExA karawA hE.
+$wyax	1	-	-	2:r6	Geo_ncert_8stnd_3ch_0120.3:coref	proximal	-	-
+upayoga_1(use_2)	2	-	-	13:k1	-	-	-	-
+paryAvaraNIya_1(environmental_1)	6	-	-	7:mod	-	-	-	-
+praxURaNa_2(pollution_3)	7	-	-	13:k2	-	BI_1	-	-
+pExA_2(created_2)	9	-	-	-	-	-	-	13:kriyAmUla
+kara_1-wA_hE_1	10	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	Geo_ncert_8stnd_3ch_0121c.9:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0123>
+#इसलिए, गैर-परंपरागत स्त्रोत जैसे सौर ऊर्जा, पवन ऊर्जा, ज्वारीय ऊर्जा जो कि नवीकरणीय हैं, के उपयोग की आवश्यकता है।
+#isalie, gEra-paraMparAgawa swrowa jEse sOra UrjA, pavana UrjA, jvArIya UrjA jo ki navIkaraNIya hEM, ke upayoga kI AvaSyakawA hE.
+#Therefore, there is need for using non-conventional sources such as solar energy, wind energy, tidal energy which are renewable.
+gEra+paraMparAgawa_1	1	-	-	2:mod	-	-	-	-
+swrowa_1(source_9)	2	-	-	14:r6	-	-	-	-
+sOra_1(solar_1)	3	-	-	4:mod	-	-	-	-
+UrjA_1(energy_1)	4	-	-	-	-	-	-	10:op1
+pavana_3(wind_2)	5	-	-	-	-	-	-	7:mod
+UrjA_1(energy_1)	6	-	-	-	-	-	-	7:head
+[nc_1]	7	-	-	-	-	-	-	10:op2
+jvArIya_1(tidal_2)	8	-	-	9:mod	-	-	-	-
+UrjA_1(energy_1)	9	-	-	-	-	-	-	10:op3
+[conj_1]	10	-	-	2:re	-	-	-	-
+$yax	11	-	-	13:k1	-	ki	-	-
+navIkaraNIya_1(renewable_2)	12	-	-	13:k1s	-	-	-	-
+hE_1-pres	13	-	-	2:rcelab	-	-	-	-
+upayoga_1(use_2)	14	-	-	15:r6	-	-	-	-
+AvaSyakawA_2(need_1)	15	-	-	16:k1	-	-	-	-
+hE_1-pres	16	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0124>
+#सूर्य की ऊष्मा और प्रकाश ऊर्जा हमारे द्वारा प्रतिदिन अनुभव की जा सकती है।
+#sUrya kI URmA Ora prakASa UrjA hamAre xvArA prawixina anuBava kI jA sakawI hE.
+#sUrya kI URmA Ora prakASa UrjA hamAre xvArA prawixina anuBava kI jA sakawI hE.
+sUrya_1(sun_5)	1	-	-	6:r6	-	-	-	-
+URmA_1(heat_1)	2	-	-	-	-	-	-	6:op1
+prakASa_1(light_8)	3	-	-	-	-	-	-	5:mod
+UrjA_1(energy_1)	4	-	-	-	-	-	-	5:head
+[nc_1]	5	-	-	-	-	-	-	6:op2
+[conj_1]	6	-	-	11:k2	-	-	-	-
+$speaker	7	anim	pl	11:k1	-	-	-	-
+prawixina_4(everyday_2)	8	-	-	11:freq	-	-	-	-
+anuBava_3(feeling_1)	9	-	-	-	-	-	-	11:kriyAmUla
+kara_1-yA_jA_sakawA_hE_1	10	-	-	-	-	-	-	11:verbalizer
+[cp_1]	11	-	-	0:main	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0125>
+#सूर्य से प्राप्त की गई सौर ऊर्जा, सौर सेलों में विद्युत उत्पन्न करने के लिए प्रयोग की जा सकती है।
+#sUrya se prApwa kI gaI sOra UrjA, sOra seloM meM vixyuwa uwpanna karane ke lie prayoga kI jA sakawI hE.
+#Solar energy trapped from the sun can be used in solar cells to produce electricity.
+sUrya_1(sun_5)	1	-	-	16:k5	-	def	-	-
+prApwa_3(procured_1)	2	-	-	-	-	-	-	16:kriyAmUla
+kara_17(do_2)	3	-	kqw	-	-	-	-	16:verbalizer
+sOra_1(solar_1)	4	-	-	5:mod	-	-	-	-
+UrjA_1(energy_1)	5	-	-	15:k2	-	-	-	-
+sOra_1(solar_1)	6	-	-	7:mod	-	-	-	-
+^sela_1	7	-	pl	15:k7p	-	-	-	-
+vixyuwa_3(electricity_2)	9	-	-	12:k2	-	-	-	-
+uwpanna_1(produced_1)	10	-	-	-	-	-	-	12:kriyAmUla
+kara_17(do_2)	11	-	-	-	-	-	-	12:verbalizer
+[cp_2]	12	-	-	15:rt	-	-	-	-
+prayoga_2(use_3)	13	-	-	-	-	-	-	15:kriyAmUla
+kara_1-yA_jA_sakawA_hE_1	14	-	-	-	-	-	-	15:verbalizer
+[cp_3]	15	-	-	0:main	-	-	-	-
+[cp_1]	16	-	-	5:rbks	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0126>
+#इनमें से कई सेलों को सौर पैनलों से तापन व प्रकाश के लिए शक्ति उत्पन्न करने के लिए जोड़ा जाता है।
+#inameM se kaI seloM ko sOra pEnaloM se wApana va prakASa ke lie Sakwi uwpanna karane ke lie jodZA jAwA hE.
+#Many of these cells are joined into solar panels to generate power for heating and lighting purpose.
+$wyax	1	-	-	3:rn	-	proximal	-	-
+kaI_5(many_11)	2	-	-	3:quant	-	-	-	-
+^sela_1	3	-	pl	13:k2	-	-	-	-
+sOra_1(solar_1)	4	-	-	5:mod	-	-	-	-
+^pEnala_1	5	-	pl	13:k2as	-	-	-	-
+wApana_1(heating_2)	6	-	-	-	-	-	-	8:op1
+prakASa_1(light_8)	7	-	-	-	-	-	-	8:op2
+[conj_1]	8	-	-	12:rt	-	-	-	-
+Sakwi_1(power_20)	9	-	-	12:k2	-	-	-	-
+uwpanna_1(produced_1)	10	-	-	-	-	-	-	12:kriyAmUla
+kara_17(do_2)	11	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	13:rt	-	-	-	-
+jodZa_1-yA_jA_wA_hE_1	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0127>
+#पवन ऊर्जा का एक असमाप्य स्रोत है।
+#pavana UrjA kA eka asamApya srowa hE.
+#Wind is an inexhaustible source of energy.
+pavana_3(wind_2)	1	-	-	7:k1	-	-	-	-
+UrjA_1(energy_1)	2	-	-	6:r6	-	-	-	-
+eka_2(a_1)	4	-	-	6:quant	-	-	-	-
+asamApya_2	5	-	-	6:mod	-	-	-	-
+srowa_1(source_10)	6	-	-	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0128>
+#पवन चक्कियों का उपयोग अनाजों को पीसने और जल निकालने के लिए चिरकाल से चला आ रहा है।
+#pavana cakkiyoM kA upayoga anAjoM ko pIsane Ora jala nikAlane ke lie cirakAla se calA A rahA hE.
+#pavana cakkiyoM kA upayoga anAjoM ko pIsane Ora jala nikAlane ke lie cirakAla se calA A rahA hE.
+pavana_3(wind_2)	1	-	-	-	-	-	-	3:mod
+cakkI_2(mill_2)	2	-	pl	-	-	-	-	3:head
+[nc_1]	3	-	-	4:r6	-	-	-	-
+upayoga_1(use_2)	4	-	-	15:k1	-	-	-	-
+anAja_1(grain_1)	5	-	-	7:k2	-	-	-	-
+pIsa_1(grind_1)	7	-	-	-	-	-	-	21:op1
+jala_1(water_3)	9	-	-	10:k2	-	-	-	-
+nikAla_4(draw_4)	10	-	-	-	-	-	-	21:op2
+cirakAla_1(immemorial_2)	13	-	-	-	-	-	-	22:start
+cala_1-yA_A_rahA_hE_1	15	-	-	0:main	-	[shade:a_1]	-	-
+[conj_1]	21	-	-	15:rt	-	-	-	-
+[span_1]	22	-	-	15:dur	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0129>
+#वर्तमान पवन चक्कियों में तीव्र गति से चलती हवाएँ पवन चक्की को घुमाती हैं जो विद्युत उत्पादन करने के लिए जेनरेटर से जुड़ी होती हैं।
+#varwamAna pavana cakkiyoM meM wIvra gawi se calawI havAez pavana cakkI ko GumAwI hEM jo vixyuwa uwpAxana karane ke lie jenaretara se judZI howI hEM.
+#In modern time wind mills, the high speed winds rotate the wind mill which is connected to a generator to produce electricity.
+varwamAna_1(present_12)	1	-	-	4:mod	-	-	-	-
+pavana_3(wind_2)	2	-	-	-	-	-	-	4:mod
+cakkI_2(mill_2)	3	-	pl	-	-	-	-	4:head
+[nc_1]	4	-	-	8:k7p	-	-	-	-
+wIvra_3(high_7)	5	-	-	6:mod	-	-	-	-
+gawi_3(speed_1)	6	-	-	8:krvn	-	-	-	-
+cala_7(move_1)	8	-	kqw	9:rbks	-	-	-	-
+havA_2(wind_6)	9	-	pl	13:k1	-	-	-	-
+pavana_3(wind_2)	10	-	-	-	-	-	-	12:mod
+cakkI_2(mill_2)	11	-	-	-	-	-	-	12:head
+[nc_2]	12	-	-	13:k2	-	-	-	-
+GumA_1-wA_hE_1	13	-	-	0:main	-	-	-	-
+$yax	15	-	-	24:k1	12:coref	-	-	-
+vixyuwa_3(electricity_2)	16	-	-	30:k2	-	-	-	-
+uwpAxana_1(production_2)	17	-	-	-	-	-	-	30:kriyAmUla
+kara_17(do_2)	18	-	-	-	-	-	-	30:verbalizer
+jenaretara_1(generator_1)	21	-	-	24:k3	-	-	-	-
+judZa_7(connected_4)	23	-	kqw	24:k1s	-	-	-	-
+ho_1-wA_hE_1	24	-	-	12:rcelab	-	-	-	-
+[cp_1]	30	-	-	24:rt	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0130>
+#पवन चक्कियों के समूह से युक्त पवन फार्म तटीय क्षेत्रों और पर्वत घाटियों में जहाँ प्रबल और लगातार हवाएँ चलती हैं, वहाँ स्थित हैं।
+#pavana cakkiyoM ke samUha se yukwa pavana PArma watIya kRewroM Ora parvawa GAtiyoM meM jahAz prabala Ora lagAwAra havAez calawI hEM, vahAz sWiwa hEM.
+#Wind farms having clusters of such wind mills are located in coastal regions and in mountain passes where strong and steady winds blow.
+pavana_3(wind_2)	1	-	-	-	-	-	-	30:mod
+cakkI_2(mill_2)	2	-	pl	-	-	-	-	30:head
+samUha_15(group_71)	4	-	-	6:k3	-	-	-	-
+yukwa_1(containing_4)	6	-	-	31:mod	-	-	-	-
+pavana_3(wind_2)	7	-	-	-	-	-	-	31:mod
+PArma_3(farm_1)	8	-	-	-	-	-	-	31:head
+watIya_1(coastal_3)	9	-	-	10:mod	-	-	-	-
+kRewra_4(region_3)	10	-	-	-	-	-	-	33:op1
+parvawa_1(mountain_3)	12	-	-	-	-	-	-	32:mod
+GAtI_2(pass_49)	13	-	pl	-	-	-	-	32:head
+$yax	15	-	-	20:k7p	29:coref	-	-	-
+prabala_1(strong_15)	16	-	-	-	-	-	-	34:op1
+lagAwAra_5(uninterrupted_5)	18	-	-	-	-	-	-	34:op2
+havA_2(wind_6)	19	-	pl	20:k1	-	-	-	-
+cala_1-wA_hE_1	20	-	-	33:rcloc	-	-	-	-
+sWiwa_2(located_2)	24	-	-	25:k1s	-	-	-	-
+hE_1-pres	25	-	-	0:main	-	-	-	-
+[nc_1]	30	-	-	4:r6	-	-	-	-
+[nc_2]	31	-	-	25:k1	-	-	-	-
+[nc_3]	32	-	-	-	-	-	-	33:op2
+[conj_1]	33	-	-	25:k7p	-	-	-	-
+[conj_1]	34	-	-	19:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0131>
+#पवन फार्म नीदरलैंड, जर्मनी, डेनमार्वक, यू-के., यू-एस.ए. तथा स्पेन में पाए जाते हैं जो पवन ऊर्जा उत्पादन में उल्लेखनीय हैं।
+#pavana PArma nIxaralEMda, jarmanI, denamArvaka, yU-ke., yU-esa.e. waWA spena meM pAe jAwe hEM jo pavana UrjA uwpAxana meM ulleKanIya hEM.
+#Windfarms are found in Netherlands, Germany, Denmark, UK, USA and Spain are noted for their wind energy production.
+pavana_3(wind_2)	1	-	-	-	-	-	-	40:mod
+PArma_3(farm_1)	2	-	-	-	-	-	-	40:head
+nIxaralEMda	3	-	-	-	-	-	-	41:begin
+jarmanI	5	-	-	-	-	-	-	42:begin
+denamArvaka	7	-	-	-	-	-	-	43:begin
+yU.ke	9	-	-	-	-	-	-	35:begin
+yU.esa.e	14	-	-	-	-	-	-	44:begin
+spena	21	-	-	-	-	-	-	45:begin
+pA_1yA_jA_wA_hE_1	23	-	-	0:main	-	-	-	-
+$yax	26	-	-	32:k1	40:coref	-	-	-
+pavana_3(wind_2)	27	-	-	-	-	-	-	47:mod
+UrjA_1(energy_1)	28	-	-	-	-	-	-	47:head
+uwpAxana_1(production_2)	29	-	-	-	-	-	-	38:head
+ulleKanIya_1(mentionable_1)	31	-	-	32:k1s	-	-	-	-
+hE_1-pres	32	-	-	40:rcelab	-	-	-	-
+[ne_4]	35	place	-	-	-	-	-	46:op4
+[nc_3]	38	-	-	32:k7	-	-	-	-
+[nc_1]	40	-	-	23:k2	-	-	-	-
+[ne_1]	41	place	-	-	-	-	-	46:op1
+[ne_2]	42	place	-	-	-	-	-	46:op2
+[ne_3]	43	place	-	-	-	-	-	46:op3
+[ne_5]	44	place	-	-	-	-	-	46:op5
+[ne_6]	45	place	-	-	-	-	-	46:op6
+[conj_1]	46	-	-	23:k7p	-	-	-	-
+[nc_2]	47	-	-	-	-	-	-	38:mod
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0132>
+#परमाणु ऊर्जा प्राकृतिक तौर से प्राप्त रेडियोसक्रिय पदार्थ जैसे यूरेनियम और थोरियम के परमाणुओं के केंद्रक में संग्रहित ऊर्जा से प्राप्त की जाती है-।
+#paramANu UrjA prAkqwika wOra se prApwa rediyosakriya paxArWa jEse yUreniyama Ora Woriyama ke paramANuoM ke keMxraka meM saMgrahiwa UrjA se prApwa kI jAwI hE-.
+#Nuclear power is obtained from energy stored in the nuclei of atoms of naturally occurring radio active elements like uranium and thorium.
+paramANu_2(nuclear_3)	1	-	-	2:mod	-	-	-	-
+UrjA_1(energy_1)	2	-	-	18:k2	-	-	-	-
+prAkqwika_1(natural_7)	3	-	-	16:krvn	-	-	-	-
+prApwa_2(obtained_1)	4	-	-	-	-	-	-	16:kriyAmUla
+ho_7(happen_2)	5	-	-	-	-	-	-	16:verbalizer
+rediyosakriya_1(radio-active_1)	6	-	-	7:mod	-	-	-	-
+paxArWa_1(matter_2)	7	-	-	10:r6	-	-	-	-
+yUreniyama_1(uranium_1)	8	-	-	-	-	-	-	17:op1
+Woriyama_1(thorium_1)	9	-	-	-	-	-	-	17:op2
+paramANu_1(atom_4)	10	-	pl	11:r6	-	-	-	-
+keMxraka_1(nucleus_1)	11	-	-	12:k7p	-	def	-	-
+saMgrahiwa_6(stored_2)	12	-	-	13:mod	-	-	-	-
+UrjA_1(energy_1)	13	-	-	18:k5	-	-	-	-
+prApwa_2(obtained_1)	14	-	-	-	-	-	-	18:kriyAmUla
+kara_1-yA_jA_wA_hE_1	15	-	-	-	-	-	-	18:verbalizer
+[cp_1]	16	-	-	7:mod	-	-	-	-
+[conj_1]	17	-	-	7:re	-	-	-	-
+[cp_2]	18	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0133a>
+#ये पदार्थ नाभिकीय रिऐक्टरों में नाभिकीय विखंडन से गुजरते हैं।
+#ye paxArWa nABikIya riEktaroM meM nABikIya viKaMdana se gujarawe hEM.
+#These fuels undergo nuclear fission in nuclear reactors and emit Nuclear power station.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+paxArWa_12	2	-	-	9:k1	-	-	-	-
+nABikIya_1(nuclear_1)	3	-	-	4:mod	-	-	-	-
+^riEktara_1	4	-	pl	9:k7p	-	-	-	-
+nABikIya_1(nuclear_1)	6	-	-	7:mod	-	-	-	-
+viKaMdana_4	7	-	-	9:rp	-	-	-	-
+gujara_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0133b>
+#और उत्सर्जन ऊर्जा की प्राप्ति होती है।
+#Ora uwsarjana UrjA kI prApwi howI hE.
+#These fuels undergo nuclear fission in nuclear reactors and emit Nuclear power station.
+uwsarjana_2(emission_1)	2	-	-	-	-	-	-	9:mod
+UrjA_1(energy_1)	3	-	-	-	-	-	-	9:head
+prApwi_6(obtaining_5)	5	-	-	6:k1	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	Geo_ncert_8stnd_3ch_0133a.9:samuccaya	-	-	-
+[nc_1]	9	-	-	5:r6	-	-	-	-
+$speaker	10	anim	pl	6:k4	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0134>
+#परमाणु ऊर्जा के सबसे बड़े उत्पादक संयुक्त राज्य अमेरिका और यूरोप हैं।
+#paramANu UrjA ke sabase badZe uwpAxaka saMyukwa rAjya amerikA Ora yUropa hEM.
+#The greatest producers of nuclear power are USA and Europe.
+paramANu_2(nuclear_3)	1	-	-	2:mod	-	-	-	-
+UrjA_1(energy_1)	2	-	-	6:r6	-	-	-	-
+badZA_9	5	-	superl	6:mod	-	-	-	-
+uwpAxaka_1(producer_1)	6	-	-	12:k1	-	def	-	-
+saMyukwa	7	-	-	8:mod	-	-	-	-
+rAjya	8	-	-	16:rs	-	-	-	-
+amerikA	9	-	-	-	-	-	-	17:begin
+yUropa	11	-	-	-	-	-	-	18:begin
+hE_1-pres	12	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	12:k1s	-	-	-	-
+[ne_1]	17	place	-	-	-	-	-	16:op1
+[ne_2]	18	place	-	-	-	-	-	16:op2
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0135>
+#भारत में राजस्थान और झारखंड के पास यूरेनियम के विशाल निक्षेप हैं।
+#BArawa meM rAjasWAna Ora JAraKaMda ke pAsa yUreniyama ke viSAla nikRepa hEM.
+#In India Rajasthan and Jharkhand have large deposits of Uranium.
+BArawa	1	-	-	-	-	-	-	16:begin
+rAjasWAna	3	-	-	-	-	-	-	17:begin
+JAraKaMda	5	-	-	-	-	-	-	18:begin
+yUreniyama_1(uranium_1)	8	-	-	11:r6	-	def	-	-
+viSAla_2(large_8)	10	-	-	11:mod	-	-	-	-
+nikRepa_3(deposit_3)	11	-	-	12:k1	-	-	-	-
+hE_1-pres	12	-	-	0:main	-	-	-	-
+[spatial_1]	14	-	-	11:rsm	-	-	-	-
+[conj_1]	15	-	-	-	-	-	-	14:part
+[ne_1]	16	place	-	-	-	-	-	14:whole
+[ne_2]	17	place	-	-	-	-	-	15:op1
+[ne_3]	18	place	-	-	-	-	-	15:op2
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0136>
+#थोरियम विशाल मात्रा में केरल के मोनोजाडट बालू में पाए जाते हैं।
+#Woriyama viSAla mAwrA meM kerala ke monojAdata bAlU meM pAe jAwe hEM.
+#Thorium is found in large quantities in the Monozite sands of Kerala.
+Woriyama_1(thorium_1)	1	-	-	10:k2	-	-	-	-
+viSAla_2(large_8)	2	-	-	3:mod	-	-	-	-
+mAwrA_1(quantity_4)	3	-	-	10:k7	-	-	-	-
+kerala	5	-	-	-	-	-	-	11:begin
+^monojAdata_1	7	-	-	8:rs	-	-	-	-
+bAlU_1(sand_2)	8	-	-	10:k7p	-	def	-	-
+pA_1-yA_jA_wA_hE_1	10	-	-	0:main	-	-	-	-
+[ne_1]	11	place	-	8:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0137>
+#भारत में स्थित परमाणु ऊर्जा के केंद्र तमिलनाडु में कलपक्कम, महाराष्ट्र में तारापुर, राजस्थान में कोटा के निकट स्थित राणा प्रताप सागर, उत्तर प्रदेश में नरोरा और कर्नाटक में कैगा हैं।
+#BArawa meM sWiwa paramANu UrjA ke keMxra wamilanAdu meM kalapakkama, mahArARtra meM wArApura, rAjasWAna meM kotA ke nikata sWiwa rANA prawApa sAgara, uwwara praxeSa meM narorA Ora karnAtaka meM kEgA hEM.
+#The nuclear power stations in India are located in Kalpakkam in Tamilnadu, Tarapur in Maharastra, Ranapratap Sagar near Kota in Rajasthan, Narora in Uttar Pradesh and Kaiga in Karnataka.
+BArawa	1	-	-	-	-	-	-	45:begin
+sWiwa_1(situated_1)	3	-	-	7:mod	-	-	-	-
+paramANu_2(nuclear_3)	4	-	-	5:mod	-	-	-	-
+UrjA_2(power_32)	5	-	-	7:r6	-	-	-	-
+keMxra_6(station_5)	7	-	-	33:k1	-	-	-	-
+wamilanAdu	8	-	-	-	-	-	-	46:begin
+kalapakkama	10	-	-	-	-	-	-	47:begin
+mahArARtra	12	-	-	-	-	-	-	48:begin
+wArApura	14	-	-	-	-	-	-	49:begin
+rAjasWAna	16	-	-	-	-	-	-	50:begin
+kotA	18	-	-	-	-	-	-	51:begin
+nikata_1	20	-	-	56:k7p	-	-	-	-
+rANA	21	-	-	-	-	-	-	36:begin
+prawApa	22	-	-	-	-	-	-	36:inside
+sAgara	23	-	-	-	-	-	-	36:inside
+uwwara	25	-	-	-	-	-	-	38:begin
+praxeSa	26	-	-	-	-	-	-	38:inside
+narorA	28	-	-	-	-	-	-	52:begin
+karnAtaka	30	-	-	-	-	-	-	53:begin
+kEgA	32	-	-	-	-	-	-	54:begin
+hE_1-pres	33	-	-	0:main	-	-	-	-
+[ne_8]	36	place	-	-	-	-	-	41:part
+[ne_9]	38	place	-	-	-	-	-	42:whole
+[spatial_1]	39	-	-	-	-	-	-	44:op1
+[spatial_2]	40	-	-	-	-	-	-	44:op2
+[spatial_3]	41	-	-	-	-	-	-	44:op3
+[spatial_4]	42	-	-	-	-	-	-	44:op4
+[spatial_5]	43	-	-	-	-	-	-	44:op5
+[conj_1]	44	-	-	33:k1s	-	-	-	-
+[ne_1]	45	place	-	3:k7p	-	-	-	-
+[ne_2]	46	place	-	-	-	-	-	39:whole
+[ne_3]	47	place	-	-	-	-	-	39:part
+[ne_4]	48	place	-	-	-	-	-	40:whole
+[ne_5]	49	place	-	-	-	-	-	40:part
+[ne_6]	50	place	-	-	-	-	-	41:whole
+[ne_7]	51	place	-	20:rdl	-	-	-	-
+[ne_10]	52	place	-	-	-	-	-	42:part
+[ne_11]	53	place	-	-	-	-	-	43:whole
+[ne_12]	54	place	-	-	-	-	-	43:part
+sWiwa_1	56	-	-	36:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0138>
+#ताप ऊर्जा जो पृथ्वी से प्राप्त की जाती है भूतापीय ऊर्जा कहलाती है।
+#wApa UrjA jo pqWvI se prApwa kI jAwI hE BUwApIya UrjA kahalAwI hE.
+#Heat energy obtained from the earth is called geothermal energy.
+wApa_1(heat_6)	1	-	-	-	-	-	-	15:mod
+UrjA_1(energy_1)	2	-	-	-	-	-	-	15:head
+$yax	3	-	-	17:k2	-	-	-	-
+pqWvI_1(earth_9)	4	-	-	17:k5	-	def	-	-
+prApwa_2(obtained_1)	6	-	-	-	-	-	-	17:kriyAmUla
+kara_1-yA_jA_wA_hE_1	7	-	-	-	-	-	-	17:verbalizer
+BUwApIya_1(geothermal_1)	10	-	-	11:mod	-	-	-	-
+UrjA_1(energy_1)	11	-	-	12:k2as	-	-	-	-
+kahalA_1-wA_hE_1	12	-	-	0:main	-	-	-	-
+[nc_1]	15	-	-	12:k2	-	-	-	-
+[cp_1]	17	-	-	15:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0139>
+#पृथ्वी के अंदर गहराई बढने के साथ तापमान में लगातार वृधि होती जाती है।
+#pqWvI ke aMxara gaharAI baDane ke sAWa wApamAna meM lagAwAra vqXi howI jAwI hE.
+#The temperature in the interior of the earth rises steadily as we go deeper.
+pqWvI_1(earth_9)	1	-	-	3:rdl	-	def	-	-
+aMxara_8	3	-	-	5:k7p	-	def	-	-
+gaharAI_1(depth_2)	4	-	-	5:k1	-	-	-	-
+baDa_1	5	-	-	12:rprop	-	-	-	-
+wApamAna_1(temperature_2)	8	-	-	12:k7	-	def	-	-
+lagAwAra_3(constantly_11)	10	-	-	12:krvn	-	-	-	-
+vqXi_1(rise_46)	11	-	-	12:k1	-	-	-	-
+ho_1-wA_jAwA_hE_1	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0140>
+#कभी-कभी यह तापमान ऊर्जा भू-सतह पर गर्म जल के झरनों के रूप में प्रकट हो सकती है।
+#kaBI-kaBI yaha wApamAna UrjA BU-sawaha para garma jala ke JaranoM ke rUpa meM prakata ho sakawI hE.
+#Some times this heat energy may surface itself in the form of hot springs
+kaBI_1(sometime_1)	1	-	xviwva	23:freq	-	-	-	-
+$wyax	2	-	-	21:dem	-	proximal	-	-
+wApamAna_3(heat_56)	3	-	-	-	-	-	-	21:mod
+UrjA_1(energy_1)	4	-	-	-	-	-	-	21:head
+BU+sawaha_1	5	-	-	23:k7p	-	-	-	-
+garma_2(hot_7)	7	-	-	8:mod	-	-	-	-
+jala_1(water_3)	8	-	-	10:r6	-	-	-	-
+JaranA_1(spring_5)	10	-	pl	22:r6	-	-	-	-
+prakata_9(displayed_1)	14	-	-	-	-	-	-	23:kriyAmUla
+ho_1-0_sakawA_hE_1	15	-	-	-	-	-	-	23:verbalizer
+[nc_1]	21	-	-	23:k1	-	-	-	-
+rUpa_1(form_10)	22	-	-	23:k7	-	def	-	-
+[cp_1]	23	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0141>
+#यह ताप ऊर्जा शक्ति का उत्पादन करने में प्रयुक्त की जा सकती है।
+#yaha wApa UrjA Sakwi kA uwpAxana karane meM prayukwa kI jA sakawI hE.
+#yaha wApa UrjA Sakwi kA uwpAxana karane meM prayukwa kI jA sakawI hE.
+$wyax	1	-	-	14:dem	-	proximal	-	-
+wApa_1(heat_6)	2	-	-	-	-	-	-	14:mod
+UrjA_1(energy_1)	3	-	-	-	-	-	-	14:head
+Sakwi_1(power_20)	4	-	-	16:k2	-	-	-	-
+uwpAxana_1(production_2)	5	-	-	-	-	-	-	16:kriyAmUla
+kara_17(do_2)	6	-	-	-	-	-	-	16:verbalizer
+prayukwa_1(used_3)	8	-	-	-	-	-	-	17:kriyAmUla
+kara_1-yA_jA_sakawA_hE_1	9	-	-	-	-	-	-	17:verbalizer
+[nc_1]	14	-	-	17:k2	-	-	-	-
+[cp_1]	16	-	-	17:k7	-	-	-	-
+[cp_2]	17	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0142a>
+#यू-एस.ए. विश्व का सबसे बड़ा भूतापीय ऊर्जा का संयंत्र है।
+#yU-esa.e. viSva kA sabase badZA BUwApIya UrjA kA saMyaMwra hE.
+#USA has the world’s largest geothermal power plants
+@yU.esa.e	1	-	-	-	-	-	-	29:begin
+@yU.esa.e	1	-	-	-	-	-	-	-
+viSva_11(world_20)	7	-	-	14:r6	-	def	-	-
+viSva_11(world_20)	7	-	-	-	-	def	-	-
+badZA_8(large_25)	10	-	superl	14:mod	-	-	-	-
+badZA_8(large_25)	10	-	superl	-	-	-	-	-
+BUwApIya_1(geothermal_1)	11	-	-	12:mod	-	-	-	-
+BUwApIya_1(geothermal_1)	11	-	-	-	-	-	-	-
+UrjA_1(energy_1)	12	-	-	14:r6	-	-	-	-
+UrjA_1(energy_1)	12	-	-	-	-	-	-	-
+saMyaMwra_3(plant_11)	14	-	-	30:k1s	-	def	-	-
+saMyaMwra_3(plant_11)	14	-	-	-	-	def	-	-
+[ne_1]	29	place	-	30:k1	-	-	-	-
+[ne_1]	29	place	-	-	-	-	-	-
+hE_1-pres	30	-	-	0:main	-	-	-	-
+hE_1-pres	30	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0142b>
+#इसके बाद न्यूजीलैंड, आइसलैंड, फिलीपींस और मध्य अमेरिका विश्व का सबसे बड़ा भूतापीय ऊर्जा का संयंत्र हैं।
+#isake bAxa nyUjIlEMda, AisalEMda, PilIpIMsa Ora maXya amerikA viSva kA sabase baड़A BUwApIya UrjA kA saMyaMwra hEM.
+#This is followed by New Zealand, Iceland, Philippines and Central America.
+nyUjIlEMda	1	-	-	-	-	-	-	2:begin
+[ne_1]	2	place	-	-	-	-	-	17:op1
+AisalEMda	3	-	-	-	-	-	-	4:begin
+[ne_2]	4	place	-	-	-	-	-	17:op2
+PilIpIMsa	5	-	-	-	-	-	-	6:begin
+[ne_3]	6	place	-	-	-	-	-	17:op3
+maXya	7	-	-	-	-	-	-	9:begin
+amerikA	8	-	-	-	-	-	-	9:inside
+[ne_4]	9	place	-	-	-	-	-	17:op4
+viSva_11(world_20)	10	-	-	15:r6	-	def	-	-
+badZA_2(large_5)	12	-	superl	15:mod	-	-	-	-
+BUwApIya_1(geothermal_1)	13	-	-	14:mod	-	-	-	-
+UrjA_1(energy_1)	14	-	-	15:r6	-	-	-	-
+saMyaMwra_3(plant_11)	15	-	-	16:k1s	-	-	-	-
+hE_1-pres	16	-	-	0:main	-	alAvA_1	-	-
+[conj_1]	17	-	-	16:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0143>
+#भारत में भूतापीय ऊर्जा के संयंत्र हिमाचल प्रदेश में मणिकरण और लद्दाख में पूगाघाटी में स्थित हैं।
+#BArawa meM BUwApIya UrjA ke saMyaMwra himAcala praxeSa meM maNikaraNa Ora laxxAKa meM pUgAGAtI meM sWiwa hEM.
+#In India, geothermal plants are located in Manikaran in Himachal Pradesh and Puga Valley in Ladakh.
+BArawa	1	-	-	-	-	-	-	24:begin
+BUwApIya_1(geothermal_1)	3	-	-	4:mod	-	-	-	-
+UrjA_1(energy_1)	4	-	-	6:r6	-	-	-	-
+saMyaMwra_3(plant_11)	6	-	-	17:k1	-	def	-	-
+himAcala	7	-	-	-	-	-	-	20:begin
+praxeSa	8	-	-	-	-	-	-	20:inside
+maNikaraNa	10	-	-	-	-	-	-	25:begin
+laxxAKa	12	-	-	-	-	-	-	26:begin
+pUgAGAtI	14	-	-	-	-	-	-	27:begin
+sWiwa_1(situated_1)	16	-	-	17:k1s	-	-	-	-
+hE_1-pres	17	-	-	0:main	-	-	-	-
+[ne_2]	20	place	-	-	-	-	-	21:whole
+[spatial_1]	21	-	-	-	-	-	-	23:op1
+[spatial_2]	22	-	-	-	-	-	-	23:op2
+[conj_1]	23	-	-	-	-	-	-	28:part
+[ne_1]	24	place	-	-	-	-	-	28:whole
+[ne_3]	25	place	-	-	-	-	-	21:part
+[ne_4]	26	place	-	-	-	-	-	22:whole
+[ne_5]	27	place	-	-	-	-	-	22:part
+[spatial_3]	28	-	-	17:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0144a>
+#जैविक अपशिष्ट जैसे मृत पौधे और जंतुओं के अवशेष, पशुओं का गोबर, रसोई के अपशिष्ट को गैसीय ईंधन में बदला जा सकता है।
+#jEvika apaSiRta jEse mqwa pOXe Ora jaMwuoM ke avaSeRa, paSuoM kA gobara, rasoI ke apaSiRta ko gEsIya IMXana meM baxalA jA sakawA hE.
+#Organic waste such as dead plant and animal material, animal dung and kitchen waste can be converted into a gaseous fuel.
+jEvika_2	1	-	-	-	-	-	-	-
+jEvika_1	1	-	-	2:mod	-	-	-	-
+apaSiRta_1(waste_1)	2	-	-	-	-	-	-	-
+apaSiRta_1(waste_1)	2	-	-	22:k2	-	-	-	-
+mqwa_1(dead_4)	4	-	-	-	-	-	-	-
+mqwa_1(dead_4)	4	-	-	32:mod	-	-	-	-
+pOXA_1(plant_6)	5	-	pl	-	-	-	-	-
+pOXA_1(plant_6)	5	-	pl	-	-	-	-	32:op1
+jaMwu_2(animal_1)	7	anim	pl	-	-	-	-	-
+jaMwu_2(animal_1)	7	anim	pl	-	-	-	-	32:op2
+avaSeRa_2(remains_1)	9	-	-	-	-	-	-	-
+avaSeRa_2(remains_1)	9	-	-	-	-	-	-	33:op1
+paSu_1(animal_3)	11	anim	-	-	-	-	-	-
+paSu_1(animal_3)	11	anim	-	13:r6	-	-	-	-
+gobara_1(dung_2)	13	-	-	-	-	-	-	-
+gobara_1(dung_2)	13	-	-	-	-	-	-	33:op2
+rasoI_1(kitchen_1)	15	-	-	17:r6	-	-	-	-
+rasoI_1(kitchen_1)	15	-	-	-	-	-	-	-
+apaSiRta_1(waste_1)	17	-	-	-	-	-	-	33:op3
+apaSiRta_1(waste_1)	17	-	-	-	-	-	-	-
+gEsIya_1(gaseous_2)	19	-	-	20:mod	-	-	-	-
+gEsIya_1(gaseous_2)	19	-	-	-	-	-	-	-
+IMXana_1(fuel_2)	20	-	-	22:k7	-	-	-	-
+IMXana_1(fuel_2)	20	-	-	-	-	-	-	-
+baxala_1-yA_jA_sakawA_hE_1	22	-	-	0:main	-	-	-	-
+baxala_1-yA_jA_sakawA_hE_1	22	-	-	-	-	-	-	-
+[conj_1]	32	-	-	9:r6	-	-	-	-
+[conj_1]	32	-	-	-	-	-	-	-
+[conj_2]	33	-	-	2:re	-	-	-	-
+[conj_2]	33	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0144b>
+#इसे बायोगैस कहते हैं।
+#-
+#ise bAyogEsa kahawe hEM.
+$wyax	1	-	-	3:k2	Geo_ncert_8stnd_3ch_0144a.20:coref	proximal	-	-
+kaha_1-wA_hE_1	3	-	-	0:main	-	-	-	-
+bAyogEsa_1(biogas_1)	4	-	-	3:k2s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0145>
+#जैविक अपशिष्ट बैक्टीरिया द्वारा बायोगैस संयंत्र में बायोगैस में अपघटित होते हैं जो कि अनिवार्य रूप में मिथेन और कार्बन डाईऑक्साइड का मिश्रण है।
+#jEvika apaSiRta bEktIriyA xvArA bAyogEsa saMyaMwra meM bAyogEsa meM apaGatiwa howe hEM jo ki anivArya rUpa meM miWena Ora kArbana dAIOYksAida kA miSraNa hE.
+#The organic waste is decomposed by bacteria in biogas digesters to emit biogas which is essentially a mixture of methane and carbon dioxide.
+jEvika_1	1	-	-	2:mod	-	-	-	-
+apaSiRta_1(waste_1)	2	-	-	9:k1	-	def	-	-
+bEktIriyA_1(bacteria_2)	3	-	-	9:k3	-	-	-	-
+bAyogEsa_1(biogas_1)	5	-	-	-	-	-	-	25:mod
+saMyaMwra_3(plant_11)	6	-	-	-	-	-	-	25:head
+apaGatiwa_1(decomposed_1)	8	-	-	9:k1s	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+$yax	11	-	-	22:k1	-	-	-	-
+anivArya_3(essential_1)	13	-	-	22:krvn	-	-	-	-
+miWena_1(methane_1)	16	-	-	-	-	-	-	26:op1
+kArbana+dAIOYksAida_1	18	-	-	-	-	-	-	26:op2
+miSraNa_1(mixture_2)	21	-	-	22:k1s	-	-	-	-
+hE_1-pres	22	-	-	27:rcelab	-	-	-	-
+[nc_1]	25	-	-	9:k7p	-	-	-	-
+[conj_1]	26	-	-	21:r6	-	-	-	-
+bAyogEsa_1(biogas_1)	27	-	-	9:k7	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0146a>
+#बायोगैस खाना पकाने तथा विद्युत उत्पादन का सर्वोत्तम ईंधन है।
+#bAyogEsa KAnA pakAne waWA vixyuwa uwpAxana kA sarvowwama IMXana hE.
+#Biogas is an excellent fuel for cooking and lighting.
+bAyogEsa_1(biogas_1)	1	-	-	10:k1	-	-	-	-
+KAnA_1(food_1)	2	-	-	3:k2	-	-	-	-
+pakA_2(cook_1)	3	-	-	-	-	-	-	14:op1
+vixyuwa_3(electricity_2)	5	-	-	-	-	-	-	13:mod
+uwpAxana_1(production_2)	6	-	-	-	-	-	-	13:head
+sarvowwama_2(best_13)	8	-	-	9:mod	-	-	-	-
+IMXana_1(fuel_2)	9	-	-	10:k1s	-	-	-	-
+hE_1-pres	10	-	-	0:main	Geo_ncert_8stnd_3ch_0146b.12:kAryakAraNa	-	-	-
+[nc_1]	13	-	-	-	-	-	-	14:op2
+[conj_1]	14	-	-	9:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0146b>
+#और इससे प्रति वर्ष बड़ी मात्रा में जैव खाद का उत्पादन होता है।
+#Ora isase prawi varRa badI mAwrA meM jEva KAxa kA uwpAxana howA hE.
+#Ora isase prawi varRa badZI mAwrA meM jEva KAxa kA uwpAxana howA hE.
+varRa_1(year_4)	4	-	-	12:freq	-	-	-	-
+badZA_2(large_5)	5	-	-	6:mod	-	-	-	-
+mAwrA_9(amount_10)	6	-	-	12:k7	-	-	-	-
+jEva_3(organic_1)	8	-	-	9:mod	-	-	-	-
+KAxa_1(manure_1)	9	-	-	11:r6	-	-	-	-
+uwpAxana_1(production_2)	11	-	-	12:k1	-	-	-	-
+ho_1-wA_hE_1	12	-	-	0:main	Geo_ncert_8stnd_3ch_0146a.10:samuccaya	-	-	-
+prawi_11	16	-	-	4:quant	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0147a>
+#ऊर्जा सर्वव्यापी है।
+#UrjA sarvavyApI hE.
+#Energy is everywhere but we can see that harnessing this energy is both Biogas difficult as well as costly.
+UrjA_1(energy_1)	1	-	-	3:k1	-	-	-	-
+sarvavyApI_1(universal_10)	2	-	-	3:k1s	-	-	-	-
+hE_1-pres	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0147b>
+#लेकिन इस ऊर्जा का विदोहन बहुत ही कठिन और खर्चीला है।
+#lekina isa UrjA kA vixohana bahuwa hI kaTina Ora KarcIlA hE.
+#Energy is everywhere but we can see that harnessing this energy is both Biogas difficult as well as costly.
+$wyax	2	-	-	3:dem	-	proximal	-	-
+UrjA_1(energy_1)	3	-	-	5:r6	-	-	-	-
+vixohana_1(harness_1)	5	-	-	11:k1	-	-	-	-
+bahuwa_7(very_1)	6	-	-	12:quant	-	hI_2	-	-
+kaTina_1(difficult_1)	8	-	-	-	-	-	-	12:op1
+KarcIlA_4	10	-	-	-	-	-	-	12:op2
+hE_1-pres	11	-	-	0:main	Geo_ncert_8stnd_3ch_0147a.3:viroXI	-	-	-
+[conj_1]	12	-	-	11:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0148>
+#हममें से प्रत्येक व्यक्ति ऊर्जा को नष्ट न करके एक भिन्नता ला सकता है।
+#hamameM se prawyeka vyakwi UrjA ko naRta na karake eka BinnawA lA sakawA hE.
+#Each one of us can make a difference by not wasting energy.
+$speaker	1	anim	pl	4:rn	-	-	-	-
+prawyeka_1(each_1)	3	-	-	4:quant	-	-	-	-
+vyakwi_1(individual_6)	4	-	-	12:k1	-	-	-	-
+UrjA_1(energy_1)	5	-	-	16:k2	-	def	-	-
+naRta_1(destroyed_5)	7	-	-	-	-	-	-	16:kriyAmUla
+na_1(not_2)	8	-	-	16:neg	-	-	-	-
+kara_17(do_2)	9	-	-	-	-	-	-	16:verbalizer
+eka_2(a_1)	10	-	-	11:quant	-	-	-	-
+BinnawA_1(difference_4)	11	-	-	12:k2	-	-	-	-
+lA_1-0_sakawA_hE_1	12	-	-	0:main	-	-	-	-
+[cp_1]	16	-	-	12:krvn	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0149>
+#ऊर्जा की बचत ही ऊर्जा का उत्पादन है।
+#UrjA kI bacawa hI UrjA kA uwpAxana hE.
+#Energy saved is energy generated.
+UrjA_1(energy_1)	1	-	-	3:r6	-	-	-	-
+bacawa_1(saving_1)	3	-	-	8:k1	-	hI_1	-	-
+UrjA_1(energy_1)	5	-	-	7:r6	-	-	-	-
+uwpAxana_1(production_2)	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0150a>
+#अभी आप कार्य करें।
+#aBI Apa kArya kareM .
+#aBI Apa kArya kareM.
+aBI_4(now_9)	1	-	-	6:k7t	-	-	-	-
+$addressee	2	anim	-	6:k1	-	respect	-	-
+kArya_4(action_4)	3	-	-	-	-	-	-	6:kriyAmUla
+kara_1-o_1	4	-	-	-	-	-	-	6:verbalizer
+[cp_1]	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0150b>
+#एवं आप ऊर्जा के भविष्य को सुनहरा बनाएँ।
+#evaM UrjA ke BaviRya ko sunaharA banAez.
+#evaM Apa UrjA ke BaviRya ko sunaharA banAez.
+UrjA_1(energy_1)	2	-	-	4:r6	-	def	-	-
+BaviRya_2(future_6)	4	-	-	7:k2	-	-	-	-
+sunaharA_4	6	-	-	7:k2s	-	-	-	-
+banA_1-o_1	7	-	-	0:main	Geo_ncert_8stnd_3ch_0150a.6:samuccaya	-	-	-
+$addressee	8	anim	-	7:k1	-	respect	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0151a>
+#संपीडित प्राकृतिक गैस एक प्रचलित पर्यावरण हितैषी ऑटोमोबाइल ईंधन है।
+#saMpIdiwa prAkqwika gEsa eka pracaliwa paryAvaraNa hiwERI OYtomobAila IMXana hE.
+#Compressed natural gas is a popular eco- friendly automobile fuel
+saMpIdiwa_1	1	-	-	15:mod	-	-	-	-
+prAkqwika_1(natural_7)	2	-	-	-	-	-	-	15:mod
+gEsa_1(gas_1)	3	-	-	-	-	-	-	15:head
+eka_2(a_1)	4	-	-	14:quant	-	-	-	-
+pracaliwa_7	5	-	-	14:mod	-	-	-	-
+paryAvaraNa_1	6	-	-	-	-	-	-	13:mod
+hiwERI_7	7	-	-	-	-	-	-	13:head
+^OYtomobAila_1	8	-	-	-	-	-	-	14:mod
+IMXana_1(fuel_2)	9	-	-	-	-	-	-	14:head
+hE_1-pres	10	-	-	0:main	-	-	-	-
+[compound_1]	13	-	-	14:mod	-	-	-	-
+[nc_2]	14	-	-	10:k1s	-	-	-	-
+[nc_1]	15	-	-	10:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0151b>
+#क्योंकि यह पेट्रोलियम और डीजल की तुलना में कम प्रदूषित करती हैं।
+#kyoMki yaha petroliyama Ora dIjala kI wulanA meM kama praxURiwa karawI hEM.
+#kyoMki yaha petroliyama Ora dIjala kI wulanA meM kama praxURiwa karawI hEM.
+-	-	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0152>
+#विश्व का पहला जल उत्पन्न करने वाला देश नॉर्वे था।
+#viSva kA pahalA jala uwpanna karane vAlA xeSa nOYrve WA.
+#Norway was the first country in the world to devlop hydroelectricity.
+viSva_11(world_20)	1	-	-	4:r6	-	def	-	-
+pahalA_1	3	-	-	4:ord	-	-	-	-
+jala_1(water_3)	4	-	-	12:k2	-	-	-	-
+uwpanna_6(generate_2)	5	-	-	-	-	-	-	12:kriyAmUla
+kara_17(do_2)	6	-	-	-	-	-	-	12:verbalizer
+xeSa_1(country_1)	8	-	-	10:k1	-	-	-	-
+nOYrve	9	-	-	-	-	-	-	13:begin
+hE_1-past	10	-	-	0:main	-	-	-	-
+[cp_1]	12	-	-	8:mod	-	-	-	-
+[ne_1]	13	place	-	10:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0153>
+#विश्व का प्रथम सौर और पवन चालित बस अड्डा स्कॉटलैंड में हैं।
+#viSva kA praWama sOra Ora pavana cAliwa basa addA skOYtalEMda meM hEM.
+#The site of the world’s first solar and wind powered bus shelter is in Scotland.
+viSva_11(world_20)	1	-	-	3:r6	-	def	-	-
+praWama_3(first_7)	3	-	-	15:ord	-	-	-	-
+sOra_1(solar_1)	4	-	-	-	-	-	-	16:op1
+pavana_3(wind_2)	6	-	-	-	-	-	-	16:op2
+cAliwa_1	7	-	-	-	-	-	-	17:head
+basa_7(bus_1)	8	-	-	-	-	-	-	15:mod
+addA_1	9	-	-	-	-	-	-	15:head
+skOYtalEMda	10	-	-	-	-	-	-	18:begin
+hE_1-pres	12	-	-	0:main	-	-	-	-
+[nc_1]	15	-	-	12:k1	-	def	-	-
+[conj_1]	16	-	-	-	-	-	-	17:mod
+[compound_1]	17	-	-	15:mod	-	-	-	-
+[ne_1]	18	place	-	12:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0154>
+#विश्व का पहला ज्वारीय ऊर्जा स्टेशन फ्रांस में बनाया गया।
+#viSva kA pahalA jvArIya UrjA steSana PrAMsa meM banAyA gayA.
+#The first tidal energy station was built in France.
+viSva_11(world_20)	1	-	-	6:r6	-	def	-	-
+pahalA_1	3	-	-	13:ord	-	-	-	-
+jvArIya_1(tidal_2)	4	-	-	13:mod	-	-	-	-
+UrjA_1(energy_1)	5	-	-	-	-	-	-	13:mod
+steSana_1(station_3)	6	-	-	-	-	-	-	13:head
+PrAMsa	7	-	-	-	-	-	-	14:begin
+banA_1-yA_jA_yA_hE_1	9	-	-	0:main	-	-	-	-
+[nc_1]	13	-	-	9:k2	-	-	-	-
+[ne_1]	14	place	-	9:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0155>
+#विश्व की प्राचीनतम शैलैं पश्चिमी ऑस्ट्रेलिया में हैं।
+#viSva kI prAcInawama SElEM paScimI OYstreliyA meM hEM.
+#The oldest rocks in the world are in Western Australia.
+viSva_11(world_20)	1	-	-	6:r6	-	def	-	-
+prAcIna_2(old_6)	3	-	superl	10:mod	-	-	-	-
+paScimI	5	-	-	-	-	-	-	9:begin
+OYstreliyA	6	-	-	-	-	-	-	9:inside
+hE_1-pres	8	-	-	0:main	-	-	-	-
+[ne-1]	9	place	-	8:k7p	-	-	-	-
+SEla_1(rock_5)	10	-	pl	8:k1	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0156>
+#आप निम्नलिखित प्रश्नों के उत्तर दीजिए।
+#Apa nimnaliKiwa praSnoM ke uwwara xIjie.
+#Answer the following questions.
+nimnaliKiwa_3	1	anim	-	6:k1	-	respect	-	-
+nimnaliKiwa_1	2	-	-	3:mod	-	-	-	-
+praSna_1(question_3)	3	-	-	5:r6	-	def	-	-
+uwwara_1(answer_1)	5	-	-	6:k2	-	-	-	-
+xe_1-o_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0157>
+#प्रतिदिन आप आपके उपयोग में आने वाली तीन सामान्य खनिजों के नाम बताइए।
+#prawixina Apa ke upayoga meM Ane vAlI wIna sAmAnya KanijoM ke nAma bawAie.
+#prawixina Apa Apake upayoga meM Ane vAlI wIna sAmAnya KanijoM ke nAma bawAie.
+prawixina_4(everyday_2)	1	-	-	6:freq	-	-	-	-
+$addressee	2	anim	-	4:r6	-	respect	-	-
+upayoga_1(use_2)	4	-	-	6:k7	-	-	-	-
+A_1(come_1)	6	-	-	10:nmod	-	-	-	-
+3	8	numex	-	10:card	-	-	-	-
+sAmAnya_2(common_6)	9	-	-	10:mod	-	-	-	-
+Kanija_1(mineral_1)	10	-	pl	12:r6	-	-	-	-
+nAma_1(name_3)	12	-	-	13:k2	-	-	-	-
+bawA_1-o_1	13	-	-	0:main	-	-	-	-
+$addressee	14	anim	-	13:k1	-	respect	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0158>
+#अयस्क क्या है?
+#ayaska kyA hE?
+#What is an ore?
+ayaska_1(ore_1)	1	-	-	3:k1	-	-	-	-
+$kim	2	-	-	3:k2	-	-	-	-
+hE_1-pres	3	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0159>
+#धात्विक खनिजों के आए सब सामान्यतः कहां पाए जाते हैं?
+#XAwvika KanijoM ke Ae saba sAmAnyawaH kahAM pAe jAwe hEM?
+#Where are the ores of metallic minerals generally located?
+XAwvika_1(metallic_2)	1	-	-	2:mod	-	-	-	-
+Kanija_1(mineral_1)	2	-	pl	4:r6	-	-	-	-
+ayaska_1(ore_1)	4	-	-	8:k2	-	def	-	-
+saba_1(all_9)	5	-	-	4:quant	-	-	-	-
+sAmAnyawaH_3(generally_10)	6	-	-	8:krvn	-	-	-	-
+kim	7	-	-	8:k7p	-	-	-	-
+pA_1-yA_jA_wA_hE_1	8	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0160>
+#प्राकृतिक गैस संसाधनों में संपन्न 2 प्रदेशों के नाम बताइए।
+#prAkqwika gEsa saMsAXanoM meM saMpanna 2 praxeSoM ke nAma bawAie.
+#Name two regions rich in natural gas resources.
+prAkqwika_1(natural_7)	1	-	-	2:mod	-	-	-	-
+gEsa_1(gas_1)	2	-	-	-	-	-	-	13:mod
+saMsAXana_2(resources_7)	3	-	pl	-	-	-	-	13:head
+saMpanna_10(rich_44)	5	-	-	7:mod	-	-	-	-
+2	6	numex	-	7:card	-	-	-	-
+praxeSa_1(region_6)	7	-	-	9:r6	-	-	-	-
+nAma_1(name_3)	9	-	-	10:k2	-	-	-	-
+bawA_1-o_1	10	-	-	0:main	-	-	-	-
+[nc_1]	13	-	-	5:k7	-	-	-	-
+$addressee	14	anim	-	10:k1	-	respect	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0161>
+#निम्न के लिए आप ऊर्जा के किन स्रोतों का सुझाव देंगे?
+#nimna ke lie Apa UrjA ke kina srowoM kA suJAva xeMge?
+#nimna ke lie Apa UrjA ke kina srowoM kA suJAva xeMge?
+nimna_5(following_6)	1	-	-	11:rt	-	-	-	-
+$addressee	4	anim	-	11:k1	-	respect	-	-
+UrjA_1(energy_1)	5	-	-	8:r6	-	-	-	-
+$kim	7	-	-	8:mod	-	-	-	-
+srowa_1(source_10)	8	-	pl	10:r6	-	-	-	-
+suJAva_3(suggestion_6)	10	-	-	11:k2	-	-	-	-
+xe_1-gA_1	11	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0162>
+#आप पांच तरीके दीजिए जिससे कि आप घर पर ऊर्जा बचा सकते हैं।
+#Apa pAMca warIke xIjie jisase ki Apa Gara para UrjA bacA sakawe hEM.
+#Give five ways in which you can save energy at home.
+$addressee	1	anim	-	4:k1	-	respect	-	-
+5	2	numex	-	3:card	-	-	-	-
+warIkA_4(way_25)	3	-	-	4:k2	-	-	-	-
+xe_1-o_1	4	-	-	0:main	-	-	-	-
+$yax	5	-	-	11:rh	3:coref	-	-	-
+$addressee	7	anim	-	11:k1	-	respect	-	-
+Gara_1(home_1)	8	-	-	11:k7p	-	-	-	-
+UrjA_1(energy_1)	10	-	-	11:k2	-	-	-	-
+bacA_1-sakawA_hE_1	11	-	-	3:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0163>
+#आप सही उत्तर को चिन्हित कीजिए।
+#Apa sahI uwwara ko cinhiwa kIjie.
+#Tick the correct answer.
+$addressee	1	-	-	8:k1	-	respect	-	-
+sahI_1(right_20)	2	-	-	3:mod	-	-	-	-
+uwwara_1(answer_1)	3	-	-	8:k2	-	-	-	-
+cinhiwa_2(marked_2)	5	-	-	-	-	-	-	8:kriyAmUla
+kara_1-e_1	6	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0164>
+#निम्नलिखित में से कौन सी एक खनिजों की विशेषता नहीं है?
+#nimnaliKiwa meM se kOna sI eka KanijoM kI viSeRawA nahIM hE?
+#Which one of the following is NOT a characteristic of minerals?
+nimnaliKiwa_2(following_8)	1	-	-	12:mod	-	-	-	-
+$kim	4	-	-	11:mod	-	sA_1	-	-
+1	6	numex	-	13:card	-	-	-	-
+Kanija_1(mineral_1)	7	-	pl	9:r6	-	-	-	-
+viSeRawA_6(characteristic_10)	9	-	-	11:k1s	-	-	-	-
+nahIM_1(not_1)	10	-	-	11:neg	-	-	-	-
+hE_1-pres	11	-	-	0:main	-	-	-	-
+kAraka_1(factor_2)	12	-	pl	13:rn	-	def	-	-
+kAraka_1(factor_2)	13	-	-	11:k1	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0165>
+#वे प्राकृतिक प्रक्रियाओं द्वारा निर्मित होते हैं।
+#ve prAkqwika prakriyAoM xvArA nirmiwa howe hEM.
+#They are created by natural processes.
+$wyax	1	-	-	6:k1	Geo_ncert_8stnd_3ch_0164.7:coref	distal	-	-
+prAkqwika_1(natural_7)	2	-	-	3:mod	-	-	-	-
+prakriyA_1(process_3)	3	-	-	6:k3	-	-	-	-
+nirmiwa_4(created_1)	5	-	-	6:k2	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0166>
+#उनका एक निश्चित रासायनिक संघटन होता है।
+#unakA eka niSciwa rAsAyanika saMGatana howA hE.
+#They have a definite chemical composition.
+$wyax	1	-	-	5:k1	Geo_ncert_8stnd_3ch_0164.7:coref	distal	-	-
+eka_2(a_1)	2	-	-	5:quant	-	-	-	-
+niSciwa_1(definite_2)	3	-	-	5:mod	-	-	-	-
+rAsAyanika_1(chemical_1)	4	-	-	5:mod	-	-	-	-
+saMGatana_4(composition_8)	5	-	-	6:k1s	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0167>
+#वे असमाप्य होते हैं।
+#ve asamApya howe hEM.
+#They are inexhaustible.
+$wyax	1	-	-	3:k1	Geo_ncert_8stnd_3ch_0164.7:coref	distal	-	-
+asamApya_1(infinite_4)	2	-	-	3:k1s	-	-	-	-
+ho_1-wA_hE_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0168>
+#उनका वितरण असमान होता है।
+#unakA viwaraNa asamAna howA hE.
+#Their distribution is uneven.
+$wyax	1	-	-	2:r6	Geo_ncert_8stnd_3ch_0164.7:coref	distal	-	-
+viwaraNa_1(distribution_6)	2	-	-	4:k1	-	-	-	-
+asamAna_1	3	-	-	4:k1s	-	-	-	-
+ho_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0169>
+#निम्नलिखित में से कौन विश्व में तांबे का अग्रणी उत्पादक है।
+#nimnaliKiwa meM se kOna viSva meM wAMbe kA agraNI uwpAxaka hE.
+#Which one of the following is a leading producer of copper in the world?
+nimnaliKiwa_2(following_8)	1	-	-	12:mod	-	-	-	-
+$kim	4	-	-	11:k1	-	-	-	-
+viSva_11(world_20)	5	-	-	11:k7p	-	-	-	-
+wAMbA_1(copper_3)	7	-	-	10:r6	-	-	-	-
+agraNI_1(leading_1)	9	-	-	10:mod	-	-	-	-
+uwpAxaka_1(producer_1)	10	-	-	11:k1s	-	-	-	-
+hE_1-pres	11	-	-	0:main	-	-	-	-
+vikalpa_1(option_1)	12	-	-	4:rn	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0170>
+#निम्नलिखित प्रक्रियाओं में से कौन-सी आपके रसोई घर में द्रवित पेट्रोलियम गैस को संरक्षित नहीं करेगी।
+#nimnaliKiwa prakriyAoM meM se kOna-sI Apake rasoI Gara meM xraviwa petroliyama gEsa ko saMrakRiwa nahIM karegI.
+#Which one of the following practices will NOT conserve LPG in your kitchen.
+nimnaliKiwa_2(following_8)	1	-	-	2:mod	-	-	-	-
+prakriyA_1(process_3)	2	-	-	20:rn	-	def	-	-
+kim	5	-	-	20:mod	-	sA_4	-	-
+$addressee	6	anim	-	21:r6	-	respect	-	-
+rasoI_1(kitchen_1)	7	-	-	16:k2	-	-	-	21:mod
+Gara_1(home_1)	8	-	-	10:jjmod	-	-	-	21:head
+xraviwa_1(melted_2)	10	-	-	18:mod	-	-	-	-
+petroliyama_1(petroleum_1)	11	-	-	-	-	-	-	18:mod
+gEsa_1(gas_1)	12	-	-	-	-	-	-	18:head
+saMrakRiwa_11(conserved_1)	14	-	-	-	-	-	-	19:kriyAmUla
+nahIM_1	15	-	-	19:neg	-	-	-	-
+kara_1-gA_1	16	-	-	-	-	-	-	19:verbalizer
+[nc_2]	18	-	-	19:k2	-	-	-	-
+[cp_1]	19	-	-	0:main	-	-	-	-
+prakriyA_1(process_3)	20	-	-	19:k1	-	-	-	-
+[nc_1]	21	-	-	19:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0171F>
+#पकाने से पहले दाल को कुछ समय के लिए भीगोना।
+#pakAne se pahale xAla ko kuCa samaya ke lie BIgonA.
+#Soaking the dal for some time before cooking it.
+pakA_11(cooking_20)	1	-	-	4:rblak	-	-	-	-
+pahalA_9(before_1)	3	-	-	10:k7p	-	-	-	-
+xAla_1	4	-	-	10:k2	-	def	-	-
+kuCa_1(some_2)	6	-	-	7:quant	-	-	-	-
+samaya_1(time_8)	7	-	-	10:rt	-	-	-	-
+BIgonA_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0172F>
+#प्रेशर कुकर में खाना पकाना।
+#preSara kukara meM KAnA pakAnA.
+#Cooking food in a pressure cooker.
+^preSara_1	1	-	-	-	-	-	-	7:mod
+kukara_1	2	-	-	-	-	-	-	7:head
+KAnA_1(food_1)	4	-	-	5:k2	-	-	-	-
+pakAnA_1	5	-	-	0:main	-	-	-	-
+[nc_1]	7	-	-	5:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0173F>
+#पकाने के लिए गैस जलाने से पूर्व सब्जी को काट लेना।
+#pakAne ke lie gEsa jalAne se pUrva sabjI ko kAta lenA.
+#Keeping the vegetables chopped before lighting the gas for cooking.
+pakA_1	1	-	-	10:rt	-	-	-	-
+gEsa_1	4	-	-	5:k2	-	def	-	-
+jalA_1	5	-	-	10:rblpk	-	-	-	-
+sabjI_1	8	-	-	10:k2	-	def	-	-
+kAta_1-nA_1	10	-	-	0:main	-	[shade:le_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0174F>
+#खुली कढ़ाई में कम ज्वाला पर भोजन पकाना।
+#KulI kaDZAI meM kama jvAlA para Bojana pakAnA.
+#Cooking food in an open pan kept on low flame.
+KulA_1(open_3)	1	-	-	2:mod	-	-	-	-
+kaDZAI_1	2	-	-	8:k7p	-	-	-	-
+jvAlA	5	-	-	8:k7	-	-	-	-
+Bojana_1	7	-	-	8:k2	-	-	-	-
+pakA_1-nA_1	8	-	-	0:main	-	-	-	-
+kama_1	9	-	-	5:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0175>
+#आप कारण बताइए।
+#Apa kAraNa bawAie.
+#Apa kAraNa bawAie.
+$addressee	1	anim	-	3:k1	-	respect	-	-
+kAraNa_1	2	-	-	3:k2	-	-	-	-
+bawA_1-o_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0176>
+#आपको बड़े बांधों के निर्माण के पूर्व पर्यावरणीय पहलुओं को ध्यान पूर्वक देखना चाहिए।
+#Apako badZe bAMXoM ke nirmANa ke pUrva paryAvaraNIya pahaluoM ko XyAnapUrvaka xeKanA cAhie.
+#Apako badZe bAMXoM ke nirmANa ke pUrva paryAvaraNIya pahaluoM ko XyAna pUrvaka xeKanA cAhie.
+$addressee	1	anim	-	13:k4a	-	respect	-	-
+badZA_1	2	-	pl	3:mod	-	-	-	-
+bAMXa_1	3	-	pl	5:r6	-	-	-	-
+nirmANa_1	5	-	-	9:rblak	-	-	-	-
+paryAvaraNIya_1	8	-	-	9:mod	-	-	-	-
+pahalU_1	9	-	pl	13:k2	-	-	-	-
+XyAnapUrvaka_1	11	-	-	13:krvn	-	-	-	-
+xeKa_1-nA_cAhiE_1	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0177>
+#अधिकांश उद्योग कोयला खानों के पास केंद्रित होते हैं।
+#aXikAMSa uxyoga koyalA KAnoM ke pAsa keMxriwa howe hEM.
+#Most industries are concentrated around coal mines.
+aXikAMSa_1	1	-	-	4:mod	-	-	-	-
+uxyoga_1	2	-	-	-	-	-	-	11:mod
+koyalA_1	3	-	-	-	-	-	-	12:mod
+KAnA_1	4	-	-	-	-	-	-	12:head
+pAsa_1	6	-	-	4:k7p	-	-	-	-
+keMxriwa_1	7	-	-	-	-	-	-	13:kriyAmUla
+ho_1-wA_hE_1	8	-	-	-	-	-	-	13:verbalizer
+[nc_1]	11	-	-	8:rsm	-	-	-	-
+[nc_2]	12	-	-	8:rsm	-	-	-	-
+[cp_1]	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0178>
+#पेट्रोलियम को काला सोना कहा जाता है।
+#petroliyama ko kAlA sonA kahA jAwA hE.
+#Petroleum is referred to as “black gold”.
+petroliyama_1	1	-	-	4:k2	-	-	-	-
+kAlA_1	3	-	-	-	-	-	-	9:kriyAmUla
+so_1	4	-	-	-	-	-	-	9:verbalizer
+kaha_1-yA_jA_wA_hE_1	5	-	-	0:main	-	-	-	-
+[cp_1]	9	-	-	5:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_8stnd_3ch_0179>
+#अखनन पर्यावरणीय चिंता का विषय हो सकता है।
+#aKanana paryAvaraNIya ciMwA kA viRaya ho sakawA hE.
+#Quarrying can become a major environmental concern.
+aKanana	1	-	-	6:k1	-	-	-	-
+paryAvaraNIya_1	2	-	-	3:mod	-	-	-	-
+ciMwA_1	3	-	-	5:r6	-	-	-	-
+viRaya_1	5	-	-	6:k1	-	-	-	-
+ho_1-0_saka_ho_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>

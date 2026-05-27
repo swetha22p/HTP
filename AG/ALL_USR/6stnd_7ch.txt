@@ -1,0 +1,1696 @@
+<segment_id=Geo_ncert_6stnd_7ch_0001>
+#भारत एक बहुत बडे भौगोलिक विस्तार वाला देश है।
+#BArawa eka bahuwa bade BOgolika viswAra vAlA xeSa hE.
+#India is a country of vast geographical expanse.
+BArawa	1	-	-	-	-	-	-	11:begin
+eka_1	2	-	-	8:quant	-	-	-	-
+bahuwa_1	3	-	-	4:intf	-	-	-	-
+badA_1	4	-	-	6:mod	-	-	-	-
+BOgolika_1	5	-	-	6:mod	-	-	-	-
+viswAra_1	6	-	mawupa	8:mod	-	-	-	-
+xeSa_1	8	-	-	9:k1s	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+[ne_1]	11	place	-	9:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0002>
+#उत्तर में यह हिमालय के ऊँचे शिखरों से घिरा है।
+#uwwara meM yaha himAlaya ke Uzce SiKaroM se GirA hE.
+#In the north, it is bound by the lofty Himalayas.
+uwwara_1	1	-	-	10:k7p	-	-	-	-
+$wyax	3	-	-	10:k1	Geo_ncert_6stnd_7ch_0001.11:coref	proximal	-	-
+himAlaya	4	-	-	-	-	-	-	11:begin
+UzcA_1	6	-	-	7:mod	-	def	-	-
+SiKara_1	7	-	pl	9:k2as	-	-	-	-
+Gira_1	9	-	kqw	10:k1s	-	-	-	-
+hE_1-pres	10	-	-	0:main	-	-	-	-
+[ne_1]	11	place	-	7:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0003>
+#पश्चिम में अरब सागर, पूर्व में बंगाल की खाडी तथा दक्षिण में हिंद महासागर भारतीय प्रायद्वीप के तटों पर लहराते हैं।
+#paScima meM araba sAgara, pUrva meM baMgAla kI KAdI waWA xakRiNa meM hiMxa mahAsAgara BArawIya prAyaxvIpa ke watoM para laharAwe hEM.
+#Arabian Sea in the west, the Bay of Bengal in the east and the Indian Ocean in the south, wash the shores of the Indian peninsula.
+paScima_1	1	place	-	-	-	def	-	27:whole
+araba	3	-	-	-	-	-	-	24:begin
+sAgara	4	-	-	-	-	-	-	24:inside
+pUrva_1	6	-	-	-	-	def	-	28:whole
+baMgAla	8	-	-	-	-	-	-	34:begin
+KAdI	10	-	-	-	-	-	-	34:inside
+xakRiNa_1	12	place	-	-	-	def	-	29:whole
+hiMxa	14	-	-	-	-	-	-	25:begin
+mahAsAgara	15	-	-	-	-	-	-	25:inside
+BArawIya_1	16	-	-	17:mod	-	-	-	-
+prAyaxvIpa_1	17	-	-	19:r6	-	-	-	-
+wata_1	19	place	pl	21:k7p	-	def	-	-
+laharA_1-wA_hE_1	21	-	-	0:main	-	-	-	-
+[ne_1]	24	-	-	-	-	-	-	27:part
+[ne_3]	25	-	-	-	-	def	-	29:part
+[spatial_1]	27	-	-	-	-	-	-	30:op1
+[spatial_2]	28	-	-	-	-	-	-	30:op2
+[spatial_3]	29	-	-	-	-	-	-	30:op3
+[conj_1]	30	-	-	21:k1	-	-	-	-
+kI	33	-	-	-	-	-	-	34:inside
+[ne_2]	34	-	-	-	-	def	-	28:part
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0004>
+#भारत का क्षेत्रफल 32.8 लाख वर्ग किमी. है।
+#BArawa kA kRewraPala 32.8 lAKa varga kimI. hE.
+#India has an area of about 3.28 million sq. km.
+BArawa	1	-	-	-	-	-	-	10:begin
+kRewraPala_1	3	-	-	8:k1	-	-	-	-
+3280000	4	-	-	-	-	-	-	11:count
+varga+kilomItara_1	6	-	-	-	-	-	-	11:unit
+hE_1-pres	8	-	-	0:main	-	-	-	-
+[ne_1]	10	place	-	3:r6	-	-	-	-
+[area_meas_1]	11	-	-	8:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0005a>
+#उत्तर में कश्मीर से लेकर दक्षिण में कन्याकुमारी तक इसका विस्तार लगभग 3,200 किमी. है।
+#uwwara meM kaSmIra se lekara xakRiNa meM kanyAkumArI waka isakA viswAra lagaBaga 3,200 kimI. hE.
+#The north-south extent from Kashmir to Kanyakumari is about 3,200 km. And the east-west extent from Arunachal Pradesh to Kuchchh is about 2,900 km.
+uwwara_1	1	place	-	-	-	-	-	19:whole
+kaSmIra	3	-	-	-	-	-	-	24:begin
+xakRiNa_1	6	-	-	-	-	-	-	20:whole
+kanyAkumArI	8	-	-	-	-	-	-	26:begin
+$wyax	10	-	-	11:r6	Geo_ncert_6stnd_7ch_0004.10:coref	proximal	-	-
+viswAra_1	11	-	-	17:k1	-	-	-	-
+3200	13	numex	-	-	-	lagaBaga_1	-	22:count
+kilomItara_1	16	-	-	-	-	-	-	22:unit
+hE_1-pres	17	-	-	0:main	-	-	-	-
+[spatial_1]	19	-	-	-	-	-	-	21:start
+[spatial_2]	20	-	-	-	-	-	-	21:end
+[span_1]	21	-	-	17:k7p	-	-	-	-
+[width_meas_1]	22	-	-	17:k1s	-	-	-	-
+[ne_1]	24	place	-	-	-	-	-	19:part
+[ne_2]	26	-	-	-	-	-	-	20:part
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0005b>
+#तथा पूर्व में अरुणाचल प्रदेश से लेकर पश्चिम में कच्छ तक इसका विस्तार लगभग 2,900 किमी. तक है।
+#waWA pUrva meM aruNAcala praxeSa se lekara paScima meM kacCa waka isakA viswAra lagaBaga 2,900 kimI. waka hE.
+#The north-south extent from Kashmir to Kanyakumari is about 3,200 km. And the east-west extent from Arunachal Pradesh to Kuchchh is about 2,900 km.
+pUrva_1	1	place	-	-	-	def	-	22:whole
+aruNAcala	3	-	-	-	-	-	-	21:begin
+praxeSa	4	-	-	-	-	-	-	21:inside
+paScima_1	7	place	-	-	-	-	-	25:whole
+kacCa	9	-	-	-	-	-	-	28:begin
+$wyax	11	-	-	12:r6	Geo_ncert_6stnd_7ch_0004.10:coref	proximal	-	-
+viswAra_1	12	-	-	19:k1	-	-	-	-
+2900	14	numex	-	-	-	-	-	24:count
+kilomItara_1	17	-	-	-	-	-	-	24:unit
+hE_1-pres	19	-	-	0:main	Geo_ncert_6stnd_7ch_0005a.19:samuccaya	-	-	-
+[ne_2]	21	place	-	-	-	-	-	22:part
+[spatial_1]	22	-	-	-	-	-	-	23:start
+[span_1]	23	-	-	19:k7p	-	-	-	-
+[dist_meas_1]	24	-	-	19:k1s	-	-	-	-
+[spatial_2]	25	-	-	-	-	-	-	23:end
+[ne_4]	28	place	-	-	-	-	-	25:part
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0006>
+#इस भिन्नता में भी हम एकता को पाते हैं,जो  हमारी परम्पराओं में दिखती है।
+#isa BinnawA meM BI hama ekawA ko pAwe hEM, jo hamArI paramparAoM meM xiKawI hE.
+#There is a great variety in the climate, vegetation, wildlife as well as in the language and culture.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+BinnawA_1	2	-	-	8:k7	-	BI_2	-	-
+$speaker	5	anim	pl	8:k1	-	-	-	-
+ekawA_1	6	-	-	8:k2	-	-	-	-
+pA_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+$yax	9	-	-	12:k1	6:coref	proximal	-	-
+$speaker	10	anim	pl	11:r6	-	-	-	-
+paramparA_1	11	-	pl	12:k7	-	-	-	-
+xiKa_1-wA_hE_1	12	-	-	6:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0006b>
+#जो हमारी परम्पराओं में दिखती है।
+#jo hamArI paramparAoM meM xiKawI hE.
+#There is a great variety in the climate, vegetation, wildlife as well as in the language and culture.
+$wyax	1	-	-	3:r6	-	-	-	-
+xiKa_1-wA_hE_1	2	-	-	0:main	-	-	-	-
+paramparA_1	3	-	pl	2:k7	-	-	-	-
+$yax	4	-	-	2:k1	Geo_ncert_6stnd_7ch_0006a.6:coref	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0007a>
+#यही कारण यह है।
+#yahI kAraNa yaha hE.
+#In this diversity, we find unity that is reflected in traditions that bind us as one nation.
+$wyax	1	-	-	4:k1	-	hI_1	-	-
+kAraNa_1	2	-	-	4:k1s	-	-	-	-
+hE_1-pres	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0007b>
+#कि हम एक राष्ट्र में बंधे हैं।
+#ki hama eka rARtra meM baMXe hEM.
+#In this diversity, we find unity that is reflected in traditions that bind us as one nation.
+$speaker	1	anim	pl	6:k1	-	-	-	-
+eka_2	2	-	-	3:quant	-	-	-	-
+rARtra_1	3	-	-	5:k7p	-	-	-	-
+baMXA_1	5	-	kqw	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0008>
+#वर्ष 2011 से अब तक भारत की आबादी 120 करोड से अधिक हो चुकी है।
+#varRa 2011 se aba waka BArawa kI AbAxI 120 karoda se aXika ho cukI hE.
+#India has a population of more than one hundred twenty crores since the year 2011.
+2011	2	yoc	-	-	-	-	-	18:start
+aba_1	4	-	-	-	-	-	-	18:end
+BArawa	6	-	-	-	-	-	-	17:begin
+AbAxI_1	8	-	-	13:k1	-	-	-	-
+1200000000	9	-	compermore	19:quantmore	-	-	-	-
+ho_1-0_cukA_hE_1	13	-	-	0:main	-	-	-	-
+[ne_1]	17	place	-	8:r6	-	-	-	-
+[span_1]	18	-	-	13:k7t	-	-	-	-
+AbAxI_1	19	-	-	13:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0009>
+#यह चीन के बाद विश्व का दूसरा सबसे अधिक जनसंख्या वाला देश है।
+#yaha cIna ke bAxa viSva kA xUsarA sabase aXika janasaMKyA vAlA xeSa hE.
+#It is the second most populous country of the world after China.
+$wyax	1	-	-	-	Geo_ncert_6stnd_7ch_0008.6:coref	proximal	-	15:op1
+cIna	2	-	-	-	-	-	-	14:begin
+viSva_1	5	-	-	12:r6	-	def	-	-
+xUsarA_1	7	-	-	12:ord	-	-	-	-
+janasaMKyA_1	10	-	superl/mawup	12:mod	-	-	-	-
+xeSa_1	12	-	-	13:k1s	-	-	-	-
+hE_1-pres	13	-	-	0:main	-	-	-	-
+[ne_1]	14	place	-	-	-	-	-	15:op2
+[conj_1]	15	-	-	13:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0010h>
+#स्थिति
+#sWiwi
+#situation
+-	-	-	-	-	-	-	-	-
+%heading
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0010>
+#भारत उत्तरी गोलार्ध में स्थित है।
+#BArawa uwwarI golArXa meM sWiwa hE.
+#India is located in the northern hemisphere.
+BArawa	1	-	-	-	-	-	-	8:begin
+uwwarI_1	2	-	-	3:mod	-	def	-	-
+golArXa_1	3	place	-	6:k7p	-	-	-	-
+sWiwa_1	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+[ne_1]	8	place	-	6:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0011>
+#कर्क रेखा ( 23°30' उ.) देश के लगभग मध्य भाग से होकर गुजरती है (चित्र 7.2)।
+#karka reKA ( 2330' u.) xeSa ke lagaBaga maXya BAga se hokara gujarawI hE (ciwra 7.2).
+#The Tropic of Cancer (23°30'N) passes almost halfway through the country
+karka	1	-	-	-	-	-	-	21:begin
+reKA	2	-	-	-	-	-	-	21:inside
+23°30	4	-	-	5:nmod__adj	-	-	-	-
+u.	5	-	-	2:re	-	-	-	-
+xeSa_1	7	-	-	9:r6	-	def	-	-
+maXya_1	10	-	-	11:mod	-	-	-	-
+BAga_1	11	-	-	14:rp	-	-	-	-
+gujara_1-wA_hE_1	14	-	-	0:main	-	-	-	-
+[ne_1]	21	-	-	14:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0012>
+#दक्षिण से उत्तर की ओर भारत की मुख्य भूमि का विस्तार 8°4' उ. तथा 37°6' उ. अक्षांशों के बीच है।
+#xakRiNa se uwwara kI ora BArawa kI muKya BUmi kA viswAra 84' u. waWA 376' u. akRAMSoM ke bIca hE.
+#From south to north, main land of India extends between 8°4'N and 37°6'N latitudes.
+xakRiNa_1	1	-	-	20:k5	-	-	-	-
+uwwara_1	3	-	-	20:rd	-	-	-	-
+ora_1	5	-	-	3:k7p	-	-	-	-
+BArawa	6	-	-	-	-	-	-	22:begin
+muKya_1	8	-	-	9:mod	-	-	-	-
+BUmi_1	9	-	-	11:r6	-	-	-	-
+viswAra_1	11	-	-	-	-	-	-	24:op1
+8°4	12	-	-	-	-	-	-	23:begin
+u.	13	-	-	-	-	-	-	23:inside
+37°6	15	-	-	16:nmod__adj	-	-	-	-
+u.	16	-	-	-	-	-	-	24:op3
+akRAMSa_1	17	-	pl	-	-	-	-	24:op4
+bIca_1	19	-	-	17:k7p	-	-	-	-
+hE_1-pres	20	-	-	0:main	-	-	-	-
+[ne_1]	22	place	-	9:r6	-	-	-	-
+[ne_2]	23	-	-	-	-	-	-	24:op2
+[conj_1]	24	-	-	20:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0013>
+#पश्चिम से लेकर पूर्व तक भारत का विस्तार 68°7' पू. तथा 97°25' पू. देशांतरों के बीच है।
+#paScima se lekara pUrva waka BArawa kA viswAra 687' pU. waWA 9725' pU. xeSAMwaroM ke bIca hE.
+#From west to east, India extends between 68°7'E and 97°25'E longitudes.
+paScima_1	1	-	-	-	-	-	-	21:start
+pUrva_1	4	-	-	-	-	-	-	21:end
+BArawa	6	-	-	-	-	-	-	19:begin
+viswAra_1	8	-	-	-	-	-	-	22:op1
+68°7	9	-	-	-	-	-	-	20:begin
+pU.	10	-	-	-	-	-	-	20:inside
+97°25	12	-	-	13:nmod__adj	-	-	-	-
+pU.	13	-	-	-	-	-	-	22:op3
+xeSAMwara_1	14	-	-	17:k7	-	-	-	-
+bIca_1	16	-	-	14:k7p	-	-	-	-
+hE_1-pres	17	-	-	0:main	-	-	-	-
+[ne_1]	19	place	-	8:r6	-	-	-	-
+[ne_2]	20	-	-	-	-	-	-	22:op2
+[span_1]	21	-	-	17:k7t	-	-	-	-
+[conj_1]	22	-	-	17:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0014a>
+#अगर हम विश्व को पूर्वी एवं पश्चिमी गोलार्ध में बाँटते हैं।
+#agara hama viSva ko pUrvI evaM paScimI golArXa meM bAztawe hEM.
+#If we divide the world into eastern and western hemispheres, which hemisphere would India belong to?
+$speaker	1	anim	pl	9:k1	-	-	-	-
+viSva_1	2	-	-	9:k2	-	def	-	-
+pUrvI_1	4	-	-	-	-	-	-	12:op1
+paScimI_1	6	-	-	-	-	-	-	12:op2
+golArXa_1	7	-	-	9:k7	-	-	-	-
+bAzta_1-wA_hE_1	9	-	-	0:main	Geo_ncert_6stnd_7ch_0014b.7:AvaSyakawApariNAma	-	-	-
+[conj_1]	12	-	-	7:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0014b>
+#तो भारत की स्थिति किस गोलार्ध में होगी?
+#wo BArawa kI sWiwi kisa golArXa meM hogI?
+#If we divide the world into eastern and western hemispheres, which hemisphere would India belong to?
+BArawa	1	-	-	-	-	-	-	9:begin
+sWiwi_1	3	-	-	7:k1	-	-	-	-
+$kim	4	-	-	5:mod	-	-	-	-
+golArXa_1	5	-	-	7:k7p	-	-	-	-
+ho_1-gA_1	7	-	-	0:main	-	-	-	-
+[ne_1]	9	place	-	3:r6	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0015>
+#बहुत बडे देशांतरीय विस्तार लगभग 29° के कारण यहाँ के दो छोर पर स्थित स्थानों के स्थानीय समय में बहुत अधिक अंतर हो सकता था।
+#bahuwa bade xeSAMwarIya viswAra lagaBaga 29 ke kAraNa yahAz ke xo Cora para sWiwa sWAnoM ke sWAnIya samaya meM bahuwa aXika aMwara ho sakawA WA.
+#Due to great longitudinal extent of about 29°, there could be a wide differences in local time of places located at two extreme points of India.
+bahuwa_1	1	-	-	2:intf	-	-	-	-
+badA_1	2	-	pl	4:mod	-	-	-	-
+xeSAMwarIya_1	3	-	-	4:mod	-	-	-	-
+viswAra_1	4	-	-	23:rh	-	-	-	-
+29	6	-	-	-	-	lagaBaga_1	-	29:count
+$wyax	9	-	-	12:r6	4:coref	-	-	-
+2	11	numex	-	12:card	-	-	-	-
+Cora_1	12	-	-	14:k7p	-	-	-	-
+sWiwa_1	14	-	-	15:mod	-	-	-	-
+sWAna_1	15	-	pl	18:r6	-	-	-	-
+sWAnIya_1	17	-	-	18:mod	-	-	-	-
+samaya_1	18	-	-	23:k7	-	-	-	-
+bahuwa_1	20	-	-	22:intf	-	-	-	-
+aXika_1	21	-	-	22:mod	-	-	-	-
+aMwara_1	22	-	-	23:k1	-	-	-	-
+ho_1-0_sakawA_hE_1	23	-	-	0:main	-	-	-	-
+digrI_1	28	-	-	-	-	-	-	29:unit
+[width_meas_1]	29	-	-	4:rs	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0016>
+#इस तरह की दूरी पर स्थित दो स्थानों के बीच समय का अंतर लगभग घंटे का होगा।
+#isa waraha kI xUrI para sWiwa xo sWAnoM ke bIca samaya kA aMwara lagaBaga GaMte kA hogA.
+#As such, the difference between these two points would be of about two hours.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+waraha_1	2	-	-	4:r6	-	-	-	-
+xUrI_1	4	-	-	6:k7p	-	-	-	-
+sWiwa_1	6	-	-	8:mod	-	-	-	-
+2	7	numex	-	8:card	-	-	-	-
+sWAna_1	8	-	pl	11:r6	-	-	-	-
+samaya_1	11	-	-	13:r6	-	-	-	-
+aMwara_1	13	-	-	17:k1	-	lagaBaga_1	-	-
+GaMtA_1	15	-	pl	17:k1s	-	-	-	-
+ho_1-gA_1	17	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0017a>
+#जैसा कि आपने पहले यह पढा है।
+#jEsA ki Apane pahale yaha paDA hE.
+#As you have learnt earlier, the local time changes by four minutes for every one degree of longitude.
+$addressee	3	anim	-	6:k1	-	respect	-	-
+pahalA_1	4	-	-	6:k7t	-	-	-	-
+$wyax	5	-	-	6:k2	Geo_ncert_6stnd_7ch_0017b.13:coref	proximal	-	-
+paDa_1-yA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0017b>
+#कि प्रत्येक 1° देशांतर के लिए स्थानीय समय में 4 मिनट का अंतर होता है।
+#ki prawyeka 1 xeSAMwara ke lie sWAnIya samaya meM 4 minata kA aMwara howA hE.
+#As you have learnt earlier, the local time changes by four minutes for every one degree of longitude.
+1	2	-	-	-	-	-	-	16:count
+xeSAMwara_1	3	-	-	13:rs	-	-	-	-
+sWAnIya_1	6	-	-	7:mod	-	-	-	-
+samaya_1	7	-	-	13:k7t	-	-	-	-
+4	9	-	-	-	-	-	-	18:part
+minata_1	10	-	-	-	-	-	-	18:whole
+aMwara_1	12	-	-	13:k1	-	-	-	-
+ho_1-wA_hE_1	13	-	-	0:main	-	-	-	-
+[rate_1]	16	-	-	13:rt	-	-	-	-
+digrI_1	17	-	-	-	-	-	-	16:unit
+[temporal_1]	18	-	-	12:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0018>
+#पश्चिम में गुजरात की अपेक्षा पूर्व के अरुणाचल प्रदेश में सूर्योदय लगभग दो घंटे पहले होता है।
+#paScima meM gujarAwa kI apekRA pUrva ke aruNAcala praxeSa meM sUryoxaya lagaBaga xo GaMte pahale howA hE.
+#The sun rises about two hours earlier in the east (Arunachal Pradesh) than in the west (Gujarat).
+paScima_1	1	-	-	-	-	def	-	20:whole
+gujarAwa	3	-	-	-	-	-	-	22:begin
+pUrva_1	6	-	-	-	-	-	-	24:whole
+aruNAcala	8	-	-	-	-	-	-	19:begin
+praxeSa	9	-	-	-	-	-	-	19:inside
+sUryoxaya_1	11	-	-	16:k1	-	-	-	-
+2	13	numex	-	-	-	lagaBaga_1	-	23:count
+GaMtA_1	14	-	pl	-	-	-	-	23:unit
+pahalA_1	15	-	-	16:k7t	-	-	-	-
+ho_1-wA_hE_1	16	-	-	0:main	-	-	-	-
+[ne_2]	19	place	-	-	-	-	-	24:part
+[spatial_1]	20	-	-	-	-	-	-	25:op1
+[ne_1]	22	place	-	-	-	-	-	20:part
+[time_meas_1]	23	-	-	15:rkl	-	-	-	-
+[spatial_2]	24	-	-	-	-	-	-	25:op2
+[conj_1]	25	-	-	16:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0019a>
+#आप पहले यह पढ चुके हैं।
+#Apa pahale yaha paDa cuke hEM.
+#You have already read earlier, why the local time of longitude of 82°30'E has been taken as the Indian Standard Time.
+$addressee	1	anim	-	4:k1	-	respect	-	-
+pahalA_1	2	-	-	4:k7t	-	-	-	-
+$wyax	3	-	-	4:k2	-	proximal	-	-
+paDa_1-0_cukA_hE_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0019b>
+#कि 82°30' पू. देशांतर के स्थानीय समय को भारत का मानक समय क्यों माना गया है।
+#ki 8230' pU. xeSAMwara ke sWAnIya samaya ko BArawa kA mAnaka samaya kyoM mAnA gayA hE.
+#You have already read earlier, why the local time of longitude of 82°30'E has been taken as the Indian Standard Time.
+82°30	1	-	-	-	-	-	-	18:begin
+pU.	2	-	-	-	-	-	-	18:inside
+xeSAMwara_1	3	-	-	6:r6	-	-	-	-
+sWAnIya_1	5	-	-	6:mod	-	-	-	-
+samaya_1	6	-	-	13:k2	-	-	-	-
+BArawa	8	-	-	-	-	-	-	17:begin
+mAnaka_1	10	-	-	11:mod	-	-	-	-
+samaya_1	11	-	-	13:k2	-	-	-	-
+$kim	12	-	-	13:krvn	-	-	-	-
+mAna_1-yA_jA_yA_hE_1	13	-	-	0:main	-	-	-	-
+[ne_1]	17	place	-	11:r6	-	-	-	-
+[ne_2]	18	-	-	0:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0020>
+#इस याम्योत्तर को भारत का मानक याम्योत्तर भी कहा जाता है।
+#isa yAmyowwara ko BArawa kA mAnaka yAmyowwara BI kahA jAwA hE.
+#This meridian or longitude is also termed as the Standard Meridian of India.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+yAmyowwara_1	2	-	-	9:k2	-	-	-	-
+BArawa	4	-	-	-	-	-	-	13:begin
+mAnaka	6	-	-	-	-	-	-	14:begin
+yAmyowwara	7	-	-	-	-	BI_1	-	14:inside
+kaha_1-yA_jA_wA_hE_1	9	-	-	0:main	-	-	-	-
+[ne_1]	13	place	-	7:r6	-	-	-	-
+[ne_2]	14	-	-	9:k2s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0021H>
+#भारत के पडोसी देश।
+#BArawa ke padosI xeSa.
+#INDIA’S NEIGHBOURS
+BArawa	1	-	-	-	-	-	-	6:begin
+padosI_1	3	-	-	4:mod	-	-	-	-
+xeSa_1	4	-	-	0:main	-	-	-	-
+[ne_1]	6	place	-	4:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0022>
+#सात देशों की स्थलीय सीमाएँ इसकी सीमाओं से जुडी है।
+#sAwa xeSoM kI sWalIya sImAez isakI sImAoM se judI hE.
+#There are seven countries that share land boundaries with India.
+7	1	numex	-	2:card	-	-	-	-
+xeSa_1	2	-	pl	5:r6	-	-	-	-
+sWalIya_1	4	-	-	5:mod	-	-	-	-
+sImA_1	5	-	pl	9:k1	-	-	-	-
+$wyax	6	-	-	7:r6	Geo_ncert_6stnd_7ch_0021H.6:coref	proximal	-	-
+sImA_1	7	-	pl	9:k1as	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+juda_1	10	-	kqw	9:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0023>
+#चित्र 7.1 से इन देशों के नाम का पता लगाइए।
+#ciwra 7.1 se ina xeSoM ke nAma kA pawA lagAie.
+#Find out names of these countries from the Figure 7.1.
+ciwra_1	1	-	-	12:k5	-	-	-	-
+7.1	2	numex	-	1:rs	-	-	-	-
+$wyax	4	-	-	5:dem	-	proximal	-	-
+xeSa_1	5	-	pl	7:r6	-	-	-	-
+nAma_1	7	-	-	12:k2	-	-	-	-
+pawA_1	9	-	-	-	-	-	-	12:kriyAmUla
+lagA_1-o_1	10	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	-	-	-	-
+$addressee	13	anim	-	12:k1	-	respect	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0024>
+#इनमें से कौन-कौन से देश हैं जिनकी सीमाएँ समुद्र से नहीं जुडी हैं?
+#inameM se kOna-kOna se xeSa hEM jinakI sImAez samuxra se nahIM judI hEM?
+#How many of these countries do not have access to any ocean or sea?
+$wyax	1	-	-	5:rn	-	proximal	-	-
+$kim	3	-	xviwva	6:k1	-	-	-	-
+xeSa_1	5	-	-	3:rs	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+$yax	7	-	-	8:r6	5:coref	-	-	-
+sImA_1	8	-	pl	12:k1	-	-	-	-
+samuxra_1	9	-	-	12:k1as	-	-	-	-
+nahIM_1	11	-	-	12:neg	-	-	-	-
+hE_1-pres	12	-	-	3:rcdelim	-	-	-	-
+juda_1	13	-	kqw	12:k1s	-	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0025>
+#दक्षिण में समुद्र में स्थित दो द्वीप श्रीलंका तथा मालदीव हमारे पडोसी हैं।
+#xakRiNa meM samuxra meM sWiwa xo xvIpa SrIlaMkA waWA mAlaxIva hamAre padosI hEM.
+#Across the sea to the south, lie our island neighbours—Sri Lanka and Maldives.
+xakRiNa_1	1	-	-	-	-	-	-	19:whole
+samuxra_1	3	-	-	-	-	-	-	19:part
+sWiwa_1	5	-	-	7:mod	-	-	-	-
+2	6	numex	-	7:card	-	-	-	-
+xvIpa_1	7	-	-	13:k1	-	-	-	-
+SrIlaMkA	8	-	-	-	-	-	-	17:begin
+mAlaxIva	10	-	-	-	-	-	-	18:begin
+$speaker	11	anim	pl	12:r6	-	-	-	-
+padosI_1	12	-	-	13:k1s	-	-	-	-
+hE_1-pres	13	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	7:rs	-	-	-	-
+[ne_2]	17	place	-	-	-	-	-	15:op1
+[ne_3]	18	place	-	-	-	-	-	15:op2
+[spatial_1]	19	-	-	13:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0026>
+#पाक जलसंधि भारत को श्रीलंका से अलग करती है।
+#pAka jalasaMXi BArawa ko SrIlaMkA se alaga karawI hE.
+#Sri Lanka is separated from India by the Palk Strait.
+pAka	1	-	-	-	-	-	-	12:begin
+jalasaMXi	2	-	-	-	-	-	-	12:inside
+BArawa	3	-	-	-	-	-	-	11:begin
+SrIlaMkA	5	-	-	-	-	-	-	14:begin
+alaga_1	7	-	-	-	-	-	-	13:kriyAmUla
+kara_1-wA_hE_1	8	-	-	-	-	-	-	13:verbalizer
+[ne_2]	11	place	-	13:k2	-	-	-	-
+[ne_1]	12	ne	-	13:k1	-	-	-	-
+[cp_1]	13	-	-	0:main	-	-	-	-
+[ne_3]	14	place	-	13:k5	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0027H>
+#राजनीतिक एवं प्रशासनिक विभाजन।
+#rAjanIwika evaM praSAsanika viBAjana.
+#POLITICAL AND ADMINISTRATIVE DIVISIONS
+rAjanIwika_1	1	-	-	-	-	-	-	6:op1
+praSAsanika_1	3	-	-	-	-	-	-	6:op2
+viBAjana_1	4	-	-	0:main	-	-	-	-
+[conj_1]	6	-	-	4:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0028>
+#भारत एक विशाल देश है।
+#BArawa eka viSAla xeSa hE.
+#India is a vast country.
+BArawa	1	-	-	-	-	-	-	7:begin
+eka_2	2	-	-	4:quant	-	-	-	-
+viSAla_1	3	-	-	4:mod	-	-	-	-
+xeSa_1	4	-	-	5:k1s	-	-	-	-
+hE_1-pres	5	-	-	0:main	-	-	-	-
+[ne_1]	7	place	-	5:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0029>
+#प्रशासनिक क्रियाकलापों के लिए देश को 29 राज्यों एवं 7 केंद्रशासित प्रदेशों में बाँटा गया है।
+#praSAsanika kriyAkalApoM ke lie xeSa ko 29 rAjyoM evaM 7 keMxraSAsiwa praxeSoM meM bAztA gayA hE.
+#For administrative purposes, the country is divided into 29 States and 9 Union Territories (Appendix-I).
+praSAsanika_1	1	-	-	2:mod	-	-	-	-
+kriyAkalApa_1	2	-	pl	14:rt	-	-	-	-
+xeSa_1	5	-	-	14:k2	-	-	-	-
+29	7	numex	-	8:card	-	-	-	-
+rAjya_1	8	-	pl	-	-	-	-	18:op1
+7	10	numex	-	12:card	-	-	-	-
+keMxraSAsiwa_1	11	-	-	12:mod	-	-	-	-
+praxeSa_1	12	-	pl	-	-	-	-	18:op2
+bAzta_1-yA_jA_yA_hE_1	14	-	-	0:main	-	-	-	-
+[conj_1]	18	-	-	14:k7	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0030>
+#दिल्ली भारत की राजधनी है।
+#xillI BArawa kI rAjaXanI hE.
+#Delhi is the national capital.
+xillI	1	-	-	-	-	-	-	8:begin
+BArawa	2	-	-	-	-	-	-	7:begin
+rAjaXanI_1	4	-	-	5:k1s	-	def	-	-
+hE_1-pres	5	-	-	0:main	-	-	-	-
+[ne_2]	7	place	-	4:r6	-	-	-	-
+[ne_1]	8	place	-	5:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0031>
+#राज्यों का निर्माण मुख्यतः भाषाओं के आधर पर हुआ है।
+#rAjyoM kA nirmANa muKyawaH BARAoM ke AXara para huA hE.
+#The states have been formed mainly on the basis of languages.
+rAjya_1	1	-	pl	10:k1	-	-	-	-
+nirmANa_1	3	-	-	-	-	-	-	10:kriyAmUla
+muKyawaH_1	4	-	-	10:krvn	-	-	-	-
+BARA_1	5	-	pl	10:k7	-	-	-	-
+ho_1-yA_hE_1	9	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0032a>
+#क्षेत्रफल की दृष्टि से सबसे बडा राज्य राजस्थान  है।
+#kRewraPala kI xqRti se sabase badA rAjya rAjasWAna  hE.
+#The largest state in terms of area is Rajasthan and the smallest state is Goa.
+kRewraPala_1	1	-	-	14:k7a	-	-	-	-
+badA_1	6	-	superl	7:mod	-	-	-	-
+rAjya_1	7	-	-	14:k1	-	-	-	-
+rAjasWAna	8	-	-	-	-	-	-	15:begin
+hE_1-pres	14	-	-	0:main	-	-	-	-
+[ne_1]	15	place	-	14:k1s	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0032b>
+#तथा क्षेत्रफल की दृष्टि से सबसे छोटा राज्य गोवा है।
+#waWA kRewraPala kI xqRti se sabase CotA rAjya govA hE.
+#The largest state in terms of area is Rajasthan and the smallest state is Goa.
+hE_1-pres	1	-	-	0:main	Geo_ncert_6stnd_7ch_0032a.14:samuccaya	-	-	-
+kRewraPala_1	2	-	-	3:r6	-	-	-	-
+xqRti_1	3	-	-	1:k7	-	-	-	-
+rAjya_1	4	-	-	1:k1	-	-	-	-
+Cota_1	5	-	superl	4:mod	-	-	-	-
+govA	6	-	-	-	-	-	-	7:begin
+[ne_1]	7	place	-	1:k1s	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0033>
+#राज्यों को जिलों में बाँटा गया है।
+#rAjyoM ko jiloM meM bAztA gayA hE.
+#The states are divided into districts.
+rAjya_1	1	-	pl	5:k2	-	-	-	-
+jilA_1	3	-	pl	5:k7	-	-	-	-
+bAzta_1-yA_jA_yA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0034H>
+#भौतिक विभाजन।
+#BOwika viBAjana.
+#PHYSICAL DIVISIONS
+BOwika_1	1	-	-	2:mod	-	-	-	-
+viBAjana_1	2	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0035>
+#भारत में पाई जाने वाली भौतिक आकृतियां विभिन्न प्रकार की हैं जैसे- पर्वत, पठार, मैदान, तट तथा द्वीपसमूह।
+#BArawa meM pAI jAne vAlI BOwika AkqwiyAM viBinna prakAra kI hEM jEse- parvawa, paTAra, mExAna, wata waWA xvIpasamUha.
+#India is marked by a diversity of physical features such as mountains, plateaus, plains, coasts and islands.
+BArawa	1	-	-	-	-	-	-	24:begin
+pA_1	3	-	kqw	7:mod	-	-	-	-
+BOwika_1	6	-	-	7:mod	-	-	-	-
+Akqwi_1	7	-	pl	25:k1	-	-	-	-
+viBinna_1	8	-	-	9:mod	-	-	-	-
+prakAra_1	9	-	-	25:k1s	-	-	-	-
+parvawa_1	14	-	-	-	-	-	-	26:op1
+paTAra_1	16	-	-	-	-	-	-	26:op2
+mExAna_1	18	-	-	-	-	-	-	26:op3
+wata_1	20	-	-	-	-	-	-	26:op4
+xvIpasamUha_1	22	-	-	-	-	-	-	26:op5
+[ne_1]	24	place	-	3:k7p	-	-	-	-
+hE_1-pres	25	-	-	0:main	-	-	-	-
+[conj_1]	26	-	-	7:re	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0036>
+#उत्तर में बर्फ से ढका हिमालय संतरी का कार्य करता है।
+#uwwara meM barPa se DakA himAlaya saMwarI kA kArya karawA hE.
+#Standing as sentinels in the north are the lofty snow-capped Himalayas.
+uwwara_3(north_1)	1	-	-	13:k7p	-	def	-	-
+barPa_1(snow_3)	3	-	-	5:k1	-	-	-	-
+Daka_1(cover_15)	5	-	kqw	14:rbks	-	-	-	-
+himAlaya	6	-	-	-	-	-	-	14:begin
+saMwarI_1(sentinel_2)	7	anim	-	13:k2	-	-	-	-
+kArya_10(act_5)	9	-	-	-	-	-	-	13:kriyAmUla
+kara_1-wA_hE_1	10	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+[ne_1]	14	place	-	13:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0037>
+#हिमालय का मतलब होता है बर्फ का घर।
+#himAlaya kA mawalaba howA hE barPa kA Gara.
+#Him+alaya mean ‘the abode of snow’.
+himAlaya	1	-	-	-	-	-	-	9:begin
+mawalaba_1(meaning_4)	3	-	-	4:k1	-	-	-	-
+ho_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+barPa_1(snow_3)	6	-	-	8:r6	-	-	-	-
+Gara_11(abode_14)	8	-	-	4:k1s	-	-	-	-
+[ne_1]	9	place	-	3:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0038>
+#हिमालय पर्वत को तीन मुख्य समानांतर शृंखलाओं में बाँटा जाता है।
+#himAlaya parvawa ko wIna muKya samAnAMwara SqMKalAoM meM bAztA jAwA hE.
+#The Himalayan mountains are divided into three main parallel ranges.
+himAlaya	1	-	-	-	-	-	-	13:begin
+parvawa_1(mountain_3)	2	-	-	-	-	-	-	13:inside
+3	4	numex	-	7:card	-	-	-	-
+muKya_18(main_1)	5	-	-	7:mod	-	-	-	-
+samAnAMwara_1(parallel_2)	6	-	-	7:mod	-	-	-	-
+SqMKalA_6(range_1)	7	-	pl	9:k7	-	-	-	-
+bAzta_1-yA_jA_wA_hE_1	9	-	-	0:main	-	-	-	-
+[ne_1]	13	place	-	9:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0039>
+#सबसे उत्तर में स्थित शृंखला को वृहत हिमालय या हिमाद्रि कहते हैं।
+#sabase uwwara meM sWiwa SqMKalA ko vqhawa himAlaya yA himAxri kahawe hEM.
+#The northernmost is the Great Himalaya or Himadri.
+uwwara_3(north_1)	2	-	superl	4:k7p	-	-	-	-
+sWiwa_1(situated_1)	4	-	-	5:mod	-	-	-	-
+SqMKalA_6(range_1)	5	-	-	11:k2	-	def	-	-
+vqhawa	7	-	-	-	-	-	-	15:begin
+himAlaya	8	-	-	-	-	-	-	15:inside
+himAxri	10	-	-	-	-	-	-	16:begin
+kaha_1-wA_hE_1	11	-	-	0:main	-	-	-	-
+[disjunct_1]	14	-	-	11:k2s	-	-	-	-
+[ne_1]	15	place	-	-	-	-	-	14:op1
+[ne_2]	16	place	-	-	-	-	-	14:op2
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0040>
+#इसी शृंखला में विश्व की सबसे ऊँची शिखर हैं।
+#isI SqMKalA meM viSva kI sabase UzcI SiKara hEM.
+#The world’s highest peaks are located in this range.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+SqMKalA_6(range_1)	2	-	-	9:k7p	-	-	-	-
+viSva_11(world_20)	4	-	-	8:r6	-	def	-	-
+UzcA_1(high_5)	7	-	superl	8:mod	-	-	-	-
+SiKara_1(peak_1)	8	-	-	9:k1	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0041>
+#मध्य हिमालय या हिमाचल, हिमाद्रि के दक्षिण में स्थित है।
+#maXya himAlaya yA himAcala, himAxri ke xakRiNa meM sWiwa hE.
+#Middle Himalaya or Himachal lies to the south of Himadri.
+maXya	1	-	-	-	-	-	-	2:begin
+[ne_1]	2	place	-	11:k1	-	-	-	-
+himAcala	4	-	-	-	-	-	-	15:begin
+himAxri	6	-	-	-	-	-	-	16:begin
+xakRiNa_2(south_2)	8	-	-	11:k7p	-	-	-	-
+sWiwa_10(lie_14)	10	-	-	11:k1s	-	-	-	-
+hE_1-pres	11	-	-	0:main	-	-	-	-
+himAlaya	13	-	-	-	-	-	-	2:inside
+[ne_2]	15	place	-	2:rs	-	-	-	-
+[ne_3]	16	place	-	8:rdl	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0042>
+#बहुत से लोकप्रिय पहाडी स्थान यहाँ स्थित हैं।
+#bahuwa se lokapriya pahAdI sWAna yahAz sWiwa hEM.
+#Many popular hill stations are situated here.
+bahuwa_2(many_5)	1	-	-	5:quant	-	sA_4	-	-
+lokapriya_1(popular_2)	3	-	-	5:mod	-	-	-	-
+pahAdI_1	4	-	-	5:mod	-	-	-	-
+sWAna_9(station_4)	5	-	-	8:k1	-	-	-	-
+$wyax	6	-	-	8:k7p	Geo_ncert_6stnd_7ch_0041.2:coref	proximal	-	-
+sWiwa_1(situated_1)	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0043>
+#आप पाँच पहाडी स्थानों के नाम का पता लगाइए।
+#Apa pAzca pahAdI sWAnoM ke nAma kA pawA lagAie.
+#You find out the names of five hill stations.
+5	1	numex	-	3:card	-	-	-	-
+pahAdI_1	2	-	-	3:mod	-	-	-	-
+sWAna_9(station_4)	3	-	pl	5:r6	-	-	-	-
+nAma_1(name_3)	5	-	-	10:k2	-	def	-	-
+pawA_11	7	-	-	-	-	-	-	10:kriyAmUla
+lagA_1-o_1	8	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	-	-	-	-
+$addresssee	11	anim	-	10:k1	-	respect	-	-
+%imperative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0044>
+#शिवालिक सबसे दक्षिण में स्थित शृंखला है।
+#SivAlika sabase xakRiNa meM sWiwa SqMKalA hE.
+#The Shiwalik is the southernmost range.
+SivAlika	1	-	-	-	-	-	-	10:begin
+xakRiNa_2(south_2)	3	-	superl	5:k7p	-	-	-	-
+sWiwa_1(situated_1)	5	-	-	6:mod	-	-	-	-
+SqMKalA_6(range_1)	6	-	-	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+[ne_1]	10	place	-	7:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0045>
+#हिमालय के दक्षिण में भारत का उत्तरी मैदान स्थित हैं।
+#himAlaya ke xakRiNa meM BArawa kA uwwarI mExAna sWiwa hEM.
+#The Northern Indian plains lie to the south of the Himalayas.
+himAlaya	1	-	-	-	-	-	-	14:begin
+xakRiNa_2(south_2)	3	-	-	10:k7p	-	-	-	-
+BArawa	5	-	-	-	-	-	-	15:begin
+uwwarI	7	-	-	-	-	-	-	15:inside
+mExAna	8	-	-	-	-	-	-	15:inside
+sWiwa_10(lie_14)	9	-	-	10:k1s	-	-	-	-
+hE_1-pres	10	-	-	0:main	-	-	-	-
+[ne_1]	14	place	-	3:rdl	-	-	-	-
+[ne_2]	15	place	-	10:k1	-	-	-	-
+kA	16	-	-	-	-	-	-	15:inside
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0046>
+#ये मैदान समतल तथा सपाट हैं।
+#ye mExAna samawala waWA sapAta hEM.
+#They are generally level and flat.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+mExAna_5(plain_5)	2	-	-	6:k1	-	-	-	-
+samawala_1(level_4)	3	-	-	-	-	-	-	8:op1
+sapAta_1(flat_5)	5	-	-	-	-	-	-	8:op2
+hE_1-pres	6	-	-	0:main	-	-	-	-
+[conj_1]	8	-	-	6:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0047>
+#ये मैदान सिंधु, गंगा, ब्रह्मपुत्र तथा इनकी सहायक नदियों के द्वारा लाए गए जलोढ निक्षेपों से बने हैं।
+#ye mExAna siMXu, gaMgA, brahmapuwra waWA inakI sahAyaka naxiyoM ke xvArA lAe gae jaloDa nikRepoM se bane hEM.
+#These are formed by the alluvial deposits laid down by the rivers–the Indus, the Ganga, the Brahmaputra and their tributaries.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+mExAna_5(plain_5)	2	-	-	26:k1	-	-	-	-
+siMXu	3	-	-	-	-	-	-	23:begin
+gaMgA	5	-	-	-	-	-	-	24:begin
+brahmapuwra	7	-	-	-	-	-	-	25:begin
+$wyax	9	-	-	11:r6	27:coref	proximal	-	-
+sahAyaka_13(tributary_3)	10	-	-	11:mod	-	-	-	-
+naxI_1(river_3)	11	-	pl	-	-	-	-	22:op2
+lA_1(bring_1)	14	-	kqw	17:rbks	-	-	-	-
+jaloDa_1	16	-	-	17:mod	-	-	-	-
+nikRepa_3(deposit_3)	17	-	pl	19:k3	-	def	-	-
+banA_7(form_19)	19	-	kqw	26:k1s	-	-	-	-
+[conj_1]	22	-	-	14:k1	-	-	-	-
+[ne_1]	23	place	-	-	-	-	-	27:op1
+[ne_2]	24	place	-	-	-	-	-	27:op2
+[ne_3]	25	place	-	-	-	-	-	27:op3
+hE_1-pres	26	-	-	0:main	-	-	-	-
+[conj_2]	27	-	-	-	-	-	-	22:op1
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0048>
+#नदियों के ये मैदान कृषि के लिए उपजाऊ भूमि प्रदान करते हैं।
+#naxiyoM ke ye mExAna kqRi ke lie upajAU BUmi praxAna karawe hEM.
+#These river plains provide fertile land for cultivation.
+naxI_1(river_3)	1	-	pl	4:r6	-	-	-	-
+$wyax	3	-	-	4:dem	-	proximal	-	-
+mExAna_5(plain_5)	4	-	-	14:k1	-	-	-	-
+kqRi_3(cultivation_2)	5	-	-	14:rt	-	-	-	-
+upajAU_1(fertile_1)	8	-	-	9:mod	-	-	-	-
+BUmi(land_6)	9	-	-	14:k2	-	-	-	-
+praxAna_11(provide_3)	10	-	-	-	-	-	-	14:kriyAmUla
+kara_1-wA_hE_1	11	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0049a>
+#यही कारण है।
+#yahI kAraNa hE.
+#That is the reason for high concentration of population in these plains.
+yahI	1	-	-	2:dem	-	-	-	-
+kAraNa_1	2	-	-	3:k1	-	-	-	-
+hE_1-pres	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0049b>
+#कि इन मैदानों में जनसंख्या अधिक है।
+#ki ina mExAnoM meM janasaMKyA aXika hE.
+#That is the reason for high concentration of population in these plains.
+$wyax	1	-	pl	2:dem	-	proximal	-	-
+mExAna_1	2	-	pl	6:k7p	-	-	-	-
+janasaMKyA_1	4	-	-	6:k1	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0050>
+#भारत के पश्चिमी भाग में भारतीय महामरुस्थल स्थित है।
+#BArawa ke paScimI BAga meM BArawIya mahAmarusWala sWiwa hE.
+#In the western part of India lies the Great Indian desert.
+BArawa	1	-	-	-	-	-	-	11:begin
+paScimI_1(western_7)	3	-	-	4:mod	-	-	-	-
+BAga_2(part_9)	4	-	-	9:k7p	-	def	-	-
+BArawIya	6	-	-	-	-	-	-	12:begin
+mahAmarusWala	7	-	-	-	-	-	-	12:inside
+sWiwa_10(lie_14)	8	-	-	9:k1s	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+[ne_1]	11	place	-	4:r6	-	-	-	-
+[ne_2]	12	place	-	9:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0051>
+#यह शुष्क, गर्म तथा रेतीला स्थल है।
+#yaha SuRka, garma waWA rewIlA sWala hE.
+#It is a dry, hot and sandy stretch of land.
+$wyax	1	-	-	8:k1	Geo_ncert_6stnd_7ch_0050.12:coref	proximal	-	-
+SuRka_2(dry_8)	2	-	-	-	-	-	-	10:op1
+garma_2(hot_7)	4	-	-	-	-	-	-	10:op2
+rewIlA_1(sandy_1)	6	-	-	-	-	-	-	10:op3
+sWala(land_9)	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+[conj_1]	10	-	-	7:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0052>
+#यहाँ वनस्पति की मात्रा बहुत कम है।
+#yahAz vanaspawi kI mAwrA bahuwa kama hE.
+#It has very little vegetation.
+$wyax	1	-	-	7:k7p	Geo_ncert_6stnd_7ch_0050.12:coref	proximal	-	-
+vanaspawi_2(vegetation_3)	2	-	-	4:r6	-	-	-	-
+mAwrA_1(quantity_4)	4	-	-	7:k1	-	-	-	-
+bahuwa_7(very_1)	5	-	-	6:intf	-	-	-	-
+kama_1(little_3)	6	-	-	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0053>
+#उत्तरी मैदानों के दक्षिण में प्रायद्वीपीय पठार स्थित है।
+#uwwarI mExAnoM ke xakRiNa meM prAyaxvIpIya paTAra sWiwa hE.
+#To the south of northern plains lies the Peninsular plateau.
+uwwarI_1(northern_2)	1	-	-	2:mod	-	-	-	-
+mExAna_5(plain_5)	2	-	pl	4:rdl	-	-	-	-
+xakRiNa_2(south_2)	4	-	-	9:k7p	-	def	-	-
+prAyaxvIpIya	6	-	-	-	-	-	-	10:begin
+paTAra	7	-	-	-	-	-	-	10:inside
+sWiwa_10(lie_14)	8	-	-	9:k1s	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+[ne_1]	10	-	-	9:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0054>
+#इसकी आकृति त्रिभुजाकार है।
+#isakI Akqwi wriBujAkAra hE.
+#It is triangular in shape.
+$wyax	1	-	-	2:r6	Geo_ncert_6stnd_7ch_0053.10:coref	proximal	-	-
+Akqwi_1(shape_2)	2	-	-	4:k1	-	-	-	-
+wriBujAkAra_1(triangular_4)	3	-	-	4:k1s	-	-	-	-
+hE_1-pres	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0055>
+#इसका धरातल काफी ऊंचा-नीचा है।
+#isakA XarAwala kAPI UMcA-nIcA hE.
+#The relief is highly uneven.
+$wyax	1	-	-	2:r6	Geo_ncert_6stnd_7ch_0053.10:coref	proximal	-	-
+XarAwala_1(surface_2)	2	-	-	5:k1	-	-	-	-
+kAPI_9	3	-	-	4:quant	-	-	-	-
+UMcA+nIcA_1	4	-	-	5:k1s	-	-	-	-
+hE_1-pres	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0056>
+#इस क्षेत्र में बहुत-सी पहाडी शृंखलाएँ तथा घाटियाँ स्थित हैं।
+#isa kRewra meM bahuwa-sI pahAdI SqMKalAez waWA GAtiyAz sWiwa hEM.
+#This is a region with numerous hill ranges and valleys.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+kRewra_11(region_20)	2	-	-	10:k7p	-	-	-	-
+bahuwa_8	4	-	-	12:quant	-	sA_4	-	-
+pahAdZI_2(hilly_2)	5	-	-	6:mod	-	-	-	-
+SqMKalA_6(range_1)	6	-	pl	-	-	-	-	12:op1
+GAtI_1(valley_2)	8	-	pl	-	-	-	-	12:op2
+sWiwa_1(situated_1)	9	-	-	10:k1s	-	-	-	-
+hE_1-pres	10	-	-	0:main	-	-	-	-
+[conj_1]	12	-	-	10:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0057>
+#इसके उत्तर-पश्चिम में अरावली शृंखला स्थित है, जो विश्व की सबसे पुरानी शृंखला है।
+#isake uwwara-paScima meM arAvalI SqMKalA sWiwa hE, jo viSva kI sabase purAnI SqMKalA hE.
+#Aravali hills, one of the oldest ranges of the world, border it on the north-west side.
+$wyax	1	-	-	2:rdl	Geo_ncert_6stnd_7ch_0053.10:coref	proximal	-	-
+uwwara+paScima_1	2	-	-	7:k7p	-	-	-	-
+arAvalI	4	-	-	-	-	-	-	17:begin
+sWiwa_1(situated_1)	6	-	-	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+$yax	9	-	-	15:k1	Geo_ncert_6stnd_7ch_0057.17:coref	-	-	-
+viSva_11(world_20)	10	-	-	14:r6	-	def	-	-
+purAnA_1(old_5)	13	-	superl	14:mod	-	-	-	-
+SqMKalA_6(range_1)	14	-	-	15:k1s	-	-	-	-
+hE_1	15	-	-	17:rcelab	-	-	-	-
+SqMKalA_7	16	-	-	17:rs	-	-	-	-
+[ne_1]	17	place	-	7:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0058>
+#विंध्य एवं सतपुडा भी महत्त्वपूर्ण शृंखलाएँ हैं।
+#viMXya evaM sawapudA BI mahawwvapUrNa SqMKalAez hEM.
+#The Vindhyas and the Satpuras are the important ranges.
+viMXya	1	-	-	-	-	-	-	10:begin
+sawapudA	3	-	-	-	-	-	-	11:begin
+mahawwvapUrNa_1(important_4)	5	-	-	6:mod	-	-	-	-
+SqMKalA_6(range_1)	6	-	pl	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+[conj_1]	9	-	-	7:k1	-	BI_1	-	-
+[ne_1]	10	place	-	-	-	-	-	9:op1
+[ne_2]	11	place	-	-	-	-	-	9:op2
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0059>
+#इन शृंखलाओं से होकर नर्मदा नदि तथा तापी नदि बहती है।
+#ina SqMKalAoM se hokara narmaxA naxi waWA wApI naxi bahawI hE.
+#The rivers Narmada and Tapi flow through these ranges.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+SqMKalA_6(range_1)	2	-	pl	9:rp	-	-	-	-
+narmaxA	5	-	-	-	-	-	-	13:begin
+wApI	7	-	-	-	-	-	-	14:begin
+naxI_1(river_3)	8	-	-	14:rs	-	-	-	-
+baha_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+[conj_1]	12	-	-	9:k1	-	-	-	-
+[ne_1]	13	ne	-	-	-	-	-	12:op1
+[ne_2]	14	ne	-	-	-	-	-	12:op2
+naxI_1(river_3)	15	-	-	13:rs	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0060>
+#ये पश्चिम की तरफ बहने वाली नदियाँ हैं, जो अरब सागर में गिरती हैं।
+#ye paScima kI waraPa bahane vAlI naxiyAz hEM, jo araba sAgara meM girawI hEM.
+#These are westflowing rivers that drain into the Arabian Sea.
+$wyax	1	-	-	8:k1	-	proximal	-	-
+paScima_1(west_2)	2	-	-	5:rd	-	-	-	-
+baha_1(flow_5)	5	-	-	7:mod	-	-	-	-
+naxI_1(river_3)	7	-	pl	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+$yax	10	-	-	14:k1	-	-	-	-
+araba	11	-	-	-	-	-	-	17:begin
+sAgara	12	-	-	-	-	-	-	17:inside
+gira_1-wA_hE_1	14	-	-	7:rcelab	-	-	-	-
+[ne_1]	17	ne	-	14:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0061a>
+#इस पठार के पश्चिम में पश्चिमी घाट या सह्याद्रि स्थित है।
+#isa paTAra ke paScima meM paScimI GAta yA sahyAxri sWiwa hE.
+#The Western Ghats or Sahyadris border the plateau in the west.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+paTAra_1(plateau_2)	2	-	-	4:r6	-	-	-	-
+paScima_1(west_2)	4	-	-	16:k7p	-	-	-	-
+paScimI(western_7)	6	-	-	-	-	-	-	19:begin
+GAta	7	-	-	-	-	-	-	19:inside
+sahyAxri	9	-	-	-	-	-	-	20:begin
+hE_1-pres	16	-	-	0:main	-	-	-	-
+[disjunct_1]	18	-	-	16:k1	-	-	-	-
+[ne_1]	19	place	-	-	-	def	-	18:op1
+[ne_2]	20	place	-	-	-	-	-	18:op2
+sWiwa_2(located_2)	21	-	kqw	16:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0061b>
+#तथा इस पठार के पूर्व में पूर्वी घाट स्थित है।
+#waWa isa paTAra ke pUrva meM pUrvI GAta sWiwa hE.
+#and the Eastern Ghat border the east.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+paTAra_1(plateau_2)	2	-	-	3:r6	-	-	-	-
+pUrva_1(east_3)	3	-	-	7:k7p	-	-	-	-
+pUrvI(eastern_2)	4	-	-	-	-	-	-	8:begin
+GAta	5	-	-	-	-	-	-	8:inside
+sWiwa(located_2)	6	-	kqw	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	Geo_ncert_6stnd_7ch_0061a.16:samuccaya	-	-	-
+[ne_1]	8	place	-	7:k1	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0062a>
+#पश्चिमी घाट का विस्तार एक समान रूप में है।
+#paScimI GAta kA viswAra eka samAna rUpa meM hE.
+#While the Western Ghats are almost continuous, the Eastern Ghats are broken and uneven (Figure 7.3).
+paScimI(western_7)	1	-	-	-	-	-	-	10:begin
+GAta	2	-	-	-	-	-	-	10:inside
+viswAra_2(span_5)	4	-	-	9:k1	-	-	-	-
+eka_2(a_1)	5	-	-	7:quant	-	-	-	-
+samAna_2(equivalent_4)	6	-	-	7:mod	-	-	-	-
+rUpa_1(form_10)	7	-	-	9:k7	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+[ne_1]	10	place	-	4:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0062b>
+#जबकि पूर्वी घाट बीच-बीच में टूटा हुआ तथा असमान है (चित्र 7.3 )।
+#jabaki pUrvI GAta bIca-bIca meM tUtA huA waWA asamAna hE (ciwra 7.3 ).
+#While the Western Ghats are almost continuous, the Eastern Ghats are broken and uneven (Figure 7.3).
+pUrvI(eastern_2)	1	-	-	-	-	-	-	9:begin
+GAta	2	-	-	-	-	-	-	9:inside
+bIca_11(between_1)	3	-	xviwva	8:k7p	-	-	-	-
+tUta_1(break_1)	5	-	kqw	-	-	-	-	7:op1
+asamAna_8	6	-	-	-	-	-	-	7:op2
+[conj_1]	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	Geo_ncert_6stnd_7ch_0062a.9:viroXI_xyowaka	-	-	-
+[ne_1]	9	place	-	8:k1	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0062c>
+#तथा असमान है (चित्र 7.3 )।
+#waWA asamAna hE (ciwra 7.3 ).
+#While the Western Ghats are almost continuous, the Eastern Ghats are broken and uneven (Figure 7.3).
+-	-	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0063>
+#इन पठारों में खनिजों जैसे- कोयला एवं लौह अयस्क की प्रचुरता है।
+#ina paTAroM meM KanijoM jEse- koyalA evaM lOha ayaska kI pracurawA hE.
+#The plateau is rich in minerals like coal and iron-ore.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+paTAra_1(plateau_2)	2	-	pl	13:k7	-	-	-	-
+Kanija_1(mineral_1)	4	-	pl	12:r6	-	-	-	-
+koyalA_1(coal_1)	7	-	-	-	-	-	-	16:op1
+lOha_1(iron_2)	9	-	-	-	-	-	-	15:mod
+ayaska_1(ore_1)	10	-	-	-	-	-	-	15:head
+pracurawA_1(richness_7)	12	-	-	13:k1	-	-	-	-
+hE_1-pres	13	-	-	0:main	-	-	-	-
+[nc_1]	15	-	-	-	-	-	-	16:op2
+[conj_1]	16	-	-	4:re	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0064>
+#पश्चिमी घाट के पश्चिम में तथा पूर्वी घाट के पूर्व में तटीय मैदान स्थित हैं।
+#paScimI GAta ke paScima meM waWA pUrvI GAta ke pUrva meM watIya mExAna sWiwa hEM.
+#To the West of the Western Ghats and the East of Eastern Ghats lie the Coastal plains.
+paScimI(western_7)	1	-	-	-	-	-	-	19:begin
+GAta	2	-	-	-	-	-	-	19:inside
+paScima_1(west_2)	4	-	-	-	-	-	-	18:op1
+pUrvI(eastern_2)	7	-	-	-	-	-	-	20:begin
+GAta	8	-	-	-	-	-	-	20:inside
+pUrva_1(east_3)	10	-	-	-	-	-	-	18:op2
+watIya_1(coastal_3)	12	-	-	13:mod	-	-	-	-
+mExAna_5(plain_5)	13	-	-	15:k1	-	-	-	-
+sWiwa_2(located_2)	14	-	kqw	15:k1s	-	-	-	-
+hE_1-pres	15	-	-	0:main	-	-	-	-
+[conj_1]	18	-	-	15:k7p	-	-	-	-
+[ne_1]	19	place	-	4:r6	-	def	-	-
+[ne_2]	20	place	-	10:r6	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0065>
+#पश्चिम तटीय मैदान काफी सँकरे हैं।
+#paScima watIya mExAna kAPI sazkare hEM.
+#The western coastal plains are very narrow.
+paScima_2(western_3)	1	-	-	3:mod	-	-	-	-
+watIya_1(coastal_3)	2	-	-	3:mod	-	-	-	-
+mExAna_5(plain_5)	3	-	-	6:k1	-	-	-	-
+kAPI_7(very_3)	4	-	-	5:quant	-	-	-	-
+sazkarA_1(narrow_4)	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0066>
+#पूर्वी तटीय मैदान इससे अपेक्षाकृत चैडे हैं।
+#pUrvI watIya mExAna apekRAkqwa cEde hEM.
+#The eastern Coastal plains are much broader.
+pUrvI_1(eastern_2)	1	-	-	3:mod	-	-	-	-
+watIya_1(coastal_3)	2	-	-	3:mod	-	-	-	-
+mExAna_5(plain_5)	3	-	-	6:k1	-	-	-	-
+$wyax	4	-	-	3:rv	Geo_ncert_6stnd_7ch_0065.3:coref	proximal	-	-
+cOdA_1	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0067>
+#वहाँ पूर्व की ओर बहने वाली कई नदियाँ हैं।
+#vahAz pUrva kI ora bahane vAlI kaI naxiyAz hEM.
+#There are a number of east flowing rivers.
+$wyax	1	-	-	9:k7p	Geo_ncert_6stnd_7ch_0066.3:coref	distal	-	-
+pUrva_1(east_3)	2	-	-	5:rd	-	-	-	-
+baha_1(flow_5)	5	-	-	8:mod	-	-	-	-
+kaI_5(many_11)	7	-	-	8:quant	-	-	-	-
+naxI_1(river_3)	8	-	pl	9:k1	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0068>
+#महानदी, गोदावरी, कृष्णा तथा कावेरी बंगाल की खाडी में गिरती हैं।
+#mahAnaxI, goxAvarI, kqRNA waWA kAverI baMgAla kI KAdI meM girawI hEM.
+#The rivers Mahanadi, Godavari, Krishna and Kaveri drain into the Bay of Bengal.
+mahAnaxI	1	-	-	-	-	-	-	18:begin
+goxAvarI	3	-	-	-	-	-	-	19:begin
+kqRNA	5	-	-	-	-	-	-	20:begin
+kAverI	7	-	-	-	-	-	-	21:begin
+baMgAla	8	-	-	-	-	-	-	17:begin
+KAdI	10	-	-	-	-	-	-	17:inside
+gira_1-wA_hE_1	12	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	12:k1	-	-	-	-
+kI	16	-	-	-	-	-	-	17:inside
+[ne_5]	17	ne	-	12:k7p	-	def	-	-
+[ne_1]	18	ne	-	-	-	def	-	15:op1
+[ne_2]	19	ne	-	-	-	def	-	15:op2
+[ne_3]	20	ne	-	-	-	def	-	15:op3
+[ne_4]	21	ne	-	-	-	def	-	15:op4
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0069>
+#ये नदियाँ अपने मुहाने पर उपजाऊ डेल्टा का निर्माण करती हैं।
+#ye naxiyAz apane muhAne para upajAU deltA kA nirmANa karawI hEM.
+#These rivers have formed fertile deltas at their mouth.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+naxI_1(river_3)	2	-	pl	13:k1	-	-	-	-
+apanA	3	-	-	4:r6	-	-	-	-
+muhAnA_2(mouth_4)	4	-	-	13:k7p	-	-	-	-
+upajAU_1(fertile_1)	6	-	-	7:mod	-	-	-	-
+deltA_1(delta_1)	7	-	-	13:k2	-	-	-	-
+nirmANa_17(form_71)	9	-	-	-	-	-	-	13:kriyAmUla
+kara_1-wA_hE_1	10	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0070>
+#बंगाल की खाडी में गंगा एवं ब्रह्मपुत्र नदियों के मुहाने पर सुंदरबन डेल्टा स्थित है।
+#baMgAla kI KAdI meM gaMgA evaM brahmapuwra naxiyoM ke muhAne para suMxarabana deltA sWiwa hE.
+#The Sunderban delta is formed where the Ganga and Brahmaputra flow into the Bay of Bengal.
+baMgAla	1	-	-	-	-	-	-	20:begin
+KAdI	3	-	-	-	-	-	-	20:inside
+gaMgA	5	-	-	-	-	-	-	21:begin
+brahmapuwra	7	-	-	-	-	-	-	22:begin
+naxI_1(river_3)	8	-	pl	10:r6	-	-	-	-
+muhAnA_2(mouth_4)	10	-	-	-	-	-	-	23:part
+suMxarabana	12	-	-	-	-	-	-	17:begin
+deltA	13	-	-	-	-	-	-	17:inside
+sWiwa_2(located_2)	14	-	kqw	15:k1s	-	-	-	-
+hE_1-pres	15	-	-	0:main	-	-	-	-
+[ne_1]	17	ne	-	15:k1	-	def	-	-
+[conj_1]	18	-	-	8:rs	-	-	-	-
+kI	19	-	-	-	-	-	-	20:inside
+[ne_1]	20	ne	-	-	-	def	-	23:whole
+[ne_2]	21	ne	-	-	-	def	-	18:op1
+[ne_3]	22	ne	-	-	-	def	-	18:op2
+[spatial_1]	23	-	-	15:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0071>
+#भारत में दो द्वीपसमूह भी हैं।
+#BArawa meM xo xvIpasamUha BI hEM.
+#Two groups of islands also form part of India.
+BArawa	1	-	-	-	-	-	-	7:begin
+2	3	numex	-	4:card	-	-	-	-
+xvIpasamUha_1(island_4)	4	-	-	6:k1	-	BI_1	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+[ne_1]	7	place	-	6:k7p	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0072>
+#लक्षद्वीप द्वीपसमूह अरब सागर में स्थित हैं।
+#lakRaxvIpa xvIpasamUha araba sAgara meM sWiwa hEM.
+#Lakshadweep Islands are located in the Arabian Sea.
+lakRaxvIpa	1	-	-	-	-	-	-	9:begin
+xvIpasamUha(island_4)	2	-	-	-	-	-	-	9:inside
+araba	3	-	-	-	-	-	-	10:begin
+sAgara(sea_13)	4	-	-	-	-	-	-	10:inside
+sWiwa_2(located_2)	6	-	kqw	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+[ne_1]	9	place	-	7:k1	-	def	-	-
+[ne_2]	10	ne	-	7:k7p	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0073>
+#ये केरल के तट से कुछ दूर स्थित प्रवाल द्वीप हैं।
+#ye kerala ke wata se kuCa xUra sWiwa pravAla xvIpa hEM.
+#These are coral islands located off the coast of Kerala.
+$wyax	1	-	-	11:k1	Geo_ncert_6stnd_7ch_0072.9:coref	proximal	-	-
+kerala	2	-	-	-	-	-	-	12:begin
+wata_2(coast_1)	4	-	-	11:k5	-	-	-	-
+kuCa_1(some_2)	6	-	-	7:quant	-	-	-	-
+xUra_5(distance_5)	7	-	-	11:k7p	-	-	-	-
+sWiwa_2(located_2)	8	-	kqw	10:mod	-	-	-	-
+pravAla(coral_4)	9	-	-	10:rs	-	-	-	13:begin
+xvIpa(island_3)	10	-	-	11:k1s	-	-	-	13:inside
+hE_1-pres	11	-	-	0:main	-	-	-	-
+[ne_1]	12	place	-	4:r6	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0074>
+#अंडमान एवं निकोबार द्वीपसमूह भारत से दक्षिण-पूर्व दिशा में बंगाल की खाडी में स्थित हैं।
+#aMdamAna evaM nikobAra xvIpasamUha BArawa se xakRiNa-pUrva xiSA meM baMgAla kI KAdI meM sWiwa hEM.
+#The Andaman and the Nicobar Islands lie to the southeast of the Indian mainland in the Bay of Bengal.
+aMdamAna	1	-	-	-	-	-	-	17:begin
+nikobAra	3	-	-	-	-	-	-	17:inside
+xvIpasamUha(island_4)	4	-	-	-	-	-	-	17:inside
+BArawa	5	-	-	-	-	-	-	21:begin
+xakRiNa+pUrva_1	7	-	-	8:rs	-	-	-	-
+xiSA_1(direction_6)	8	-	-	-	-	-	-	24:whole
+baMgAla	10	-	-	-	-	-	-	23:begin
+KAdI	12	-	-	-	-	-	-	23:inside
+sWiwa_2(located_2)	14	-	kqw	15:k1s	-	-	-	-
+hE_1-pres	15	-	-	0:main	-	-	-	-
+[ne_1]	17	place	-	15:k1	-	def	-	-
+evaM	20	-	-	-	-	-	-	17:inside
+[ne_2]	21	place	-	15:k5	-	def	-	-
+kI	22	-	-	-	-	-	-	23:inside
+[ne_3]	23	ne	-	-	-	def	-	24:part
+[spatial_1]	24	-	-	15:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0075a>
+#क्या आप यह जानते हैं।
+#kyA Apa yaha jAnawe hEM.
+#Do you know which group of islands were affected by the Tsunami in 2004?
+$addressee	2	anim	-	4:k1	-	respect	-	-
+$wyax	3	-	-	4:k2	Geo_ncert_6stnd_7ch_0075b.9:coref	proximal	-	-
+jAna_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0075b>
+#कि कौन-सा द्वीपसमूह वर्ष 2004 में सुनामी से प्रभावित हुआ था?
+#ki kOna-sA xvIpasamUha varRa 2004 meM sunAmI se praBAviwa huA WA?
+#Do you know which group of islands were affected by the Tsunami in 2004?
+$kim	1	-	-	2:mod	-	sA_1	-	-
+xvIpasamUha_1(island_4)	2	-	-	9:k1	-	-	-	-
+2004	4	numex	-	9:k7t	-	-	-	-
+sunAmI_1(tsunami_1)	6	-	-	9:rh	-	-	-	-
+praBAviwa_3(affected_3)	8	-	-	9:k1s	-	-	-	-
+ho_1-yA_WA_1	9	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0076a>
+#समाचार-पत्रों तथा लोगों से बातचीत के जरिए जानकारी प्राप्त यह कीजिए।
+#samAcAra-pawroM waWA logoM se bAwacIwa ke jarie jAnakArI prApwa yaha kIjie.
+#Find out through newspaper reports and by speaking to people how in different ways people faced this challenge when Tsunami struck the Indian coast.
+samAcAra+pawra_2(newspaper_2)	1	-	pl	-	-	-	-	14:op1
+loga_2(people_5)	3	-	pl	5:k2	-	-	-	-
+bAwacIwa_1(talks_1)	5	-	-	-	-	-	-	14:op2
+jAnakArI_3(information_14)	8	-	-	13:k2	-	-	-	-
+prApwa_15	9	-	-	-	-	-	-	13:kriyAmUla
+$wyax	10	-	-	8:dem	-	proximal	-	-
+kara_1-o_1	11	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+[conj_1]	14	-	-	13:k3	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0076b>
+#कि जब सुनामी भारतीय तट से टकराई थी तो किस प्रकार लोगों ने अलग-अलग तरीके से इस चुनौती का सामना किया था।
+#ki jaba sunAmI BArawIya wata se takarAI WI wo kisa prakAra logoM ne alaga-alaga warIke se isa cunOwI kA sAmanA kiyA WA.
+#Find out through newspaper reports and by speaking to people how in different ways people faced this challenge when Tsunami struck the Indian coast.
+$yax	1	-	-	6:k7t	-	-	-	-
+sunAmI_1(tsunami_1)	2	-	-	6:k1	-	-	-	-
+BArawIya_1(indian_1)	3	-	-	4:mod	-	-	-	-
+wata_2(coast_1)	4	-	-	6:k5	-	def	-	-
+takarA_1-yA_WA_1	6	-	-	7:rcsamAnakAla	-	-	-	-
+$wyax	7	-	-	17:k7t	-	-	-	-
+$kim	8	-	-	9:mod	-	-	-	-
+prakAra_5(way_8)	9	-	-	17:krvn	-	-	-	-
+loga_2(people_5)	10	-	pl	17:k1	-	-	-	-
+alaga_7(different_4)	11	-	xviwva	12:mod	-	-	-	-
+warIkA_4(way_25)	12	-	-	17:k3	-	-	-	-
+$wyax	13	-	-	14:dem	-	proximal	-	-
+cunOwI_1(challenge_1)	14	-	-	17:k2	-	-	-	-
+sAmanA_1	15	-	-	-	-	-	-	17:kriyAmUla
+kara_1-yA_WA_1	16	-	-	-	-	-	-	17:verbalizer
+[cp_1]	17	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0076c>
+#तो किस प्रकार लोगों ने अलग-अलग तरीके से इस चुनौती का सामना किया था।
+#wo kisa prakAra logoM ne alaga-alaga warIke se isa cunOwI kA sAmanA kiyA WA.
+#Find out through newspaper reports and by speaking to people how in different ways people faced this challenge when Tsunami struck the Indian coast.
+-	-	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0077>
+#सुनामी एक विशाल सागरीय तरंग है जो समुद्र तल पर भूकंप के कारण उत्पन्न होती है।
+#sunAmI eka viSAla sAgarIya waraMga hE jo samuxra wala para BUkaMpa ke kAraNa uwpanna howI hE.
+#Tsunami is a huge sea wave generated due to an earthquake on the sea floor.
+sunAmI_1(tsunami_1)	1	-	-	6:k1	-	-	-	-
+eka_2(a_1)	2	-	-	5:card	-	-	-	-
+viSAla_1(huge_9)	3	-	-	5:mod	-	-	-	-
+sAgarIya_1(sea_71)	4	-	-	5:mod	-	-	-	-
+waraMga_1(wave_3)	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+$yax	7	-	-	15:k1	-	-	-	-
+samuxra_2(sea_12)	8	-	-	-	-	-	-	19:mod
+wala_7(level_4)	9	-	-	-	-	-	-	19:head
+BUkaMpa_1(earthquake_2)	11	-	-	15:rh	-	-	-	-
+uwpanna_6	14	-	-	15:k1s	-	-	-	-
+ho_1-wA_hE_1	15	-	-	5:rcelab	-	-	-	-
+[nc_2]	19	-	-	15:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0078>
+#निम्नलिखित प्रश्नों के उत्तर आप संक्षेप में दीजिए।
+#nimnaliKiwa praSnoM ke uwwara Apa saMkRepa meM xIjie.
+#Answer the following questions briefly.
+nimnaliKiwa_2(following_8)	1	-	-	2:mod	-	-	-	-
+praSna_1(question_3)	2	-	pl	4:r6	-	-	-	-
+uwwara_1(answer_1)	4	-	-	8:k2	-	-	-	-
+$addressee	5	anim	-	8:k1	-	respect	-	-
+saMkRepa_3(brief_4)	6	-	-	8:k7	-	-	-	-
+xe_1-o_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0079>
+#भारत को कितने भौतिक भागों में विभाजित किया जा सकता है?
+#BArawa ko kiwane BOwika BAgoM meM viBAjiwa kiyA jA sakawA hE?
+#Name the major physical divisions of India.
+BArawa	1	-	-	-	-	-	-	14:begin
+$kim	3	-	-	5:quant	-	-	-	-
+BOwika_2(physical_4)	4	-	-	5:mod	-	-	-	-
+BAga_7(division_9)	5	-	pl	13:k7	-	-	-	-
+viBAjiwa_1(divided_2)	7	-	-	-	-	-	-	13:kriyAmUla
+kara_1-yA_jA_sakawA_hE_1	8	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+[ne_1]	14	place	-	13:k2	-	def	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0080>
+#भारत की स्थलीय सीमा सात देशों से जुडी है।
+#BArawa kI sWalIya sImA sAwa xeSoM se judI hE.
+#India shares its land boundaries with seven countries.
+BArawa	1	-	-	-	-	-	-	9:begin
+sWalIya_2(land_1)	3	-	-	4:mod	-	-	-	-
+sImA_2(boundary_9)	4	-	-	10:k1	-	-	-	-
+7	5	numex	-	6:card	-	-	-	-
+xeSa_1(country_1)	6	-	pl	10:k5	-	-	-	-
+juda_3	8	-	kqw	10:k1s	-	-	-	-
+[ne_1]	9	place	-	4:r6	-	def	-	-
+hE_1-pres	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0081>
+#उनके आप नाम लिखिए।
+#unake Apa nAma liKie.
+#Name them.
+$wyax	1	-	-	3:r6	Geo_ncert_6stnd_7ch_0080.8:coref	distal	-	-
+$addressee	2	anim	-	4:k1	-	respect	-	-
+nAma_1(name_3)	3	-	-	4:k2	-	-	-	-
+liKa_1-o_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0082>
+#कौन-सी दो प्रमुख नदियाँ अरब सागर में गिरती हैं?
+#kOna-sI xo pramuKa naxiyAz araba sAgara meM girawI hEM?
+#Which two major rivers fall into the Arabian Sea?
+$kim	1	-	-	4:mod	-	sA_1	-	-
+2	2	numex	-	4:card	-	-	-	-
+pramuKa_10(major_1)	3	-	-	4:mod	-	-	-	-
+naxI_1(river_3)	4	-	pl	8:k1	-	-	-	-
+araba	5	-	-	-	-	-	-	11:begin
+sAgara	6	-	-	-	-	-	-	11:inside
+gira_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+[ne_1]	11	ne	-	8:k7p	-	def	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0083>
+#गंगा एवं ब्रह्मपुत्र के द्वारा बनाए गए डेल्टा का नाम आप लिखिए।
+#gaMgA evaM brahmapuwra ke xvArA banAe gae deltA kA nAma Apa liKie.
+#Name the delta formed by the Ganga and the Brahmaputra.
+gaMgA	1	-	-	-	-	-	-	15:begin
+brahmapuwra	3	-	-	-	-	-	-	16:begin
+banA_7(form_19)	6	-	kqw	8:rbks	-	-	-	-
+deltA_1(delta_1)	8	-	-	10:r6	-	-	-	-
+nAma_1(name_3)	10	-	-	12:k2	-	-	-	-
+$addressee	11	anim	-	12:k1	-	respect	-	-
+liKa_1-o_1	12	-	-	0:main	-	-	-	-
+[conj_1]	14	-	-	6:k3	-	-	-	-
+[ne_1]	15	ne	-	-	-	def	-	14:op1
+[ne_2]	16	ne	-	-	-	def	-	14:op2
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0084>
+#भारत में कितने राज्य तथा कितने केंद्रशासित प्रदेश हैं?
+#BArawa meM kiwane rAjya waWA kiwane keMxraSAsiwa praxeSa hEM?
+#How many States and Union Territories are there in India?
+BArawa	1	-	-	-	-	-	-	12:begin
+$kim	3	-	-	4:quant	-	-	-	-
+rAjya_1(state_14)	4	-	-	-	-	-	-	11:op1
+$kim	6	-	-	13:quant	-	-	-	-
+keMxraSAsiwa_2(union_20)	7	-	-	-	-	-	-	13:mod
+praxeSa_2(territory_2)	8	-	-	-	-	-	-	13:head
+hE_1-pres	9	-	-	0:main	-	-	-	-
+[conj_1]	11	-	-	9:k1	-	-	-	-
+[ne_1]	12	place	-	9:k7p	-	def	-	-
+[nc_1]	13	-	-	-	-	-	-	11:op2
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0085>
+#किन दो राज्यों की राजधनी एक ही है?
+#kina xo rAjyoM kI rAjaXanI eka hI hE?
+#Which states have a common capital?
+$kim	1	-	-	3:mod	-	-	-	-
+2	2	numex	-	3:card	-	-	-	-
+rAjya_1(state_14)	3	-	pl	5:r6	-	-	-	-
+rAjaXAnI_1(capital_3)	5	-	-	8:k1	-	-	-	-
+1	6	numex	-	5:card	-	hI_1	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0086>
+#उत्तरी मैदानों में अधिक जनसंख्या में निवास करती हैं, क्यों?
+#uwwarI mExAnoM meM aXika janasaMKyA meM nivAsa karawI hEM, kyoM?
+#Why do a large number of people live in the Northern plains?
+uwwarI_1	1	-	-	2:mod	-	-	-	-
+mExAna_1	2	-	pl	13:k7p	-	def	-	-
+janasaMKyA_1	5	-	-	13:k7	-	-	-	-
+nivAsa_1	7	-	-	-	-	-	-	13:kriyAmUla
+kara_1-wA_hE_1	8	-	-	-	-	-	-	13:verbalizer
+$kim	11	-	-	13:rt	-	-	-	-
+[cp_1]	13	-	-	0:main	-	-	-	-
+loga_1	14	anim	-	13:k1	-	-	-	-
+aXika_1	15	-	-	5:quantmore	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0087>
+#लक्षद्वीप को प्रवाल द्वीप कहा जाता है, क्यों?
+#lakRaxvIpa ko pravAla xvIpa kahA jAwA hE, kyoM?
+#Why is Lakshadweep known as a coral island?
+lakRaxvIpa	1	-	-	-	-	-	-	12:mod
+pravAla	3	-	-	-	-	-	-	11:head
+xvIpa_1	4	-	-	5:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	5	-	-	0:main	-	-	-	-
+$kim	9	-	-	5:rh	-	-	-	-
+[nc_1]	11	-	-	4:rs	-	-	-	-
+[ne_1]	12	-	-	5:k2	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0088>
+#सही उत्तर चिन्हित आप कीजिए।
+#sahI uwwara cinhiwa Apa kIjie.
+#Tick the correct answers.
+sahI_1	1	-	-	2:mod	-	-	-	-
+uwwara_1	2	-	-	6:k2	-	def	-	-
+cinhiwa_1	3	-	-	-	-	-	-	6:kriyAmUla
+$addressee	4	anim	-	6:k1	-	respect	-	-
+kara_1-o_1	5	-	-	-	-	-	-	6:verbalizer
+[cp_1]	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0089>
+#हिमालय के सबसे दक्षिणी भाग को क्या कहा जाता है?
+#himAlaya ke sabase xakRiNI BAga ko kyA kahA jAwA hE?
+#The southernmost Himalayas are known as
+himAlaya	1	-	-	-	-	def	-	9:begin
+xakRiNI_1	4	-	superl	5:mod	-	-	-	-
+BAga_1	5	-	-	8:k2	-	-	-	-
+$kim	7	-	-	8:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	8	-	-	0:main	-	-	-	-
+[ne_1]	9	-	-	5:r6	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0090F>
+#शिवालिक  ।
+#SivAlika  .
+#Shiwaliks
+SivAlika	7	-	-	-	-	-	-	14:begin
+[ne_1]	14	place	-	0:main	-	-	-	-
+%fragment
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0091>
+#सह्याद्रि को अन्य किस नाम से जाना जाता है?
+#sahyAxri ko anya kisa nAma se jAnA jAwA hE?
+#Sahyadris is also known as
+sahyAxri	1	-	-	-	-	-	-	8:begin
+anya_1	3	-	-	5:mod	-	-	-	-
+$kim	4	-	-	7:k2s	-	-	-	-
+nAma_1	5	-	-	4:rs	-	-	-	-
+jAna_1-yA_jA_wA_hE_1	7	-	-	0:main	-	-	-	-
+[ne_1]	8	-	-	7:k2	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0092F>
+#पश्चिमी घाट ।
+#paScimI GAta  .
+#Western Ghats
+paScimI	4	-	-	-	-	-	-	14:begin
+GAta	5	-	-	-	-	-	-	14:inside
+[ne_1]	14	place	-	0:main	-	-	-	-
+%fragment
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0093>
+#पाक जलसन्धि किन देशों के बीच स्थित है?
+#pAka jalasanXi kina xeSoM ke bIca sWiwa hE?
+#The Palk Strait lies between the countries
+pAka	1	-	-	-	-	-	-	10:begin
+jalasanXi	2	-	-	-	-	-	-	10:inside
+$kim	3	-	-	6:rdl	-	-	-	-
+xeSa_1	4	-	pl	3:rs	-	def	-	-
+bIca_1	6	-	-	8:k7p	-	-	-	-
+sWiwa_1	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+[ne_1]	10	ne	-	8:k1	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0095>
+#पाक जलसन्धि भारत तथा श्रीलंका देशों के बीच स्थित है।
+#pAka jalasanXi BArawa waWA SrIlaMkA xeSoM ke bIca sWiwa hE.
+#The Palk Strait lies between the India and Sri Lanka.
+pAka	1	-	-	-	-	-	-	12:begin
+jalasanXi	2	-	-	-	-	-	-	12:inside
+BArawa	3	-	-	-	-	-	-	14:begin
+SrIlaMkA	5	-	-	-	-	-	-	15:begin
+xeSa_1	6	-	pl	13:rs	-	-	-	-
+bIca_1	8	-	-	10:k7p	-	-	-	-
+sWiwa_1	9	-	-	10:k1s	-	-	-	-
+hE_1-pres	10	-	-	0:main	-	-	-	-
+[ne_1]	12	ne	-	10:k1	-	-	-	-
+[conj_1]	13	-	-	8:rdl	-	-	-	-
+[ne_2]	14	place	-	-	-	def	-	13:op1
+[ne_3]	15	place	-	-	-	-	-	13:op2
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0097>
+#अरब सागर में स्थित भारतीय द्वीपसमूह कौन-से हैं?
+#araba sAgara meM sWiwa BArawIya xvIpasamUha kOna-se hEM?
+#The Indian islands in the Arabian Sea are known as
+araba	1	-	-	-	-	-	-	10:begin
+sAgara	2	-	-	-	-	-	-	10:inside
+sWiwa_1	4	-	-	6:mod	-	-	-	-
+BArawIya_1	5	-	-	6:mod	-	-	-	-
+xvIpasamUha_1	6	-	-	8:k1	-	def	-	-
+$kim	7	-	-	8:k1s	-	sA_1	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+[ne_1]	10	place	-	4:k7p	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0098F>
+#अंडमान एवं निकोबार द्वीपसमूह ।
+#aMdamAna evaM nikobAra xvIpasamUha .
+#Andaman and Nicobar Islands
+aMdamAna	7	-	-	-	-	-	-	19:begin
+nikobAra	9	-	-	-	-	-	-	11:begin
+xvIpasamUha	10	-	-	-	-	-	-	11:inside
+[ne_2]	11	place	-	-	-	-	-	14:op2
+[conj_1]	14	-	-	0:main	-	-	-	-
+[ne_1]	19	place	-	-	-	-	-	14:op1
+%fragment
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0099>
+#भारत की सबसे पुरानी पर्वत शृंखला कौन-सी है?
+#BArawa kI sabase purAnI parvawa SqMKalA kOna-sI hE?
+#The oldest mountain range in India is the
+BArawa	1	-	-	-	-	-	-	11:begin
+purAnA_1	4	-	superl	10:mod	-	-	-	-
+parvawa_1	5	-	-	-	-	-	-	10:mod
+SqMKalA_1	6	-	-	-	-	-	-	10:head
+$kim	7	-	-	8:k1s	-	sA_1	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+[nc_1]	10	-	-	8:k1	-	-	-	-
+[ne_1]	11	place	-	10:r6	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0100>
+#आप खाली स्थान भरें।
+#Apa KAlI sWAna BareM.
+#Fill in the blanks.
+$addressee	1	anim	-	4:k1	-	respect	-	-
+KAlI_1	2	-	-	3:mod	-	-	-	-
+sWAna_1	3	-	-	4:k2	-	def	-	-
+Bara_1-o_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0101>
+#भारत के रेखा मानचित्र पर आप निम्नलिखित को चिन्हित कीजिए।
+#BArawa ke reKA mAnaciwra para Apa nimnaliKiwa ko cinhiwa kIjie.
+#On an outline map of India, mark the following.
+BArawa	1	-	-	-	-	-	-	14:begin
+reKA_1	3	-	-	-	-	-	-	15:mod
+mAnaciwra_1	4	-	-	-	-	-	-	15:head
+$addressee	6	anim	-	13:k1	-	respect	-	-
+nimnaliKiwa	7	-	-	13:k2	-	-	-	-
+cinhiwa_1	9	-	-	-	-	-	-	13:kriyAmUla
+kara_1-o_1	10	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+[ne_1]	14	place	-	15:r6	-	-	-	-
+[nc_1]	15	-	-	13:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0102>
+#भारत का मानक याम्योत्तर को आप चिन्हित कीजिए।
+#BArawa kA mAnaka yAmyowwara ko Apa cinhiwa kIjie.
+#Standard Meridian of India
+BArawa	1	-	-	-	-	-	-	12:begin
+mAnaka	3	-	-	-	-	-	-	12:inside
+yAmyowwara	4	-	-	-	-	def	-	12:inside
+$addressee	6	anim	-	10:k1	-	respect	-	-
+cinhiwa_1	7	-	-	-	-	-	-	10:kriyAmUla
+kara_1-o_1	8	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	-	-	-	-
+kA	11	-	-	-	-	-	-	12:inside
+[ne_1]	12	-	-	10:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0103>
+#आप चिन्हित कीजिए जिस राज्य में आप निवास करते हैं।
+#Apa cinhiwa kIjie jisa rAjya meM Apa nivAsa karawe hEM.
+#State in which you live
+$addressee	1	anim	-	12:k1	-	respect	-	-
+cinhiwa_1	2	-	-	-	-	-	-	12:kriyAmUla
+kara_1-o_1	3	-	-	-	-	-	-	12:verbalizer
+$yax	4	-	-	5:dem	-	-	-	-
+rAjya_1	5	-	-	13:k7p	-	-	-	-
+$addressee	7	anim	-	13:k1	-	respect	-	-
+nivAsa_1	8	-	-	-	-	-	-	13:kriyAmUla
+kara_1-wA_hE_1	9	-	-	-	-	-	-	13:verbalizer
+[cp_1]	12	-	-	0:main	-	-	-	-
+[cp_1]	13	-	-	12:rcdelim	-	-	-	-
+$wyax	14	-	-	15:dem	-	-	-	-
+rAjya_1	15	-	-	15:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0104>
+#अंडमान द्वीपसमूह तथा लक्षद्वीप द्वीपसमूह को आप चिन्हित कीजिए।
+#aMdamAna xvIpasamUha waWA lakRaxvIpa xvIpasamUha ko Apa cinhiwa kIjie.
+#Andaman Islands and Lakshadweep Islands
+aMdamAna	1	-	-	-	-	-	-	11:begin
+xvIpasamUha	2	-	-	-	-	-	-	11:inside
+lakRaxvIpa	4	-	-	-	-	-	-	12:begin
+xvIpasamUha	5	-	-	-	-	-	-	12:inside
+$addressee	7	anim	-	13:k1	-	respect	-	-
+cinhiwa_1	8	-	-	-	-	-	-	13:kriyAmUla
+kara_1-o_1	9	-	-	-	-	-	-	13:verbalizer
+[ne_1]	11	-	-	-	-	-	-	14:op1
+[ne_2]	12	-	-	-	-	-	-	14:op2
+[cp_1]	13	-	-	0:main	-	-	-	-
+[conj_1]	14	-	-	13:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_7ch_0105>
+#पूर्वी घाट एवं पश्चिमी घाट को आप चिन्हित कीजिए।
+#pUrvI GAta evaM paScimI GAta ko Apa cinhiwa kIjie.
+#Western Ghats and Eastern Ghats
+pUrvI	1	-	-	-	-	-	-	13:begin
+GAta	2	-	-	-	-	-	-	13:inside
+paScimI	4	-	-	-	-	-	-	14:begin
+GAta	5	-	-	-	-	-	-	14:inside
+$addressee	7	anim	-	11:k1	-	respect	-	-
+cinhiwa_1	8	-	-	-	-	-	-	11:kriyAmUla
+kIjie_1-wA_hE_1	9	-	-	-	-	-	-	11:verbalizer
+[cp_1]	11	-	-	0:main	-	-	-	-
+[conj_1]	12	-	-	11:k2	-	-	-	-
+[ne_1]	13	ne	-	-	-	-	-	12:op1
+[ne_2]	14	ne	-	-	-	-	-	12:op2
+%affirmative
+</segment_id>

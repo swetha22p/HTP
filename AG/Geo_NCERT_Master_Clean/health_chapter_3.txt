@@ -1,0 +1,1089 @@
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_001INFOSHEET>
+#रोगी सूचना-पत्रक।
+#Patient notice sheet.
+#rogI sUcanA-pawraka.
+rogI_1(patient_3)	1	-	-	-	-	-	-	-
+sUcanA+pawraka_1	2	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_002TITLE>
+#पिट्यूटरी एडिनोमा को निकालने के लिये, आर्चनॉइड उभार में मैनिटॉल देने का प्रभाव और एंडोस्कोपिक ट्रांसनेसल, ट्रांसस्पेनोइडल (टीएनटीएस) से गुजरने वाले रोगियों में मस्तिष्क द्रव (सीएसएफ) के रिसाव की घटना - एक यादृच्छिक नियंत्रित परीक्षण।
+#To remove pituitary adenoma, the effect of manitol in archeoid bulge and endoscopic transnisal, transcertorship passes into patients undergoing tent of brain fluid - a random controlled test.
+#pityUtarI edinomA ko nikAlane ke liye, Arcanaॉida uBAra meM mEnitaॉla xene kA praBAva Ora eMdoskopika trAMsanesala, trAMsaspenoidala se gujarane vAle rogiyoM meM maswiRka xrava ke risAva kI GatanA - eka yAxqcCika niyaMwriwa parIkRaNa.
+^pityUtarI_1	1	-	-	-	-	-	-	43:mod
+^edinomA_1	2	-	-	-	-	-	-	43:head
+nikAla_1	4	-	-	-	-	-	-	-
+^ArcanOYida_1	8	-	-	-	-	-	-	44:mod
+uBAra_1	9	-	-	-	-	-	-	44:head
+mEnitOYla	11	-	-	-	-	-	-	49:begin
+xe_1	12	-	-	-	-	-	-	-
+praBAva_1	14	-	-	-	-	-	-	48:op1
+^eMdoskopika_1	16	-	-	-	-	-	-	-
+^trAMsanesala_1	17	-	-	-	-	-	-	-
+^trAMsaspenoidala_1	19	-	-	24:k5	-	-	-	-
+@tIenatIesa	21	-	-	19:re	-	-	-	-
+gujara_1	24	-	-	26:mod	-	-	-	-
+rogI_1	26	-	-	41:mod	-	-	-	-
+maswiRka_1	28	-	-	-	-	-	-	46:mod
+xrava_1	29	-	-	-	-	-	-	46:head
+@sIesaePa	31	-	-	29:re	-	-	-	-
+risAva_1	34	-	-	36:r6	-	-	-	-
+GatanA_1	36	-	-	41:r6	-	-	-	48:op2
+eka_2	38	-	-	36:pof__redup	-	-	-	-
+yAxqcCika_1	39	-	-	41:mod	-	-	-	-
+niyaMwriwa_1	40	-	-	39:mod	-	-	-	-
+parIkRaNa_1	41	-	-	-	-	-	-	48:op3
+[nc_1]	43	-	-	4:k2	-	-	-	-
+[nc_2]	44	-	-	12:k7	-	-	-	-
+[nc_3]	46	-	-	34:r6	-	-	-	-
+[conj_1]	48	-	-	0:main	-	-	-	-
+[ne_1]	49	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_003INFOSHEET>
+#परिचय।
+#Introduction.
+#paricaya.
+paricaya_1(introduction_3)	1	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_004>
+#आपको एक शोध अध्ययन में भाग लेने के लिए चुना गया है।
+#You have been selected to participate in a research study.
+#Apako eka SoXa aXyayana meM BAga lene ke lie cunA gayA hE.
+$addressee	1	anim	-	10:k2	-	respect	-	-
+eka_2(a_1)	2	-	-	14:quant	-	-	-	-
+SoXa_1(research_3)	3	-	-	-	-	-	-	14:mod
+aXyayana_1(study_1)	4	-	-	-	-	-	-	14:head
+BAga_2(part_9)	6	-	-	-	-	-	-	15:kriyAmUla
+le_1(take_1)	7	-	-	-	-	-	-	15:verbalizer
+cuna_1-yA_jA_yA_hE_1(select_1)	10	-	-	0:main	-	-	-	-
+[nc_1]	14	-	-	15:k7	-	-	-	-
+[cp_1]	15	-	-	10:rt	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_005a>
+#इससे पहले कि आप तय यह करें।
+#Do this before you decide.
+#isase pahale ki Apa waya yaha kareM.
+$addressee	4	anim	-	9:k1	-	respect	-	-
+waya_12(decide_8)	5	-	-	-	-	-	-	9:kriyAmUla
+$wyax	6	-	-	9:k2	-	proximal	-	-
+kara_17-o_1(do_2)	7	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_005b.6:coref	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_005b>
+#कि क्या आप इसमें भाग लेना चाहते हैं.
+#If you want to participate in it, please read about the study given below to know about your risks and benefits.
+#ki kyA Apa isameM BAga lenA cAhawe hEM.
+$addressee	2	anim	-	6:k1	-	respect	-	-
+$wyax	3	-	-	7:k7	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_004.14:coref	proximal	-	-
+BAga_2(part_9)	4	-	-	-	-	-	-	7:kriyAmUla
+le_1(take_1)	5	-	-	-	-	-	-	7:verbalizer
+cAha_1-wA_hE_1(want_1)	6	-	-	0:main	-	-	-	-
+[cp_1]	7	-	-	6:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_005c>
+#कृपया अपने जोखिमों और लाभों के बारे में जानने के लिये नीचे दिए गए अध्ययन के बारे में पढें।
+#Please read about the study given below to know about your risks and benefits.
+#kqpayA apane joKimoM Ora lABoM ke bAre meM jAnane ke liye nIce xie gae aXyayana ke bAre meM paDeM.
+kqpayA_2(please_1)	1	-	-	19:vkvn	-	-	-	-
+apanA	2	-	-	3:r6	-	-	-	-
+joKima_1(risk_2)	3	-	pl	-	-	-	-	21:op1
+lABa_4(benefit_2)	5	-	pl	-	-	-	-	21:op2
+jAna_10(know_1)	9	-	-	19:rt	-	-	-	-
+nIce_1(below_3)	12	-	-	13:k7p	-	-	-	-
+xe_1(give_1)	13	-	-	15:rbks	-	-	-	-
+aXyayana_1(study_1)	15	-	-	19:k7	-	-	-	-
+paDa_1-o_1(read_7)	19	-	-	0:main	-	-	-	-
+[conj_1]	21	-	-	9:k7	-	-	-	-
+$addressee	22	anim	-	19:k1	-	respect	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_006a>
+#आपको जितना समय चाहिए उतना समय लें।
+#Take as much time as you want.
+#Apako jiwanA samaya cAhie uwanA samaya leM.
+$addressee	1	anim	-	4:k2	-	respect	-	-
+$yax	2	-	-	3:quant	-	-	-	-
+samaya_1(time_8)	3	-	-	4:k2g	-	-	-	-
+cAha_1-o_1(want_1)	4	-	-	5:rcprop	-	-	-	-
+$wyax	5	-	-	6:quant	-	distal	-	-
+samaya_1(time_8)	6	-	-	7:k2	-	-	-	-
+le_1-o_1(take_1)	7	-	-	0:main	-	-	-	-
+$addressee	8	anim	-	7:k1	-	respect	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_006b>
+#और अध्ययन जांचकर्ताओं से यह पूछने के लिए स्वतंत्र महसूस करें।
+#And feel free to ask the study investigators this.
+#Ora aXyayana jAMcakarwAoM se yaha pUCane ke lie svawaMwra mahasUsa kareM.
+aXyayana_1(study_1)	1	-	-	-	-	-	-	12:mod
+jAMcakarwA_1(investigator_8)	2	-	-	-	-	-	-	12:head
+$wyax	4	-	-	5:k2	-	proximal	-	-
+pUCa_3(ask_1)	5	-	-	13:rt	-	-	-	-
+svawaMwra_2(free_13)	8	-	-	13:krvn	-	-	-	-
+mahasUsa_1	9	-	-	-	-	-	-	13:kriyAmUla
+kara_17-o_1(do_2)	10	-	-	-	-	-	-	13:verbalizer
+[nc_1]	12	-	-	13:k5	-	-	-	-
+[cp_1]	13	-	-	0:main	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_006a.13:samuccaya	-	-	-
+$addressee	14	anim	-	13:k1	-	respect	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_006c>
+#कि क्या आपको अध्ययन के बारे में कोई संदेह है।
+#That you have any doubt about the study.
+#ki kyA Apako aXyayana ke bAre meM koI saMxeha hE.
+$addressee	2	anim	-	9:k4a	-	respect	-	-
+aXyayana_1(study_1)	3	-	-	9:k7	-	-	-	-
+koI_1(any_1)	7	-	-	8:mod	-	-	-	-
+saMxeha_1(doubt_7)	8	-	-	9:k1	-	-	-	-
+hE_1-pres(state_copula_1)	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_007a>
+#हम यह सुनिश्चित करेंगे।
+#We will ensure this.
+#hama yaha suniSciwa kareMge.
+$speaker	1	anim	pl	6:k1	-	-	-	-
+$wyax	2	-	-	6:k2	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_007b.6:coref	proximal	-	-
+suniSciwa_4(ensure_1)	3	-	-	-	-	-	-	6:kriyAmUla
+kara_17-gA_1(do_2)	4	-	-	-	-	-	-	6:verbalizer
+[cp_1]	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_007b>
+#कि आपके सभी सवालों के जवाब दिए जाएं।
+#That all your questions be answered.
+#ki Apake saBI savAloM ke javAba xie jAeM.
+$addressee	1	anim	-	3:r6	-	respect	-	-
+saBI_1(all_1)	2	-	-	3:quant	-	-	-	-
+savAla_1(question_5)	3	-	pl	5:r6	-	-	-	-
+javAba_2(answer_2)	5	-	-	6:k2	-	-	-	-
+xe_1-yA_jA_yA_1(give_1)	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_008>
+#इस अध्ययन में भागीदारी स्वैच्छिक है।
+#Participation in this study is voluntary.
+#isa aXyayana meM BAgIxArI svEcCika hE.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+aXyayana_1(study_1)	2	-	-	6:k7	-	-	-	-
+BAgIxArI_1(participation_1)	4	-	-	6:k1	-	-	-	-
+svEcCika_1(voluntary_3)	5	-	-	6:k1s	-	-	-	-
+hE_1-pres(state_copula_1)	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_009H>
+#पृष्ठभूमि।
+#background.
+#pqRTaBUmi.
+pqRTaBUmi_1(background_3)	1	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_010a>
+#हम एक शोध अध्ययन में भाग लेने के लिए आपसे संपर्क कर रहे हैं।
+#We are contacting you to participate in a research study.
+#hama eka SoXa aXyayana meM BAga lene ke lie Apase saMparka kara rahe hEM.
+$speaker	1	anim	pl	18:k1	-	-	-	-
+eka_2(a_1)	2	-	-	16:quant	-	-	-	-
+SoXa_1(research_3)	3	-	-	-	-	-	-	16:mod
+aXyayana_1(study_1)	4	-	-	-	-	-	-	16:head
+BAga_2(part_9)	6	-	-	-	-	-	-	17:kriyAmUla
+le_1(take_1)	7	-	-	-	-	-	-	17:verbalizer
+$addressee	10	anim	-	18:k1as	-	respect	-	-
+saMparka_1(contact_3)	11	-	-	-	-	-	-	18:kriyAmUla
+kara_17-0_rahA_hE_1(do_2)	12	-	-	-	-	-	-	18:verbalizer
+[nc_1]	16	-	-	17:k7	-	-	-	-
+[cp_1]	17	-	-	18:rt	-	-	-	-
+[cp_2]	18	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_010b>
+#क्योंकि आप नाक के माध्यम से मस्तिष्क ट्यूमर के लिए शल्य-चिकित्सा करवा रहे हैं।
+#Because you are conducting surgery for brain tumors through the nose.
+#kyoMki Apa nAka ke mAXyama se maswiRka tyUmara ke lie Salya-cikiwsA karavA rahe hEM.
+tyUmara_1	1	anim	-	16:k1	-	respect	-	-
+nAka_2(nose_4)	2	-	-	16:rp	-	-	-	-
+maswiRka_3(brain_5)	6	-	-	-	-	-	-	15:mod
+^tyUmara_1	7	-	-	-	-	-	-	15:head
+Salya+cikiwsA_1(surgery_4)	10	-	-	-	-	-	-	16:kriyAmUla
+kara_17-0_rahA_hE_1(do_2)	11	-	-	-	-	-	-	16:verbalizer
+[nc_1]	15	-	-	16:rt	-	-	-	-
+[cp_1]	16	-	-	0:main	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_010a.16:kAryakAraNa	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_011>
+#शल्य-चिकित्सा से पहले आपको एनेस्थेसियोलॉजिस्ट द्वारा (सामान्य एनेस्थीसिया) देकर सुला दिया जाएगा।
+#Before surgery, you will be put to sleep by giving by the anesthesiologist.
+#Salya-cikiwsA se pahale Apako enesWesiyolaॉjista xvArA xekara sulA xiyA jAegA.
+Salya+cikiwsA_1(surgery_4)	1	-	-	12:rblak	-	-	-	-
+pahale_2(before_3)	3	-	-	12:k7t	-	-	-	-
+$addressee	4	anim	-	12:k2	-	respect	-	-
+^enesWesiyolOYjista_1	5	anim	-	11:k1	-	-	-	-
+sAmAnya_1	8	-	-	9:mod	-	-	-	-
+^enesWIsiyA_1	9	-	-	11:k2	-	-	-	-
+xe_1	11	-	-	12:rpk	-	-	-	-
+sulA_1-yA_jA_gA_1	12	-	-	0:main	-	[shade:xe_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_012>
+#शल्य-चिकित्सा के दौरान एनेस्थेसियोलॉजिस्ट आपके सभी महत्वपूर्ण एवं शल्य-चिकित्सा के समय आवश्यक मापदंडों, जैसे कि श्वास, दर्द, नींद की स्थिति, रक्तचाप, हृदय गति नियंत्रण का ध्यान रखेगा।
+#_Salya-cikiwsA_ _ke_ _xOrAna_ _enesWesiyola__jista_ _Apake_ _saBI_ _mahawvapUrNa_ _evaM_ _Salya-cikiwsA_ _ke_ _samaya_ _AvaSyaka_ _mApaxaMdoM,_ _jEse_ _ki_ _SvAsa,_ _xarxa,_ _nIMxa_ _kI_ _sWiwi,_ _rakwacApa,_ _hqxaya_ _gawi_ _niyaMwraNa_ _kA_ _XyAna_ _raKegA._
+#Salya-cikiwsA ke xOrAna enesWesiyolaॉjista Apake saBI mahawvapUrNa evaM Salya-cikiwsA ke samaya AvaSyaka mApaxaMdoM, jEse ki SvAsa, xarxa, nIMxa kI sWiwi, rakwacApa, hqxaya gawi niyaMwraNa kA XyAna raKegA.
+Salya+cikiwsA_1(surgery_4)	1	-	-	36:k7t	-	-	-	-
+^enesWesiyolOYjista_1	4	anim	-	36:k1	-	-	-	-
+$addressee	5	anim	-	7:r6	-	respect	-	-
+saBI_1(all_1)	6	-	-	7:quant	-	-	-	-
+mahawvapUrNa_1(important_6)	7	-	-	-	-	-	-	38:op1
+Salya+cikiwsA_1(surgery_4)	9	-	-	36:k7t	-	-	-	-
+AvaSyaka_1(necessary_1)	12	-	-	13:mod	-	-	-	-
+mApaxaMda_1	13	-	-	-	-	-	-	38:op2
+SvAsa_1	17	-	-	-	-	-	-	37:op1
+xarxa_1	19	-	-	-	-	-	-	37:op2
+nIMxa_1	21	-	-	23:r6	-	-	-	-
+sWiwi_1	23	-	-	-	-	-	-	37:op3
+rakwacApa_1	25	-	-	-	-	-	-	37:op4
+hqxaya_1	27	-	-	-	-	-	-	34:mod
+gawi_1	28	-	-	-	-	-	-	34:head
+niyaMwraNa_1	29	-	-	-	-	-	-	35:head
+XyAna_1	31	-	-	-	-	-	-	36:kriyAmUla
+raKa_1-gA_1	32	-	-	-	-	-	-	36:verbalizer
+[nc_1]	34	-	-	-	-	-	-	35:mod
+[nc_2]	35	-	-	-	-	-	-	37:op5
+[cp_1]	36	-	-	0:main	-	-	-	-
+[conj_1]	37	-	-	38:re	-	-	-	-
+[conj_2]	38	-	-	36:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_013>
+#जैसे ही शल्य-चिकित्सक आपकी नाक और खोपडी की हड्डी के आधार के माध्यम से ट्यूमर के पास पहुंचता है, हम नाक के माध्यम से मस्तिष्क की परतों को कवर करने के उभार को नियंत्रित करने के लिए कुछ उपाय (आपकी श्वास दर को नियंत्रित करके) करते हैं।
+#As soon as the surgeon reaches the tumor through the base of your nose and skull bone, we perform some measures to control the rise of brain layers through the nose (by controlling .
+#jEse hI Salya-cikiwsaka ApakI nAka Ora KopadI kI haddI ke AXAra ke mAXyama se tyUmara ke pAsa pahuMcawA hE, hama nAka ke mAXyama se maswiRka kI parawoM ko kavara karane ke uBAra ko niyaMwriwa karane ke lie kuCa upAya (ApakI SvAsa xara ko niyaMwriwa karake) karawe hEM.
+Salya+cikiwsaka_1	3	-	-	18:k1	-	-	-	-
+$addressee	4	anim	-	5:r6	-	respect	-	-
+nAka_1	5	-	-	-	-	-	-	57:op1
+KopadI_1	7	-	-	9:r6	-	-	-	-
+haddI_1	9	-	-	-	-	-	-	57:op2
+tyUmara_1	15	-	-	18:rsm	-	-	-	-
+pAsa_1	17	-	-	15:k7p	-	-	-	-
+pahuMca_1-wA_hE_1	18	-	-	58:rcsamAnakAla	-	-	-	-
+$speaker	21	anim	pl	58:k1	-	-	-	-
+nAka_1	22	-	-	58:rp	-	-	-	-
+maswiRka_1	26	-	-	28:r6	-	-	-	-
+parawa_1	28	-	pl	58:k2	-	-	-	-
+kavara_1	30	-	-	-	-	-	-	54:kriyAmUla
+kara_1	31	-	pl	-	-	-	-	54:verbalizer
+uBAra_1	33	-	-	55:k2	-	-	-	-
+niyaMwriwa_1	35	-	-	-	-	-	-	55:kriyAmUla
+kara_1	36	-	pl	-	-	-	-	55:verbalizer
+kuCa_1	39	-	-	40:quant	-	-	-	-
+upAya_1	40	-	-	-	-	-	-	58:kriyAmUla
+$addressee	42	anim	-	53:r6	-	respect	-	-
+SvAsa_1	43	-	-	-	-	-	-	53:mod
+xara_1	44	-	-	-	-	-	-	53:head
+niyaMwriwa_1	46	-	-	-	-	-	-	56:kriyAmUla
+kara_1	47	-	-	-	-	-	-	56:verbalizer
+kara_1-wA_hE_1	49	-	-	18:rc	-	-	-	58:verbalizer
+[nc_1]	53	-	-	56:k2	-	-	-	-
+[cp_1]	54	-	-	58:rt	-	-	-	-
+[cp_2]	55	-	-	58:rt	-	-	-	-
+[cp_3]	56	-	-	58:rpk	-	-	-	-
+[conj_1]	57	-	-	18:rp	-	-	-	-
+[cp_4]	58	-	-	0:main	-	-	-	-
+$yax	59	-	-	18:k7t	-	-	-	-
+$wyax	60	-	-	58:k7t	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_014>
+#यह उपाय शल्य-चिकित्सक को बिना किसी हस्तक्षेप के ट्यूमर को हटाने में मदद करता है।
+#This remedy helps the surgeon remove tumors without any interference.
+#yaha upAya Salya-cikiwsaka ko binA kisI haswakRepa ke tyUmara ko hatAne meM maxaxa karawA hE.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+upAya_5(remedy_3)	2	-	-	17:k1	-	-	-	-
+Salya+cikiwsaka_1(surgeon_3)	3	anim	-	17:rasnegk2	-	-	-	-
+koI_1(any_1)	6	-	-	7:mod	-	-	-	-
+haswakRepa_1(interference_8)	7	-	-	9:r6	-	-	-	-
+^tyUmara_1	9	-	-	11:k2	-	-	-	-
+hatA_4(remove_9)	11	-	-	17:rt	-	-	-	-
+maxaxa_1(help_2)	13	-	-	-	-	-	-	17:kriyAmUla
+kara_17-wA_hE_1(do_2)	14	-	-	-	-	-	-	17:verbalizer
+[cp_1]	17	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_015a>
+#कभी-कभी, उपायों के बावजूद, मस्तिष्क की आवरण परत शल्य-चिकित्सीय क्षेत्र में उभर सकती है।
+#Sometimes, despite measures, the cover layer of the brain may emerge in the surgical region.
+#kaBI-kaBI, upAyoM ke bAvajUxa, maswiRka kI AvaraNa parawa Salya-cikiwsIya kRewra meM uBara sakawI hE.
+kaBI_1(sometime_1)	1	-	xviwva	14:k7t	-	-	-	-
+upAya_2(measure_1)	3	-	pl	14:k7a	-	-	-	-
+maswiRka_3(brain_5)	7	-	-	10:r6	-	-	-	-
+AvaraNa_1(cover_5)	9	-	-	-	-	-	-	18:mod
+parawa_1(layer_12)	10	-	-	-	-	-	-	18:head
+Salya+cikiwsIya_1	11	-	-	12:mod	-	-	-	-
+kRewra_4(region_3)	12	-	-	14:k7p	-	-	-	-
+uBara_1-0_sakawA_hE_1(emerge_2)	14	-	-	0:main	-	-	-	-
+[nc_1]	18	-	-	14:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_015b>
+#और उपकरण में फंस सकती है।
+#And can get stuck in the device.
+#Ora upakaraNa meM PaMsa sakawI hE.
+upakaraNa_1	1	-	-	3:k7p	-	-	-	-
+PaMsa_1-0_sakawA_hE_1	3	-	-	0:main	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_015a.14:samuccaya	-	-	-
+$wyax	4	-	-	3:k1	-	proximal	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_015c>
+#तथा कवर परतों में एक छेद बना सकती है, जिसके माध्यम से सीएसएफ नामक मस्तिष्क तरल पदार्थ का बाहर रिसाव हो सकता है।
+#And the cover can make a hole in the layers, through which the brain fluid called CSF may leak out.
+#waWA kavara parawoM meM eka Cexa banA sakawI hE, jisake mAXyama se sIesaePa nAmaka maswiRka warala paxArWa kA bAhara risAva ho sakawA hE.
+kavara_1(cover_26)	1	-	-	6:k1	-	-	-	-
+parawa_1(layer_3)	2	-	pl	6:k7p	-	-	-	-
+eka_2(a_1)	4	-	-	5:card	-	-	-	-
+Cexa_1(hole_1)	5	-	-	6:k2	-	-	-	-
+banA_1-0_sakawA_hE_1(make_1)	6	-	-	0:main	-	-	-	-
+$yax	10	-	-	21:rh	-	-	-	-
+@sIesaePa_1	13	-	-	28:mod	-	-	-	-
+maswiRka_3(brain_5)	15	-	-	-	-	-	-	28:mod
+warala_1(fluid_1)	16	-	-	-	-	-	-	27:mod
+paxArWa_6(product_3)	17	-	-	-	-	-	-	27:head
+bAhara_1(out_1)	19	-	-	21:k7p	-	-	-	-
+risAva_1(leakage_3)	20	-	-	21:k1	-	-	-	-
+ho_1-0_sakawA_hE_1(be_2)	21	-	-	1:rcelab	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_015a.14:samuccaya	-	-	-
+[nc_1]	27	-	-	-	-	-	-	28:head
+[nc_2]	28	-	-	19:rdl	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_016a>
+#इस रिसाव को रोकने के लिए, एनेस्थेसियोलॉजिस्ट पीठ में एक नली डालता है।
+#To prevent this leak, the anesthesiologist inserts a hose into the back.
+#isa risAva ko rokane ke lie, enesWesiyolaॉjista pITa meM eka nalI dAlawA hE .
+$wyax	1	-	-	2:dem	-	proximal	-	-
+risAva_1(leakage_3)	2	-	-	4:k2	-	-	-	-
+roka_40(prevent_4)	4	-	-	13:rt	-	-	-	-
+^enesWesiyolOYjista_1	8	anim	-	13:k1	-	-	-	-
+pITa_2(back_5)	9	-	-	13:k7p	-	-	-	-
+eka_2(a_1)	11	-	-	12:quant	-	-	-	-
+nalI_11(hose_1)	12	-	-	13:k2	-	-	-	-
+dAla_18-wA_hE_1(insert_3)	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_016b>
+#और अनुभवजन्य रूप से सीएसएफ को हटा देता है
+#And empirically removes CSF, which reduces the bulge through the nose.
+#Ora anuBavajanya rUpa se sIesaePa ko hatA xewA hE
+anuBavajanya_1	1	-	-	2:mod	-	-	-	-
+rUpa_1(form_10)	2	-	-	6:krvn	-	-	-	-
+@sIesaePa_1	4	-	-	6:k2	-	-	-	-
+hatA_4-wA_hE_1(remove_9)	6	-	-	0:main	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_016a.13:samuccaya	[shade:xe_1]	-	-
+$wyax	7	-	-	6:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_016c>
+#जिससे नाक के माध्यम से उभार कम हो जाता है।
+#Which reduces the bulge through the nose.
+#jisase nAka ke mAXyama se uBAra kama ho jAwA hE.
+$yax	1	-	-	8:rh	-	-	-	-
+nAka_2(nose_4)	2	-	-	8:k3	-	-	-	-
+uBAra_1(bulge_1)	6	-	-	8:k1	-	-	-	-
+ho_1-wA_hE_1(be_2)	8	-	-	0:main	-	[shade:jA_1]	-	-
+kama_8(reduced_1)	13	-	-	8:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_017>
+#इन सभी उपायों के बावजूद, शल्य-चिकित्स के दौरान या शल्य-चिकित्स के बाद कुछ मामलों में रिसाव की संभावना है।
+#Despite all these measures, there is a possibility of leakage during the surgeon or in some cases after surgeon.
+#ina saBI upAyoM ke bAvajUxa, Salya-cikiwsa ke xOrAna yA Salya-cikiwsa ke bAxa kuCa mAmaloM meM risAva kI saMBAvanA hE.
+$wyax	1	-	-	3:dem	-	proximal	-	-
+saBI_1(all_1)	2	-	-	3:quant	-	-	-	-
+upAya_2(measure_1)	3	-	pl	20:k7t	-	-	-	-
+Salya+cikiwsa_1	7	-	-	23:rdl	-	-	-	-
+Salya+cikiwsa_1	11	-	-	13:rdl	-	-	-	-
+bAxa_1	13	-	-	-	-	-	-	22:op2
+kuCa_1(some_2)	14	-	-	15:quant	-	-	-	-
+mAmalA_1(case_2)	15	-	pl	20:k7	-	-	-	-
+risAva_1(leakage_3)	17	-	-	19:r6	-	-	-	-
+saMBAvanA_1	19	-	-	20:k1	-	-	-	-
+hE_1-pres(state_copula_1)	20	-	-	0:main	-	-	-	-
+[disjunct_1]	22	-	-	20:k7t	-	-	-	-
+xOrAna_1	23	-	-	-	-	-	-	22:op1
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_018>
+#सीएसएफ रिसाव के कारण संक्रमण की संभावना बढ जाती है।
+#CSF leakage increases the chances of infection.
+#sIesaePa risAva ke kAraNa saMkramaNa kI saMBAvanA baDa jAwI hE.
+@sIesaePa_1	1	-	-	-	-	-	-	9:mod
+risAva_1(leakage_3)	2	-	-	-	-	-	-	9:head
+saMkramaNa_1(infection_1)	5	-	-	7:r6	-	-	-	-
+saMBAvanA_1	7	-	-	8:k1	-	-	-	-
+baDa_4-wA_hE_1(increase_76)	8	-	-	0:main	-	[shade:jA_1]	-	-
+[nc_1]	9	-	-	8:rh	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_019a>
+#इसके अलावा, आपको 3 से 5 दिनों के लिए बिस्तर पर आराम करने की आवश्यकता है।
+#In addition, you need to relax on the bed for 3 to 5 days, which can increase the duration of staying in your hospital.
+#isake alAvA, Apako 3 se 5 xinoM ke lie biswara para ArAma karane kI AvaSyakawA hE.
+$addressee	4	anim	-	17:k4a	-	respect	-	-
+3	5	numex	-	-	-	-	-	20:start
+5	7	numex	-	-	-	-	-	20:end
+xina_1(day_6)	8	-	pl	17:rt	-	-	-	-
+biswara_2(bed_4)	11	-	-	19:k7p	-	-	-	-
+ArAma_1	13	-	-	-	-	-	-	19:kriyAmUla
+kara_17(do_2)	14	-	-	-	-	-	-	19:verbalizer
+AvaSyakawA_2(need_1)	16	-	-	17:k1	-	-	-	-
+hE_1-pres(state_copula_1)	17	-	-	0:main	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_018.8:samuccaya.alAvA	-	-	-
+[cp_1]	19	-	-	16:r6	-	-	-	-
+[span_1]	20	-	-	8:card	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_019b>
+#जिससे आपके अस्पताल में रहने की अवधि बढा सकती है।
+#which can increase the duration of staying in your hospital.
+#jisase Apake aspawAla meM rahane kI avaXi baDA sakawI hE.
+$addressee	2	anim	-	3:r6	-	respect	-	-
+aspawAla_1(hospital_1)	3	-	-	8:k7p	-	-	-	-
+raha_1	5	-	-	7:r6	-	-	-	-
+avaXi_1	7	-	-	8:k1	-	-	-	-
+baDA_1-0_sakawA_hE_1	8	-	-	0:main	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_019a.:kAryakAraNa	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_020a>
+#मैनिटॉल एक दवा है।
+#Manitol is a drug.
+#mEnitaॉla eka xavA hE.
+mEnitOYla	1	-	-	-	-	-	-	5:begin
+eka_2	2	-	-	3:quant	-	-	-	-
+xavA_2(drug_2)	3	-	-	4:k1s	-	-	-	-
+hE_1-pres(state_copula_1)	4	-	-	0:main	-	-	-	-
+[ne_1]	5	-	-	4:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_020b>
+#जिसकी सभी प्रकार की मस्तिष्क संबंधी शल्य-चिकित्सा के लिए नियमित रूप से प्रयोग किया जाता है,जिसके लिए खोपडी की हड्डी को खोलने की आवश्यकता होती है।
+#jisakI saBI prakAra kI maswiRka saMbaMXI Salya-cikiwsA ke lie niyamiwa rUpa se prayoga kiyA jAwA hE,jisake lie KopadI kI haddI ko Kolane kI AvaSyakawA howI hE.
+#which is used regularly for all types of neurological surgery, which requires the opening of the skull bone.
+$yax	1	-	-	3:r6	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_020a.5:coref	-	-	-
+saBI_1	2	-	-	3:quant	-	-	-	-
+prakAra_1	3	-	-	32:r6	-	-	-	-
+maswiRka_1	5	-	-	-	-	-	-	32:mod
+saMbaMXI_1	6	-	-	-	-	-	-	32:head
+Salya+cikiwsA_1	7	-	-	30:rt	-	-	-	-
+niyamiwa_1	10	-	-	11:mod	-	-	-	-
+rUpa_1	11	-	-	30:krvn	-	-	-	-
+prayoga_1	13	-	-	-	-	-	-	30:kriyAmUla
+kara_1-yA_jA_wA_hE_1	14	-	-	-	-	-	-	30:verbalizer
+$yax	18	-	-	27:rt	-	-	-	-
+KopadA_1	20	-	-	22:r6	-	-	-	-
+haddI_1	22	-	-	24:k2	-	-	-	-
+Kola_1	24	-	pl	26:r6	-	-	-	-
+AvaSyakawA_1	26	-	-	27:k1	-	-	-	-
+ho_1-wA_hE_1	27	-	-	32:rcelab	-	-	-	-
+[cp_1]	30	-	-	0:main	-	-	-	-
+[compound_1]	32	-	-	7:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_020c>
+#जो मस्तिष्क को राहत प्रदान करता है।
+#Which provides relief to the brain.
+#jo maswiRka ko rAhawa praxAna karawA hE.
+$yax	1	-	-	9:k1	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_020a.5:coref	-	-	-
+maswiRka_3(brain_5)	2	-	-	9:k4a	-	-	-	-
+rAhawa_2(relief_5)	4	-	-	9:k2	-	-	-	-
+praxAna_1	5	-	-	-	-	-	-	9:kriyAmUla
+kara_17-wA_hE_1(do_2)	6	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_021a>
+#इस शोध में, हम यह अध्ययन करने की योजना बना रहे हैं।
+#In this research, we are planning to study this.
+#isa SoXa meM, hama yaha aXyayana karane kI yojanA banA rahe hEM.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+SoXa_1(research_3)	2	-	-	11:k7p	-	-	-	-
+$speaker	5	-	pl	11:k1	-	-	-	-
+$wyax	6	-	-	12:dem	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_020b.18:coref	proximal	-	-
+aXyayana_1(study_1)	7	-	-	-	-	-	-	12:kriyAmUla
+kara_17(do_2)	8	-	pl	-	-	-	-	12:verbalizer
+yojanA_1(plan_5)	10	-	-	11:k2	-	-	-	-
+banA_1-0_rahA_hE_1(make_1)	11	-	-	0:main	-	-	-	-
+[cp_1]	12	-	-	10:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_021b>
+#कि क्या मैनिटॉल का प्रयोग शल्य-चिकित्सीय स्थान पर उभार को कम करने में मदद करता है।
+#Whether the use of mannitol helps reduce the bulge in the surgical location.
+#ki kyA mEnitaॉla kA prayoga Salya-cikiwsIya sWAna para uBAra ko kama karane meM maxaxa karawA hE.
+mEnitOYla	2	-	-	-	-	-	-	19:begin
+prayoga_2(use_3)	4	-	-	18:k1	-	-	-	-
+Salya+cikiwsIya_1(surgical_2)	5	-	-	6:mod	-	-	-	-
+sWAna_2(spot_4)	6	-	-	18:k7p	-	-	-	-
+uBAra_1(bulge_1)	8	-	-	17:k2	-	-	-	-
+kara_1	11	-	pl	-	-	-	-	17:verbalizer
+maxaxa_1(help_2)	13	-	-	-	-	-	-	18:kriyAmUla
+kara_17-wA_hE_1(do_2)	14	-	-	-	-	-	-	18:verbalizer
+[cp_1]	17	-	-	18:k7	-	-	-	-
+[cp_2]	18	-	-	0:main	-	-	-	-
+[ne_1]	19	-	-	4:r6	-	-	-	-
+kama_8(reduced_1)	20	-	-	-	-	-	-	17:kriyAmUla
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_021c>
+#जिससे मस्तिष्क की आवरण परत में चोट लगने की संभावना कम हो जाती है
+#Which reduces the chances of injury to the brain cover layer.
+#jisase maswiRka kI AvaraNa parawa meM cota lagane kI saMBAvanA kama ho jAwI hE
+maswiRka_3(brain_5)	2	-	-	15:r6	-	-	-	-
+AvaraNa_1(cover_5)	4	-	-	-	-	-	-	15:mod
+parawa_1(layer_12)	5	-	-	-	-	-	-	15:head
+cota_1(injury_4)	7	-	-	-	-	-	-	16:kriyAmUla
+laga_1	8	-	pl	-	-	-	-	16:verbalizer
+saMBAvanA_2(probability_2)	10	-	-	12:k1	-	-	-	-
+ho_1-wA_hE_1(be_2)	12	-	-	0:main	-	[shade:jA_1]	-	-
+[nc_1]	15	-	-	12:k7p	-	-	-	-
+[cp_1]	16	-	-	10:r6	-	-	-	-
+kama_8(reduced_1)	17	-	-	12:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_021d>
+#और सीएसएफ रिसाव कम हो जाता है।
+#And CSF leakage decreases.
+#Ora sIesaePa risAva kama ho jAwA hE.
+@sIesaePa	1	-	-	-	-	-	-	10:mod
+risAva_1(leakage_3)	2	-	-	-	-	-	-	10:head
+ho_1-wA_hE_1	4	-	-	0:main	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_021a.11:samuccaya	[shade:jA_1]	-	-
+kama_1	9	-	-	4:k1s	-	-	-	-
+[nc_1]	10	-	-	4:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_022H>
+#अध्ययन डिजाइन।
+#Study design.
+#aXyayana dijAina.
+aXyayana_1(study_1)	1	-	-	-	-	-	-	4:mod
+dijAina_1(design_10)	2	-	-	-	-	-	-	4:head
+[nc_1]	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_023>
+#आपकी शल्य-चिकित्सा के दौरान मानक एनेस्थीसिया दवाओं और निगरानी तकनीकों का उपयोग किया जाएगा।
+#Standard anesthesia drugs and monitoring techniques will be used during your surgery.
+#ApakI Salya-cikiwsA ke xOrAna mAnaka enesWIsiyA xavAoM Ora nigarAnI wakanIkoM kA upayoga kiyA jAegA.
+$addressee	1	anim	-	2:r6	-	respect	-	-
+Salya+cikiwsA_1(surgery_4)	2	-	-	18:k7t	-	-	-	-
+mAnaka_1(standard_7)	5	-	-	16:mod	-	-	-	-
+^enesWIsiyA_1	6	-	-	-	-	-	-	16:mod
+xavA_2(drug_2)	7	-	pl	-	-	-	-	16:head
+nigarAnI_1	9	-	-	10:mod	-	-	-	-
+wakanIka_1(technique_2)	10	-	pl	-	-	-	-	19:op2
+upayoga_1(use_2)	12	-	-	-	-	-	-	18:kriyAmUla
+kara_17-yA_jA_gA_1(do_2)	13	-	-	-	-	-	-	18:verbalizer
+[nc_1]	16	-	-	-	-	-	-	19:op1
+[cp_1]	18	-	-	0:main	-	-	-	-
+[conj_1]	19	-	-	18:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_024a>
+#यदि आप भाग लेने के लिए तैयार हैं।
+#If you are ready to participate.
+#yaxi Apa BAga lene ke lie wEyAra hEM.
+$addressee	1	anim	-	7:k1	-	respect	-	-
+BAga_1	2	-	-	-	-	-	-	8:kriyAmUla
+le_1(take_1)	3	-	-	-	-	-	-	8:verbalizer
+wEyAra_1(ready_4)	6	-	-	7:k1s	-	-	-	-
+hE_1-pres(state_copula_1)	7	-	-	0:main	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_024b.11:AvaSyakawApariNAma	-	-	-
+[cp_1]	8	-	-	7:rt	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_024b>
+#तो आपको दो समूहों में से एक में यादृच्छिक रूप से भेजा जाएगा।
+#So you will be sent randomly into one of the two groups.
+#wo Apako xo samUhoM meM se eka meM yAxqcCika rUpa se BejA jAegA.
+$addressee	1	anim	-	11:k2	-	respect	-	-
+2	2	numex	-	3:card	-	-	-	-
+samUha_7(group_13)	3	-	pl	6:rn	-	-	-	-
+1	6	numex	-	8:k7p	-	-	-	-
+yAxqcCika_1(random_3)	8	-	-	9:mod	-	-	-	-
+rUpa_1(form_10)	9	-	-	11:krvn	-	-	-	-
+Beja_1-yA_jA_gA_1	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_025a>
+#एक समूह को मैनिटॉल नामक दवा प्राप्त होगी।
+#A group will receive a drug called Manitol.
+#eka samUha ko mEnitaॉla nAmaka xavA prApwa hogI .
+eka_2	1	-	-	2:quant	-	-	-	-
+samUha_1	2	-	-	10:k4a	-	-	-	-
+mEnitOYla	4	-	-	5:intf	-	-	-	11:begin
+xavA_1	6	-	-	11:rs	-	-	-	-
+prApwa_1	7	-	-	-	-	-	-	10:kriyAmUla
+ho_1-gA_1	8	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	-	-	-	-
+[ne_1]	11	-	-	10:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_025b>
+#और दूसरे समूह को सामान्य अंतःशिरा सेलाइन तरल पदार्थ की मात्रा प्राप्त होगी।
+#And the second group will receive the amount of normal intravenous seine fluid.
+#Ora xUsare samUha ko sAmAnya aMwaHSirA selAina warala paxArWa kI mAwrA prApwa hogI.
+xUsarA_1	1	-	pl	2:ord	-	-	-	-
+samUha_1	2	-	-	14:k4a	-	-	-	-
+sAmAnya_1	4	-	-	6:mod	-	-	-	-
+aMwaHSirA_1	5	-	-	14:k1	-	-	-	-
+selAina_1	6	-	-	-	-	-	-	16:mod
+warala_1	7	-	-	-	-	-	-	15:mod
+paxArWa_1	8	-	-	-	-	-	-	15:head
+mAwrA_1	10	-	-	14:k2	-	-	-	-
+prApwa_1	11	-	-	-	-	-	-	14:kriyAmUla
+ho_1-gA_1	12	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	0:main	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_025a.10:samuccaya	-	-	-
+[nc_1]	15	-	-	-	-	-	-	16:head
+[nc_2]	16	-	-	10:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_026>
+#आपके निर्धारित समूह के अनुसार, आपको दवाएं दी जाएंगी।
+#According to your prescribed group, you will be given medicines.
+#Apake nirXAriwa samUha ke anusAra, Apako xavAeM xI jAeMgI.
+$addressee	1	anim	-	3:r6	-	respect	-	-
+nirXAriwa_1	2	-	-	3:mod	-	-	-	-
+samUha_1	3	-	-	9:k7a	-	-	-	-
+$addressee	7	anim	-	9:k4	-	respect	-	-
+xavAa_1	8	-	pl	9:k2	-	-	-	-
+xe_1-yA_jA_gA_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_027a>
+#ऑपरेशन के दौरान, शल्य-चिकित्सक मस्तिष्क उभार की डिग्री का आकलन करेगा।
+#During the operation, the surgical brain will assess the degree of emergence.
+#ऑpareSana ke xOrAna, Salya-cikiwsaka maswiRka uBAra kI digrI kA Akalana karegA .
+^OYpareSana_1	1	fw	-	15:k7t	-	-	-	-
+Salya+cikiwsaka_1	5	anim	-	15:k1	-	-	-	-
+maswiRka_1	6	-	-	-	-	-	-	14:mod
+uBAra_1	7	-	-	-	-	-	-	14:head
+digrI_1	9	-	-	15:k2	-	-	-	-
+Akalana_1	11	-	-	-	-	-	-	15:kriyAmUla
+kara_1-gA_1	12	-	-	-	-	-	-	15:verbalizer
+[nc_1]	14	-	-	9:r6	-	-	-	-
+[cp_1]	15	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_027b>
+#और हमें सूचित करेगा।
+#And will inform us.
+#Ora hameM sUciwa karegA.
+$speaker	1	anim	pl	3:k1	-	-	-	-
+sUciwa_1	2	-	-	-	-	-	-	5:kriyAmUla
+kara_1-gA_1	3	-	-	-	-	-	-	5:verbalizer
+[cp_1]	5	-	-	0:main	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_027a.15:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_028a>
+#इसके अलावा अगर सीएसएफ रिसाव होता है।
+#Also if CSF leak occurs.
+#isake alAvA agara sIesaePa risAva howA hE.
+@sIesaePa_1	4	-	-	-	-	-	-	7:mod
+risAva_1	5	-	-	-	-	-	-	7:head
+ho_1-wA_hE_1	6	-	-	0:main	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_028b.28:AvaSyakawApariNAma	-	-	-
+[nc_1]	7	-	-	6:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_028b>
+#तो हम आपकी पीठ पर सीएसएफ तरल पदार्थ को नियंत्रित तरीके से हटाने के लिए एक ट्यूब डालेंगे, जो नाक के माध्यम से होने वाले रिसाव को रोकेगी।
+#So we will put a tube on your back to remove the CSF fluid in a controlled manner, which will prevent leakage through the nose.
+#wo hama ApakI pITa para sIesaePa warala paxArWa ko niyaMwriwa warIke se hatAne ke lie eka tyUba dAleMge, jo nAka ke mAXyama se hone vAle risAva ko rokegI.
+$speaker	1	anim	pl	17:k1	-	-	-	-
+$addressee	2	anim	-	3:r6	-	respect	-	-
+pITa_1	3	-	-	17:k7	-	-	-	-
+@sIesaePa_1	5	-	-	12:k2	-	-	-	-
+warala_1	6	-	-	7:mod	-	-	-	-
+paxArWa_1	7	-	-	5:rs	-	-	-	-
+niyaMwriwa_1	9	-	-	10:mod	-	-	-	-
+warIkA_1	10	-	-	12:krvn	-	-	-	-
+hatA_1	12	-	-	17:rt	-	-	-	-
+eka_2	15	-	-	16:card	-	-	-	-
+tyUba_1	16	-	-	17:k2	-	-	-	-
+dAla_1-gA_1	17	-	-	0:main	-	-	-	-
+$yax	19	-	-	28:k1	16:coref	-	-	-
+nAka_1	20	-	-	24:rp	-	-	-	-
+ho_1	24	-	-	26:mod	-	-	-	-
+risAva_1	26	-	-	28:k2	-	-	-	-
+roka_1-gA_1	28	-	-	16:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_029H>
+#लाभ।
+#Benefit.
+#lABa.
+lABa_1	1	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_030a>
+#मैनिटॉल का प्रयोग मस्तिष्क उभार, जिससे द्रव रिसाव होता है, को कम करने में मदद कर सकता है।
+#The use of manitol can help reduce the brain bulnt, which leads to fluid leakage.
+#mEnitaॉla kA prayoga maswiRka uBAra, jisase xrava risAva howA hE, ko kama karane meM maxaxa kara sakawA hE .
+mEnitOYla	1	-	-	-	-	-	-	25:begin
+prayoga_1	3	-	-	24:k1	-	-	-	-
+maswiRka_1	4	-	-	-	-	-	-	22:mod
+uBAra_1	5	-	-	-	-	-	-	22:head
+$yax	7	-	-	10:rh	25:coref	-	-	-
+xrava_1	8	-	-	-	-	-	-	27:mod
+risAva_1	9	-	-	-	-	-	-	27:head
+ho_1-wA_hE_1	10	-	-	25:rcelab	-	-	-	-
+kara_1	15	-	pl	-	-	-	-	23:verbalizer
+maxaxa_1	17	-	-	-	-	-	-	24:kriyAmUla
+kara_1-0_sakawA_hE_1	18	-	-	-	-	-	-	24:verbalizer
+[nc_1]	22	-	-	23:k2	-	-	-	-
+[cp_1]	23	-	-	24:rt	-	-	-	-
+[cp_2]	24	-	-	0:main	-	-	-	-
+[ne_1]	25	-	-	3:r6	-	-	-	-
+kama_1	26	-	-	-	-	-	-	23:kriyAmUla
+[6-waw_1]	27	-	-	10:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_030b>
+#या नहीं भी कर सकता है।
+#Or he may not do it.
+#yA nahIM BI kara sakawA hE.
+nahIM_1	1	-	-	3:neg	-	BI_6	-	-
+kara_1-0_sakawA_hE_1	3	-	-	0:main	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_030a.24:anyawra	-	-	-
+$wyax	4	-	-	3:k1	-	distal	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_031a>
+#यदि इस अध्ययन के परिणाम यह साबित करते हैं।
+#If the results of this study prove this.
+#yaxi isa aXyayana ke pariNAma yaha sAbiwa karawe hEM.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+aXyayana_1(study_1)	2	-	-	4:r6	-	-	-	-
+pariNAma_1(result_3)	4	-	-	10:k1	-	-	-	-
+$wyax	5	-	-	10:k1s	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_031b.19:coref	proximal	-	-
+sAbiwa_1	6	-	-	-	-	-	-	10:kriyAmUla
+kara_17-wA_hE_1(do_2)	7	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_031c.26:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_031b>
+#कि मैनिटॉल के प्रयोग से उभार और द्रव रिसाव को कम करने में मदद मिलती है।
+#That using manitol helps reduce the bulge and fluid leakage.
+#ki mEnitaॉla ke prayoga se uBAra Ora xrava risAva ko kama karane meM maxaxa milawI hE .
+mEnitOYla	1	-	-	-	-	-	-	22:begin
+prayoga_2(use_3)	3	-	-	19:rh	-	-	-	-
+uBAra_1(bulge_1)	5	-	-	-	-	-	-	20:op1
+xrava_1	7	-	-	-	-	-	-	17:mod
+risAva_1(leakage_3)	8	-	-	-	-	-	-	17:head
+kara_17(do_2)	11	-	pl	-	-	-	-	18:verbalizer
+maxaxa_1(help_2)	13	-	-	-	-	-	-	19:kriyAmUla
+mila_1-wA_hE_1	14	-	-	-	-	-	-	19:verbalizer
+[nc_1]	17	-	-	-	-	-	-	20:op2
+[cp_1]	18	-	-	19:rt	-	-	-	-
+[cp_2]	19	-	-	0:main	-	-	-	-
+[conj_1]	20	-	-	18:k2	-	-	-	-
+kama_1	21	-	-	-	-	-	-	18:kriyAmUla
+[ne_1]	22	-	-	3:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_031c>
+#तो हम इस उपाय को भविष्य में इसी तरह की शल्य-चिकित्सा से गुजरने वाले रोगियों की नियमित देखभाल के हिस्से के रूप में जारी रखेंगे।
+#So we will continue this remedy as part of regular care of patients passing through similar surgery in the future.
+#wo hama isa upAya ko BaviRya meM isI waraha kI Salya-cikiwsA se gujarane vAle rogiyoM kI niyamiwa xeKaBAla ke hisse ke rUpa meM jArI raKeMge.
+$speaker	1	-	pl	26:k1	-	-	-	-
+$wyax	2	-	-	3:dem	-	proximal	-	-
+upAya_5(remedy_3)	3	-	-	26:k2	-	-	-	-
+BaviRya_2(future_6)	5	-	-	12:k7t	-	-	-	-
+$wyax	7	-	-	8:dem	-	proximal	-	-
+waraha_1(kind_4)	8	-	-	10:r6	-	-	-	-
+Salya+cikiwsA_1(surgery_4)	10	-	-	12:rp	-	-	-	-
+gujara_3(go_17)	12	-	-	14:mod	-	-	-	-
+rogI_1(patient_3)	14	-	pl	17:r6	-	-	-	-
+niyamiwa_1(regular_2)	16	-	-	17:mod	-	-	-	-
+xeKaBAla_1(care_8)	17	-	-	19:r6	-	-	-	-
+hissA_1(part_13)	19	-	-	27:r6	-	-	-	-
+jArI_7(continuing_6)	23	-	-	-	-	-	-	26:kriyAmUla
+raKa_3-gA_1(keep_4)	24	-	-	-	-	-	-	26:verbalizer
+[cp_1]	26	-	-	0:main	-	-	-	-
+rUpa_1(form_10)	27	-	-	26:krvn	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_032a>
+#यह परीक्षण एक नियंत्रित परीक्षण है, जिसमें मैनिटॉल प्राप्त करने की केवल 50% संभावना है।
+#This test is a controlled test, in which only 50% of the possibility of obtaining manitol.
+#yaha parIkRaNa eka niyaMwriwa parIkRaNa hE, jisameM mEnitaॉla prApwa karane kI kevala 50% saMBAvanA hE .
+$wyax	1	-	-	2:dem	-	proximal	-	-
+parIkRaNa_2(test_9)	2	-	-	6:k1	-	-	-	-
+eka_2(some_100)	3	-	-	5:quant	-	-	-	-
+niyaMwriwa_1(controlled_1)	4	-	-	5:mod	-	-	-	-
+parIkRaNa_2(test_9)	5	-	-	6:k1s	-	-	-	-
+hE_1-pres(state_copula_1)	6	-	-	0:main	-	-	-	-
+$yax	8	-	-	17:k7	2:coref	-	-	-
+mEnitOYla	9	-	-	-	-	-	-	23:begin
+prApwa_1	10	-	-	-	-	-	-	19:kriyAmUla
+kara_17(do_2)	11	-	-	-	-	-	-	19:verbalizer
+100	14	numex	-	20:card	-	-	-	-
+saMBAvanA_1	16	-	-	17:k1	-	-	-	-
+hE_1-pres(state_copula_1)	17	-	-	2:rcelab	-	-	-	-
+[cp_1]	19	-	-	16:r6	-	-	-	-
+prawiSawa_1(percentage_1)	20	-	-	22:rn	-	-	-	-
+50	21	numex	-	22:card	-	-	-	-
+prawiSawa_1(percentage_1)	22	-	-	16:rmeas	-	kevala_1	-	-
+[ne_1]	23	-	-	19:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_032b>
+#इसलिए आपको प्रत्यक्ष लाभ नहीं भी मिल सकता है।
+#Therefore, you cannot get direct benefits.
+#isalie Apako prawyakRa lABa nahIM BI mila sakawA hE.
+$addressee	1	-	-	6:k4	-	respect	-	-
+prawyakRa_6(direct_3)	2	-	-	3:mod	-	-	-	-
+lABa_4(benefit_2)	3	-	-	6:k1	-	-	-	-
+nahIM_1	4	-	-	6:neg	-	BI	-	-
+mila_1-0_sakawA_hE_1	6	-	-	0:main	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_032a.6:pariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_033H>
+#जोखिम।
+#risk.
+#joKima.
+joKima_1(risk_2)	1	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_034>
+#कई दशकों से न्यूरोसर्जरी में मस्तिष्क को राहत पहुंचाने के लिए मैनिटॉल का उपयोग नियमित रूप से किया जाता रहा है।
+#Manitol has been used regularly to relieve the brain in neurosurgery for several decades.
+#kaI xaSakoM se nyUrosarjarI meM maswiRka ko rAhawa pahuMcAne ke lie mEnitaॉla kA upayoga niyamiwa rUpa se kiyA jAwA rahA hE.
+kaI_1(several_6)	1	-	-	2:quant	-	-	-	-
+xaSaka_1(decade_1)	2	-	pl	24:k7t	-	-	-	-
+^nyUrosarjarI_1	4	-	-	24:k7p	-	-	-	-
+maswiRka_3(brain_5)	6	-	-	23:k2	-	-	-	-
+rAhawa_2(relief_5)	8	-	-	-	-	-	-	23:kriyAmUla
+pahuMca_2(reach_6)	9	-	-	-	-	-	-	23:verbalizer
+mEnitOYla	12	-	-	-	-	-	-	25:begin
+upayoga_1(use_2)	14	-	-	-	-	-	-	24:kriyAmUla
+niyamiwa_1(regular_2)	15	-	-	16:mod	-	-	-	-
+rUpa_1(form_10)	16	-	-	24:krvn	-	-	-	-
+kara_17-yA_jA_wA_raha_hE_1(do_2)	18	-	-	-	-	-	-	24:verbalizer
+[cp_1]	23	-	-	24:rt	-	-	-	-
+[cp_2]	24	-	-	0:main	-	-	-	-
+[ne_1]	25	-	-	24:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_035a>
+#इसका उपयोग मूत्र उत्पादन बढा सकता है।
+#Its use can increase urine production.
+#isakA upayoga mUwra uwpAxana baDA sakawA hE.
+$wyax	1	-	-	2:r6	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_034.25:coref	proximal	-	-
+upayoga_1(use_2)	2	-	-	5:k1	-	-	-	-
+mUwra_1(urine_3)	3	-	-	-	-	-	-	9:mod
+uwpAxana_1(production_2)	4	-	-	-	-	-	-	9:head
+baDA_1-0_sakawA_hE_1	5	-	-	0:main	-	-	-	-
+[nc_1]	9	-	-	5:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_035b>
+#और रक्त में नमक के स्तर को बदल सकता है।
+#And can change the level of salt in the blood.
+#Ora rakwa meM namaka ke swara ko baxala sakawA hE.
+rakwa_1(blood_2)	1	-	-	7:k7	-	-	-	-
+namaka_1(salt_1)	3	-	-	5:r6	-	-	-	-
+swara_2(level_6)	5	-	-	7:k2	-	-	-	-
+baxala_1-0_sakawA_hE_1(change_6)	7	-	-	0:main	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_035a.5:samuccaya	-	-	-
+$wyax	8	-	-	7:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_036a>
+#हम नमक के स्तर की निगरानी के लिए रक्त परीक्षण करेंगे।
+#We will do blood tests to monitor salt levels.
+#hama namaka ke swara kI nigarAnI ke lie rakwa parIkRaNa kareMge.
+$speaker	1	-	pl	14:k1	-	-	-	-
+namaka_1(salt_1)	2	-	-	4:r6	-	-	-	-
+swara_2(level_6)	4	-	-	6:k2	-	-	-	-
+nigarAnI_1	6	-	-	14:rt	-	-	-	-
+rakwa_1(blood_2)	9	-	-	-	-	-	-	13:mod
+parIkRaNa_2(test_9)	10	-	-	-	-	-	-	13:head
+kara_17-gA_1(do_2)	11	-	-	-	-	-	-	14:verbalizer
+[nc_1]	13	-	-	-	-	-	-	14:kriyAmUla
+[cp_1]	14	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_036b>
+#और उसका उचित इलाज करेंगे।
+#And will treat it properly.
+#Ora usakA uciwa ilAja kareMge.
+$wyax	1	-	-	6:k2	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_036a.4:coref	distal	-	-
+uciwa_1(proper_1)	2	-	-	3:mod	-	-	-	-
+ilAja_1(treatment_1)	3	-	-	-	-	-	-	6:kriyAmUla
+kara_17-gA_1(do_2)	4	-	-	-	-	-	-	6:verbalizer
+[cp_1]	6	-	-	0:main	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_036a.11:samuccaya	-	-	-
+$speaker	7	-	pl	6:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_037>
+#मूत्र उत्पादन के आधार पर द्रव दिया जाएगा।
+#Fluid will be given based on urine production.
+#mUwra uwpAxana ke AXAra para xrava xiyA jAegA.
+mUwra_1(urine_3)	1	-	-	-	-	-	-	3:mod
+uwpAxana_1(production_2)	2	-	-	-	-	-	-	3:head
+[nc_1]	3	-	-	5:k7	-	-	-	-
+xrava_1	4	-	-	5:k1	-	-	-	-
+xe_1-yA_jA_gA_1(give_1)	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_038a>
+#इसलिए यदि आप अध्ययन में भाग ले रहे हैं।
+#So if you are participating in the study.
+#isalie yaxi Apa aXyayana meM BAga le rahe hEM.
+$addressee	2	-	-	10:k1	-	respect	-	-
+aXyayana_1(study_1)	3	-	-	10:k7	-	-	-	-
+BAga_2(part_9)	5	-	-	-	-	-	-	10:kriyAmUla
+le_1-0_rahA_hE_1(take_1)	6	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_038b.6:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_038b>
+#तो इसमें कोई बड़ा जोखिम नहीं है।
+#So there is no big risk in this.
+#wo isameM koI badZA joKima nahIM hE.
+$wyax	1	-	-	6:k7	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_038a.10:coref	proximal	-	-
+koI_1(any_1)	2	-	-	4:quant	-	-	-	-
+badZA_1	3	-	-	4:mod	-	-	-	-
+joKima_1(risk_2)	4	-	-	6:k1	-	-	-	-
+nahIM_1	5	-	-	6:neg	-	-	-	-
+hE_1-pres(state_copula_1)	6	-	-	0:main	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_037.6:pariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_039a>
+#अध्ययन जांचकर्ताओं द्वारा नियमित अंतराल पर आपकी निगरानी की जाएगी।
+#You will be monitored by the study investigators at regular intervals.
+#aXyayana jAMcakarwAoM xvArA niyamiwa aMwarAla para ApakI nigarAnI kI jAegI.
+aXyayana_1(study_1)	1	-	-	-	-	-	-	12:mod
+jAMcakarwA_1	2	-	pl	-	-	-	-	12:head
+niyamiwa_1(regular_2)	4	-	-	5:mod	-	-	-	-
+aMwarAla_1	5	-	-	13:k7t	-	-	-	-
+$addressee	7	-	-	13:k2	-	respect	-	-
+nigarAnI_1	8	-	-	-	-	-	-	13:kriyAmUla
+kara_17-yA_jA_gA_1(do_2)	9	-	-	-	-	-	-	13:verbalizer
+[nc_1]	12	-	-	13:k1	-	-	-	-
+[cp_1]	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_039b>
+#इसलिए भागीदारी से जोखिम के बजाय लाभ हैं।
+#Therefore, participation has benefits rather than risk.
+#isalie BAgIxArI se joKima ke bajAya lABa hEM.
+BAgIxArI_1(participation_1)	1	-	-	7:rh	-	-	-	-
+joKima_1(risk_2)	3	-	-	7:rviroXIk1	-	-	-	-
+lABa_4(benefit_2)	6	-	-	7:k1	-	-	-	-
+hE_1-pres(state_copula_1)	7	-	-	0:main	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_039a.13:pariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_040H>
+#स्वैच्छिक भागीदारी।
+#Voluntary participation.
+#svEcCika BAgIxArI.
+svEcCika_1(voluntary_3)	1	-	-	2:mod	-	-	-	-
+BAgIxArI_1(participation_1)	2	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_041>
+#इस अध्ययन में आपकी भागीदारी स्वैच्छिक है।
+#Your participation in this study is voluntary.
+#isa aXyayana meM ApakI BAgIxArI svEcCika hE.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+aXyayana_1(study_1)	2	-	-	7:k7	-	-	-	-
+$addressee	4	-	-	5:r6	-	respect	-	-
+BAgIxArI_1(participation_1)	5	-	-	7:k1	-	-	-	-
+svEcCika_1(voluntary_3)	6	-	-	7:k1s	-	-	-	-
+hE_1-pres(state_copula_1)	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_042a>
+#आप इस अध्ययन में नहीं होने का फैसला कर सकते हैं।
+#You can decide not to be in this study.
+#Apa isa aXyayana meM nahIM hone kA PEsalA kara sakawe hEM.
+$addressee	1	-	-	13:k1	-	respect	-	-
+$wyax	2	-	-	3:dem	-	proximal	-	-
+aXyayana_1(study_1)	3	-	-	6:k7	-	-	-	-
+nahIM_1	5	-	-	6:neg	-	-	-	-
+ho_1(be_2)	6	-	-	13:k2	-	-	-	-
+PEsalA_3(decision_12)	8	-	-	-	-	-	-	13:kriyAmUla
+kara_17-0_sakawA_hE_1(do_2)	9	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_042b>
+#या आप पहले तो अध्ययन में भाग ले सकते हैं।
+#Or you can first participate in the study.
+#yA Apa pahale wo aXyayana meM BAga le sakawe hEM.
+$addressee	1	-	-	11:k1	-	respect	-	-
+pahale_1	2	-	-	11:k7t	-	wo_1	-	-
+aXyayana_1(study_1)	4	-	-	11:k7	-	-	-	-
+BAga_2(part_9)	6	-	-	-	-	-	-	11:kriyAmUla
+le_1-0_sakawA_hE_1(take_1)	7	-	-	-	-	-	-	11:verbalizer
+[cp_1]	11	-	-	0:main	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_042a.13:anyawra	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_042c>
+#और फिर बाद में अपना मन बदल सकते हैं।
+#And then you can change your mind later.
+#Ora Pira bAxa meM apanA mana baxala sakawe hEM.
+apanA	4	-	-	5:r6	-	-	-	-
+mana_1(mind_8)	5	-	-	6:k2	-	-	-	-
+baxala_1-0_sakawA_hE_1(change_6)	6	-	-	0:main	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_042a.13:samuccaya	-	-	-
+$addressee	7	-	-	6:k1	-	respect	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_043>
+#अपनी देखभाल को प्रभावित किए बिना, आप किसी भी समय अध्ययन छोड सकते हैं।
+#Without affecting your care, you can leave the study at any time.
+#apanI xeKaBAla ko praBAviwa kie binA, Apa kisI BI samaya aXyayana Coda sakawe hEM.
+apanA	1	-	-	2:r6	-	-	-	-
+xeKaBAla_1(care_8)	2	-	-	18:k2	-	-	-	-
+praBAviwa_1	4	-	-	-	-	-	-	18:kriyAmUla
+kara_17(do_2)	5	-	-	-	-	-	-	18:verbalizer
+$addressee	8	-	-	13:k1	-	respect	-	-
+koI_1(any_1)	9	-	-	11:quant	-	BI_3	-	-
+samaya_1(time_8)	11	-	-	13:k7t	-	-	-	-
+aXyayana_1(study_1)	12	-	-	13:k2	-	-	-	-
+Coda_1-0_sakawA_hE_1	13	-	-	0:main	-	-	-	-
+[cp_1]	18	-	-	13:krvnneg	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_044>
+#इस अध्ययन में भाग लेने के लिए आपको अतिरिक्त धन का भुगतान नहीं करना होगा।
+#You will not have to pay additional funds to participate in this study.
+#isa aXyayana meM BAga lene ke lie Apako awirikwa Xana kA BugawAna nahIM karanA hogA.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+aXyayana_1(study_1)	2	-	-	17:k7	-	-	-	-
+BAga_2(part_9)	4	-	-	-	-	-	-	17:kriyAmUla
+le_1(take_1)	5	-	-	-	-	-	-	17:verbalizer
+$addressee	8	-	-	18:k1	-	respect	-	-
+awirikwa_1(additional_1)	9	-	-	10:mod	-	-	-	-
+Xana_9(funds_2)	10	-	-	18:k2	-	-	-	-
+BugawAna_1(payment_2)	12	-	-	-	-	-	-	18:kriyAmUla
+nahIM_1	13	-	-	19:neg	-	-	-	-
+kara_17(do_2)	14	-	-	-	-	-	-	18:verbalizer
+[cp_1]	17	-	-	18:rt	-	-	-	-
+[cp_2]	18	-	-	19:k1	-	-	-	-
+ho_1-gA_1(be_2)	19	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_045>
+#इसके अलावा, आपको इस अध्ययन में भाग लेने के लिए कोई प्रतिपूर्ति नहीं मिलेगी।
+#In addition, you will not get any reimbursement to participate in this study.
+#isake alAvA, Apako isa aXyayana meM BAga lene ke lie koI prawipUrwi nahIM milegI.
+$addressee	4	-	-	15:k4	-	respect	-	-
+$wyax	5	-	-	6:dem	-	proximal	-	-
+aXyayana_1(study_1)	6	-	-	17:k7	-	-	-	-
+BAga_2(part_9)	8	-	-	-	-	-	-	17:kriyAmUla
+le_1(take_1)	9	-	-	-	-	-	-	17:verbalizer
+koI_1(any_1)	12	-	-	13:quant	-	-	-	-
+prawipUrwi_3(reimbursement_1)	13	-	-	15:k1	-	-	-	-
+nahIM_1	14	-	-	15:neg	-	-	-	-
+mila_1-gA_1	15	-	-	0:main	oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_044.10:samuccaya	-	-	-
+[cp_1]	17	-	-	15:rt	-	-	-	-
+%affirmative
+</segment_id>

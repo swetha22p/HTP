@@ -1,0 +1,4130 @@
+<segment_id=biology_chapter3_plantkingdom_001>
+#पिछले अध्याय में, हमने व्हिटेकर (1969) द्वारा प्रस्तावित प्रणाली के तहत जीवित जीवों के व्यापक वर्गीकरण को देखा, जिसमें उन्होंने पांच साम्राज्य वर्गीकरण का सुझाव दिया था। मोनेरा, प्रोटिस्टा, कवक, एनिमेलिया और प्लांटे।
+#piCale aXyAya meM, hamane vhitekara (1969) xvArA praswAviwa praNAlI ke wahawa jIviwa jIvoM ke vyApaka vargIkaraNa ko xeKA, jisameM unhoMne pAMca sAmrAjya vargIkaraNa kA suJAva xiyA WA. monerA, protistA, kavaka, enimeliyA Ora plAMte.
+#In the previous chapter, we looked at the broad classification of living organisms under the system proposed by Whittaker (1969) wherein he suggested the Five Kingdom classification viz. Monera, Protista, Fungi, Animalia and Plantae.
+piCalA_8(previous_3)	1	-	-	2:mod	-	-	-	-
+Guma_1	2	-	-	-	-	-	-	-
+aXyAya_1(chapter_1)	3	-	-	21:k7p	-	-	-	-
+$speaker	4	-	-	21:k1	-	-	-	-
+vhitekara	5	male	-	-	-	-	-	43:begin
+1969	6	numex	-	21:k7t	6:re	-	-	-
+praswAviwa_1(proposed_1)	7	-	-	12:mod	-	-	-	-
+praNAlI_1(system_6)	8	-	-	21:k7a	-	-	-	-
+jIviwa_2(living_6)	9	-	-	16:mod	-	-	-	-
+jIva_7(organism_1)	10	-	pl	19:r6	-	-	-	-
+vyApaka_6(broad_7)	11	-	-	19:mod	-	-	-	-
+vargIkaraNa_1(classification_1)	12	-	-	21:k2	-	def	-	-
+xeKa_1-yA_hE_2	13	-	-	0:main	-	-	-	-
+$yax	14	-	-	30:k7	19:coref	-	-	-
+$wyax	15	-	-	30:k1	43:coref	distal	-	-
+5	16	-	-	49:card	-	-	-	-
+sAmrAjya_1	17	-	-	-	-	-	-	49:mod
+vargIkaraNa_1(classification_1)	18	-	-	-	-	-	-	49:head
+suJAva_1(suggestion_5)	19	-	-	30:k2	-	-	-	-
+xe_1-yA_WA_1	20	-	-	19:rcdelim	-	-	-	-
+monerA_1	21	-	-	-	-	-	-	50:op1
+protistA_1	22	-	-	-	-	-	-	50:op2
+kavaka_1	23	-	-	-	-	-	-	50:op3
+enimeliyA_1	24	-	-	-	-	-	-	50:op4
+plAMte_1	25	-	-	-	-	-	-	50:op5
+[ne_1]	26	per	-	21:k3	-	-	-	-
+[nc_1]	27	-	-	29:r6	-	-	-	-
+[conj_1]	28	-	-	19:re	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_002>
+#इस अध्याय में, हम प्लांट किंगडम के भीतर आगे के वर्गीकरण के बारे में विस्तार से चर्चा करेंगे, जिसे आम तौर पर 'प्लांट किंगडम' के नाम से जाना जाता है।
+#isa aXyAya meM, hama plAMta kiMgadama ke BIwara Age ke vargIkaraNa ke bAre meM viswAra se carcA kareMge, jise Ama wOra para 'plAMta kiMgadama' ke nAma se jAnA jAwA hE.
+#In this chapter, we will deal in detail with further classification within Kingdom Plantae popularly known as the ‘plant kingdom’.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+aXyAya_1(chapter_1)	2	-	-	38:k7	-	-	-	-
+$speaker	5	anim	-	38:k1	-	-	-	-
+^plAMta_1	6	-	-	-	-	-	-	36:mod
+^kiMgadama	7	-	-	-	-	-	-	36:head
+Age_1	10	-	-	12:r6	-	-	-	-
+vargIkaraNa_1(classification_1)	12	-	-	38:k7	-	-	-	-
+viswAra_16(detail_2)	16	-	-	38:krvn	-	-	-	-
+carcA_1	18	-	-	-	-	-	-	38:kriyAmUla
+kara_1-gA_1	19	-	-	-	-	-	-	38:verbalizer
+$yax	21	-	-	19:k2	12:coref	-	-	-
+Ama+wOra+para_1	22	-	-	19:krvn	-	-	-	-
+^plAMta	26	-	-	-	-	-	-	37:mod
+^kiMgadama	27	-	-	-	-	-	-	37:head
+nAma_1	30	-	-	19:k2s	-	-	-	-
+jAna_1-yA_jAwA_hE_1	32	-	-	12:rcdelim	-	-	-	-
+[nc_1]	36	-	-	38:k7	-	-	-	-
+[nc_2]	37	-	-	30:r6	-	-	-	-
+[cp_1]	38	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_003a>
+#हमें यहां इस बात पर जोर देना चाहिए।
+#hameM yahAM isa bAwa para jora xenA cAhie ki samaya ke sAWa pAxapa sAmrAjya ke bAre meM hamArI samaJa baxala gaI hE.
+#hameM yahAM isa bAwa para jora xenA cAhie.
+$speaker	1	anim	pl	10:k1	-	-	-	-
+$wyax	2	-	-	10:k7p	-	proximal	-	-
+$wyax	3	-	-	4:dem	-	proximal	-	-
+bAwa_1	4	-	-	10:k7	-	-	-	-
+jora_4(stress_5)	6	-	-	-	-	-	-	10:kriyAmUla
+xe_1-nA_cAhie_1	7	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_003b>
+#कि समय के साथ पादप साम्राज्य के बारे में हमारी समझ बदल गई है।
+#ki samaya ke sAWa pAxapa sAmrAjya ke bAre meM hamArI samaJa baxala gaI hE.
+#That our understanding of the plant kingdom has changed over time.
+samaya_1	1	-	-	11:k2as	-	-	-	-
+pAxapa_2(plant_1)	4	-	-	-	-	def	-	15:mod
+sAmrAjya_1	5	-	-	-	-	-	-	15:head
+$speaker	9	anim	-	10:r6	-	-	-	-
+samaJa_1(understanding_5)	10	-	-	11:k2	-	-	-	-
+baxala_1-yA_hE_1	11	-	-	0:main	-	[shade:jA_1]	-	-
+[nc_1]	15	-	-	11:k7	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_004a>
+#कवक, और मोनेरा और प्रोटिस्टा के कोशिका भित्ति वाले सदस्यों को अब प्लांटे से बाहर कर दिया गया है।
+#kavaka, Ora monerA Ora protistA ke koSikA Biwwi vAle saxasyoM ko aba plAMte se bAhara kara xiyA gayA hE.
+#Fungi, and members of the Monera and Protista having cell walls have now been excluded from Plantae.
+kavaka_1(fungus_1)	1	-	-	-	-	-	-	27:op1
+^monerA_1	4	-	-	-	-	-	-	28:op1
+^protistA_1	6	-	-	-	-	-	-	28:op2
+koSikA_1(cell_1)	8	-	-	-	-	-	-	29:mod
+Biwwi_1(wall_2)	9	-	mawup	-	-	-	-	29:head
+saxasya_1(member_4)	11	-	pl	-	-	-	-	27:op2
+aba_1(now_3)	13	-	-	26:k7t	-	-	-	-
+^plAMte_1	14	-	-	26:k5	-	-	-	-
+bAhara_1(out_1)	16	-	-	-	-	-	-	26:kriyAmUla
+kara_1-yA_jA_1	17	-	-	-	-	[shade:xe_1]	-	26:verbalizer
+[cp_1]	26	-	-	0:main	-	-	-	-
+[conj_1]	27	-	-	26:k2	-	-	-	-
+[conj_2]	28	-	-	29:r6	-	-	-	-
+[nc_1]	29	-	-	11:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_004b>
+#हालांकि पहले के वर्गीकरणों ने उन्हें एक ही साम्राज्य में रखा था।
+#hAlAMki pahale ke vargIkaraNoM ne unheM eka hI sAmrAjya meM raKA WA.
+#Though earlier classifications placed them in the same kingdom.
+pahalA_1	1	-	-	3:r6	-	-	-	-
+vargIkaraNa_1(classification_1)	3	-	-	10:k1	-	-	-	-
+$wyax	5	-	-	10:k2	biology_chapter3_plantkingdom_001.19:coref	distal	-	-
+eka_1	6	-	-	8:card	-	hI_2	-	-
+sAmrAjya_1	8	-	-	10:k7	-	def	-	-
+raKA_1-yA_WA_1	10	-	-	0:main	biology_chapter3_plantkingdom_004a.26:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_005>
+#तो, सायनोबैक्टीरिया जिन्हें नीला हरा शैवाल भी कहा जाता है, अब 'शैवाल' नहीं हैं।
+#wo, sAyanobEktIriyA jinheM nIlA harA SEvAla BI kahA jAwA hE, aba 'SEvAla' nahIM hEM.
+#So, the cyanobacteria that are also referred to as blue green algae are not ‘algae’ any more.
+^sAyanobEktIriyA	1	-	-	16:k1	-	-	-	-
+$yax	2	-	-	7:k2	1:coref	-	-	-
+nIlA_1(blue_1)	3	-	-	5:mod	-	-	-	-
+harA_1(green_1)	4	-	-	5:mod	-	-	-	-
+SEvAla_1(algae_3)	5	-	-	7:k2s	-	BI_1	-	-
+kaha_1-yA_jA_wA_hE_1	7	-	-	1:rcdelim	-	-	-	-
+aba_1	11	-	-	16:k7t	-	-	-	-
+SEvAla_1(algae_3)	13	-	-	16:k1s	-	-	-	-
+nahIM_1(not_1)	15	-	-	16:neg	-	-	-	-
+hE_1-pres	16	-	-	0:main	-	-	-	-
+%negative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_006>
+#इस अध्याय में हम प्लांटे के अंतर्गत शैवाल, ब्रायोफाइट्स, पियरिडोफाइट्स, जिम्नोस्पर्म और एंजियोस्पर्म का वर्णन करेंगे।
+#isa aXyAya meM hama plAMte ke aMwargawa SEvAla, brAyoPAitsa, piyaridoPAitsa, jimnosparma Ora eMjiyosparma kA varNana kareMge.
+#In this chapter, we will describe Algae, Bryophytes, Pieridophytes, Gymnosperms and Angiosperms under Plantae.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+aXyAya_1(chapter_1)	2	-	-	22:k7p	-	-	-	-
+$speaker	4	anim	-	22:k1	-	-	-	-
+plAMte_1	5	-	-	22:k7a	-	-	-	-
+SEvAla_1	8	-	-	-	-	-	-	23:op1
+^brAyoPAitsa_1	10	-	-	-	-	-	-	23:op2
+^piyaridoPAitsa	12	-	-	-	-	-	-	23:op3
+^jimnosparma	14	-	-	-	-	-	-	23:op4
+^eMjiyosparma	16	-	-	-	-	-	-	23:op5
+varNana_1	18	-	-	-	-	-	-	22:kriyAmUla
+kara_1-gA_1	19	-	-	-	-	-	-	22:verbalizer
+[cp_1]	22	-	-	0:main	-	-	-	-
+[conj_1]	23	-	-	22:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_007a>
+#आप आइए।
+#Aie vargIkaraNa praNAliyoM ko praBAviwa karane vAlI kuCa ciMwAoM ko samaJane ke lie eMjiyosparma ke BIwara vargIkaraNa ko BI xeKeM.
+#Apa Aie.
+$addressee	1	anim	-	2:k1	-	respect	-	-
+A_1-o_1	2	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_007b>
+#वर्गीकरण प्रणालियों को प्रभावित करने वाली कुछ चिंताओं को समझने के लिए हम एंजियोस्पर्म के भीतर वर्गीकरण को भी देखें।
+#vargIkaraNa praNAliyoM ko praBAviwa karane vAlI kuCa ciMwAoM ko samaJane ke lie hama eMjiyosparma ke BIwara vargIkaraNa ko BI xeKeM.
+#Let us also look at classification within angiosperms to understand some of the concerns that influenced the classification systems.
+vargIkaraNa_1(classification_1)	1	-	-	-	-	-	-	22:mod
+praNAli_1	2	-	pl	-	-	-	-	22:head
+praBAviwa_1	4	-	-	-	-	-	-	23:kriyAmUla
+kara_1	5	-	-	-	-	-	-	23:verbalizer
+kuCa_1(some_2)	7	-	-	8:quant	-	-	-	-
+ciMwA_1	8	-	pl	10:k2	-	-	-	-
+samaJa_1	10	-	-	20:rt	-	-	-	-
+$speaker	13	anim	-	20:k1	-	-	-	-
+eMjiyosparma	14	-	-	16:rdl	-	-	-	-
+BIwara_1	16	-	-	20:k7p	-	-	-	-
+vargIkaraNa_1(classification_1)	17	-	-	20:k2	-	BI_1	-	-
+xeKa_1-e_1	20	-	-	0:main	-	-	-	-
+[nc_1]	22	-	-	23:k2	-	-	-	-
+[cp_1]	23	-	mawup	8:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_008>
+#वर्गीकरण की प्रारंभिक प्रणालियों में केवल स्थूल सतही रूपात्मक लक्षणों जैसे आदत, रंग, पत्तियों की संख्या और आकार आदि का उपयोग किया जाता था।
+#vargIkaraNa kI prAraMBika praNAliyoM meM kevala sWUla sawahI rUpAwmaka lakRaNoM jEse Axawa, raMga, pawwiyoM kI saMKyA Ora AkAra Axi kA upayoga kiyA jAwA WA.
+#The earliest systems of classification used only gross superficial morphological characters such as habit, colour, number and shape of leaves, etc.
+vargIkaraNa_1(classification_1)	1	-	-	4:r6	-	-	-	-
+prAraMBika_6(early_17)	3	-	-	4:mod	-	-	-	-
+praNAli_1	4	-	pl	28:k7	-	-	-	-
+sWUla_1	7	-	-	10:mod	-	-	-	-
+sawahI_1(superficial_8)	8	-	-	10:mod	-	-	-	-
+rUpAwmaka_1	9	-	-	10:mod	-	-	-	-
+lakRaNa_1	10	-	pl	28:k2	-	-	-	-
+Axawa_1(habit_1)	12	-	-	-	-	-	-	29:op1
+raMga_1(colour_1)	14	-	-	-	-	-	-	29:op2
+pawwI_9(leaf_27)	16	-	pl	18:r6	-	-	-	-
+saMKyA_1(number_8)	18	-	-	-	-	-	-	29:op3
+AkAra_2(shape_1)	20	-	-	-	-	-	-	29:op4
+upayoga_1(use_2)	23	-	-	-	-	-	-	28:kriyAmUla
+kara_1-yA_jA_wA_WA_1	24	-	-	-	-	-	-	28:verbalizer
+[cp_1]	28	-	-	0:main	-	-	-	-
+[conj_1]	29	-	-	10:re	-	-	-	-
+Axi_1	30	-	-	-	-	-	-	29:op5
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_009>
+#वे मुख्य रूप से वानस्पतिक लक्षणों या एंड्रोइकियम संरचना (लिनियस द्वारा दी गई प्रणाली) पर आधारित थे।
+#ve muKya rUpa se vAnaspawika lakRaNoM yA eMdroikiyama saMracanA (liniyasa xvArA xI gaI praNAlI) para AXAriwa We.
+#They were based mainly on vegetative characters or on the androecium structure .
+$wyax	1	-	-	19:k1	biology_chapter3_plantkingdom_008.29:coref	distal	-	-
+muKya_18+rUpa_20(mainly_5)	2	-	-	19:mod	-	-	-	-
+vAnaspawika_1(vegetative_2)	5	-	-	6:mod	-	-	-	-
+lakRaNa_1	6	-	pl	-	-	-	-	22:op1
+^eMdroikiyama_1	8	-	-	-	-	def	-	21:mod
+saMracanA_1(structure_12)	9	-	-	-	-	-	-	21:head
+liniyasa	11	male	-	-	-	-	-	23:begin
+xe_1	13	-	kqw	15:rbks	-	-	-	-
+praNAlI_1	15	-	-	22:rs	-	-	-	-
+AXAriwa_1(based_1)	18	-	-	19:k1s	-	-	-	-
+hE_1-past	19	-	-	0:main	-	-	-	-
+[nc_1]	21	-	-	-	-	-	-	22:op2
+[disjunct_1]	22	-	-	19:k7	-	-	-	-
+[ne_1]	23	per	-	13:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_010a>
+#ऐसी प्रणालियाँ कृत्रिम थीं।
+#EsI praNAliyAz kqwrima WIM; unhoMne nikata saMbaMXI prajAwiyoM ko alaga kara xiyA kyoMki ve kuCa viSeRawAoM para AXAriwa WIM.
+#EsI praNAliyAz kqwrima WIM.
+$wyax	1	-	-	5:dem	-	-	-	-
+praNAli_1	2	-	pl	4:k1	-	-	-	-
+kqwrima_1(artificial_3)	3	-	-	4:k1s	-	-	-	-
+hE_1-past	4	-	-	0:main	-	-	-	-
+prakAra_1	5	-	-	2:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_010b>
+#उन्होंने निकट संबंधी प्रजातियों को अलग कर दिया।
+#unhoMne nikata saMbaMXI prajAwiyoM ko alaga kara xiyA.
+#They separated the closely related species.
+$wyax	1	-	-	7:k1	biology_chapter3_plantkingdom_009.22:coref	distal	-	-
+nikata_2(close_5)	2	-	-	3:intf	-	-	-	-
+saMbaMXI_4(related_15)	3	-	-	4:mod	-	-	-	-
+prajAwi_1(species_1)	4	-	pl	7:k2	-	-	-	-
+alaga_1(separate_1)	6	-	-	-	-	-	-	10:kriyAmUla
+kara_1-yA_hE_1	7	-	-	-	-	[shade:xe_1]	-	10:verbalizer
+[cp_1]	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_010c>
+#क्योंकि वे कुछ विशेषताओं पर आधारित थीं।
+#kyoMki ve kuCa viSeRawAoM para AXAriwa WIM.
+#Since they were based on a few characteristics.
+$wyax	1	-	-	6:k1	biology_chapter3_plantkingdom_009.22:coref	distal	-	-
+kuCa_2(few_5)	2	-	-	3:quant	-	-	-	-
+viSeRawA_6(characteristic_10)	3	-	pl	6:k7	-	-	-	-
+AXAriwa_1(based_1)	5	-	-	6:k1s	-	-	-	-
+hE_1-past	6	-	-	0:main	biology_chapter3_plantkingdom_010b.10:kAryakAraNa	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_011a>
+#इसके अलावा, कृत्रिम प्रणालियों ने वनस्पति और यौन विशेषताओं को समान महत्व दिया।
+#isake alAvA, kqwrima praNAliyoM ne vanaspawi Ora yOna viSeRawAoM ko samAna mahawva xiyA.
+#Also, the artificial systems gave equal weightage to vegetative and sexual characteristics.
+kqwrima_1(artificial_3)	4	-	-	5:mod	-	-	-	-
+praNAli_1	5	-	pl	16:k1	-	-	-	-
+vanaspawi_1	7	-	-	-	-	-	-	17:op1
+yOna_1(sexual_1)	9	-	-	-	-	-	-	18:mod
+viSeRawA_6(characteristic_10)	10	-	pl	-	-	-	-	18:head
+samAna_1(equal_5)	12	-	-	16:krvn	-	-	-	-
+mahawva_1	13	-	-	-	-	-	-	16:kriyAmUla
+xe_1-yA_1	14	-	-	-	-	-	-	16:verbalizer
+[cp_1]	16	-	-	0:main	biology_chapter3_plantkingdom_010b.6:samuccaya	alAvA_1	-	-
+[conj_1]	17	-	-	14:k2	-	-	-	-
+[nc_1]	18	-	-	-	-	-	-	17:op2
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_011b>
+#यह स्वीकार्य नहीं है।
+#yaha svIkArya nahIM hE.
+#This is not acceptable.
+$wyax	1	-	-	4:k1	-	proximal	-	-
+svIkArya_1(acceptable_4)	2	-	-	4:k1s	-	-	-	-
+nahIM_1(not_1)	3	-	-	4:neg	-	-	-	-
+hE_1-pres	4	-	-	0:main	-	-	-	-
+%negative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_011c>
+#क्योंकि हम यह जानते हैं।
+#kyoMki hama yaha jAnawe hEM.
+#kyoMki hama yaha jAnawe hEM.
+$speaker	1	anim	-	3:k1	-	-	-	-
+$wyax	2	-	-	3:k2	biology_chapter3_plantkingdom_011d.10:coref	proximal	-	-
+jAna_1-wA_hE_1	3	-	-	0:main	biology_chapter3_plantkingdom_011a.3:kAryakAraNa	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_011d>
+#कि अक्सर वानस्पतिक लक्षण पर्यावरण से अधिक आसानी से प्रभावित होते हैं।
+#ki aksara vAnaspawika lakRaNa paryAvaraNa se aXika AsAnI se praBAviwa howe hEM.
+#That often the vegetative characters are more easily affected by environment.
+aksara_1	1	-	-	10:vkvn	-	-	-	-
+vAnaspawika_1(vegetative_2)	2	-	-	3:mod	-	-	-	-
+lakRaNa_1	3	-	-	10:k1	-	-	-	-
+paryAvaraNa_1(environment_2)	4	-	-	10:k3	-	-	-	-
+AsAnI_1	7	-	-	10:krvn	-	-	-	-
+praBAviwa_7(affect_5)	9	-	-	10:k1s	-	-	-	-
+ho_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_012a>
+#इसके विपरीत, प्राकृतिक वर्गीकरण प्रणालियाँ विकसित हुईं।
+#isake viparIwa, prAkqwika vargIkaraNa praNAliyAz vikasiwa huIM, jo jIvoM ke bIca prAkqwika samAnawA para AXAriwa WIM Ora na kevala bAharI viSeRawAoM, balki altrAstrakcara, SarIra racanA vijFAna, BrUNavijFAna Ora PAitokEmistrI jEsI AMwarika viSeRawAoM para BI vicAra karawI WIM.
+#isake viparIwa, prAkqwika vargIkaraNa praNAliyAz vikasiwa huIM.
+prAkqwika_1(natural_7)	4	-	-	10:mod	-	-	-	-
+vargIkaraNa_1(classification_1)	5	-	-	-	-	-	-	10:mod
+praNAli_1	6	-	pl	-	-	-	-	10:head
+vikasiwa_1	7	-	-	8:k1s	-	-	-	-
+ho_1-yA_hE_2	8	-	-	0:main	-	-	-	-
+[nc_1]	10	-	-	8:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_012b>
+#जो जीवों के बीच प्राकृतिक समानता पर आधारित थीं।
+#jo jIvoM ke bIca prAkqwika samAnawA para AXAriwa WIM.
+#Which were based on natural affinities among the organisms.
+$yax	1	-	-	9:k1	biology_chapter3_plantkingdom_012a.6:coref	-	-	-
+jIva_1	2	-	pl	9:k7	-	-	-	-
+bIca_1	4	-	-	2:k7p	-	-	-	-
+prAkqwika_1(natural_7)	5	-	-	6:mod	-	-	-	-
+samAnawA_1	6	-	-	9:k7	-	-	-	-
+AXAriwa_1	8	-	-	9:k1s	-	-	-	-
+hE_1-past	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_012c>
+#और जो न केवल बाहरी विशेषताओं, बल्कि अल्ट्रास्ट्रक्चर, शरीर रचना विज्ञान, भ्रूणविज्ञान और फाइटोकैमिस्ट्री जैसी आंतरिक विशेषताओं पर भी विचार करती थीं।
+#Ora jo na kevala bAharI viSeRawAoM, balki altrAstrakcara, SarIra racanA vijFAna, BrUNavijFAna Ora PAitokEmistrI jEsI AMwarika viSeRawAoM para BI vicAra karawI WIM.
+#And which consider, not only the external features, but also internal features, like ultrastructure, anatomy, embryology and phytochemistry.
+$yax	1	-	-	27:k1	biology_chapter3_plantkingdom_012a.6:coref	-	-	-
+bAharI_2(external_2)	4	-	-	5:mod	-	-	-	-
+viSeRawA_7(feature_8)	5	-	pl	-	-	-	-	28:op1
+^altrAstrakcara_1	8	-	-	-	-	-	-	31:op1
+SarIra_1	10	-	-	-	-	-	-	29:mod
+racanA_1	11	-	-	-	-	-	-	29:head
+vijFAna_1	12	-	-	15:ccof	-	-	-	30:head
+BrUNavijFAna_1(embryology_2)	14	-	-	15:ccof	-	-	-	31:op3
+^PAitokEmistrI_1	16	-	-	15:ccof	-	-	-	31:op4
+AMwarika_1(internal_4)	18	-	-	19:mod	-	-	-	-
+viSeRawA_7(feature_8)	19	-	pl	-	-	-	-	28:op2
+vicAra_1	22	-	-	-	-	-	-	27:kriyAmUla
+kara_1-wA_WA_1	23	-	-	-	-	-	-	27:verbalizer
+[cp_1]	27	-	-	0:main	biology_chapter3_plantkingdom_012b.27:samuccaya	BI_1	-	-
+[conj_1]	28	-	-	27:k7	-	-	-	-
+[nc_1]	29	-	-	-	-	-	-	30:mod
+[nc_2]	30	-	-	-	-	-	-	31:op2
+[conj_2]	31	-	-	27:ru	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_013>
+#फूल वाले पौधों का ऐसा वर्गीकरण जॉर्ज बेंथम और जोसेफ डाल्टन हुकर द्वारा दिया गया था।
+#PUla vAle pOXoM kA EsA vargIkaraNa jOYrja beMWama Ora josePa dAltana hukara xvArA xiyA gayA WA.
+#Such a classification for flowering plants was given by George Bentham and Joseph Dalton Hooker.
+PUla_1(flower_6)	1	-	mawup	3:mod	-	-	-	-
+pOXa_3(plant_22)	3	-	pl	6:r6	-	-	-	-
+$wyax	5	-	-	22:dem	-	-	-	-
+vargIkaraNa_1(classification_1)	6	-	-	14:k2g	-	-	-	-
+jOYrja	7	-	-	-	-	-	-	18:begin
+beMWama	8	-	-	-	-	-	-	18:inside
+josePa	10	-	-	-	-	-	-	19:begin
+dAltana	11	-	-	-	-	-	-	19:inside
+hukara	12	-	-	-	-	-	-	19:inside
+xe_1-yA_jA_yA_1_WA_1	14	-	-	0:main	-	-	-	-
+[ne_1]	18	-	-	-	-	-	-	21:op1
+[ne_2]	19	-	-	-	-	-	-	21:op2
+[conj_1]	21	-	-	14:k2	-	-	-	-
+prakAra_1	22	-	-	6:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_014>
+#वर्तमान में विभिन्न जीवों के बीच विकासवादी संबंधों पर आधारित फ़ाइलोजेनेटिक वर्गीकरण प्रणालियाँ स्वीकार्य हैं।
+#varwamAna meM viBinna jIvoM ke bIca vikAsavAxI saMbaMXoM para AXAriwa PZAilojenetika vargIkaraNa praNAliyAz svIkArya hEM.
+#At present phylogenetic classification systems based on evolutionary relationships between the various organisms are acceptable.
+varwamAna_1(present_12)	1	-	-	15:k7t	-	-	-	-
+viBinna_1	3	-	-	4:mod	-	-	-	-
+jIva_1	4	-	pl	6:rkl	-	-	-	-
+bIca_11(between_1)	6	-	-	15:k7	-	-	-	-
+vikAsavAxI_1(evolutionist_1)	7	-	-	8:mod	-	-	-	-
+saMbaMXa_1	8	-	pl	10:k7	-	-	-	-
+AXAriwa_1(based_1)	10	-	-	17:mod	-	-	-	-
+^PZAilojenetika_1	11	-	-	17:mod	-	-	-	-
+vargIkaraNa_1(classification_1)	12	-	-	-	-	-	-	17:mod
+praNAli_1	13	-	pl	-	-	-	-	17:head
+svIkArya_1(acceptable_4)	14	-	-	15:k1s	-	-	-	-
+hE_1-pres	15	-	-	0:main	-	-	-	-
+[nc_1]	17	-	-	15:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_015a>
+#यह वर्गीकरण प्रणाली यह मानती है।
+#yaha mAnawA hE ki eka hI varga se saMbaMXiwa jIvoM kA eka sAmAnya pUrvaja howA hE.
+#yaha vargIkaraNa praNAlI yaha mAnawI hE.
+$wyax	1	-	-	8:dem	-	proximal	-	-
+vargIkaraNa_1(classification_1)	2	-	-	-	-	-	-	8:mod
+praNAlI_1	3	-	-	-	-	-	-	8:head
+$wyax	4	-	-	5:k2	biology_chapter3_plantkingdom_015b.11:coref	proximal	-	-
+mAna_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+[nc_1]	8	-	-	5:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_015b>
+#कि एक ही वर्ग से संबंधित जीवों का एक सामान्य पूर्वज होता है।
+#ki eka hI varga se saMbaMXiwa jIvoM kA eka sAmAnya pUrvaja howA hE.
+#That organisms belonging to the same taxa have a common ancestor.
+eka_1	1	-	-	3:card	-	hI_2	-	-
+varga_15	3	-	-	11:k1as	-	-	-	-
+jIva_7(organism_1)	6	-	pl	10:r6	-	-	-	-
+eka_2	8	-	-	10:quant	-	-	-	-
+sAmAnya_2(common_6)	9	-	-	10:mod	-	-	-	-
+pUrvaja_2(ancestor_1)	10	-	-	11:k1	-	-	-	-
+ho_1-wA_hE_1	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_016>
+#वर्गीकरण में कठिनाइयों को हल करने में सहायता के लिए अब हम कई अन्य स्रोतों से भी जानकारी का उपयोग करते हैं
+#vargIkaraNa meM kaTinAiyoM ko hala karane meM sahAyawA ke lie aba hama kaI anya srowoM se BI jAnakArI kA upayoga karawe hEM
+#We now use information from many other sources too to help resolve difficulties in classification
+vargIkaraNa_1(classification_1)	1	-	-	23:k7	-	-	-	-
+kaTinAI_7(difficulty_27)	3	-	pl	23:k2	-	-	-	-
+hala_5	5	-	-	-	-	-	-	23:kriyAmUla
+kara_1	6	-	-	-	-	-	-	23:verbalizer
+sahAyawA_1(help_3)	8	-	-	24:rt	-	-	-	-
+aba	11	-	-	24:k7t	-	-	-	-
+$speaker	12	anim	-	24:k1	-	-	-	-
+kaI_1	13	-	-	15:quant	-	-	-	-
+anya_1	14	-	-	15:mod	-	-	-	-
+srowa_1(source_10)	15	-	pl	24:k2as	-	BI_1	-	-
+jAnakArI_3(information_14)	18	-	-	24:k2	-	-	-	-
+upayoga_1	20	-	-	-	-	-	-	24:kriyAmUla
+kara_1-wA_hE_1	21	-	-	-	-	-	-	24:verbalizer
+[cp_1]	23	-	-	24:k7	-	-	-	-
+[cp_2]	24	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_017>
+#ये तब और अधिक महत्वपूर्ण हो जाते हैं जब कोई सहायक जीवाश्म साक्ष्य न हो।
+#ye waba Ora aXika mahawvapUrNa ho jAwe hEM jaba koI sahAyaka jIvASma sAkRya na ho.
+#These become more important when there is no supporting fossil evidence.
+$wyax	1	-	-	6:k1	biology_chapter3_plantkingdom_016.15:coref	proximal	-	-
+$wyax	2	-	-	6:k7t	-	-	-	-
+mahawvapUrNa_1(important_6)	5	-	compermore	6:k1s	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	[shade:jA_1]	-	-
+$yax	9	-	-	15:k7t	-	-	-	-
+koI	10	-	-	17:mod	-	-	-	-
+sahAyaka_11(supporter_16)	11	-	-	17:mod	-	-	-	-
+jIvASma_1(fossil_1)	12	-	-	-	-	-	-	17:mod
+sAkRya_1(evidence_6)	13	-	-	-	-	-	-	17:head
+na_1(not_2)	14	-	-	15:neg	-	-	-	-
+ho_1-e_1	15	-	-	2:rcsamAnakAla	-	-	-	-
+[nc_1]	17	-	-	15:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_018>
+#संख्यात्मक वर्गीकरण जो अब कंप्यूटर का उपयोग करके आसानी से किया जाता है, सभी अवलोकन योग्य विशेषताओं पर आधारित है।
+#saMKyAwmaka vargIkaraNa jo aba kaMpyUtara kA upayoga karake AsAnI se kiyA jAwA hE, saBI avalokana yogya viSeRawAoM para AXAriwa hE.
+#Numerical Taxonomy which is now easily carried out using computers is based on all observable characteristics.
+saMKyAwmaka_1(numerical_1)	1	-	-	2:mod	-	-	-	-
+vargIkaraNa_3(taxonomy_1)	2	-	-	21:k1	-	-	-	-
+$yax	3	-	-	11:k1	2:coref	-	-	-
+aba	4	-	-	11:k7t	-	-	-	-
+kaMpyUtara_1(computer_4)	5	-	-	23:k2	-	-	-	-
+upayoga_1(use_2)	7	-	-	-	-	-	-	23:kriyAmUla
+kara_1	8	-	-	-	-	-	-	23:verbalizer
+AsAnI_3(ease_4)	9	-	-	11:krvn	-	-	-	-
+kara_1-yA_jA_wA_hE_1	11	-	-	2:rcelab	-	-	-	-
+saBI_1(all_1)	15	-	-	18:quant	-	-	-	-
+avalokana_3	16	-	-	-	-	-	-	24:mod
+yogya_2(able_2)	17	-	-	-	-	-	-	24:head
+viSeRawA_6(characteristic_10)	18	-	pl	21:k7	-	-	-	-
+AXAriwa_1	20	-	-	21:k1s	-	-	-	-
+hE_1-pres	21	-	-	0:main	-	-	-	-
+[cp_1]	23	-	-	11:rpk	-	-	-	-
+[nc_1]	24	-	-	18:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_019a>
+#सभी वर्णों को संख्या और कोड निर्दिष्ट किए जाते हैं।
+#saBI varNoM ko saMKyA Ora koda nirxiRta kie jAwe hEM.
+#Number and codes are assigned to all the characters.
+saBI_1	1	-	-	12:quant	-	-	-	-
+varNa_1	2	-	-	4:r6	-	-	-	-
+saMKyA_1(number_8)	4	-	-	-	-	def	-	13:op1
+koda_1(code_2)	6	-	-	-	-	-	-	13:op2
+nirxiRta_1	7	-	-	-	-	-	-	12:kriyAmUla
+kara_1-yA_jA_wA_hE_1	8	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	-	-	-	-
+[conj_1]	13	-	-	12:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_019b>
+#और फिर डेटा संसाधित किया जाता है।
+#Ora Pira detA saMsAXiwa kiyA jAwA hE.
+#And the data are then processed.
+detA_1	2	-	-	8:k2	-	-	-	-
+saMsAXiwa_1	3	-	-	-	-	-	-	8:kriyAmUla
+kara_1-yA_jA_wA_hE_1	4	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	0:main	biology_chapter3_plantkingdom_019a.12:uwwarkAla	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_020a>
+#इस प्रकार प्रत्येक पात्र को समान महत्व दिया जाता है।
+#isa prakAra prawyeka pAwra ko samAna mahawva xiyA jAwA hE.
+#In this way each character is given equal importance.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+prakAra_1	2	-	-	8:krvn	-	-	-	-
+prawyeka_1(each_1)	3	-	-	4:quant	-	-	-	-
+pAwra_6(character_6)	4	-	-	8:k2	-	-	-	-
+samAna_1(equal_5)	6	-	-	7:mod	-	-	-	-
+mahawva_1(importance_8)	7	-	-	8:k2s	-	-	-	-
+xe_1-yA_jA_wA_hE_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_020b>
+#और एक ही समय में सैकड़ों पात्रों पर विचार किया जा सकता है।
+#Ora eka hI samaya meM sEkadZoM pAwroM para vicAra kiyA jA sakawA hE.
+#And at the same time hundreds of characters can be considered.
+eka_2	1	-	-	3:quant	-	hI_2	-	-
+samaya_1(time_8)	3	-	-	14:k7t	-	-	-	-
+100	5	numex	-	6:card	-	-	-	-
+pAwra_6(character_6)	6	-	pl	14:k7	-	-	-	-
+vicAra_1	8	-	-	-	-	-	-	14:kriyAmUla
+kara_1-yA_jA_sakawA_hE_1	9	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	0:main	biology_chapter3_plantkingdom_020.8:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_021>
+#साइटोटैक्सोनॉमी, जो क्रोमोसोम संख्या, संरचना, व्यवहार और केमोटैक्सोनॉमी जैसी साइटोलॉजिकल जानकारी पर आधारित है, जो भ्रम को हल करने के लिए पौधे के रासायनिक घटकों का उपयोग करती है, इन दिनों टैक्सोनोमिस्ट द्वारा भी उपयोग किया जाता है।
+#sAitotEksonOYmI, jo kromosoma saMKyA, saMracanA, vyavahAra Ora kemotEksonOYmI jEsI sAitolOYjikala jAnakArI para AXAriwa hE, jo Brama ko hala karane ke lie pOXe ke rAsAyanika GatakoM kA upayoga karawI hE, ina xinoM tEksonomista xvArA BI upayoga kiyA jAwA hE.
+#Cytotaxonomy, that is based on cytological information like chromosome number, structure, behaviour and chemotaxonomy, that uses the chemical constituents of the plant to resolve confusions, are also used by taxonomists these days.
+sAitotEksonOYmI	1	-	-	0:main	-	-	-	-
+$yax	3	-	-	-	-	-	-	49:op1
+kromosoma_1	4	-	-	5:mod	-	-	-	-
+saMKyA_1	5	-	-	-	-	-	-	49:op2
+saMracanA_1	7	-	-	-	-	-	-	49:op3
+vyavahAra_1	9	-	-	-	-	-	-	49:op4
+kemotEksonOYmI	11	-	-	14:mod	-	-	-	-
+sAitolOYjikala_1	13	-	-	-	-	-	-	45:mod
+jAnakArI_1	14	-	-	-	-	-	-	45:head
+AXAriwa_1	16	-	-	17:k1s	-	-	-	-
+hE_1-pres	17	-	-	1:rc	-	-	-	-
+$yax	19	-	-	32:k1	-	-	-	-
+Brama_1	20	-	-	23:k2	-	-	-	-
+hala_1	22	-	-	-	-	-	-	46:kriyAmUla
+kara_1	23	-	-	-	-	-	-	46:verbalizer
+pOXA_1	26	-	-	29:r6	-	-	-	-
+rAsAyanika_1	28	-	-	29:mod	-	-	-	-
+GatakoM_1	29	-	-	31:k2	-	-	-	-
+upayoga_1	31	-	-	-	-	-	-	47:kriyAmUla
+kara_1-wA_hE_1	32	-	-	-	-	-	-	47:verbalizer
+$wyax	35	-	-	36:dem	-	proximal	-	-
+xina_1	36	-	-	41:k7t	-	-	-	-
+tEksonomista	37	-	-	41:k2	-	-	-	-
+upayoga_1	40	-	-	-	-	-	-	48:kriyAmUla
+kara_1-yA_jA_wA_hE_1	41	-	-	-	-	-	-	48:verbalizer
+[nc_1]	45	-	-	-	-	-	-	49:op5
+[cp_1]	46	-	-	32:rt	-	-	-	-
+[cp_2]	47	-	-	1:rc	-	-	-	-
+[cp_3]	48	-	-	1:rc	-	-	-	-
+[conj_1]	49	-	-	17:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_022>
+#शैवाल क्लोरोफिल युक्त, सरल, थैलॉइड, स्वपोषी और बड़े पैमाने पर जलीय (ताजे पानी और समुद्री दोनों) जीव हैं।
+#SEvAla kloroPila yukwa, sarala, WElOYida, svapoRI Ora badZe pEmAne para jalIya (wAje pAnI Ora samuxrI xonoM) jIva hEM.
+#Algae are chlorophyll-bearing, simple, thalloid, autotrophic and largely aquatic organisms.
+SEvAla_1(algae_3)	1	-	-	23:k1	-	-	-	-
+^kloroPila_1	2	-	-	3:mod	-	-	-	-
+yukwa_1	3	-	-	-	-	-	-	27:op1
+sarala_2(simple_7)	5	-	-	-	-	-	-	27:op2
+^WElOYida_1	7	-	-	-	-	-	-	27:op3
+svapoRI_1(autotroph_1)	9	-	-	-	-	-	-	27:op4
+badZA_2(large_5)	11	-	-	12:mod	-	-	-	-
+pEmAnA_1	12	-	-	23:k7	-	-	-	-
+jalIya_2(aquatic_1)	14	-	-	-	-	-	-	27:op5
+wAjA_1(fresh_11)	16	-	-	-	-	-	-	28:op1
+pAnI_1(water_7)	17	-	-	14:rs	-	-	-	-
+samuxrI_2(marine_2)	19	-	-	-	-	-	-	28:op2
+xonoM_1(both_4)	20	-	-	14:re	-	-	-	-
+jIva_7(organism_1)	22	-	-	23:k1s	-	-	-	-
+hE_1-pres	23	-	-	0:main	-	-	-	-
+[conj_1]	27	-	-	22:mod	-	-	-	-
+[conj_2]	28	-	-	17:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_023>
+#वे विभिन्न प्रकार के अन्य आवासों में पाए जाते हैं: नम पत्थर, मिट्टी और लकड़ी।
+#ve viBinna prakAra ke anya AvAsoM meM pAe jAwe hEM: nama pawWara, mittI Ora lakadZI.
+#They occur in a variety of other habitats: moist stones, soils and wood.
+$wyax	1	-	-	8:k2	biology_chapter3_plantkingdom_022.1:coref	distal	-	-
+viBinna_1	2	-	-	3:mod	-	-	-	-
+prakAra_9(variety_7)	3	-	-	6:r6	-	-	-	-
+anya_1(other_1)	5	-	-	6:mod	-	-	-	-
+AvAsa_1	6	-	pl	8:k7p	-	-	-	-
+pA_1-yA_jA_wA_hE_1	8	-	-	0:main	-	-	-	-
+nama_7(moist_3)	12	-	-	13:mod	-	-	-	-
+pawWara_1(stone_1)	13	-	-	-	-	-	-	19:op1
+mittI_2(soil_4)	15	-	-	-	-	-	-	19:op2
+lakadZI_6(wood_5)	17	-	-	-	-	-	-	19:op3
+[conj_1]	19	-	-	6:rs	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_024>
+#उनमें से कुछ कवक (लाइकेन) और जानवरों (उदाहरण के लिए, स्लॉथ भालू) के साथ भी पाए जाते हैं।
+#unameM se kuCa kavaka (lAikena) Ora jAnavaroM (uxAharaNa ke lie, slOYWa BAlU) ke sAWa BI pAe jAwe hEM.
+#Some of them also occur in association with fungi and animals (e.g., on sloth bear).
+$wyax	1	-	-	26:rn	biology_chapter3_plantkingdom_022.1:coref	distal	-	-
+kuCa_1(some_2)	3	-	-	4:quant	-	-	-	-
+kavaka_1(fungus_1)	4	-	-	-	-	-	-	26:op1
+^lAikena_1	6	-	-	4:re	-	-	-	-
+jAnavara_1(animal_2)	9	-	pl	-	-	-	-	26:op2
+uxAharaNa_1(example_1)	11	-	-	21:rt	-	-	-	-
+^slOYWa	15	-	-	-	-	-	-	25:begin
+BAlU_1(bear_4)	16	-	-	-	-	-	-	25:inside
+pA_1-yA_jA_wA_hE_1	21	-	-	0:main	-	-	-	-
+[ne_1]	25	ne	-	9:re	-	BI_1	-	-
+[conj_1]	26	-	-	21:k2as	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_025>
+#शैवाल का रूप और आकार अत्यधिक परिवर्तनशील है, वॉल्वॉक्स जैसे औपनिवेशिक रूपों से लेकर उलोथ्रिक्स और स्पाइरोगाइरा जैसे फिलामेंटस रूपों तक (चित्र 3.1)।
+#SEvAla kA rUpa Ora AkAra awyaXika parivarwanaSIla hE, vOYlvOYksa jEse OpaniveSika rUpoM se lekara uloWriksa Ora spAirogAirA jEse PilAmeMtasa rUpoM waka (ciwra 3.1).
+#The form and size of algae is highly variable, ranging from colonial forms like Volvox and the filamentous forms like Ulothrix and Spirogyra (Figure 3.1).
+SEvAla_1(algae_3)	1	-	-	36:r6	-	-	-	-
+rUpa_1(form_10)	3	-	-	-	-	-	-	36:op1
+AkAra_3(size_1)	5	-	-	-	-	-	-	36:op2
+awyaXika_8(highly_2)	6	-	-	7:intf	-	-	-	-
+parivarwanaSIla_2(variable_3)	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+vOYlvOYksa	10	-	-	-	-	-	-	34:begin
+OpaniveSika_1(colonial_1)	12	-	-	13:mod	-	-	-	-
+rUpa_1(form_10)	13	-	pl	15:k5	-	-	-	33:start
+uloWriksa	16	-	-	-	-	-	-	35:begin
+spAirogAirA	18	-	-	-	-	-	-	30:begin
+^PilAmeMtasa_1	20	-	-	21:mod	-	-	-	-
+rUpa_1(form_10)	21	-	pl	-	-	-	-	33:end
+[ne_3]	30	-	-	-	-	-	-	31:op2
+[conj_1]	31	-	-	21:ru	-	-	-	-
+[span_1]	33	-	-	8:k7p	-	-	-	-
+[ne_1]	34	ne	-	13:ru	-	-	-	-
+[ne_2]	35	ne	-	-	-	-	-	31:op1
+[conj_2]	36	-	-	8:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_026>
+#केल्प्स जैसे कुछ समुद्री रूप, विशाल पादप निकाय बनाते हैं।
+#kelpsa jEse kuCa samuxrI rUpa, viSAla pAxapa nikAya banAwe hEM.
+#A few of the marine forms such as kelps, form massive plant bodies.
+^kelpsa_1	1	-	-	10:pk1	-	-	-	-
+kuCa_2(few_5)	3	-	-	5:quant	-	-	-	-
+samuxrI_2(marine_2)	4	-	-	5:mod	-	-	-	-
+rUpa_1(form_10)	5	-	-	1:ru	-	-	-	-
+viSAla_13	7	-	-	11:mod	-	-	-	-
+pAxapa_2(plant_1)	8	-	-	-	-	-	-	11:mod
+nikAya_1(body_8)	9	-	-	-	-	-	-	11:head
+banA_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+[nc_1]	11	-	-	10:jk1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_027>
+#शैवाल वानस्पतिक, अलैंगिक और लैंगिक तरीकों से प्रजनन करते हैं।
+#SEvAla vAnaspawika, alEMgika Ora lEMgika warIkoM se prajanana karawe hEM.
+#The algae reproduce by vegetative, asexual and sexual methods.
+SEvAla_1(algae_3)	1	-	-	13:k1	-	-	-	-
+vAnaspawika_1(vegetative_2)	2	-	-	-	-	-	-	14:op1
+alEMgika_1(asexual_2)	4	-	-	-	-	-	-	14:op2
+lEMgika_1(sexual_2)	6	-	-	-	-	-	-	14:op3
+warIkA_5(method_16)	7	-	pl	13:k3	-	-	-	-
+prajanana_1	9	-	-	-	-	-	-	13:kriyAmUla
+kara_1-wA_hE_1	10	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+[conj_1]	14	-	-	7:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_028>
+#वानस्पतिक प्रजनन विखण्डन द्वारा होता है।
+#vAnaspawika prajanana viKaNdana xvArA howA hE.
+#Vegetative reproduction is by fragmentation.
+vAnaspawika_1(vegetative_2)	1	-	-	2:mod	-	-	-	-
+prajanana_1(reproduction_4)	2	-	-	5:k1	-	-	-	-
+viKaNdana_3(fragmantation_1)	3	-	-	5:k3	-	-	-	-
+ho_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_029>
+#प्रत्येक टुकड़ा एक थैलस में विकसित होता है।
+#prawyeka tukadZA eka WElasa meM vikasiwa howA hE.
+#Each fragment develops into a thallus.
+prawyeka_1(each_1)	1	-	-	2:quant	-	-	-	-
+tukadZA_9(fragment_9)	2	-	-	7:k1	-	-	-	-
+eka_2(a_1)	3	-	-	4:quant	-	-	-	-
+WElasa_1	4	-	-	7:k7	-	-	-	-
+vikasiwa_4(developed_2)	6	-	-	7:k1s	-	-	-	-
+ho_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_030>
+#अलैंगिक प्रजनन विभिन्न प्रकार के बीजाणुओं के उत्पादन से होता है, जिनमें सबसे आम ज़ोस्पोर हैं।
+#alEMgika prajanana viBinna prakAra ke bIjANuoM ke uwpAxana se howA hE, jinameM sabase Ama jZospora hEM.
+#Asexual reproduction is by the production of different types of spores, the most common being the zoospores.
+alEMgika_1	1	-	-	2:mod	-	-	-	-
+prajanana_1(reproduction_4)	2	-	-	10:k1	-	-	-	-
+viBinna_1(different_13)	3	-	-	4:mod	-	-	-	-
+prakAra_7(type_6)	4	-	-	6:r6	-	-	-	-
+bIjANu_1(spore_1)	6	-	pl	8:r6	-	-	-	-
+uwpAxana_1(production_2)	8	-	-	10:rh	-	def	-	-
+ho_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+$yax	13	-	-	17:k7p	8:coref	-	-	-
+Ama_4(common_1)	15	-	superl	17:k1s	-	def	-	-
+jZospora_1	16	-	-	17:k1	-	def	-	-
+hE_1-pres	17	-	-	8:rcloc	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_031a>
+#वे ध्वजांकित (गतिशील) होते हैं।
+#ve XvajAMkiwa (gawiSIla) howe hEM.
+#They are flagellated .
+$wyax	1	-	-	6:k1	biology_chapter3_plantkingdom_030.6:coref	distal	-	-
+XvajAMkiwa_1	2	-	-	6:k1s	-	-	-	-
+gawiSIla_4(mobile_4)	4	-	-	2:rs	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_031b>
+#और वे अंकुरण होने पर नए पौधों को जन्म देते हैं।
+#Ora ve aMkuraNa hone para nae pOXoM ko janma xewe hEM.
+#And on germination they give rise to new plants.
+$wyax	1	-	-	13:k1	biology_chapter3_plantkingdom_030.6:coref	distal	-	-
+aMkuraNa_4(germination_1)	2	-	-	-	-	-	-	12:kriyAmUla
+ho_1	3	-	-	-	-	-	-	12:verbalizer
+nae_1	5	-	-	6:mod	-	-	-	-
+pOXa_3(plant_22)	6	-	pl	13:k4	-	-	-	-
+janma_6	8	-	-	-	-	-	-	13:kriyAmUla
+xe_1-wA_hE_1	9	-	-	-	-	-	-	13:verbalizer
+[cp_1]	12	-	-	13:rblsk	-	-	-	-
+[cp_2]	13	-	-	0:main	biology_chapter3_plantkingdom_031a.6:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_032>
+#लैंगिक प्रजनन दो युग्मकों के संलयन से होता है।
+#lEMgika prajanana xo yugmakoM ke saMlayana se howA hE.
+#lEMgika prajanana xo yugmakoM ke saMlayana se howA hE.
+lEMgika_1(sexual_2)	1	-	-	2:mod	-	-	-	-
+prajanana_1(reproduction_4)	2	-	-	8:k1	-	-	-	-
+2	3	numex	-	4:card	-	-	-	-
+yugmaka_4	4	-	pl	6:r6	-	-	-	-
+saMlayana_1	6	-	-	8:rh	-	-	-	-
+ho_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_033a>
+#ये युग्मक ध्वजांकित हो सकते हैं (जैसा कि उलोथ्रिक्स में)।
+#ye yugmaka XvajAMkiwa .
+#ye yugmaka XvajAMkiwa ho sakawe hEM (jEsA ki uloWriksa meM).
+$wyax	1	-	-	2:dem	-	proximal	-	-
+yugmaka_4(gamete_1)	2	-	-	8:k1	-	-	-	-
+XvajAMkiwa_1	3	-	-	8:k1s	-	-	-	-
+ho_1-0_sakawA_hE_1	8	-	-	0:main	-	-	-	-
+uloWriksa_1	14	-	-	2:re	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_033b>
+#और ये युग्मक आकार में समान हो सकते हैं।
+#Ora ye yugmaka AkAra meM samAna ho sakawe hEM.
+#and These gametes can be similar in size.
+$wyax	1	-	-	5:dem	-	proximal	-	-
+ho_1-0_sakawA_hE_1	2	-	-	0:main	biology_chapter3_plantkingdom_033a.8:samuccaya	-	-	-
+samAna_1(equal_5)	3	-	-	2:k1s	-	-	-	-
+AkAra_3(size_1)	4	-	-	2:k7	-	-	-	-
+yugmaka_4	5	-	-	2:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_033c>
+#या ये गैर-ध्वजांकित (गैर-गतिशील) हो सकते हैं (जैसा कि स्पाइरोगाइरा में)।
+#yA ye gEra-XvajAMkiwa (gEra-gawiSIla) .
+#yA ye gEra-XvajAMkiwa (gEra-gawiSIla) ho sakawe hEM (jEsA ki spAirogAirA meM).
+$wyax	1	-	-	14:k1	biology_chapter3_plantkingdom_033a.2:coref	proximal	-	-
+gEra+XvajAMkiwa_1	2	-	-	14:k1s	-	-	-	-
+gEra+gawiSIla_1	4	-	-	2:rs	-	-	-	-
+spAirogAirA_1	13	-	-	1:re	-	-	-	-
+ho_1-0_sakawA_hE_1	14	-	-	0:main	biology_chapter3_plantkingdom_033a.8:anyawra	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_033d>
+#लेकिन ये आकार में समान हो सकते हैं।
+#lekina ye AkAra meM samAna ho sakawe hEM.
+#but they can be similar in size.
+$wyax	1	-	-	2:k1	biology_chapter3_plantkingdom_033a.2:coref	-	-	-
+ho_1-sakawA_hE_1	2	-	-	0:main	biology_chapter3_plantkingdom_033c.14:viroXI	-	-	-
+samAna_3(similar_5)	3	-	-	2:k1s	-	-	-	-
+Akara_1	4	-	-	2:k7	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_034>
+#इस तरह के प्रजनन को आइसोगैमस कहा जाता है।
+#isa waraha ke prajanana ko AisogEmasa kahA jAwA hE.
+#Such reproduction is called isogamous.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+waraha_1(kind_4)	2	-	-	4:r6	-	-	-	-
+prajanana_1(reproduction_4)	4	-	-	7:k2	-	-	-	-
+^AisogEmasa_1	6	-	-	7:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_035>
+#यूडोरिना की प्रजाति में आकार में भिन्न होने वाले दो युग्मकों के संलयन को अनिसोगैमस कहा जाता है।
+#yUdorinA kI prajAwi meM AkAra meM Binna hone vAle xo yugmakoM ke saMlayana ko anisogEmasa kahA jAwA hE.
+#Fusion of two gametes dissimilar in size, as in species of Eudorina is termed as anisogamous.
+yUdorinA_1	1	-	-	3:r6	-	-	-	-
+prajAwi_3	3	-	-	14:k7	-	-	-	-
+AkAra_1	5	-	-	15:k7	-	-	-	-
+Binna_1	7	-	-	15:k1	-	-	-	-
+2	8	numex	-	9:card	-	-	-	-
+yugmaka_4	9	-	pl	11:r6	-	-	-	-
+saMlayana_1	11	-	-	14:k2	-	-	-	-
+anisogEmasa_1	13	-	-	14:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	14	-	-	0:main	-	-	-	-
+ho_1	15	-	-	9:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_036>
+#एक बड़ी, गैर-गतिशील (स्थिर) मादा युग्मक और एक छोटे, गतिशील नर युग्मक के बीच हुए संलयन को ओगैमस कहा जाता है, जैसे, वोल्वॉक्स, फ्यूकस।
+#eka badZI, gEra-gawiSIla (sWira) mAxA yugmaka Ora eka Cote, gawiSIla nara yugmaka ke bIca hue saMlayana ko ogEmasa kahA jAwA hE, jEse, volvOYksa, PyUkasa.
+#Fusion between one large, non-motile female gamete and a smaller, motile male gamete is termed oogamous, e.g., Volvox, Fucus.
+1	1	numex	-	35:card	-	-	-	-
+badZA_2(large_5)	2	-	-	-	-	-	-	35:op1
+gEra+gawiSIla_1	4	-	-	-	-	-	-	35:op2
+sWira_30(static_2)	6	-	-	4:rs	-	-	-	-
+mAxA_1(female_2)	8	-	-	9:mod	-	-	-	-
+yugmaka_1	9	-	-	-	-	-	-	32:op1
+1	11	-	-	36:card	-	-	-	-
+CotA_1(small_6)	12	-	-	-	-	-	-	36:op1
+gawiSIla_4(mobile_4)	14	-	-	-	-	-	-	36:op2
+nara_2(male_1)	15	-	-	16:mod	-	-	-	-
+yugmaka_1	16	-	-	-	-	-	-	32:op2
+saMlayana_1	19	-	-	22:k2	-	-	-	-
+ogEmasa_1	21	-	-	22:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	22	-	-	0:main	-	-	-	-
+volvOYksa_1	28	-	-	-	-	-	-	33:op1
+PyUkasa_1	30	-	-	-	-	-	-	33:op2
+[conj_1]	32	-	-	34:k7p	-	-	-	-
+[conj_2]	33	-	-	21:re	-	-	-	-
+ho_1	34	-	-	19:rvks	-	-	-	-
+[conj_3]	35	-	-	9:mod	-	-	-	-
+[conj_4]	36	-	-	16:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_037>
+#शैवाल मनुष्य के लिए विभिन्न प्रकार से उपयोगी हैं।
+#SEvAla manuRya ke lie viBinna prakAra se upayogI hEM.
+#Algae are useful to man in a variety of ways.
+SEvAla_1(algae_3)	1	-	-	9:k1	-	-	-	-
+manuRya_1(man_7)	2	anim	-	9:rt	-	-	-	-
+viBinna_4(various_8)	5	-	-	6:mod	-	-	-	-
+prakAra_5(way_8)	6	-	-	9:krvn	-	-	-	-
+upayogI_1(useful_1)	8	-	-	9:k1s	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_038>
+#पृथ्वी पर कुल कार्बन डाइऑक्साइड स्थिरीकरण का कम से कम आधा हिस्सा प्रकाश संश्लेषण के माध्यम से शैवाल द्वारा किया जाता है।
+#pqWvI para kula kArbana dAiOYksAida sWirIkaraNa kA kama se kama AXA hissA prakASa saMSleRaNa ke mAXyama se SEvAla xvArA kiyA jAwA hE.
+#At least a half of the total carbon dioxide fixation on earth is carried out by algae through photosynthesis.
+pqWvI_1(earth_9)	1	-	-	20:k7p	-	-	-	-
+kula_1(total_1)	3	-	-	4:quant	-	def	-	-
+kArbana_1+dAioYksAida_1(carbon_1+dioxide_1)	4	-	-	6:mod	-	-	-	-
+sWirIkaraNa_3	6	-	-	12:r6	-	-	-	-
+AXA_1(half_1)	11	-	-	12:quant	-	-	-	-
+hissA_1(part_13)	12	-	-	20:k1	-	kama se kama_1	-	-
+prakASa_1	13	-	-	-	-	-	-	25:mod
+saMSleRaNa_1(synthesis_2)	14	-	-	-	-	-	-	25:head
+SEvAla_1(algae_3)	18	-	-	20:k3	-	-	-	-
+kara_1-yA_jA_wA_hE_1	20	-	-	0:main	-	-	-	-
+[nc_1]	25	-	-	20:rp	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_039>
+#प्रकाश संश्लेषक होने के कारण, वे अपने निकटतम वातावरण में घुलित ऑक्सीजन के स्तर को बढ़ाते हैं।
+#prakASa saMSleRaka hone ke kAraNa, ve apane nikatawama vAwAvaraNa meM Guliwa OYksIjana ke swara ko baDZAwe hEM.
+#Being photosynthetic, they increase the level of dissolved oxygen in their immediate environment.
+prakASa_1	1	-	-	-	-	-	-	18:mod
+saMSleRaka_1	2	-	-	-	-	-	-	18:head
+ho_1	3	-	-	17:rh	-	-	-	-
+$wyax	7	-	-	17:k1	biology_chapter3_plantkingdom_038.18:coref	distal	-	-
+apanA	8	-	-	10:r6	-	-	-	-
+nikata_1(immediate_9)	9	-	superl	10:mod	-	-	-	-
+vAwAvaraNa_3(environment_4)	10	-	-	17:k7p	-	-	-	-
+Guliwa_1	12	-	-	13:mod	-	-	-	-
+^OYksIjana_1	13	-	-	15:r6	-	-	-	-
+swara_2(level_6)	15	-	-	17:k2	-	def	-	-
+baDZA_1-wA_hE_1	17	-	-	0:main	-	-	-	-
+[nc_1]	18	-	-	3:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_040>
+#वे ऊर्जा-समृद्ध यौगिकों के प्राथमिक उत्पादक के रूप में अत्यंत महत्वपूर्ण हैं जो सभी जलीय जानवरों के भोजन चक्र का आधार बनते हैं।
+#ve UrjA-samqxXa yOgikoM ke prAWamika uwpAxaka ke rUpa meM awyaMwa mahawvapUrNa hEM jo saBI jalIya jAnavaroM ke Bojana cakra kA AXAra banawe hEM.
+#They are of paramount importance as primary producers of energy-rich compounds which form the basis of the food cycles of all aquatic animals.
+$wyax	1	-	-	12:k1	biology_chapter3_plantkingdom_038.18:coref	distal	-	-
+UrjA+samqxXa_1	2	-	-	3:mod	-	-	-	-
+yOgika_1(compound_6)	3	-	pl	6:r6	-	-	-	-
+prAWamika_1(primary_3)	5	-	-	6:mod	-	-	-	-
+uwpAxaka_1(producer_1)	6	-	-	12:krvn	-	-	-	-
+awyaMwa_7	10	-	-	11:intf	-	-	-	-
+mahawvapUrNa_1(important_6)	11	-	-	12:k1s	-	-	-	-
+hE_1-pres	12	-	-	0:main	-	-	-	-
+$yax	13	-	-	22:k1	1:coref	-	-	-
+saBI_1(all_1)	14	-	-	16:quant	-	-	-	-
+jalIya_1(aquatic_10)	15	-	-	16:mod	-	-	-	-
+jAnavara_1(animal_2)	16	-	pl	25:r6	-	-	-	-
+Bojana_1(food_5)	18	-	-	-	-	-	-	25:mod
+cakra_2(cycle_1)	19	-	-	-	-	-	-	25:head
+AXAra_2(basis_1)	21	-	-	22:k1s	-	-	-	-
+bana_1-wA_hE_1	22	-	-	1:rcelab	-	-	-	-
+[nc_1]	25	-	-	21:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_041>
+#भोजन के रूप में उपयोग की जाने वाली समुद्री शैवाल की 70 प्रजातियों में से पोर्फिरा, लैमिनारिया और सरगासुम की कई प्रजातियाँ शामिल हैं।
+#Bojana ke rUpa meM upayoga kI jAne vAlI samuxrI SEvAla kI 70 prajAwiyoM meM se porPirA, lEminAriyA Ora saragAsuma kI kaI prajAwiyAz SAmila hEM.
+#Many species of Porphyra, Laminaria and Sargassum are among the 70 species of marine algae used as food.
+Bojana_1(food_5)	1	-	-	27:k7	-	-	-	-
+upayoga_1(use_2)	5	-	-	-	-	-	-	27:kriyAmUla
+kara_1	6	-	-	-	-	-	-	27:verbalizer
+samuxrI_2(marine_2)	9	-	-	10:mod	-	-	-	-
+SEvAla_1(algae_3)	10	-	-	13:r6	-	-	-	-
+70	12	numex	-	13:card	-	-	-	-
+prajAwi_1(species_1)	13	-	-	23:rn	-	def	-	-
+^porPirA_1	16	-	-	-	-	-	-	28:op1
+^lEminAriyA_1	18	-	-	-	-	-	-	28:op2
+^saragAsuma_1	20	-	-	-	-	-	-	28:op3
+kaI_5(many_11)	22	-	-	23:quant	-	-	-	-
+prajAwi_1(species_1)	23	-	pl	25:k1	-	-	-	-
+SAmila_1	24	-	-	25:k1s	-	-	-	-
+hE_1-pres	25	-	-	0:main	-	-	-	-
+[cp_1]	27	-	-	10:mod	-	-	-	-
+[conj_1]	28	-	-	23:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_042>
+#कुछ समुद्री भूरे और लाल शैवाल बड़ी मात्रा में हाइड्रोकोलॉइड (जल धारण करने वाले पदार्थ) उत्पन्न करते हैं, उदाहरण के लिए, एल्गिन (भूरा शैवाल) और कैरेजेन (लाल शैवाल) जिनका व्यावसायिक उपयोग किया जाता है।
+#kuCa samuxrI BUre Ora lAla SEvAla badZI mAwrA meM hAidrokolOYida (jala XAraNa karane vAle paxArWa) uwpanna karawe hEM, uxAharaNa ke lie, elgina (BUrA SEvAla) Ora kErejena (lAla SEvAla) jinakA vyAvasAyika upayoga kiyA jAwA hE.
+#Certain marine brown and red algae produce large amounts of hydrocolloids , e.g., algin and carrageen which are used commercially.
+kuCa_11(certain_6)	1	-	-	6:quant	-	-	-	-
+samuxrI_2(marine_2)	2	-	-	6:mod	-	-	-	-
+BUrA_1(brown_1)	3	-	-	-	-	-	-	51:op1
+lAla_1(red_44)	5	-	-	-	-	-	-	51:op2
+SEvAla_1(algae_3)	6	-	-	49:k1	-	-	-	-
+badZA_2(large_5)	7	-	-	8:mod	-	-	-	-
+mAwrA_9(amount_10)	8	-	-	49:k7	-	-	-	-
+^hAidrokolOYida_1	10	-	-	49:k2	-	-	-	-
+jala_1(water_3)	12	-	-	48:k2	-	-	-	-
+XAraNa_1(holding_4)	13	-	-	-	-	-	-	48:kriyAmUla
+kara_1	14	-	-	-	-	-	-	48:verbalizer
+paxArWa_2(substance_4)	16	-	-	49:k2s	-	-	-	-
+uwpanna_1(produced_1)	18	-	-	-	-	-	-	49:kriyAmUla
+kara_1-wA_hE_1	19	-	-	-	-	-	-	49:verbalizer
+elgina_1	26	-	-	-	-	-	-	52:op1
+BUrA_1(brown_1)	28	-	-	29:mod	-	-	-	-
+SEvAla_1(algae_3)	29	-	-	26:rs	-	-	-	-
+kErejena_1	32	-	-	-	-	-	-	52:op2
+lAla_1(red_44)	34	-	-	35:mod	-	-	-	-
+SEvAla_1(algae_3)	35	-	-	32:rs	-	-	-	-
+$yax	37	-	-	50:k2	10:coref	-	-	-
+vyAvasAyika_5(commercial_8)	38	-	-	39:mod	-	-	-	-
+upayoga_1(use_2)	39	-	-	-	-	-	-	50:kriyAmUla
+kara_1-yA_jA_wA_hE_1	40	-	-	-	-	-	-	50:verbalizer
+[cp_1]	48	-	-	16:mod	-	-	-	-
+[cp_2]	49	-	-	0:main	-	-	-	-
+[cp_3]	50	-	-	10:rcelab	-	-	-	-
+[conj_1]	51	-	-	6:mod	-	-	-	-
+[conj_2]	52	-	-	10:re	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_043>
+#अगर, गेलिडियम और ग्रेसिलेरिया से प्राप्त वाणिज्यिक उत्पादों में से एक उत्पादो है, जिसका उपयोग रोगाणुओं को विकसित करने और आइसक्रीम और जेली की तैयारी में किया जाता है।
+#agara, gelidiyama Ora gresileriyA se prApwa vANijyika uwpAxoM meM se eka uwpAxo hE, jisakA upayoga rogANuoM ko vikasiwa karane Ora AisakrIma Ora jelI kI wEyArI meM kiyA jAwA hE.
+#Agar, one of the commercial products obtained from Gelidium and Gracilaria are used to grow microbes and in preparations of ice-creams and jellies.
+gelidiyama_1	1	-	-	-	-	-	-	31:op1
+gresileriyA_1	3	-	-	-	-	-	-	31:op2
+prApwa_2(obtained_1)	5	-	-	7:rvks	-	-	-	-
+vANijyika_1(commercial_1)	6	-	-	7:mod	-	-	-	-
+uwpAxa_3(product_1)	7	-	pl	37:rn	-	def	-	-
+eka_6(one_1)	10	-	-	37:quant	-	-	-	-
+hE_1-pres	11	-	-	0:main	-	-	-	-
+$yax	13	-	-	14:r6	33:coref	-	-	-
+upayoga_1(use_2)	14	-	-	36:k2	-	-	-	-
+rogANu_2	15	-	pl	30:k2	-	-	-	-
+vikasiwa_3(grown_1)	17	-	-	-	-	-	-	30:kriyAmUla
+kara_1	18	-	-	-	-	-	-	30:verbalizer
+^AisakrIma_1	20	-	-	-	-	-	-	32:op1
+^jelI_1	22	-	-	-	-	-	-	32:op2
+wEyArI_2(preparation_2)	24	-	-	-	-	-	-	35:kriyAmUla
+kara_1	26	-	-	-	-	-	-	35:verbalizer
+[cp_1]	30	-	-	-	-	-	-	34:op1
+[conj_1]	31	-	-	5:k5	-	-	-	-
+[conj_2]	32	-	-	35:k1	-	-	-	-
+agara_1	33	-	-	11:k1	-	-	-	-
+[conj_3]	34	-	-	36:k7	-	-	-	-
+[cp_2]	35	-	-	-	-	-	-	34:op2
+kara_1-yA_jA_wA_hE_1	36	-	-	33:rcelab	-	-	-	-
+uwpAxa_3(product_1)	37	-	-	11:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_044>
+#क्लोरेला, प्रोटीन से भरपूर एककोशिकीय शैवाल है, जिसका उपयोग अंतरिक्ष यात्रियों द्वारा भी भोजन के पूरक के रूप में किया जाता है।
+#klorelA, protIna se BarapUra ekakoSikIya SEvAla hE, jisakA upayoga aMwarikRa yAwriyoM xvArA BI Bojana ke pUraka ke rUpa meM kiyA jAwA hE.
+#Chlorella, a unicellular alga rich in proteins, is used as food supplement even by space travellers.
+klorelA_1	1	-	-	8:k1	-	-	-	-
+protIna_2	3	-	-	5:k3	-	-	-	-
+BarapUra_10	5	-	-	7:mod	-	-	-	-
+ekakoSikIya_1	6	-	-	7:mod	-	-	-	-
+SEvAla_1(algae_3)	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+$yax	10	-	-	11:r6	1:coref	-	-	-
+upayoga_1(use_2)	11	-	-	22:k2	-	-	-	-
+aMwarikRa_1(space_1)	12	-	-	-	-	-	-	26:mod
+yAwrI_1(traveller_8)	13	-	pl	-	-	-	-	26:head
+Bojana_1(food_5)	16	-	-	18:r6	-	-	-	-
+pUraka_1(supplement_4)	18	-	-	22:k7	-	-	-	-
+kara_1-yA_jA_wA_hE_1	22	-	-	3:rcelab	-	-	-	-
+[nc_1]	26	anim	-	22:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_045>
+#शैवाल को तीन मुख्य वर्गों में विभाजित किया गया है: क्लोरोफाइसी, फियोफाइसी और रोडोफाइसी।
+#SEvAla ko wIna muKya vargoM meM viBAjiwa kiyA gayA hE: kloroPAisI, PiyoPAisI Ora rodoPAisI.
+#The algae are divided into three main classes: Chlorophyceae, Phaeophyceae and Rhodophyceae.
+SEvAla_1(algae_3)	1	-	-	18:k2	-	-	-	-
+3	3	numex	-	5:card	-	-	-	-
+muKya_18(main_1)	4	-	-	5:mod	-	-	-	-
+varga_1(class_4)	5	-	pl	18:k7	-	-	-	-
+viBAjiwa_1(divided_2)	7	-	-	-	-	-	-	18:kriyAmUla
+kara_1-yA_jA_yA_hE_1	8	-	-	-	-	-	-	18:verbalizer
+^kloroPAisI_1	12	-	-	-	-	-	-	19:op1
+^PiyoPAisI_1	14	-	-	-	-	-	-	19:op2
+^rodoPAisI_1	16	-	-	-	-	-	-	19:op3
+[cp_1]	18	-	-	0:main	-	-	-	-
+[conj_1]	19	-	-	5:re	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_046>
+#क्लोरोफाइसी के सदस्यों को सामान्यतः हरा शैवाल कहा जाता है।
+#kloroPAisI ke saxasyoM ko sAmAnyawaH harA SEvAla kahA jAwA hE.
+#The members of chlorophyceae are commonly called green algae.
+^kloroPAisI_1	1	-	-	3:r6	-	-	-	-
+saxasya_1(member_4)	3	-	pl	8:k2	-	def	-	-
+sAmAnyawaH_2(commonly_1)	5	-	-	8:krvn	-	-	-	-
+harA_1(green_1)	6	-	-	7:mod	-	-	-	-
+SEvAla_1(algae_3)	7	-	-	8:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_047>
+#पौधे का शरीर एककोशिकीय, औपनिवेशिक या रेशायुक्त हो सकता है।
+#pOXe kA SarIra ekakoSikIya, OpaniveSika yA reSAyukwa ho sakawA hE.
+#The plant body may be unicellular, colonial or filamentous.
+pOXA_1(plant_6)	1	-	-	3:r6	-	def	-	-
+SarIra_1(body_11)	3	-	-	9:k1	-	-	-	-
+ekakoSikIya_1	4	-	-	-	-	-	-	13:op1
+OpaniveSika_1	6	-	-	-	-	-	-	13:op2
+reSAyukwa_2	8	-	-	-	-	-	-	13:op3
+ho_1-0_sakawA_hE_1	9	-	-	0:main	-	-	-	-
+[disjunct_1]	13	-	-	9:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_048>
+#क्लोरोफिल ए और बी वर्णक की प्रबलता के कारण वे आमतौर पर घास के हरे रंग के होते हैं।
+#kloroPila e Ora bI varNaka kI prabalawA ke kAraNa ve AmawOra para GAsa ke hare raMga ke howe hEM.
+#They are usually grass green due to the dominance of pigments chlorophyll a and b.
+^kloroPila_1	1	-	-	22:mod	-	-	-	-
+e_1	2	-	-	-	-	-	-	22:op1
+bI_1	4	-	-	-	-	-	-	22:op2
+varNaka_1(pigment_2)	5	-	-	7:r6	-	-	-	-
+prabalawA_6(dominance_4)	7	-	-	18:rh	-	-	-	-
+$wyax	10	-	-	18:k1	biology_chapter3_plantkingdom_047.3:coref	distal	-	-
+AmawOra+para_2(usually_9)	11	-	-	18:krvn	-	-	-	-
+GAsa_1(grass_1)	13	-	-	16:r6	-	-	-	-
+harA_1(green_1)	15	-	-	16:mod	-	-	-	-
+raMga_1(colour_1)	16	-	-	18:k1s	-	-	-	-
+ho_1-wA_hE_1	18	-	-	0:main	-	-	-	-
+[conj_1]	22	-	-	5:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_049>
+#वर्णक निश्चित क्लोरोप्लास्ट में स्थानीयकृत होते हैं।
+#varNaka niSciwa kloroplAsta meM sWAnIyakqwa howe hEM.
+#The pigments are localised in definite chloroplasts.
+varNaka_1(pigment_2)	1	-	-	6:k1	-	def	-	-
+niSciwa_1(definite_2)	2	-	-	3:mod	-	-	-	-
+^kloroplAsta_1	3	-	-	6:k7p	-	-	-	-
+sWAnIyakqwa_1	5	-	-	6:k1s	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_050>
+#विभिन्न प्रजातियों में क्लोरोप्लास्ट डिस्कॉइड, प्लेट-जैसे, जालीदार, कप-आकार, सर्पिल या रिबन के आकार के हो सकते हैं।
+#viBinna prajAwiyoM meM kloroplAsta diskOYida, pleta-jEse, jAlIxAra, kapa-AkAra, sarpila yA ribana ke AkAra ke ho sakawe hEM.
+#The chloroplasts may be discoid, plate-like, reticulate, cup-shaped, spiral or ribbon-shaped in different species.
+viBinna_1(different_13)	1	-	-	2:mod	-	-	-	-
+prajAwi_1(species_1)	2	-	pl	19:k7	-	-	-	-
+kloroplAsta_1	4	-	-	19:k1	-	def	-	-
+diskOYida_1	5	-	-	-	-	-	-	24:op1
+pleta+jEse_1	7	-	-	-	-	-	-	24:op2
+jAlIxAra_1	9	-	-	-	-	-	-	24:op3
+kapa+AkAra_1	11	-	-	-	-	-	-	24:op4
+sarpila_1(spiral_3)	13	-	-	-	-	-	-	24:op5
+ribana_1(ribbon_2)	15	-	-	17:r6	-	-	-	-
+AkAra_2(shape_1)	17	-	-	-	-	-	-	24:op6
+ho_1-0_sakawA_hE_1	19	-	-	0:main	-	-	-	-
+[disjunct_1]	24	-	-	19:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_051>
+#अधिकांश सदस्यों के पास क्लोरोप्लास्ट में स्थित एक भंडारण या अधिक भंडारण निकाय होते हैं जिन्हें पाइरेनॉइड्स कहा जाता है।
+#aXikAMSa saxasyoM ke pAsa kloroplAsta meM sWiwa eka BaMdAraNa yA aXika BaMdAraNa nikAya howe hEM jinheM pAirenOYidsa kahA jAwA hE.
+#Most of the members have one or more storage bodies called pyrenoids located in the chloroplasts.
+aXikAMSa_1(most_1)	1	-	-	2:quant	-	-	-	-
+saxasya_1(member_4)	2	-	pl	13:rsm	-	def	-	-
+kloroplAsta_1	5	-	-	7:k7p	-	def	-	-
+sWiwa_2(located_2)	7	-	kqw	23:mod	-	-	-	-
+1	8	numex	-	27:card	-	-	-	-
+BaMdAraNa_2(storage_2)	11	-	-	-	-	-	-	27:mod
+nikAya_1(body_8)	12	-	-	-	-	-	-	28:head
+ho_1-wA_hE_1	13	-	-	0:main	-	-	-	-
+$yax	15	-	-	17:k2	23:coref	-	-	-
+^pAirenOYidsa_1	16	-	-	17:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	17	-	-	23:rcelab	-	-	-	-
+[disjunct_1]	23	-	-	13:k1	-	-	-	-
+1	24	numex	-	28:quantmore	-	-	-	-
+BaMdAraNa_2(storage_2)	25	-	-	-	-	-	-	28:mod
+nikAya_1(body_8)	26	-	-	-	-	-	-	27:head
+[nc_1]	27	-	-	-	-	-	-	23:op1
+[nc_2]	28	-	-	-	-	-	-	23:op2
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_052>
+#पाइरेनॉइड्स में स्टार्च के अलावा प्रोटीन भी होता है।
+#pAirenOYidsa meM stArca ke alAvA protIna BI howA hE.
+#pAirenOYidsa meM stArca ke alAvA protIna BI howA hE.
+^pAirenOYidsa_1	1	-	-	8:k7	-	-	-	-
+^stArca_1	3	-	-	8:vmod	-	-	-	9:op1
+^protIna_1	6	-	-	8:k1	-	BI_1	-	9:op2
+ho_1-wA_hE_1	8	-	-	0:main	-	ke alAvA_1	-	-
+[conj_1]	9	-	-	8:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_053>
+#कुछ शैवाल भोजन को तेल की बूंदों के रूप में संग्रहित कर सकते हैं।
+#kuCa SEvAla Bojana ko wela kI bUMxoM ke rUpa meM saMgrahiwa kara sakawe hEM.
+#Some algae may store food in the form of oil droplets.
+kuCa_1(some_2)	1	-	-	2:quant	-	-	-	-
+SEvAla_1(algae_3)	2	-	-	17:k1	-	-	-	-
+Bojana_1(food_5)	3	-	-	17:k2	-	-	-	-
+wela_1(oil_1)	5	-	-	7:r6	-	-	-	-
+bUMxa_1(drop_11)	7	-	pl	17:k7	-	def	-	-
+saMgrahiwa_6(stored_2)	11	-	-	-	-	-	-	17:kriyAmUla
+kara_1-0_sakawA_hE_1	12	-	-	-	-	-	-	17:verbalizer
+[cp_1]	17	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_054>
+#हरे शैवाल में आमतौर पर एक कठोर कोशिका भित्ति होती है जो सेलूलोज़ की आंतरिक परत और पेक्टोज़ की बाहरी परत से बनी होती है।
+#hare SEvAla meM AmawOra para eka kaTora koSikA Biwwi howI hE jo selUlojZa kI AMwarika parawa Ora pektojZa kI bAharI parawa se banI howI hE.
+#Green algae usually have a rigid cell wall made of an inner layer of cellulose and an outer layer of pectose.
+harA_1(green_1)	1	-	-	2:mod	-	-	-	-
+SEvAla_1(algae_3)	2	-	-	10:k7p	-	-	-	-
+AmawOra+para_2(usually_9)	4	-	-	10:krvn	-	-	-	-
+eka_2(a_1)	6	-	-	9:card	-	-	-	-
+kaTora_7(rigid_2)	7	-	-	9:mod	-	-	-	-
+koSikA_1(cell_1)	8	-	-	9:mod	-	-	-	-
+Biwwi_1(wall_2)	9	-	-	10:k1	-	-	-	-
+ho_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+$yax	12	-	-	28:k1	9:coref	-	-	-
+selUlojZa_1	13	-	-	16:r6	-	-	-	-
+AMwarika_5	15	-	-	16:mod	-	-	-	-
+parawa_1(layer_3)	16	-	-	-	-	-	-	27:op1
+pektojZa_1	18	-	-	21:r6	-	-	-	-
+bAharI_1	20	-	-	21:mod	-	-	-	-
+parawa_1	21	-	-	-	-	-	-	27:op2
+banA_1	23	-	-	28:k1	-	-	-	-
+[conj_1]	27	-	-	23:k5	-	-	-	-
+ho_1-wA_hE_1	28	-	-	9:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_055>
+#वानस्पतिक प्रजनन आमतौर पर विखंडन द्वारा होता है।
+#vAnaspawika prajanana AmawOra para viKaMdana xvArA howA hE.
+#vAnaspawika prajanana AmawOra para viKaMdana xvArA howA hE.
+vAnaspawika_1(vegetative_2)	1	-	-	2:mod	-	-	-	-
+prajanana_1(reproduction_4)	2	-	-	7:k1	-	-	-	-
+AmawOra+para_2(usually_9)	3	-	-	7:krvn	-	-	-	-
+viKaMdana_1(fragmentation_1)	5	-	-	7:k1s	-	-	-	-
+ho_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_056>
+#अलैंगिक प्रजनन ज़ोस्पोरंगिया में उत्पादित फ़्लैगेलेटेड ज़ोस्पोर्स द्वारा होता है।
+#alEMgika prajanana jZosporaMgiyA meM uwpAxiwa PZlEgeleteda jZosporsa xvArA howA hE.
+#Asexual reproduction is by flagellated zoospores produced in zoosporangia.
+alEMgika_1(asexual_2)	1	-	-	2:mod	-	-	-	-
+prajanana_1(reproduction_4)	2	-	-	9:k1	-	-	-	-
+^jZosporaMgiyA_1	3	-	-	5:k7	-	-	-	-
+uwpAxiwa_1(produced_10)	5	-	-	7:mod	-	-	-	-
+^PZlEgeleteda_1	6	-	-	7:mod	-	-	-	-
+^jZosporsa_1	7	-	-	9:k3	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_057a>
+#यौन प्रजनन मेंस्थित यौन कोशिकाओं के प्रकार और गठन में काफी भिन्नता दिखाई देती है।
+#yOna prajanana meMsWiwa yOna koSikAoM ke prakAra Ora gaTana meM kAPI BinnawA xiKAI xewI hE.
+#The sexual reproduction shows considerable variation in the type and formation of sex cells.
+yOna_1(sexual_1)	1	-	-	2:mod	-	-	-	-
+prajanana_1(reproduction_4)	2	-	-	19:k7	-	def	-	-
+yOna_1(sexual_1)	4	-	-	5:mod	-	-	-	-
+koSikA_1(cell_1)	5	-	pl	18:r6	-	-	-	-
+prakAra_7(type_6)	7	-	-	-	-	-	-	18:op1
+gaTana_6	9	-	-	-	-	-	-	18:op2
+kAPI_6	11	-	-	12:mod	-	-	-	-
+BinnawA_5	12	-	-	13:k2	-	-	-	-
+xiKa_1-AI_xewA_hE_1	13	-	-	0:main	-	-	-	-
+[conj_1]	18	-	-	13:k7	-	def	-	-
+sWiwa_1	19	-	kqw	5:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_057b>
+#और यह आइसोगैमस, अनिसोगैमस या ओगैमस हो सकती है।
+#-
+#Ora yaha AisogEmasa, anisogEmasa yA ogEmasa ho sakawI hE.
+$wyax	1	-	-	7:k1	biology_chapter3_plantkingdom_057a.18:coref	proximal	-	-
+^AisogEmasa_1	2	-	-	-	-	-	-	11:op1
+^anisogEmasa_1	4	-	-	-	-	-	-	11:op2
+^ogEmasa_1	6	-	-	-	-	-	-	11:op3
+ho_1-0_sakawA_hE_1	7	-	-	0:main	biology_chapter3_plantkingdom_057a.13:samuccaya	-	-	-
+[disjunct_1]	11	-	-	7:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_058>
+#आमतौर पर पाए जाने वाले कुछ हरे शैवाल हैं: क्लैमाइडोमोनस, वॉल्वॉक्स, यूलोथ्रिक्स, स्पाइरोगाइरा और चरा (चित्र 3.1ए)।
+#AmawOra para pAe jAne vAle kuCa hare SEvAla hEM: klEmAidomonasa, vOYlvOYksa, yUloWriksa, spAirogAirA Ora carA (ciwra 3.1e).
+#Some commonly found green algae are: Chlamydomonas, Volvox, Ulothrix, Spirogyra and Chara (Figure 3.1a).
+AmawOra+para_3	1	-	-	3:freq	-	-	-	-
+pA_13(find_4)	3	-	-	8:mod	-	-	-	-
+kuCa_1(some_2)	6	-	-	8:quant	-	-	-	-
+harA_1(green_1)	7	-	-	8:mod	-	-	-	-
+SEvAla_1(algae_3)	8	-	-	9:k1	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+^klEmAidomonasa_1	11	-	-	-	-	-	-	27:op1
+^vOYlvOYksa_1	13	-	-	-	-	-	-	27:op2
+^yUloWriksa_1	15	-	-	-	-	-	-	27:op3
+^spAirogAirA_1	17	-	-	-	-	-	-	27:op4
+carA_1	19	-	-	0:mod	-	-	-	27:op5
+[conj_1]	27	-	-	9:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_059>
+#फियोफाइसी या भूरे शैवाल के सदस्य मुख्य रूप से समुद्री आवासों में पाए जाते हैं।
+#PiyoPAisI yA BUre SEvAla ke saxasya muKya rUpa se samuxrI AvAsoM meM pAe jAwe hEM.
+#The members of phaeophyceae or brown algae are found primarily in marine habitats.
+PiyoPAisI_1	1	-	-	-	-	-	-	17:op1
+BUrA_1(brown_1)	3	-	-	4:mod	-	-	-	-
+SEvAla_1(algae_3)	4	-	-	-	-	-	-	17:op2
+saxasya_1(member_4)	6	-	-	13:k1	-	def	-	-
+muKya_18(main_1)	7	-	-	13:krvn	-	-	-	-
+samuxrI_2(marine_2)	10	-	-	11:mod	-	-	-	-
+AvAsa_2(habitation_1)	11	-	-	13:k7p	-	-	-	-
+pA_1-yA_jA_wA_hE_1	13	-	-	0:main	-	-	-	-
+[disjunct_1]	17	-	-	6:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_060>
+#वे आकार और रूप में बहुत भिन्नता दिखाते हैं।
+#ve AkAra Ora rUpa meM bahuwa BinnawA xiKAwe hEM.
+#They show great variation in size and form.
+$wyax	1	-	-	8:k1	biology_chapter3_plantkingdom_059.17:coref	distal	-	-
+AkAra_3(size_1)	2	-	-	-	-	-	-	11:op1
+rUpa_1(form_10)	4	-	-	-	-	-	-	11:op2
+bahuwa_1	6	-	-	7:intf	-	-	-	-
+BinnawA_1	7	-	-	8:k2	-	-	-	-
+xiKA_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+[conj_1]	11	-	-	8:k7	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_061a>
+#वे साधारण शाखाओं वाले, फिलामेंटस रूपों (एक्टोकार्पस) से लेकर अत्यधिक शाखाओं वाले रूपों तक होते हैं।
+#ve sAXAraNa SAKAoM vAle, PilAmeMtasa rUpoM se lekara awyaXika SAKAoM vAle rUpoM waka howe hEM.
+#ve sAXAraNa SAKAoM vAle, PilAmeMtasa rUpoM (ektokArpasa) se lekara awyaXika SAKAoM vAle rUpoM waka howe hEM.
+$wyax	1	-	-	18:k1	biology_chapter3_plantkingdom_059.17:coref	distal	-	-
+sAXAraNa_2(simple_12)	2	-	-	3:mod	-	-	-	-
+SAKA_1(branch_4)	3	-	mawup/pl	7:mod	-	-	-	-
+^PilAmeMtasa_1	6	-	-	7:mod	-	-	-	-
+rUpa_1	7	-	pl	-	-	-	-	19:start
+^ektokArpasa_1	9	-	-	7:rs	-	-	-	-
+awyaXika_9	13	-	-	14:quant	-	-	-	-
+SAKA_1(branch_4)	14	-	mawup/pl	16:mod	-	-	-	-
+rUpa_1	16	-	pl	18:k7	-	-	-	19:end
+ho_1-wA_hE_1	18	-	-	0:main	-	-	-	-
+[span_1]	19	-	-	18:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_061b>
+#जैसा कि वे केल्प्स द्वारा दर्शाया जाता है, जो 100 मीटर की ऊंचाई तक पहुंच सकता है।
+#jEsA ki ve kelpsa xvArA xarSAyA jAwA hE, jo 100 mItara kI UMcAI waka pahuMca sakawA hE.
+#for example it is represented by kelps, which may reach a height of 100 metres.
+$wyax	3	-	-	6:k2	biology_chapter3_plantkingdom_061a.18:uXAharaNasvarUpa	distal	-	-
+kelpsa_1	4	-	-	6:k1	-	-	-	-
+xarSA_1-yA_jA_wA_hE_1	6	-	-	0:main	-	-	-	-
+$yax	10	-	-	16:k1	4:coref	-	-	-
+100	11	numex	-	-	-	-	-	20:count
+mItara_1	12	meas	-	-	-	-	-	20:unit
+UMcAI_1(height_9)	14	-	-	16:k2p	-	-	-	-
+pahuMca_1-wA_hE_1	16	-	-	4:rcelab	-	-	-	-
+[length_meas_1]	20	-	-	14:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_062>
+#इनमें क्लोरोफिल ए, क्लोरोफिल सी, कैरोटीनॉयड और ज़ैंथोफिल होते हैं।
+#inameM kloroPila e, kloroPila sI, kErotInOYyada Ora jZEMWoPila howe hEM.
+#They possess chlorophyll a, chlorophyll c, carotenoids and xanthophylls.
+$wyax	1	-	-	14:rn	biology_chapter3_plantkingdom_059.1:coref	proximal	-	-
+kloroPila_1	2	-	-	3:mod	-	-	-	-
+e_1	3	-	-	-	-	-	-	14:op1
+sI_1	5	-	-	-	-	-	-	14:op2
+kErotInOYyada_1	7	-	-	-	-	-	-	14:op3
+jZEMWoPila_1	9	-	-	-	-	-	-	14:op4
+ho_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+[conj_1]	14	-	-	10:k1	-	-	-	-
+kloroPila_1	15	-	-	5:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_063>
+#उनमें मौजूद ज़ैंथोफिल वर्णक, फूकोक्सैन्थिन की मात्रा के आधार पर उनका रंग जैतून के हरे रंग से लेकर भूरे रंग के विभिन्न रंगों में भिन्न होता है।
+#unameM mOjUxa jZEMWoPila varNaka, PUkoksEnWina kI mAwrA ke AXAra para unakA raMga jEwUna ke hare raMga se lekara BUre raMga ke viBinna raMgoM meM Binna howA hE.
+#They vary in colour from olive green to various shades of brown depending upon the amount of the xanthophyll pigment, fucoxanthin present in them.
+$wyax	1	-	-	27:k7p	biology_chapter3_plantkingdom_059.4:coref	distal	-	-
+mOjUxa_1(present_10)	2	-	-	4:mod	-	-	-	-
+^jZEMWoPila_1	3	-	-	4:mod	-	-	-	-
+varNaka_1(pigment_2)	4	-	-	6:rs	-	-	-	-
+PUkoksEnWina_1	6	-	-	8:r6	-	-	-	-
+mAwrA_9(amount_10)	8	-	-	27:k7a	biology_chapter3_plantkingdom_059.4:coref	-	-	-
+$wyax	12	-	-	13:r6	-	distal	-	-
+raMga_1(colour_1)	13	-	-	27:k1	-	-	-	-
+jEwUna_1(olives_1)	14	-	-	17:r6	-	-	-	-
+harA_1(green_1)	16	-	-	17:mod	-	-	-	-
+raMga_1(colour_1)	17	-	-	-	-	-	-	28:start
+BUrA_1(brown_1)	20	-	-	21:mod	-	-	-	-
+raMga_1(colour_1)	21	-	-	24:r6	-	-	-	-
+viBinna_1(different_13)	23	-	-	24:mod	-	-	-	-
+raMga_1(colour_1)	24	-	pl	-	-	-	-	28:end
+Binna_2(different_6)	26	-	-	27:k1s	-	-	-	-
+ho_1-wA_hE_1	27	-	-	0:main	-	-	-	-
+[span_1]	28	-	-	27:k7	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_064>
+#भोजन को जटिल कार्बोहाइड्रेट के रूप में संग्रहित किया जाता है, जो लेमिनारिन या मैनिटोल के रूप में हो सकता है।
+#Bojana ko jatila kArbohAidreta ke rUpa meM saMgrahiwa kiyA jAwA hE, jo leminArina yA mEnitola ke rUpa meM ho sakawA hE.
+#Food is stored as complex carbohydrates, which may be in the form of laminarin or mannitol.
+Bojana_1(food_5)	1	-	-	24:k2	-	-	-	-
+jatila_4(complex_6)	3	-	-	4:mod	-	-	-	-
+kArbohAidreta_1	4	-	-	24:k7	-	-	-	-
+saMgrahiwa_6(stored_2)	8	-	-	-	-	-	-	24:kriyAmUla
+kara_1-yA_jA_wA_hE_1	9	-	-	-	-	-	-	24:verbalizer
+$yax	13	-	-	20:k1	4:coref	-	-	-
+leminArina_1	14	-	-	-	-	-	-	25:op1
+mEnitola_1	16	-	-	-	-	-	-	25:op2
+ho_1-0_sakawA_hE_1	20	-	-	4:rcelab	-	-	-	-
+[cp_1]	24	-	-	0:main	-	-	-	-
+[disjunct_1]	25	-	-	20:k7	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_065>
+#कायिक कोशिकाओं में एक सेल्यूलोसिक दीवार होती है जो आमतौर पर बाहर की तरफ एल्गिन की जिलेटिनस कोटिंग से ढकी होती है।
+#kAyika koSikAoM meM eka selyUlosika xIvAra howI hE jo AmawOra para bAhara kI waraPa elgina kI jiletinasa kotiMga se DakI howI hE.
+#The vegetative cells have a cellulosic wall usually covered on the outside by a gelatinous coating of algin.
+kAyika_5	1	-	-	-	-	-	-	26:mod
+koSikA_1(cell_1)	2	-	pl	-	-	-	-	26:head
+eka_2(a_1)	4	-	-	6:card	-	-	-	-
+selyUlosika_1	5	-	-	6:mod	-	-	-	-
+xIvAra_1(wall_1)	6	-	-	7:k1	-	-	-	-
+ho_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+$yax	9	-	-	25:k1	6:coref	-	-	-
+AmawOra+para_2(usually_9)	10	-	-	25:krvn	-	-	-	-
+bAhara_1(out_1)	12	-	-	25:rd	-	-	-	-
+elgina_1	15	-	-	18:r6	-	-	-	-
+jiletinasa_1	17	-	-	18:mod	-	-	-	-
+kotiMga_1(coat_6)	18	-	-	25:k5prk	-	-	-	-
+Daka_1(cover_15)	20	-	-	25:k1s	-	-	-	-
+ho_1-wA_hE_1	25	-	-	6:rcelab	-	-	-	-
+[nc_1]	26	-	-	7:k7p	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_066>
+#प्रोटोप्लास्ट में प्लास्टिड्स के अलावा, एक केंद्रीय रूप से स्थित रिक्तिका और नाभिक होता है।
+#protoplAsta meM plAstidsa ke alAvA, eka keMxrIya rUpa se sWiwa rikwikA Ora nABika howA hE.
+#The protoplast contains, in addition to plastids, a centrally located vacuole and nucleus.
+protoplAsta_1	1	-	-	15:k7p	-	def	-	-
+plAstidsa_1	3	-	-	-	-	alAvA	-	19:op1
+eka_2(a_1)	7	-	-	8:quant	-	-	-	-
+keMxrIya_1(central_1)	8	-	-	11:mod	-	-	-	-
+sWiwa_2(located_2)	11	-	-	18:mod	-	-	-	-
+rikwikA_1	12	-	-	-	-	-	-	18:op2
+nABika_1(nucleus_1)	14	-	-	-	-	-	-	18:op3
+ho_1-wA_hE_1	15	-	-	0:main	-	-	-	-
+[conj_2]	18	-	-	-	-	-	-	19:op2
+[conj_1]	19	-	-	15:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_067a>
+#पौधे का शरीर आम तौर पर एक होल्डफ़ास्ट द्वारा सब्सट्रेटम से जुड़ा होता है।
+#pOXe kA SarIra Ama wOra para eka holdaPZAsta xvArA sabsatretama se judZA howA hE.
+#The plant body is usually attached to the substratum by a holdfast.
+pOXA_1(plant_6)	1	-	-	3:r6	-	-	-	-
+SarIra_1(body_11)	3	-	-	13:k1	-	-	-	-
+AmawOra+para_2(usually_9)	4	-	-	13:krvn	-	-	-	-
+eka_2(a_1)	7	-	-	8:quant	-	-	-	-
+holdaPZAsta_1	8	-	-	13:k3	-	-	-	-
+sabsatretama_1	10	-	-	13:k5	-	-	-	-
+judZa_9(attach_1)	12	-	-	13:k1s	-	-	-	-
+ho_1-wA_hE_1	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_067b>
+#और इसमें एक डंठल, डंठल और पत्ती जैसा प्रकाश संश्लेषक अंग होता है - फ्रॉन्ड।
+#Ora isameM eka daMTala, daMTala Ora pawwI jEsA prakASa saMSleRaka aMga howA hE - PrOYnda.
+#and it has a stalk, the stipe and leaf like photosynthetic organ – the frond.
+$wyax	1	-	-	12:k7	biology_chapter3_plantkingdom_067a.10:coref	proximal	-	-
+eka_2(a_1)	2	-	-	18:quant	-	-	-	-
+daMTala_1(stalk_1)	3	-	-	-	-	-	-	18:op1
+daMTala_1	5	-	-	-	-	-	-	18:op2
+pawwA_1(leaf_2)	7	-	-	-	-	-	-	18:op3
+prakASa_1(light_8)	9	-	-	-	-	-	-	19:mod
+saMSleRaka_1	10	-	-	-	-	-	-	19:head
+aMga_6(organ_1)	11	-	-	12:k1	-	-	-	-
+ho_1-wA_hE_1	12	-	-	0:main	biology_chapter3_plantkingdom_067a.13:samuccaya	-	-	-
+PrOYnda_1	15	-	-	11:rs	-	def	-	-
+[conj_1]	18	-	-	11:ru	-	-	-	-
+[nc_1]	19	-	-	11:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_068>
+#वानस्पतिक प्रजनन विखंडन द्वारा होता है।
+#vAnaspawika prajanana viKaMdana xvArA howA hE.
+#vAnaspawika prajanana viKaMdana xvArA howA hE.
+vAnaspawika_1(vegetative_2)	1	-	-	2:mod	-	-	-	-
+prajanana_1(reproduction_4)	2	-	-	5:k1	-	-	-	-
+viKaMdana_1(fragmentation_1)	3	-	-	5:k3	-	-	-	-
+ho_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_069a>
+#अधिकांश भूरे शैवालों में अलैंगिक प्रजनन बाइफ्लैगेलेट ज़ोस्पोर्स द्वारा होता है।
+#aXikAMSa BUre SEvAloM meM alEMgika prajanana bAiPlEgeleta jZosporsa xvArA howA hE.
+#Asexual reproduction in most brown algae is by biflagellate zoospores.
+aXikAMSa_1(most_1)	1	-	-	3:mod	-	-	-	-
+BUrA_1(brown_1)	2	-	-	3:mod	-	-	-	-
+SEvAla_1(algae_3)	3	-	pl	10:k7	-	-	-	-
+alEMgika_1(asexual_2)	5	-	-	6:mod	-	-	-	-
+prajanana_1(reproduction_4)	6	-	-	10:k1	-	-	-	-
+bAiPlEgeleta_1	7	-	-	8:mod	-	-	-	-
+jZosporsa_1	8	-	-	10:k3	-	-	-	-
+ho_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_069b>
+#जो नाशपाती के आकार के होते हैं।
+#jo nASapAwI ke AkAra ke howe hEM.
+#that are pear-shaped.
+$yax	1	-	-	6:k1	biology_chapter3_plantkingdom_069a.8:coref	-	-	-
+nASapAwI_1(pear_1)	2	-	-	4:r6	-	-	-	-
+AkAra_2(shape_1)	4	-	-	6:k1s	-	-	-	-
+ho_1-wA_hE_1	6	-	-	biology_chapter3_plantkingdom_069a.8:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_069c>
+#और इनमें दो असमान पार्श्व रूप से जुड़े हुए फ्लैगेल्ला होते हैं।
+#Ora inameM xo asamAna pArSva rUpa se judZe hue PlEgellA howe hEM.
+#and that have two unequal laterally attached flagella.
+$wyax	1	-	-	10:k7	biology_chapter3_plantkingdom_069a.8:coref	proximal	-	-
+2	2	numex	-	9:card	-	-	-	-
+asamAna_1(unequal_2)	3	-	-	4:mod	-	-	-	-
+pArSva_9	4	-	-	7:krvn	-	-	-	-
+judZa_9(attach_1)	7	-	-	9:mod	-	-	-	-
+PlEgellA_1	9	-	-	10:k1	-	-	-	-
+ho_1-wA_hE_1	10	-	-	0:main	biology_chapter3_plantkingdom_069b.6:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_070>
+#लैंगिक प्रजनन समविवाही, अनिसोगामी या ऊयुग्मक हो सकता है।
+#lEMgika prajanana samavivAhI, anisogAmI yA Uyugmaka ho sakawA hE.
+#lEMgika prajanana samavivAhI, anisogAmI yA Uyugmaka ho sakawA hE.
+lEMgika_1(sexual_2)	1	-	-	2:mod	-	-	-	-
+prajanana_1(reproduction_4)	2	-	-	8:k1	-	-	-	-
+samavivAhI_1	3	-	-	-	-	-	-	13:op1
+anisogAmI_1	5	-	-	-	-	-	-	13:op2
+Uyugmaka_1	7	-	-	-	-	-	-	13:op3
+ho_1-0_sakawA_hE_1	8	-	-	0:main	-	-	-	-
+[disjunct_1]	13	-	-	8:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_071>
+#युग्मकों का मिलन पानी में या ओगोनियम (ओगैमस प्रजाति) के भीतर हो सकता है।
+#yugmakoM kA milana pAnI meM yA ogoniyama (ogEmasa prajAwi) ke BIwara ho sakawA hE.
+#Union of gametes may take place in water or within the oogonium .
+yugmaka_4	1	-	pl	3:r6	-	-	-	-
+milana_2(union_4)	3	-	-	14:k1	-	-	-	-
+pAnI_1(water_7)	4	-	-	-	-	-	-	18:op1
+ogoniyama_1	7	-	-	13:rdl	-	def	-	-
+ogEmasa_1	9	-	-	10:mod	-	-	-	-
+prajAwi_1(species_1)	10	-	-	7:rs	-	-	-	-
+BIwara_3(within_2)	13	-	-	-	-	-	-	18:op2
+ho_1-0_sakawA_hE_1	14	-	-	0:main	-	-	-	-
+[disjunct_1]	18	-	-	14:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_072a>
+#युग्मक पाइरीफॉर्म (नाशपाती के आकार के) होते हैं।
+#yugmaka pAirIPOYrma (nASapAwI ke AkAra ke) howe hEM.
+#The gametes are pyriform (pear-shaped).
+yugmaka_1	1	-	-	9:k1	-	def	-	-
+pAirIPOYrma_1	2	-	-	9:k1s	-	-	-	-
+nASapAwI_1(pear_1)	4	-	-	6:r6	-	-	-	-
+AkAra_2(shape_1)	6	-	-	2:rs	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_072b>
+#और दो पार्श्व रूप से जुड़े हुए कशाभिका धारण करते हैं।
+#Ora xo pArSva rUpa se judZe hue kaSABikA XAraNa karawe hEM.
+#Ora xo pArSva rUpa se judZe hue kaSABikA XAraNa karawe hEM.
+2	1	numex	-	7:card	-	-	-	-
+pArSva_1	2	-	-	5:krvn	-	-	-	-
+judZa_9(attach_1)	5	-	-	7:mod	-	-	-	-
+kaSABikA_1	7	-	-	12:k2	-	-	-	-
+XAraNa_27	8	-	-	-	-	-	-	12:kriyAmUla
+kara_1-wA_hE_1	9	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	biology_chapter3_plantkingdom_072a.9:samuccaya	-	-	-
+$wyax	13	-	-	12:k1	biology_chapter3_plantkingdom_072a.1:coref	proximal	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_073>
+#सामान्य रूप एक्टोकार्पस, डिक्टियोटा, लैमिनारिया, सारगासम और फुकस हैं।
+#sAmAnya rUpa ektokArpasa, diktiyotA, lEminAriyA, sAragAsama Ora Pukasa hEM.
+#The common forms are Ectocarpus, Dictyota, Laminaria, Sargassum and Fucus.
+sAmAnya_2(common_6)	1	-	-	2:mod	-	-	-	-
+rUpa_1(form_10)	2	-	-	12:k7	-	def	-	-
+ektokArpasa_1	3	-	-	-	-	-	-	14:op1
+diktiyotA_1	5	-	-	-	-	-	-	14:op2
+lEminAriyA_1	7	-	-	-	-	-	-	14:op3
+sAragAsama_1	9	-	-	-	-	-	-	14:op4
+Pukasa_1	11	-	-	-	-	-	-	14:op5
+hE_1-pres	12	-	-	0:main	-	-	-	-
+[conj_1]	14	-	-	12:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_074a>
+#रोडोफाइसी के सदस्यों को आमतौर पर लाल शैवाल कहा जाता है।
+#rodoPAisI ke saxasyoM ko AmawOra para lAla SEvAla kahA jAwA hE.
+#The members of rhodophyceae are commonly called red algae.
+rodoPAisI_1	1	-	-	3:r6	-	def	-	-
+saxasya_1	3	-	pl	9:k2	-	-	-	-
+AmawOra+para_2(usually_9)	5	-	-	9:krvn	-	-	-	-
+lAla_1(red_44)	7	-	-	8:mod	-	-	-	-
+SEvAla_1(algae_3)	8	-	-	9:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_074b>
+#क्योंकि उनके शरीर में लाल रंगद्रव्य, आर-फाइकोएरिथ्रिन की प्रबलता होती है।
+#kyoMki unake SarIra meM lAla raMgaxravya, Ara-PAikoeriWrina kI prabalawA howI hE.
+#because of the predominance of the red pigment, r-phycoerythrin in their body.
+$wyax	1	-	-	2:r6	biology_chapter3_plantkingdom_074a.1:coref	distal	-	-
+SarIra_1(body_11)	2	-	-	10:k7p	-	-	-	-
+lAla_1(red_44)	4	-	-	5:mod	-	-	-	-
+raMgaxravya_1(pigment_3)	5	-	-	-	-	def	-	11:op1
+Ara+PAikoeriWrina_1	7	-	-	-	-	-	-	11:op2
+prabalawA_5(predominance_4)	9	-	-	10:k1	-	def	-	-
+ho_1-wA_hE_1	10	-	-	0:main	biology_chapter3_plantkingdom_074a.9:kAryakAraNa	-	-	-
+[conj_1]	11	-	-	9:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_075a>
+#अधिकांश लाल शैवाल समुद्री हैं।
+#aXikAMSa lAla SEvAla samuxrI hEM.
+#Majority of the red algae are marine.
+aXikAMSa_1(most_1)	1	-	-	3:mod	-	-	-	-
+lAla_1(red_44)	2	-	-	3:mod	-	-	-	-
+SEvAla_1(algae_3)	3	-	-	5:k1	-	def	-	-
+samuxrI_2(marine_2)	4	-	-	5:k1s	-	-	-	-
+hE_1-pres	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_075b>
+#और गर्म क्षेत्रों में अधिक मात्रा में पाए जाते हैं।
+#Ora garma kRewroM meM aXika mAwrA meM pAe jAwe hEM.
+#with greater concentrations found in the warmer areas.
+garma_1(warm_6)	1	-	-	2:mod	-	-	-	-
+kRewra_5(area_2)	2	-	pl	7:k7p	-	-	-	-
+mAwrA_1(quantity_4)	5	-	-	7:k7	-	-	-	-
+pA_1-yA_jA_wA_hE_1	7	-	-	0:main	biology_chapter3_plantkingdom_075a.5:samuccaya	-	-	-
+aXika_12(heavy_49)	8	-	-	5:mod	-	-	-	-
+$wyax	9	-	-	7:k1	biology_chapter3_plantkingdom_075a.3:coref	proximal	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_076>
+#वे पानी की सतह के नजदीक स्थित अच्छी रोशनी वाले क्षेत्रों में और महासागरों में काफी गहराई पर स्थित भी पाए जाते हैं, जहां अपेक्षाकृत कम रोशनी प्रवेश करती है।
+#ve pAnI kI sawaha ke najaxIka sWiwa acCI roSanI vAle kRewroM meM Ora mahAsAgaroM meM kAPI gaharAI para sWiwa BI pAe jAwe hEM, jahAM apekRAkqwa kama roSanI praveSa karawI hE.
+#They occur in both well-lighted regions close to the surface of water and also at great depths in oceans where relatively little light penetrates.
+$wyax	1	-	-	19:k1	biology_chapter3_plantkingdom_075a.3:coref	distal	-	-
+pAnI_1(water_7)	2	-	-	4:r6	-	-	-	-
+sawaha_1(surface_3)	4	-	-	6:r6	-	def	-	-
+najaxIka_2(near_32)	6	-	-	33:k7p	-	-	-	-
+acCA_8(well_9)	7	-	-	8:mod	-	-	-	-
+roSanI_1(light_10)	8	-	mawupa	10:mod	-	-	-	-
+kRewra_4(region_3)	10	-	pl	-	-	-	-	32:op1
+mahAsAgara_1(ocean_4)	13	-	pl	-	-	-	-	32:op2
+kAPI_9	15	-	-	16:quant	-	-	-	-
+gaharAI_1(depth_2)	16	-	-	34:k7p	-	BI_1	-	-
+pA_1-yA_jA_wA_hE_1	19	-	-	0:main	-	-	-	-
+$yax	23	-	-	31:k7p	-	-	-	-
+apekRAkqwa_1(relatively_2)	24	-	-	25:mod	-	-	-	-
+kama_1(little_3)	25	-	-	26:quant	-	-	-	-
+roSanI_1(light_10)	26	-	-	31:k2	-	-	-	-
+praveSa_7(penetration_2)	27	-	-	-	-	-	-	31:kriyAmUla
+kara_1-wA_hE_1	28	-	-	-	-	-	-	31:verbalizer
+[cp_1]	31	-	-	13:rcloc	-	-	-	-
+[conj_1]	32	-	-	19:k7p	-	-	-	-
+sWiwa_2(located_2)	33	-	kqw	10:mod	-	-	-	-
+sWiwa_2(located_2)	34	-	kqw	13:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_077>
+#अधिकांश लाल शैवाल की लाल थैली बहुकोशिकीय होती है।
+#aXikAMSa lAla SEvAla kI lAla WElI bahukoSikIya howI hE.
+#The red thalli of most of the red algae are multicellular.
+aXikAMSa_1(most_1)	1	-	-	3:mod	-	-	-	-
+lAla_1(red_44)	2	-	-	3:mod	-	-	-	-
+SEvAla_1(algae_3)	3	-	-	6:r6	-	def	-	-
+lAla_1(red_44)	5	-	-	6:mod	-	-	-	-
+WElI_6	6	-	-	8:k1	-	def	-	-
+bahukoSikIya_1	7	-	-	8:k1s	-	-	-	-
+ho_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_078>
+#उनमें से कुछ का शारीरिक संगठन जटिल है।
+#unameM se kuCa kA SArIrika saMgaTana jatila hE.
+#unameM se kuCa kA SArIrika saMgaTana jatila hE.
+$wyax	1	-	-	3:rn	biology_chapter3_plantkingdom_077.3:coref	distal	-	-
+kuCa_1(some_2)	3	-	-	6:r6	-	-	-	-
+SArIrika_1	5	-	-	6:mod	-	-	-	-
+saMgaTana_5(organisation_7)	6	-	-	8:k1	-	-	-	-
+jatila_4(complex_6)	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_079>
+#भोजन को फ्लोरिडियन स्टार्च के रूप में संग्रहीत किया जाता है जो संरचना में एमाइलोपेक्टिन और ग्लाइकोजन के समान होता है।
+#Bojana ko Ploridiyana stArca ke rUpa meM saMgrahIwa kiyA jAwA hE jo saMracanA meM emAilopektina Ora glAikojana ke samAna howA hE.
+#The food is stored as floridean starch which is very similar to amylopectin and glycogen in structure.
+Bojana_1(food_5)	1	-	-	23:k2	-	def	-	-
+Ploridiyana_1	3	-	-	4:mod	-	-	-	-
+stArca_1	4	-	-	23:k7	-	-	-	-
+saMgrahIwa_2	8	-	-	-	-	-	-	23:kriyAmUla
+kara_1-yA_jA_wA_hE_1	9	-	-	-	-	-	-	23:verbalizer
+$yax	12	-	-	20:k1	-	-	-	-
+saMracanA_1(structure_12)	13	-	-	20:k7	-	-	-	-
+emAilopektina_1	15	-	-	-	-	-	-	24:op1
+glAikojana_1	17	-	-	-	-	-	-	24:op2
+ho_1-wA_hE_1	20	-	-	4:rcelab	-	-	-	-
+[cp_1]	23	-	-	0:main	-	-	-	-
+[conj_1]	24	-	-	13:ru	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_080>
+#लाल शैवाल आमतौर पर विखंडन द्वारा वानस्पतिक रूप से प्रजनन करते हैं।
+#lAla SEvAla AmawOra para viKaMdana xvArA vAnaspawika rUpa se prajanana karawe hEM.
+#The red algae usually reproduce vegetatively by fragmentation.
+lAla_1(red_44)	1	-	-	2:mod	-	-	-	-
+SEvAla_1(algae_3)	2	-	-	15:k1	-	def	-	-
+AmawOra+para_2(usually_9)	3	-	-	15:krvn	-	-	-	-
+viKaMdana_1(fragmentation_1)	5	-	-	15:k3	-	-	-	-
+vAnaspawika_1(vegetative_2)	7	-	-	15:krvn	-	-	-	-
+prajanana_1	10	-	-	-	-	-	-	15:kriyAmUla
+kara_1-wA_hE_1	11	-	-	-	-	-	-	15:verbalizer
+[cp_1]	15	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_081a>
+#वे गैर-गतिशील बीजाणुओं द्वारा अलैंगिक रूप से प्रजनन करते हैं।
+#ve gEra-gawiSIla bIjANuoM xvArA alEMgika rUpa se prajanana karawe hEM.
+#ve gEra-gawiSIla bIjANuoM xvArA alEMgika rUpa se prajanana karawe hEM.
+$wyax	1	-	-	12:k1	biology_chapter3_plantkingdom_080.2:coref	distal	-	-
+gEra+gawiSIla_1	2	-	-	3:mod	-	-	-	-
+bIjANu_1(spore_1)	3	-	pl	12:k3	-	-	-	-
+alEMgika_1(asexual_2)	5	-	-	12:krvn	-	-	-	-
+prajanana_1(reproduction_4)	8	-	-	-	-	-	-	12:kriyAmUla
+kara_1-wA_hE_1	9	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_081b>
+#और वे गैर-गतिशील युग्मकों द्वारा लैंगिक रूप से प्रजनन करते हैं।
+#Ora ve gEra-gawiSIla yugmakoM xvArA lEMgika rUpa se prajanana karawe hEM.
+#Ora ve gEra-gawiSIla yugmakoM xvArA lEMgika rUpa se prajanana karawe hEM.
+$wyax	1	-	-	12:k1	biology_chapter3_plantkingdom_080.2:coref	distal	-	-
+gEra+gawiSIla_1	2	-	-	3:mod	-	-	-	-
+yugmaka_1	3	-	pl	12:k3	-	-	-	-
+lEMgika_1(sexual_2)	5	-	-	12:krvn	-	-	-	-
+prajanana_1(reproduction_4)	8	-	-	-	-	-	-	12:kriyAmUla
+kara_1-wA_hE_1	9	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	biology_chapter3_plantkingdom_081a.12:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_082a>
+#यौन प्रजनन ऊगैमस होता है।
+#yOna prajanana UgEmasa howA hE.
+#Sexual reproduction is oogamous.
+yOna_1(sexual_1)	1	-	-	2:mod	-	-	-	-
+prajanana_1(reproduction_4)	2	-	-	4:k1	-	-	-	-
+UgEmasa_1	3	-	-	4:k1s	-	-	-	-
+ho_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_082b>
+#और यह निषेचन के बाद जटिल विकास के साथ होता है।
+#Ora yaha niRecana ke bAxa jatila vikAsa ke sAWa howA hE.
+#And it is accompanied by complex post fertilisation developments.
+$wyax	1	-	-	9:k1	biology_chapter3_plantkingdom_082a.2:coref	proximal	-	-
+niRecana_4(fertilisation_4)	2	-	-	4:rkl	-	-	-	-
+bAxa_1(after_8)	4	-	-	9:k7t	-	-	-	-
+jatila_4(complex_6)	5	-	-	6:mod	-	-	-	-
+vikAsa_2(development_7)	6	-	-	9:rask1	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	biology_chapter3_plantkingdom_082a.4:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_083>
+#सामान्य सदस्य हैं: पॉलीसिफ़ोनिया, पोर्फिरा, ग्रेसिलेरिया और गेलिडियम।
+#sAmAnya saxasya hEM: pOYlIsiPZoniyA, porPirA, gresileriyA Ora gelidiyama.
+#The common members are: Polysiphonia, Porphyra, Gracilaria and Gelidium.
+sAmAnya_2(common_6)	1	-	-	2:mod	-	-	-	-
+saxasya_1(member_4)	2	-	-	3:k1	-	def	-	-
+hE_1-pres	3	-	-	0:main	-	-	-	-
+pOYlIsiPZoniyA_1	5	-	-	-	-	-	-	13:op1
+porPirA_1	7	-	-	-	-	-	-	13:op2
+gresileriyA_1	9	-	-	-	-	-	-	13:op3
+gelidiyama_1	11	-	-	-	-	-	-	13:op4
+[conj_1]	13	-	-	3:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_084>
+#ब्रायोफाइट्स में विभिन्न काई और लिवरवॉर्ट्स शामिल हैं जो आमतौर पर पहाड़ियों में स्थित नम छायादार क्षेत्रों में उगते हुए पाए जाते हैं (चित्र 3.2)।
+#brAyoPAitsa meM viBinna kAI Ora livaravOYrtsa SAmila hEM jo AmawOra para pahAdZiyoM meM sWiwa nama CAyAxAra kRewroM meM ugawe hue pAe jAwe hEM (ciwra 3.2).
+#Bryophytes include the various mosses and liverworts that are found commonly growing in moist shaded areas in the hills (Figure 3.2).
+brAyoPAitsa_1	1	-	-	8:k7p	-	-	-	-
+viBinna_4(various_8)	3	-	-	30:mod	-	def	-	-
+kAI_1(moss_1)	4	-	-	-	-	-	-	30:op1
+livaravOYrtsa_1	6	-	-	-	-	-	-	30:op2
+SAmila_1(included_5)	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+$yax	9	-	-	32:k1	-	-	-	-
+AmawOra+para_2(usually_9)	10	-	-	32:krvn	-	-	-	-
+pahAdZa_2(hill_3)	12	-	pl	31:k7p	-	def	-	-
+nama_7(moist_3)	14	-	-	16:mod	-	-	-	-
+CAyAxAra_1(shady_3)	15	-	-	16:mod	-	-	-	-
+kRewra_5(area_2)	16	-	pl	32:k7p	-	-	-	-
+uga_1(grow_1)	18	-	-	32:rsk	-	-	-	-
+[conj_1]	30	-	-	8:k1	-	-	-	-
+sWiwa_2(located_2)	31	-	-	16:mod	-	-	-	-
+pA_1-yA_jA_wA_hE_1	32	-	-	30:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_085a>
+#ब्रायोफाइट्स को पादप साम्राज्य का उभयचर भी कहा जाता है।
+#brAyoPAitsa ko pAxapa sAmrAjya kA uBayacara BI kahA jAwA hE.
+#Bryophytes are also called amphibians of the plant kingdom.
+brAyoPAitsa_1	1	-	-	8:k2	-	-	-	-
+pAxapa_2(plant_1)	3	-	-	-	-	-	-	12:mod
+sAmrAjya_2	4	-	-	-	-	-	-	12:head
+uBayacara_1(amphibian_1)	6	-	-	8:k2s	-	BI_1	-	-
+kaha_1-yA_jA_wA_hE_1	8	-	-	0:main	-	-	-	-
+[nc_1]	12	-	-	6:r6	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_085b>
+#क्योंकि ये पौधे मिट्टी में रह सकते हैं।
+#kyoMki ye pOXe mittI meM raha sakawe hEM.
+#because these plants can live in soil.
+$wyax	1	-	-	2:dem	biology_chapter3_plantkingdom_085a.1:coref	proximal	-	-
+pOXA_1(plant_6)	2	-	pl	5:k1	-	-	-	-
+mittI_2(soil_4)	3	-	-	5:k7p	-	-	-	-
+raha_1-0_sakawA_hE_1	5	-	-	0:main	biology_chapter3_plantkingdom_085a.8:kAryakAraNa	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_085c>
+#लेकिन यह यौन प्रजनन के लिए पानी पर निर्भर होते हैं।
+#lekina yaha yOna prajanana ke lie pAnI para nirBara howe hEM.
+#but are dependent on water for sexual reproduction.
+yOna_1(sexual_1)	1	-	-	2:mod	-	-	-	-
+prajanana_1(reproduction_4)	2	-	-	8:rt	-	-	-	-
+pAnI_1(water_7)	5	-	-	8:k7	-	-	-	-
+nirBara_1(dependent_4)	7	-	-	8:k1s	-	-	-	-
+ho_1-wA_hE_1	8	-	-	0:main	biology_chapter3_plantkingdom_085b.5:viroXI	-	-	-
+$wyax	12	-	-	8:k1	biology_chapter3_plantkingdom_085a.1:coref	proximal	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_086>
+#वे आमतौर पर नम, आर्द्र और छायादार इलाकों में होते हैं।
+#ve AmawOra para nama, Arxra Ora CAyAxAra ilAkoM meM howe hEM.
+#They usually occur in damp, humid and shaded localities.
+$wyax	1	-	-	11:k1	biology_chapter3_plantkingdom_085a.1:coref	distal	-	-
+AmawOra+para_2(usually_9)	2	-	-	11:krvn	-	-	-	-
+nama_3(damp_3)	4	-	-	-	-	-	-	14:op1
+Arxra_3(humid_1)	6	-	-	-	-	-	-	14:op2
+CAyAxAra_1(shady_3)	8	-	-	-	-	-	-	14:op3
+ilAkA_1(locality_6)	9	-	pl	11:k7p	-	-	-	-
+ho_1-wA_hE_1	11	-	-	0:main	-	-	-	-
+[conj_1]	14	-	-	9:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_087>
+#वे नंगी चट्टानों/मिट्टी पर पौधों के अनुक्रमण में महत्वपूर्ण भूमिका निभाते हैं।
+#ve naMgI cattAnoM/mittI para pOXoM ke anukramaNa meM mahawvapUrNa BUmikA niBAwe hEM.
+#They play an important role in plant succession on bare rocks/soil.
+$wyax	1	-	-	13:k1	biology_chapter3_plantkingdom_085a.1:coref	distal	-	-
+naMgA_3(bare_3)	2	-	-	14:mod	-	-	-	-
+cattAna_1(rock_1)	3	-	pl	-	-	-	-	14:op1
+mittI_2(soil_4)	5	-	-	-	-	-	-	14:op2
+pOXA_1(plant_6)	7	-	pl	9:r6	-	-	-	-
+anukramaNa_2(succession_2)	9	-	-	13:k7	-	-	-	-
+mahawvapUrNa_1(important_6)	11	-	-	12:mod	-	-	-	-
+BUmikA_2(role_2)	12	-	-	13:k2	-	-	-	-
+niBA_1-wA_hE_1	13	-	-	0:main	-	-	-	-
+[disjunct_1]	14	-	-	13:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_088>
+#ब्रायोफाइट्स का पादप शरीर शैवाल की तुलना में अधिक विभेदित होता है।
+#brAyoPAitsa kA pAxapa SarIra SEvAla kI wulanA meM aXika viBexiwa howA hE.
+#The plant body of bryophytes is more differentiated than that of algae.
+brAyoPAitsa_1	1	-	-	14:r6	-	-	-	-
+pAxapa_2(plant_1)	3	-	-	-	-	-	-	14:mod
+SarIra_1(body_11)	4	-	-	-	-	-	-	14:head
+SEvAla_1(algae_3)	5	-	-	14:rv	-	-	-	-
+viBexiwa_1	10	-	compermore	11:k1s	-	-	-	-
+ho_1-wA_hE_1	11	-	-	0:main	-	-	-	-
+[nc_1]	14	-	-	11:k1	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_089a>
+#यह थैलस जैसा होता है।
+#yaha WElasa jEsA howA hE.
+#It is thallus-like.
+$wyax	1	-	-	9:k1	biology_chapter3_plantkingdom_088.14:coref	proximal	-	-
+WElasa_1	2	-	-	1:ru	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_089b>
+#और यह फैला हुआ या सीधा होता है।
+#Ora
+#Ora yaha PElA huA yA sIXA howA hE.
+-	-	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_089c>
+#और यह एककोशिकीय या बहुकोशिकीय प्रकंदों द्वारा सब्सट्रेटम से जुड़ा होता है।
+#Ora yaha ekakoSikIya yA bahukoSikIya prakaMxoM xvArA sabsatretama se judZA howA hE.
+#And it is attached to the substratum by unicellular or multicellular rhizoids.
+$wyax	1	-	-	16:k1	biology_chapter3_plantkingdom_088.14:coref	proximal	-	-
+ekakoSikIya_1	2	-	-	-	-	-	-	13:op1
+bahukoSikIya_1	4	-	-	-	-	-	-	13:op2
+prakaMxa_1	5	-	pl	16:k3	-	-	-	-
+sabsatretama_1	7	-	-	16:k2	-	def	-	-
+judZA_1	9	-	-	-	-	-	-	16:kriyAmUla
+[disjunct_1]	13	-	-	5:mod	-	-	-	-
+ho_1-wA_hE_1	15	-	-	-	-	-	-	16:verbalizer
+[cp_1]	16	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_090>
+#उनमें वास्तविक जड़ों, तने या पत्तियों का अभाव होता है।
+#unameM vAswavika jadZoM, wane yA pawwiyoM kA aBAva howA hE.
+#unameM vAswavika jadZoM, wane yA pawwiyoM kA aBAva howA hE.
+$wyax	1	-	-	10:k7	biology_chapter3_plantkingdom_088.1:coref	distal	-	-
+vAswavika_7(true_5)	2	-	-	14:mod	-	-	-	-
+jadZa_1(root_1)	3	-	pl	-	-	-	-	14:op1
+wanA_1(stem_2)	5	-	-	-	-	-	-	14:op2
+pawwI_9(leaf_27)	7	-	pl	-	-	-	-	14:op3
+aBAva_5(lack_1)	9	-	-	10:k1	-	-	-	-
+ho_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+[disjunct_1]	14	-	-	9:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_091>
+#उनमें जड़ जैसी, पत्ती जैसी या तने जैसी संरचना हो सकती है।
+#unameM jadZa jEsI, pawwI jEsI yA wane jEsI saMracanA ho sakawI hE.
+#unameM jadZa jEsI, pawwI jEsI yA wane jEsI saMracanA ho sakawI hE.
+$wyax	1	-	-	11:k7	biology_chapter3_plantkingdom_088.1:coref	distal	-	-
+jadZa_1(root_1)	2	-	-	-	-	-	-	15:op1
+pawwA_1(leaf_2)	5	-	-	-	-	-	-	15:op2
+wanA_1(stem_2)	8	-	-	-	-	-	-	15:op3
+saMracanA_1(structure_12)	10	-	-	11:k1	-	-	-	-
+ho_1-0_sakawA_hE_1	11	-	-	0:main	-	-	-	-
+[disjunct_1]	15	-	-	10:ru	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_092>
+#ब्रायोफाइट का मुख्य पादप शरीर अगुणित होता है।
+#brAyoPAita kA muKya pAxapa SarIra aguNiwa howA hE.
+#The main plant body of the bryophyte is haploid.
+brAyoPAita_1	1	-	-	10:r6	-	def	-	-
+muKya_18(main_1)	3	-	-	10:mod	-	-	-	-
+pAxapa_2(plant_1)	4	-	-	-	-	-	-	10:mod
+SarIra_1(body_11)	5	-	-	-	-	-	-	10:head
+aguNiwa_1	6	-	-	7:k1s	-	-	-	-
+ho_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+[nc_1]	10	-	-	7:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_093a>
+#यह युग्मक पैदा करता है।
+#yaha yugmaka pExA karawA hE.
+#yaha yugmaka pExA karawA hE.
+$wyax	1	-	-	7:k1	biology_chapter3_plantkingdom_092.10:coref	proximal	-	-
+yugmaka_4	2	-	-	7:k2	-	-	-	-
+pExA_1(born_5)	3	-	-	-	-	-	-	7:kriyAmUla
+kara_17-wA_hE_1	4	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_093b>
+#इसलिए इसे गैमेटोफाइट कहा जाता है।
+#isalie ise gEmetoPAita kahA jAwA hE.
+#Hence it is called a gametophyte.
+$wyax	1	-	-	3:k2	biology_chapter3_plantkingdom_092.10:coref	proximal	-	-
+gEmetoPAita_1	2	-	-	3:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	3	-	-	0:main	biology_chapter3_plantkingdom_093a.7:pariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_094>
+#ब्रायोफाइट्स में यौन अंग बहुकोशिकीय होते हैं।
+#brAyoPAitsa meM yOna aMga bahukoSikIya howe hEM.
+#The sex organs in bryophytes are multicellular.
+brAyoPAita_1	1	-	pl	-	-	-	-	7:whole
+yOna_1(sexual_1)	3	-	-	4:mod	-	-	-	-
+aMga_6(organ_1)	4	-	-	-	-	def	-	7:part
+bahukoSikIya_1	5	-	-	6:k1s	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+[spatial_1]	7	-	-	6:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_095>
+#पुरुष यौन अंग को एथेरिडियम कहा जाता है।
+#puruRa yOna aMga ko eWeridiyama kahA jAwA hE.
+#The male sex organ is called antheridium.
+puruRa_6(male_1)	1	-	-	-	-	-	-	7:mod
+yOna_1(sexual_1)	2	-	-	-	-	-	-	7:head
+aMga_6(organ_1)	3	-	-	6:k2	-	def	-	-
+eWeridiyama_1	5	-	-	6:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	6	-	-	0:main	-	-	-	-
+[compound_1]	7	-	-	3:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_096>
+#वे बाइफ्लैगेलेट एथेरोज़ोइड्स का उत्पादन करते हैं।
+#ve bAiPlEgeleta eWerojZoidsa kA uwpAxana karawe hEM.
+#ve bAiPlEgeleta eWerojZoidsa kA uwpAxana karawe hEM.
+$wyax	1	-	-	10:k1	biology_chapter3_plantkingdom_095.3:coref	distal	-	-
+bAiPlEgeleta_1	2	-	-	3:mod	-	-	-	-
+eWerojZoidsa_1	3	-	-	10:k2	-	-	-	-
+uwpAxana_1(production_2)	5	-	-	-	-	-	-	10:kriyAmUla
+kara_1-wA_hE_1	6	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_097a>
+#मादा यौन अंग जिसे आर्कगोनियम कहा जाता है, फ्लास्क के आकार का अंग होता है।
+#mAxA yOna aMga jise Arkagoniyama kahA jAwA hE, PlAska ke AkAra kA aMga howA hE.
+#The Female sex organ called archegonium is flask-shaped.
+mAxA_1(female_2)	1	-	-	-	-	-	-	15:mod
+yOna_1(sexual_1)	2	-	-	-	-	-	-	15:head
+aMga_6(organ_1)	3	-	-	14:k1	-	def	-	-
+$yax	4	-	-	6:k2	3:coref	-	-	-
+Arkagoniyama_1	5	-	-	6:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	6	-	-	3:rcelab	-	-	-	-
+^PlAska_1	10	-	-	12:r6	-	-	-	-
+AkAra_2(shape_1)	12	-	-	16:r6	-	-	-	-
+ho_1-wA_hE_1	14	-	-	0:main	-	-	-	-
+[compound_1]	15	-	-	3:mod	-	-	-	-
+aMga_6(organ_1)	16	-	-	14:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_097b>
+#और यह एक अंडा पैदा करता है।
+#Ora yaha eka aMdA pExA karawA hE.
+#And it produces a single egg.
+$wyax	1	-	-	8:k1	biology_chapter3_plantkingdom_097a.3:coref	proximal	-	-
+1	2	numex	-	3:card	-	-	-	-
+aMdA_1(egg_2)	3	-	-	8:k2	-	-	-	-
+pExA_9	4	-	-	-	-	-	-	8:kriyAmUla
+kara_1-wA_hE_1	5	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	0:main	biology_chapter3_plantkingdom_097.14:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_098>
+#एथेरोज़ोइड्स को पानी में छोड़ दिया जाता है जहां वे आर्कगोनियम के संपर्क में आते हैं।
+#eWerojZoidsa ko pAnI meM CodZa xiyA jAwA hE jahAM ve Arkagoniyama ke saMparka meM Awe hEM.
+#The antherozoids are released into water where they come in contact with archegonium.
+eWerojZoidsa_1	1	-	-	5:k2	-	def	-	-
+pAnI_1(water_7)	3	-	-	5:k7p	-	-	-	-
+CodZa_1-yA_jA_wA_hE_1	5	-	-	0:main	-	[shade:xe_1]	-	-
+$yax	9	-	-	15:k7p	3:coref	-	-	-
+$wyax	10	-	-	15:k1	1:coref	distal	-	-
+Arkagoniyama_1	11	-	-	15:k1as	-	-	-	-
+saMparka_1(contact_3)	13	-	-	15:k7	-	-	-	-
+A_1-wA_hE_1	15	-	-	3:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_099>
+#युग्मनज का निर्माण करने के लिए एथेरोज़ॉइड अंडे के साथ संलयन करता है।
+#yugmanaja kA nirmANa karane ke lie eWerojZOYida aMde ke sAWa saMlayana karawA hE.
+#An antherozoid fuses with the egg to produce the zygote.
+yugmanaja_1	1	-	-	16:k2	-	def	-	-
+nirmANa_2(creation_3)	3	-	-	-	-	-	-	16:kriyAmUla
+kara_17(do_2)	4	-	-	-	-	-	-	16:verbalizer
+eWerojZOYida_1	7	-	-	17:k1	-	-	-	-
+aMdA_1(egg_2)	8	-	-	17:k1as	-	def	-	-
+saMlayana_1	11	-	-	-	-	-	-	17:kriyAmUla
+kara_1-wA_hE_1	12	-	-	-	-	-	-	17:verbalizer
+[cp_1]	16	-	-	17:rt	-	-	-	-
+[cp_2]	17	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_100>
+#युग्मनज तुरंत न्यूनीकरण विभाजन के प्रक्रिया से नहीं गुजरते।
+#yugmanaja wuraMwa nyUnIkaraNa viBAjana ke prakriyA se nahIM gujarawe.
+#yugmanaja wuraMwa nyUnIkaraNa viBAjana ke prakriyA se nahIM gujarawe.
+yugmanaja_1	1	-	-	7:k1	-	-	-	-
+wuraMwa_1(quickly_4)	2	-	-	7:krvn	-	-	-	-
+nyUnIkaraNa_2(reduction_11)	3	-	-	-	-	-	-	9:mod
+viBAjana_1(division_14)	4	-	-	-	-	-	-	9:head
+nahIM_1(not_1)	6	-	-	7:neg	-	-	-	-
+gujara_1-wA_hE_2	7	-	-	0:main	-	-	-	-
+[nc_1]	9	-	-	10:r6	-	-	-	-
+prakriyA_1(process_3)	10	-	-	7:rp	-	-	-	-
+%negative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_101a>
+#वे एक बहुकोशिकीय शरीर का निर्माण करते हैं।
+#ve eka bahukoSikIya SarIra kA nirmANa karawe hEM.
+#They produce a multicellular body.
+$wyax	1	-	-	10:k1	biology_chapter3_plantkingdom_100.1:coref	distal	-	-
+eka_2(a_1)	2	-	-	4:quant	-	-	-	-
+bahukoSikIya_1	3	-	-	4:mod	-	-	-	-
+SarIra_1(body_11)	4	-	-	10:k2	-	-	-	-
+nirmANa_2(creation_3)	6	-	-	-	-	-	-	10:kriyAmUla
+kara_1-wA_hE_1	7	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_101b>
+#इससे स्पोरोफाइट कहा जाता है।
+#isase sporoPAita kahA jAwA hE.
+#It is known as sporophyte.
+$wyax	1	-	-	3:k2	-	proximal	-	-
+sporoPAita_1	2	-	-	3:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_102a>
+#न केवल स्पोरोफाइट स्वतंत्र रूप से जीवित नहीं है।
+#na kevala sporoPAita svawaMwra rUpa se jIviwa nahIM hE.
+#The sporophyte is not free-living.
+sporoPAita_1	1	-	-	7:k1	-	def	-	-
+svawaMwra_1(independent_7)	2	-	-	7:krvn	-	-	-	-
+jIviwa_2(living_6)	5	-	-	7:k1s	-	-	-	-
+nahIM_1(not_1)	6	-	-	7:neg	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+%negative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_102b>
+#बल्कि यह प्रकाश संश्लेषक गैमेटोफाइट से जुड़ा हुआ है।
+#balki yaha prakASa saMSleRaka gEmetoPAita se judZA huA hE.
+#but attached to the photosynthetic gametophyte.
+$wyax	1	-	-	7:k1	biology_chapter3_plantkingdom_102a.1:coref	proximal	-	-
+prakASa_1(light_8)	2	-	-	-	-	-	-	8:mod
+saMSleRaka_1	3	-	-	-	-	-	-	8:head
+gEmetoPAita_1	4	-	-	6:k1as	-	def	-	-
+judZa_9(attach_1)	6	-	kqw	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	biology_chapter3_plantkingdom_102a.7:samuccaya	-	-	-
+[compound_1]	8	-	-	4:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_102c>
+#और यह इससे पोषण प्राप्त करता है।
+#-
+#Ora yaha isase poRaNa prApwa karawA hE.
+$wyax	1	-	-	7:k5	biology_chapter3_plantkingdom_102b.4:coref	proximal	-	-
+poRaNa_3(nourishment_2)	2	-	-	7:k2	-	-	-	-
+prApwa_2(obtained_1)	3	-	-	-	-	-	-	7:kriyAmUla
+kara_1-wA_hE_1	4	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	0:main	biology_chapter3_plantkingdom_102b.7:samuccaya	-	-	-
+$wyax	8	-	-	7:k1	biology_chapter3_plantkingdom_102a.1:coref	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_103>
+#स्पोरोफाइट की कुछ कोशिकाएं अगुणित बीजाणु उत्पन्न करने के लिए न्यूनीकरण विभाजन (अर्धसूत्रीविभाजन) से गुजरती हैं।
+#sporoPAita kI kuCa koSikAeM aguNiwa bIjANu uwpanna karane ke lie nyUnIkaraNa viBAjana (arXasUwrIviBAjana) se gujarawI hEM.
+#Some cells of the sporophyte undergo reduction division to produce haploid spores.
+sporoPAita_1	1	-	-	4:r6	-	def	-	-
+kuCa_1(some_2)	3	-	-	4:quant	-	-	-	-
+koSikA_1(cell_1)	4	-	pl	17:k1	-	-	-	-
+aguNiwa_1	5	-	-	6:mod	-	-	-	-
+bIjANu_1(spore_1)	6	-	-	21:k2	-	-	-	-
+uwpanna_1	7	-	-	-	-	-	-	21:kriyAmUla
+kara_17(do_2)	8	-	-	-	-	-	-	21:verbalizer
+nyUnIkaraNa_2(reduction_11)	11	-	-	-	-	-	-	20:mod
+viBAjana_1(division_14)	12	-	-	-	-	-	-	20:head
+arXasUwrIviBAjana_1	14	-	-	20:rs	-	-	-	-
+gujara_1-wA_hE_1	17	-	-	0:main	-	-	-	-
+[nc_1]	20	-	-	17:rp	-	-	-	-
+[cp_1]	21	-	-	17:rt	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_104>
+#ये बीजाणु गैमेटोफाइट का उत्पादन करने के लिए अंकुरित होते हैं।
+#ye bIjANu gEmetoPAita kA uwpAxana karane ke lie aMkuriwa howe hEM.
+#ye bIjANu gEmetoPAita kA uwpAxana karane ke lie aMkuriwa howe hEM.
+$wyax	1	-	-	2:dem	biology_chapter3_plantkingdom_103.5:coref	proximal	-	-
+bIjANu_1(spore_1)	2	-	-	10:k1	-	-	-	-
+gEmetoPAita_1	3	-	-	13:k2	-	-	-	-
+uwpAxana_1(production_2)	5	-	-	-	-	-	-	13:kriyAmUla
+kara_17(do_2)	6	-	-	-	-	-	-	13:verbalizer
+aMkuriwa_1(germinated_1)	9	-	-	10:k1s	-	-	-	-
+ho_6(be_4)-wA_hE_1(es_1)	10	-	-	0:main	-	-	-	-
+[cp_1]	13	-	-	10:rt	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_105a>
+#सामान्य तौर पर ब्रायोफाइट्स का आर्थिक महत्व कम होता है।
+#sAmAnya wOra para brAyoPAitsa kA ArWika mahawva kama howA hE.
+#Bryophytes in general are of little economic importance.
+sAmAnya_1(general_1)	1	-	-	9:krvn	-	-	-	-
+brAyoPAitsa_1	4	-	-	7:r6	-	-	-	-
+ArWika_1(economic_1)	6	-	-	7:mod	-	-	-	-
+mahawva_1(importance_8)	7	-	-	9:k1	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+kama_1(little_3)	10	-	-	9:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_105b>
+#लेकिन कुछ काई शाकाहारी स्तनधारियों, पक्षियों और अन्य जानवरों को भोजन प्रदान करते हैं।
+#-
+#lekina kuCa kAI SAkAhArI swanaXAriyoM, pakRiyoM Ora anya jAnavaroM ko Bojana praxAna karawe hEM.
+kuCa_1(some_2)	1	-	-	2:quant	-	-	-	-
+kAI_1(moss_1)	2	-	-	16:k1	-	-	-	-
+SAkAhArI_2(herbivorous_3)	3	-	-	4:mod	-	-	-	-
+swanaXArI_2(mammal_3)	4	anim	pl	-	-	-	-	17:op1
+pakRI_1(bird_4)	6	anim	pl	-	-	-	-	17:op2
+anya_1(other_1)	8	-	-	9:mod	-	-	-	-
+jAnavara_1(animal_2)	9	anim	pl	-	-	-	-	17:op3
+Bojana_1(food_5)	11	-	-	16:k2	-	-	-	-
+praxAna_1(giving_2)	12	-	-	-	-	-	-	16:kriyAmUla
+kara_1-wA_hE_1	13	-	-	-	-	-	-	16:verbalizer
+[cp_1]	16	-	-	0:main	biology_chapter3_plantkingdom_105a.9:viroXI	-	-	-
+[conj_1]	17	-	-	16:k4	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_106a>
+#स्पैगनम की प्रजातियाँ, एक काई, पीट प्रदान करती हैं।
+#spEganama kI prajAwiyAz, eka kAI, pIta praxAna karawI hEM.
+#Species of Sphagnum, a moss, provide peat.
+spEganama_1	1	-	-	3:r6	-	-	-	-
+prajAwi_1(species_1)	3	-	pl	13:k1	-	-	-	-
+eka_2(a_1)	5	-	-	6:quant	-	-	-	-
+kAI_1(moss_1)	6	-	-	3:rs	-	-	-	-
+pIta_18	8	-	-	13:k2	-	-	-	-
+praxAna_11(provide_3)	9	-	-	-	-	-	-	13:kriyAmUla
+kara_1-wA_hE_1	10	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_106b>
+#जिसका उपयोग लंबे समय से ईंधन के रूप में किया जाता है।
+#jisakA upayoga laMbe samaya se IMXana ke rUpa meM kiyA jAwA hE.
+#that have been long been used as fuel.
+$yax	1	-	-	14:k2	biology_chapter3_plantkingdom_106a.8:coref	-	-	-
+upayoga_1(use_2)	2	-	-	-	-	-	-	14:kriyAmUla
+laMbA_1(long_2)	3	-	-	4:mod	-	-	-	-
+samaya_1(time_8)	4	-	-	-	-	-	-	15:start
+IMXana_1(fuel_2)	6	-	-	16:r6	-	-	-	-
+kara_1-yA_jA_wA_hE_1	10	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	biology_chapter3_plantkingdom_106a.8:rcelab	-	-	-	-
+[span_1]	15	-	-	14:dur	-	-	-	-
+rUpa_1(form_10)	16	-	-	14:k7	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_106c>
+#और जिसका उपयोग पानी धारण करने की उनकी क्षमता के कारण जीवित सामग्री के ट्रांस-शिपमेंट के लिए पैकिंग सामग्री के रूप में किया जाता है।
+#-
+#Ora jisakA upayoga pAnI XAraNa karane kI unakI kRamawA ke kAraNa jIviwa sAmagrI ke trAMsa-SipameMta ke lie pEkiMga sAmagrI ke rUpa meM kiyA jAwA hE.
+$yax	1	-	-	29:k2	biology_chapter3_plantkingdom_106a.5:coref	-	-	-
+upayoga_1(use_2)	2	-	-	-	-	-	-	29:kriyAmUla
+pAnI_1(water_7)	3	-	-	27:k2	-	-	-	-
+XAraNa_1(holding_4)	4	-	-	-	-	-	-	27:kriyAmUla
+kara_17(do_2)	5	-	-	-	biology_chapter3_plantkingdom_106a.2:coref	-	-	27:verbalizer
+$wyax	7	-	-	8:r6	-	distal	-	-
+kRamawA_3(capacity_1)	8	-	-	29:rh	-	-	-	-
+jIviwa_2(living_6)	11	-	-	12:mod	-	-	-	-
+sAmagrI_2(material_7)	12	-	-	14:r6	-	-	-	-
+^trAMsa-SipameMta_1	14	-	-	29:rt	-	-	-	-
+pEkiMga_2	17	-	-	-	-	-	-	26:mod
+sAmagrI_2(material_7)	18	-	-	-	-	-	-	26:head
+kara_1-yA_jA_wA_hE_1	22	-	-	-	biology_chapter3_plantkingdom_105a.22:samuccaya	-	-	29:verbalizer
+[nc_1]	26	-	-	28:r6	-	-	-	-
+[cp_1]	27	-	-	8:r6	-	-	-	-
+rUpa_1	28	-	-	29:k7	-	-	-	-
+[cp_2]	29	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_107a>
+#लाइकेन के साथ काई चट्टानों पर निवास करने वाले पहले जीव हैं।
+#lAikena ke sAWa kAI cattAnoM para nivAsa karane vAle pahale jIva hEM.
+#Mosses along with lichens are the first organisms to colonise rocks.
+lAikena_1(Lichens_1)	1	-	-	12:rask1	-	-	-	-
+kAI_1(moss_1)	4	-	-	12:k1	-	-	-	-
+cattAna_1(rock_1)	5	-	pl	15:k7p	-	-	-	-
+nivAsa_3(habitation_2)	7	-	-	-	-	-	-	15:kriyAmUla
+kara_17(do_2)	8	-	-	-	-	-	-	15:verbalizer
+pahalA_1	10	-	-	11:ord	-	-	-	-
+jIva_7(organism_1)	11	-	-	12:k1s	-	def	-	-
+hE_1-pres	12	-	-	0:main	-	-	-	-
+[cp_1]	15	-	-	11:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_107b>
+#और इसलिए, ये अत्यधिक पारिस्थितिक महत्व के हैं।
+#Ora isalie, ye awyaXika pArisWiwika mahawva ke hEM.
+#and hence, are of great ecological importance.
+$wyax	3	-	-	8:k1	biology_chapter3_plantkingdom_107a.4:coref	proximal	-	-
+awyaXika_1	4	-	-	5:intf	-	-	-	-
+pArisWiwika_2(ecological_1)	5	-	-	6:mod	-	-	-	-
+mahawva_1(importance_8)	6	-	-	9:r6	-	-	-	-
+hE_1-pres	8	-	-	0:main	biology_chapter3_plantkingdom_107a.12:pariNAma	-	-	-
+jIva_1	9	-	-	8:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_108a>
+#वे चट्टानों को विघटित करते हैं।
+#-
+#ve cattAnoM ko viGatiwa karawe hEM.
+$wyax	1	-	-	8:k1	biology_chapter3_plantkingdom_107a.4:coref	distal	-	-
+cattAna_1(rock_1)	2	-	pl	8:k2	-	-	-	-
+viGatiwa_4(decomposed_1)	4	-	-	-	-	-	-	8:kriyAmUla
+kara_17(do_2)-wA_hE_1(es_1)	5	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_108b>
+#इससे सब्सट्रेट उच्च पौधों की वृद्धि के लिए उपयुक्त हो जाता है।
+#isase sabsatreta ucca pOXoM kI vqxXi ke lie upayukwa ho jAwA hE.
+#making the substrate suitable for the growth of higher plants.
+sabsatreta_1	2	-	-	10:k1	-	def	-	-
+ucca_6(higher_3)	3	-	-	4:mod	-	-	-	-
+pOXa_3(plant_22)	4	-	-	6:r6	-	-	-	-
+vqxXi_4(growth_4)	6	-	-	10:rt	-	-	-	-
+upayukwa_2(suitable_2)	9	-	-	10:k1s	-	-	-	-
+ho_1-wA_hE_1	10	-	-	0:main	biology_chapter3_plantkingdom_108a.8:pariNAma	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_109a>
+#चूंकि काई मिट्टी पर घनी परतें बनाती हैं।
+#cUMki kAI mittI para GanI paraweM banAwI hEM.
+#Since mosses from dense mats on the soil.
+kAI_1(moss_1)	1	-	-	6:k1	-	-	-	-
+mittI_2(soil_4)	2	-	-	6:k7	-	def	-	-
+GanA_1(dense_5)	4	-	-	5:mod	-	-	-	-
+parawa_1	5	-	-	6:k2	-	-	-	-
+banA_1-wA_hE_1	6	-	-	0:main	biology_chapter3_plantkingdom_109b.12:kAryakAraNa	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_109b>
+#वे गिरने वाली बारिश के प्रभाव को कम करती हैं।
+#ve girane vAlI bAriSa ke praBAva ko kama karawI hEM.
+#They reduce the impact of falling rain.
+$wyax	1	-	-	12:k1	biology_chapter3_plantkingdom_109a.1:coref	distal	-	-
+gira_1(fall_5)	2	-	-	4:mod	-	-	-	-
+bAriSa_1(rain_4)	4	-	-	6:r6	-	-	-	-
+praBAva_3(impact_5)	6	-	-	12:k2	-	def	-	-
+kara_1-wA_hE_1	9	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	-	-	-	-
+kama_8(reduced_1)	13	-	-	-	-	-	-	12:kriyAmUla
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_109c>
+#और वे मिट्टी के कटाव को रोकती हैं।
+#-
+#Ora ve mittI ke katAva ko rokawI hEM.
+$wyax	1	-	-	6:k1	biology_chapter3_plantkingdom_109a.1:coref	distal	-	-
+mittI_2(soil_4)	2	-	-	4:r6	-	-	-	-
+katAva_1(erosion_2)	4	-	-	6:k2	-	-	-	-
+roka_1-wA_hE_1	6	-	-	0:main	biology_chapter3_plantkingdom_109b.12:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_110>
+#ब्रायोफाइट्स को लिवरवॉर्ट्स और मॉस में विभाजित किया गया है।
+#brAyoPAitsa ko livaravOYrtsa Ora mOYsa meM viBAjiwa kiyA gayA hE.
+#The bryophytes are divided into liverworts and mosses.
+brAyoPAitsa_1	1	-	-	12:k2	-	-	-	-
+livaravOYrtsa_1	3	-	-	-	-	-	-	13:op1
+mOYsa_1(moss_2)	5	-	-	-	-	-	-	13:op2
+viBAjiwa_1(divided_2)	7	-	-	-	-	-	-	12:kriyAmUla
+kara_1-yA_jA_yA_hE_1	8	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	-	-	-	-
+[conj_1]	13	-	-	12:k7	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_111>
+#लिवरवॉर्ट्स आमतौर पर नम, छायादार आवासों जैसे कि नदियों के किनारे, दलदली जमीन, नम मिट्टी, पेड़ों की छाल और जंगल की गहराई में उगते हैं।
+#livaravOYrtsa AmawOra para nama, CAyAxAra AvAsoM jEse ki naxiyoM ke kinAre, xalaxalI jamIna, nama mittI, pedZoM kI CAla Ora jaMgala kI gaharAI meM ugawe hEM.
+#The liverworts grow usually in moist, shady habitats such as banks of streams, marshy ground, damp soil, bark of trees and deep in the woods.
+livaravOYrtsa_1	1	-	-	28:k1	-	def	-	-
+Ama+wOra+para_1	2	-	-	28:krvn	-	-	-	-
+nama_7(moist_3)	4	-	-	-	-	-	-	31:op1
+CAyAxAra_1(shady_3)	6	-	-	-	-	-	-	31:op2
+AvAsa_9	7	-	pl	28:k7p	-	-	-	-
+naxI_1(river_3)	10	-	pl	12:r6	-	-	-	-
+kinArA_1(bank_2)	12	-	pl	-	-	-	-	32:op1
+xalaxalI_2	14	-	-	15:mod	-	-	-	-
+jamIna_2(ground_17)	15	-	-	-	-	-	-	32:op2
+nama_3(damp_3)	17	-	-	18:mod	-	-	-	-
+mittI_2(soil_4)	18	-	-	-	-	-	-	32:op3
+pedZa_1(tree_5)	20	-	pl	22:r6	-	-	-	-
+CAla_1(bark_1)	22	-	-	-	-	-	-	32:op4
+jaMgala_2(wood_3)	24	-	-	26:r6	-	def	-	-
+gaharAI_1(depth_2)	26	-	-	-	-	-	-	32:op5
+uga_1-wA_hE_1	28	-	-	0:main	-	-	-	-
+[conj_1]	31	-	-	7:mod	-	-	-	-
+[conj_2]	32	-	-	7:re	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_112>
+#लिवरवॉर्ट का पादप शरीर थैलॉइड होता है, उदाहरण के लिए, मर्चेंटिया।
+#livaravOYrta kA pAxapa SarIra WElOYida howA hE, uxAharaNa ke lie, marceMtiyA.
+#The Plant body of a liverwort is thalloid, for eg, Marchantia
+livaravOYrta_1	1	-	-	10:r6	-	-	-	-
+pAxapa_2(plant_1)	3	-	-	-	-	-	-	10:mod
+SarIra_1(body_11)	4	-	-	-	-	-	-	10:head
+WElOYida_1	5	-	-	6:k1s	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+[nc_1]	10	-	-	6:k1	-	def	-	-
+marceMtiyA_1	11	-	-	1:re	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_112b>
+#उदाहरण के लिए, मर्चेंटिया।
+#-
+#uxAharaNa ke lie, marceMtiyA.
+uxAharaNa_1	1	-	-	5:k7a	-	-	-	-
+marceMtiyA_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_113a>
+#थैलस डॉर्सिवेंट्रल है।
+#WElasa dOYrsiveMtrala hE.
+#The thallus is dorsiventral.
+WElasa_1	1	-	-	3:k1	-	def	-	-
+dOYrsiveMtrala_1	2	-	-	3:k1s	-	-	-	-
+hE_1-pres	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_113b>
+#और वह सब्सट्रेट से निकटता से जुड़ा हुआ है।
+#Ora vaha sabsatreta se nikatawA se judZA huA hE.
+#and it is closely appressed to the substrate.
+sabsatreta_1	1	-	-	5:k1as	-	def	-	-
+nikatawA_1(proximity_3)	3	-	-	5:krvn	-	-	-	-
+judZA_8	5	-	kqw	7:k1s	-	-	-	-
+$wyax	6	-	-	7:k1	-	proximal	-	-
+hE_1-pres	7	-	-	0:main	biology_chapter3_plantkingdom_113a.3:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_114>
+#पत्तीदार सदस्यों में तने जैसी संरचनाओं पर दो पंक्तियों में छोटे पत्ती जैसे उपांग होते हैं।
+#pawwIxAra saxasyoM meM wane jEsI saMracanAoM para xo paMkwiyoM meM Cote pawwI jEse upAMga howe hEM.
+#The leafy members have tiny leaf-like appendages in two rows on the stem-like structures.
+pawwIxAra_4	1	-	-	2:mod	-	-	-	-
+saxasya_1(member_4)	2	-	pl	19:rn	-	def	-	-
+2	8	-	-	9:card	-	-	-	-
+paMkwi_2(row_7)	9	-	pl	-	-	-	-	18:part
+CotA_1(small_6)	11	-	-	12:mod	-	-	-	-
+pawwA_1(leaf_2)	12	-	-	14:ru	-	-	-	-
+upAMga_1	14	-	-	-	-	-	-	19:part
+ho_1-wA_hE_1	15	-	-	0:main	-	-	-	-
+wanA_1(stem_2)	16	-	-	17:ru	-	-	-	-
+saMracanA_1(structure_12)	17	-	pl	-	-	def	-	18:whole
+[spatial_1]	18	-	-	-	-	-	-	19:whole
+[spatial_2]	19	-	-	15:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_115>
+#लिवरवॉर्ट्स में अलैंगिक प्रजनन थैलि के विखंडन द्वारा, या जेम्मा (सिंग. जेम्मा) नामक विशेष संरचनाओं के निर्माण से होता है।
+#livaravOYrtsa meM alEMgika prajanana WEli ke viKaMdana xvArA, yA jemmA (siMga. jemmA) nAmaka viSeRa saMracanAoM ke nirmANa se howA hE.
+#Asexual reproduction in liverworts takes place by fragmentation of thalli, or by the formation of specialised structures called gemmae .
+livaravOYrtsa_1	1	-	-	23:k7	-	-	-	-
+alEMgika_1(asexual_2)	3	-	-	4:mod	-	-	-	-
+prajanana_1(reproduction_4)	4	-	-	23:k1	-	-	-	-
+WEli_1	5	-	-	7:r6	-	-	-	-
+viKaMdana_1(fragmentation_1)	7	-	-	-	-	-	-	27:op1
+jemmA_1	11	-	pl	21:r6	-	-	-	-
+@siMga	13	-	-	15:mod	-	-	-	-
+jemmA_1	15	-	-	11:rs	-	-	-	-
+viSeRa_1(special_4)	18	-	-	19:mod	-	-	-	-
+saMracanA_1(structure_12)	19	-	pl	11:rs	-	-	-	-
+nirmANa_16(formation_4)	21	-	-	-	-	def	-	27:op2
+ho_1-wA_hE_1	23	-	-	0:main	-	-	-	-
+[disjunct_1]	27	-	-	23:k3	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_116>
+#जेम्मा हरी, बहुकोशिकीय, अलैंगिक कलियाँ हैं, जो थैलि पर स्थित जेम्मा कप नामक छोटे ग्रहणों में विकसित होती हैं।
+#jemmA harI, bahukoSikIya, alEMgika kaliyAz hEM, jo WEli para sWiwa jemmA kapa nAmaka Cote grahaNoM meM vikasiwa howI hEM.
+#Gemmae are green, multicellular, asexual buds, which develop in small receptacles called gemma cups located on the thalli.
+jemmA_1	1	-	pl	22:k1	-	-	-	-
+harA_1(green_1)	2	-	-	-	-	-	-	23:op1
+bahukoSikIya_1	4	-	-	-	-	-	-	23:op2
+alEMgika_1(asexual_2)	6	-	-	-	-	-	-	23:op3
+kalI_1(bud_2)	7	-	pl	22:k1s	-	-	-	-
+$yax	10	-	-	21:k1	-	-	-	-
+WEli_1	11	-	-	13:k7p	-	def	-	-
+sWiwa_1(situated_1)	13	-	-	24:mod	-	-	-	-
+jemmA_1	14	-	-	-	-	-	-	24:mod
+^kapa_1	15	-	-	-	-	-	-	24:head
+CotA_1(small_6)	17	-	-	18:mod	-	-	-	-
+grahaNa_13	18	-	pl	24:rs	-	-	-	-
+vikasiwa_1(development_1)	20	-	-	21:k1s	-	-	-	-
+ho_1-wA_hE_1	21	-	-	7:rcelab	-	-	-	-
+hE_1-pres	22	-	-	0:main	-	-	-	-
+[conj_1]	23	-	-	7:mod	-	-	-	-
+[nc_1]	24	-	-	21:k7	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_117a>
+#रत्न मूल शरीर से अलग हो जाते हैं।
+#rawna mUla SarIra se alaga ho jAwe hEM.
+#The gemmae become detached from the parent body.
+jemmA_1	1	-	-	6:k1	-	def	-	-
+mUla_30	2	-	-	3:mod	-	-	-	-
+SarIra_1(body_11)	3	-	-	6:k5	-	-	-	-
+alaga_2(apart_1)	5	-	-	6:k1s	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_117b>
+#और वह नए व्यक्तियों का निर्माण करने के लिए अंकुरित होते हैं।
+#-
+#Ora vaha nae vyakwiyoM kA nirmANa karane ke lie aMkuriwa howe hEM.
+nayA_1(new_5)	1	-	-	2:mod	-	-	-	-
+vyakwi_1(individual_6)	2	anim	pl	12:k2	-	-	-	-
+nirmANa_2(creation_3)	4	-	-	-	-	-	-	12:kriyAmUla
+kara_17(do_2)	5	-	-	-	-	-	-	12:verbalizer
+aMkuriwa_1(germinated_1)	8	-	-	9:k1s	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+[cp_1]	12	-	-	9:rt	-	-	-	-
+$wyax	14	-	-	9:k1	-	distal	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_118>
+#यौन प्रजनन के दौरान, नर और मादा यौन अंग या तो एक ही या अलग-अलग थैलियों पर निर्मित होते हैं।
+#yOna prajanana ke xOrAna, nara Ora mAxA yOna aMga yA wo eka hI yA alaga-alaga WEliyoM para nirmiwa howe hEM.
+#During sexual reproduction, male and female sex organs are produced either on the same or on different thalli.
+yOna_1(sexual_1)	1	-	-	2:mod	-	-	-	-
+prajanana_1(reproduction_4)	2	-	-	23:k7t	-	-	-	-
+nara_2(male_1)	6	-	-	-	-	-	-	24:op1
+mAxA_1(female_2)	8	-	-	-	-	-	-	24:op2
+yOna_1	9	-	-	-	-	-	-	26:mod
+aMga_6(organ_1)	10	-	-	-	-	-	-	26:head
+eka_1	13	-	-	-	-	hI_2	-	25:op1
+alaga_1	16	-	xviwva	-	-	-	-	25:op2
+WElI_1	17	-	pl	23:k7p	-	-	-	-
+nirmiwa_3(produced_5)	19	-	-	-	-	-	-	23:kriyAmUla
+ho_1-wA_hE_1	20	-	-	-	-	-	-	23:verbalizer
+[cp_1]	23	-	-	0:main	-	-	-	-
+[conj_1]	24	-	-	26:mod	-	-	-	-
+[disjunct_1]	25	-	-	17:quant	-	wo_3	-	-
+[nc_1]	26	-	-	23:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_119>
+#स्पोरोफाइट को फुट, सेटा और कैप्सूल में विभेदित किया जाता है।
+#sporoPAita ko Puta, setA Ora kEpsUla meM viBexiwa kiyA jAwA hE.
+#The sporophyte is differentiated into a foot, seta and capsule.
+^sporoPAita_1	1	-	-	14:k2	-	-	-	-
+Puta_4(foot_8)	3	-	-	-	-	-	-	15:op1
+^setA_1	5	-	-	-	-	-	-	15:op2
+^kEpsUla_1	7	-	-	-	-	-	-	15:op3
+viBexiwa_1	9	-	-	-	-	-	-	14:kriyAmUla
+kara_1-yA_jA_wA_hE_1	10	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	14:k7	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_120>
+#अर्धसूत्रीविभाजन के बाद, कैप्सूल के भीतर बीजाणु उत्पन्न होते हैं।
+#arXasUwrIviBAjana ke bAxa, kEpsUla ke BIwara bIjANu uwpanna howe hEM.
+#After meiosis, spores are produced within the capsule.
+arXasUwrIviBAjana	1	-	-	8:rkrl	-	-	-	-
+^kEpsUla_1	5	-	-	13:k7	-	-	-	-
+bIjANu_1(spore_1)	8	-	-	13:k1	-	-	-	-
+uwpanna_1	9	-	-	-	-	-	-	13:kriyAmUla
+ho_1-wA_hE_1	10	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_121>
+#ये बीजाणु अंकुरित होकर मुक्त-जीवित गैमेटोफाइट्स बनाते हैं।
+#ye bIjANu aMkuriwa hokara mukwa-jIviwa gEmetoPAitsa banAwe hEM.
+#ye bIjANu aMkuriwa hokara mukwa-jIviwa gEmetoPAitsa banAwe hEM.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+bIjANu_1(spore_1)	2	-	-	7:pk1	-	-	-	-
+aMkuriwa_1	3	-	-	-	-	-	-	10:kriyAmUla
+ho_1	4	-	-	-	-	-	-	10:verbalizer
+mukwa+jIviwa_1	5	-	-	6:mod	-	-	-	-
+^gEmetoPAitsa_1	6	-	-	7:jk1	-	-	-	-
+banA_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+[cp_1]	10	-	-	7:rpk	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_122>
+#काई के जीवन चक्र का प्रमुख चरण गैमेटोफाइट है जिसमें दो चरण होते हैं।
+#kAI ke jIvana cakra kA pramuKa caraNa gEmetoPAita hE jisameM xo caraNa howe hEM.
+#The predominant stage of the life cycle of a moss is the gametophyte which consists of two stages.
+kAI	1	-	-	16:r6	-	-	-	-
+jIvana_1(life_7)	3	-	-	-	-	-	-	16:mod
+cakra_2(cycle_1)	4	-	-	-	-	-	-	16:head
+pramuKa_13	6	-	-	7:mod	-	-	-	-
+caraNa_17	7	-	-	9:k1	-	-	-	-
+^gEmetoPAita	8	-	-	9:k1s	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+$yax	10	-	-	13:k7	8:coref	-	-	-
+2	11	numex	-	12:card	-	-	-	-
+caraNa_1	12	-	-	13:k1	-	-	-	-
+ho_1-wA_hE_1	13	-	-	8:rcdelim	-	-	-	-
+[nc_1]	16	-	-	7:r6	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_123>
+#पहला चरण प्रोटोनिमा चरण है, जो सीधे बीजाणु से विकसित होता है।
+#pahalA caraNa protonimA caraNa hE, jo sIXe bIjANu se vikasiwa howA hE.
+#The first stage is the protonema stage, which develops directly from a spore.
+pahalA_1	1	-	-	2:ord	-	-	-	-
+caraNa_1	2	-	-	5:k1	-	-	-	-
+^protonimA_1	3	-	-	-	-	-	-	15:mod
+caraNa_1	4	-	-	-	-	-	-	15:head
+hE_1-pres	5	-	-	0:main	-	-	-	-
+$yax	7	-	-	16:k1	15:coref	-	-	-
+sIXA_6(direct_5)	8	-	-	16:krvn	-	-	-	-
+bIjANu_1(spore_1)	9	-	-	16:k5	-	-	-	-
+vikasiwa_1	11	-	-	-	-	-	-	16:kriyAmUla
+ho_1-wA_hE_1	12	-	-	-	-	-	-	16:verbalizer
+[nc_1]	15	-	-	5:k1s	-	def	-	-
+[cp_1]	16	-	-	15:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_124>
+#यह एक रेंगने वाली, हरी, शाखायुक्त और अक्सर रेशेदार अवस्था है।
+#yaha eka reMgane vAlI, harI, SAKAyukwa Ora aksara reSexAra avasWA hE.
+#It is a creeping, green, branched and frequently filamentous stage.
+$wyax	1	-	-	13:k1	biology_chapter3_plantkingdom_123.15:coref	proximal	-	-
+eka_2	2	-	-	3:quant	-	-	-	-
+reMganA_1	3	-	mawup	-	-	-	-	15:op1
+harI_1	6	-	-	-	-	-	-	15:op2
+SAKAyukwa_1	8	-	-	-	-	-	-	15:op3
+aksara_4(frequently_2)	10	-	-	12:mod	-	-	-	-
+reSexAra_2	11	-	-	-	-	-	-	15:op4
+avasWA_4(stage_1)	12	-	-	13:k1s	-	-	-	-
+hE_1-pres	13	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	12:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_125>
+#दूसरा चरण पत्तीदार चरण है, जो द्वितीयक प्रोटोनिमा से पार्श्व कली के रूप में विकसित होता है।
+#xUsarA caraNa pawwIxAra caraNa hE, jo xviwIyaka protonimA se pArSva kalI ke rUpa meM vikasiwa howA hE.
+#The second stage is the leafy stage, which develops from the secondary protonema as a lateral bud.
+xUsarA_1(second_1)	1	-	-	2:ord	-	-	-	-
+caraNa_1	2	-	-	5:k1	-	-	-	-
+pawwIxAra_1	3	-	-	4:mod	-	-	-	-
+caraNa_1	4	-	-	5:k1s	-	-	-	-
+hE_1-pres	5	-	-	0:main	-	-	-	-
+$yax	7	-	-	20:k1	4:coref	-	-	-
+xviwIyaka_1	8	-	-	9:mod	-	-	-	-
+^protonimA_1	9	-	-	20:k5	-	-	-	-
+pArSva_1	11	-	-	12:mod	-	-	-	-
+kalI_1(bud_2)	12	-	-	17:k7	-	-	-	-
+vikasiwa_1	16	-	-	-	-	-	-	20:kriyAmUla
+ho_1-wA_hE_1	17	-	-	-	-	-	-	20:verbalizer
+[cp_1]	20	-	-	4:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_126>
+#इनमें सीधे, पतले अक्ष होते हैं जिन पर सर्पिल रूप से व्यवस्थित पत्तियां होती हैं।
+#inameM sIXe, pawale akRa howe hEM jina para sarpila rUpa se vyavasWiwa pawwiyAM howI hEM.
+#inameM sIXe, pawale akRa howe hEM jina para sarpila rUpa se vyavasWiwa pawwiyAM howI hEM.
+$wyax	1	-	-	5:rn	biology_chapter3_plantkingdom_125.12:coref	proximal	-	-
+sIXA_5(upright_6)	2	-	-	-	-	-	-	16:op1
+pawalA_2(slender_5)	4	-	-	-	-	-	-	16:op2
+akRa_1(axis_1)	5	-	-	6:k1	5:coref	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+$yax	8	-	-	15:k7	-	-	-	-
+sarpila_1(spiral_3)	10	-	-	15:krvn	-	-	-	-
+vyavasWiwa_4(arranged_3)	13	-	-	14:mod	-	-	-	-
+pawwi_1	14	-	pl	15:k1	-	-	-	-
+ho_1-wA_hE_1	15	-	-	5:rcdelim	-	-	-	-
+[conj_1]	16	-	-	5:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_127>
+#वे बहुकोशिकीय और शाखित प्रकंदों के माध्यम से मिट्टी से जुड़े होते हैं।
+#ve bahukoSikIya Ora SAKiwa prakaMxoM ke mAXyama se mittI se judZe howe hEM.
+#They are attached to the soil through multicellular and branched rhizoids.
+$wyax	1	-	-	11:k1	biology_chapter3_plantkingdom_126.14:coref	distal	-	-
+bahukoSikIya_1	2	-	-	-	-	-	-	15:op1
+SAKiwa_1	4	-	-	-	-	-	-	15:op2
+prakaMxa_1	5	-	pl	11:rh	-	-	-	-
+mittI_1	9	-	-	11:k1as	-	-	-	-
+ho_1-wA_hE_1	11	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	5:mod	-	-	-	-
+judZA_1	16	-	kqw	11:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_128>
+#यह अवस्था यौन अंगों को धारण करती है।
+#yaha avasWA yOna aMgoM ko XAraNa karawI hE.
+#This stage bears the sex organs.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+avasWA_4(stage_1)	2	-	-	10:k1	-	-	-	-
+yOna_1	3	-	-	4:mod	-	-	-	-
+aMga_6(organ_1)	4	-	pl	10:k2	-	def	-	-
+XAraNa_1	6	-	-	-	-	-	-	10:kriyAmUla
+kara_1-wA_hE_1	7	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_129>
+#काई में वानस्पतिक प्रजनन द्वितीयक प्रोटोनिमा में विखंडन और मुकुलन द्वारा होता है।
+#kAI meM vAnaspawika prajanana xviwIyaka protonimA meM viKaMdana Ora mukulana xvArA howA hE.
+#Vegetative reproduction in mosses is occured by fragmentation and budding in the secondary protonema.
+kAI_1(moss_1)	1	-	-	12:k7p	-	-	-	-
+vAnaspawika_1(vegetative_2)	3	-	-	4:mod	-	-	-	-
+prajanana_1(reproduction_4)	4	-	-	12:k1	-	-	-	-
+xviwIyaka_1(second_2)	5	-	-	6:mod	-	-	-	-
+^protonimA	6	-	-	12:k7	-	-	-	-
+viKaMdana_1(fragmentation_1)	8	-	-	-	-	-	-	16:op1
+mukulana_1	10	-	-	-	-	-	-	16:op2
+ho_1-wA_hE_1	12	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	12:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_130>
+#यौन प्रजनन में, यौन अंग एथेरिडिया और आर्कगोनिया पत्तीदार टहनियों के शीर्ष पर निर्मित होते हैं।
+#yOna prajanana meM, yOna aMga eWeridiyA Ora ArkagoniyA pawwIxAra tahaniyoM ke SIrRa para nirmiwa howe hEM.
+#In sexual reproduction, the sex organs antheridia and archegonia are produced at the apex of the leafy shoots.
+yOna_1(sexual_1)	1	-	-	2:mod	-	-	-	-
+prajanana_1(reproduction_4)	2	-	-	19:k7	-	-	-	-
+yOna_1	5	-	-	6:mod	-	-	-	-
+aMga_6(organ_1)	6	-	-	-	-	-	-	20:op1
+^eWeridiyA	7	-	-	-	-	-	-	20:op2
+^ArkagoniyA	9	-	-	-	-	-	-	20:op3
+pawwIxAra_1	10	-	-	11:mod	-	-	-	-
+tahani_1	11	-	pl	13:r6	-	-	-	-
+SIrRa_11	13	-	-	19:k7p	-	-	-	-
+nirmiwa_1	15	-	-	-	-	-	-	19:kriyAmUla
+ho_1-wA_hE_1	16	-	-	-	-	-	-	19:verbalizer
+[cp_1]	19	-	-	0:main	-	-	-	-
+[conj_1]	20	-	-	16:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_131>
+#निषेचन के बाद, युग्मनज एक स्पोरोफाइट में विकसित होता है, जिसमें एक पैर, सेटा और कैप्सूल शामिल होते हैं।
+#niRecana ke bAxa, yugmanaja eka sporoPAita meM vikasiwa howA hE, jisameM eka pEra, setA Ora kEpsUla SAmila howe hEM.
+#After fertilisation, the zygote develops into a sporophyte, consisting of a foot, seta and capsule.
+niRecana_4(fertilisation_4)	1	-	-	5:rkrl	-	-	-	-
+yugmanaja_1	5	-	-	24:k1	-	-	-	-
+eka_1	6	-	-	7:card	-	-	-	-
+^sporoPAita_1	7	-	-	24:k7	-	-	-	-
+vikasiwa_1	9	-	-	-	-	-	-	24:kriyAmUla
+ho_1-wA_hE_1	10	-	-	-	-	-	-	24:verbalizer
+$yax	13	-	-	25:k7	5:coref	-	-	-
+eka_1	14	numex	-	15:card	-	-	-	-
+pEra_1(foot_7)	15	-	-	-	-	-	-	26:op1
+^setA_1	17	-	-	-	-	-	-	26:op2
+^kEpsUla_1	19	-	-	-	-	-	-	26:op3
+SAmila_17	20	-	-	-	-	-	-	25:kriyAmUla
+ho_1-wA_hE_1	21	-	-	-	-	-	-	25:verbalizer
+[cp_1]	24	-	-	0:main	-	-	-	-
+[cp_2]	25	-	-	7:rcdelim	-	-	-	-
+[conj_1]	26	-	-	25:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_132>
+#मॉस में स्पोरोफाइट लिवरवॉर्ट्स की तुलना में अधिक विस्तृत होता है।
+#mOYsa meM sporoPAita livaravOYrtsa kI wulanA meM aXika viswqwa howA hE.
+#The sporophyte in mosses is more elaborate than that in liverworts.
+^mOYsa_1	1	-	-	14:k7	-	-	-	-
+^sporoPAita_1	3	-	-	14:k1	-	-	-	-
+^livaravOYrtsa_1	4	-	-	3:ru	-	-	-	-
+viswqwa_4(elaborate_3)	9	-	compermore	-	-	-	-	14:kriyAmUla
+ho_1-wA_hE_1	10	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_133>
+#कैप्सूल में बीजाणु होते हैं।
+#kEpsUla meM bIjANu howe hEM.
+#The capsule contains spores.
+^kEpsUla_1	1	-	-	4:k7p	-	-	-	-
+bIjANu_1(spore_1)	3	-	-	4:k1	-	-	-	-
+ho_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_134>
+#अर्धसूत्रीविभाजन के बाद बीजाणु बनते हैं।
+#arXasUwrIviBAjana ke bAxa bIjANu banawe hEM.
+#Spores are formed after meiosis.
+arXasUwrIviBAjana	1	-	-	4:rkrl	-	-	-	-
+bIjANu_1(spore_1)	4	-	-	5:k1	-	-	-	-
+bana_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_135>
+#काई में बीजाणु फैलाव का एक विस्तृत तंत्र होता है।
+#kAI meM bIjANu PElAva kA eka viswqwa waMwra howA hE.
+#The mosses have an elaborate mechanism of spore dispersal.
+kAI_1(moss_1)	1	-	-	9:k7p	-	-	-	-
+bIjANu_1(spore_1)	3	-	-	-	-	-	-	10:mod
+PElAva_17	4	-	-	-	-	-	-	10:head
+eka_2	6	-	-	8:quant	-	-	-	-
+viswqwa_4(elaborate_3)	7	-	-	8:mod	-	-	-	-
+waMwra_19	8	-	-	9:k1	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+[nc_1]	10	-	-	8:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_136>
+#मॉस के सामान्य उदाहरण फ्यूनेरिया, पॉलीट्रिचम और स्फाग्नम हैं।
+#mOYsa ke sAmAnya uxAharaNa PyUneriyA, pOYlItricama Ora sPAgnama hEM.
+#Common examples of mosses are Funaria, Polytrichum and Sphagnum.
+mOYsa_1(moss_2)	1	-	-	4:r6	-	-	-	-
+sAmAnya_2(common_6)	3	-	-	4:mod	-	-	-	-
+uxAharaNa_1(example_1)	4	-	-	10:k1	-	-	-	-
+PyUneriyA	5	-	-	-	-	-	-	13:start
+pOYlItricama	7	-	-	-	-	-	-	14:start
+sPAgnama_1	9	-	-	-	-	-	-	15:start
+hE_1-pres	10	-	-	0:main	-	-	-	-
+[conj_1]	12	-	-	10:k1s	-	-	-	-
+[ne_1]	13	-	-	-	-	-	-	12:op1
+[ne_2]	14	-	-	-	-	-	-	12:op2
+[ne_3]	15	-	-	-	-	-	-	12:op3
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_137>
+#टेरिडोफाइट्स में हॉर्सटेल और फर्न शामिल हैं।
+#teridoPAitsa meM hOYrsatela Ora Parna SAmila hEM.
+#The Pteridophytes include horsetails and ferns.
+teridoPAitsa	1	-	-	-	-	-	-	10:start
+^hOYrsatela	3	-	-	-	-	-	-	9:op1
+^Parna_1	5	-	-	-	-	-	-	9:op2
+SAmila_1(included_5)	6	-	-	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+[conj_1]	9	-	-	7:k1	-	-	-	-
+[ne_1]	10	-	-	7:k7	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_138>
+#टेरिडोफाइट्स का उपयोग औषधीय प्रयोजनों और मिट्टी-बंधकों के रूप में किया जाता है।
+#teridoPAitsa kA upayoga ORaXIya prayojanoM Ora mittI-baMXakoM ke rUpa meM kiyA jAwA hE.
+#Pteridophytes are used for medicinal purposes and as soil-binders.
+^teridoPAitsa	1	-	-	15:k2	-	-	-	-
+upayoga_1(use_2)	3	-	-	-	-	-	-	15:kriyAmUla
+ORaXIya_1(medicinal_1)	4	-	-	5:mod	-	-	-	-
+prayojana_1(purpose_4)	5	-	pl	-	-	-	-	16:op1
+mittI_1	7	-	-	-	-	-	-	18:mod
+kara_1-yA_jA_wA_hE_1	11	-	-	-	-	-	-	15:verbalizer
+[cp_1]	15	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	15:krvn	-	-	-	-
+baMXaka_1	17	-	pl	-	-	-	-	18:head
+[nc_1]	18	-	-	-	-	-	-	16:op2
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_139>
+#इन्हें अक्सर सजावटी पौधे के रूप में भी उगाया जाता है।
+#inheM aksara sajAvatI pOXe ke rUpa meM BI ugAyA jAwA hE.
+#They are also frequently grown as ornamentals.
+$wyax	1	-	-	9:k2	biology_chapter3_plantkingdom_138.1:coref	proximal	-	-
+aksara_4(frequently_2)	2	-	-	9:krvn	-	-	-	-
+sajAvatI_1	3	-	-	4:mod	-	-	-	-
+pOXA_1(plant_6)	4	-	-	9:k7p	-	-	-	-
+ugA_1-yA_jA_wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_140>
+#विकासात्मक रूप से, वे पहले स्थलीय पौधे हैं जिनमें संवहनी ऊतक - जाइलम और फ्लोएम होते हैं।
+#vikAsAwmaka rUpa se, ve pahale sWalIya pOXe hEM jinameM saMvahanI Uwaka - jAilama Ora Ploema howe hEM.
+#Evolutionarily, they are the first terrestrial plants to possess vascular tissues – xylem and phloem.
+vikAsAwmaka_3	1	-	-	9:vkvn	-	-	-	-
+$wyax	5	-	-	9:k1	biology_chapter3_plantkingdom_138.1:coref	distal	-	-
+pahalA_1	6	-	-	8:ord	-	def	-	-
+sWalIya_1(terrestrial_4)	7	-	-	8:mod	-	-	-	-
+pOXA_1(plant_6)	8	-	pl	9:k1s	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+$yax	10	-	-	17:k7p	biology_chapter3_plantkingdom_138.1:coref	-	-	-
+saMvahanI_1	11	-	-	-	-	-	-	20:mod
+Uwaka_1(tissue_1)	12	-	-	-	-	-	-	20:head
+^jAilama_1	14	-	-	-	-	-	-	21:op1
+^Ploema_1	16	-	-	-	-	-	-	21:op2
+ho_1-wA_hE_1	17	-	-	8:rcdelim	-	-	-	-
+[nc_1]	20	-	-	17:k1	-	-	-	-
+[conj_1]	21	-	-	17:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_141a>
+#टेरिडोफाइट्स ठंडी, नम, छायादार जगहों पर पाए जाते हैं।
+#teridoPAitsa TaMdI, nama, CAyAxAra jagahoM para pAe jAwe hEM.
+#The pteridophytes are found in cool, damp, shady places .
+^teridoPAitsa	1	-	-	9:k2	-	-	-	-
+TaMdA_1(cool_2)	2	-	-	-	-	-	-	10:op1
+nama_3(damp_3)	4	-	-	-	-	-	-	10:op2
+CAyAxAra_1(shady_3)	6	-	-	-	-	-	-	10:op3
+jagaha_1	7	-	pl	9:k7p	-	-	-	-
+pA_1-yA_jA_wA_hE_1	9	-	-	0:main	-	-	-	-
+[conj_1]	10	-	-	7:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_141b>
+#हालांकि कुछ रेतीली मिट्टी में भी अच्छी तरह से पनप सकते हैं।
+#hAlAMki kuCa rewIlI mittI meM BI acCI waraha se panapa sakawe hEM.
+#Though some may flourish well in sandy-soil conditions.
+kuCa_1(some_2)	1	-	-	3:quant	-	-	-	-
+rewIlI_1(sandy_2)	2	-	-	3:mod	-	-	-	-
+mittI_2(soil_4)	3	-	-	9:k7p	-	-	-	-
+acCA_8(well_9)	6	-	-	7:mod	-	-	-	-
+waraha_1	7	-	-	9:krvn	-	-	-	-
+panapa_1-0_sakawA_hE_1	9	-	-	0:main	biology_chapter3_plantkingdom_141a.9:vyaBicAra	-	-	-
+$wyax	10	-	-	9:k1	biology_chapter3_plantkingdom_141a.1:coref	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_142a>
+#आपको यह याद होगा।
+#Apako yAxa hogA ki brAyoPAitsa meM jIvana cakra meM pramuKa caraNa gEmetoPAitika pOXe kA SarIra hE.
+#Apako yaha yAxa hogA.
+$addressee	1	anim	-	4:k4a	-	-	-	-
+$wyax	2	-	-	4:k2	-	proximal	-	-
+yAxa_5(recall_5)	3	-	-	-	-	-	-	6:kriyAmUla
+ho_1-gA_1	4	-	-	-	-	-	-	6:verbalizer
+[cp_1]	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_142b>
+#कि ब्रायोफाइट्स में जीवन चक्र में प्रमुख चरण गैमेटोफाइटिक पौधे का शरीर है।
+#ki brAyoPAitsa meM jIvana cakra meM pramuKa caraNa gEmetoPAitika pOXe kA SarIra hE.
+#That in bryophytes the dominant phase in the life cycle is the gametophytic plant body.
+^brAyoPAitsa_1	1	-	-	-	-	-	-	15:whole
+jIvana_1(life_7)	3	-	-	-	-	-	-	14:mod
+cakra_2(cycle_1)	4	-	-	-	-	-	-	14:head
+pramuKa_7(dominant_1)	6	-	-	7:mod	-	-	-	-
+caraNa_1(phase_1)	7	-	-	12:k1	-	-	-	-
+^gEmetoPAitika_1	8	-	-	9:mod	-	-	-	-
+pOXA_1(plant_6)	9	-	-	11:r6	-	-	-	-
+SarIra_1(body_11)	11	-	-	12:k1s	-	-	-	-
+hE_1-pres	12	-	-	0:main	-	-	-	-
+[nc_1]	14	-	-	-	-	-	-	15:part
+[spatial_1]	15	-	-	12:k7	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_143>
+#हालाँकि, टेरिडोफाइट्स में, मुख्य पौधे का शरीर एक स्पोरोफाइट होता है जो वास्तविक जड़, तना और पत्तियों में विभेदित होता है।
+#hAlAzki, teridoPAitsa meM, muKya pOXe kA SarIra eka sporoPAita howA hE jo vAswavika jadZa, wanA Ora pawwiyoM meM viBexiwa howA hE.
+#However, in pteridophytes, the main plant body is a sporophyte which is differentiated into true root, stem and leaves .
+^teridoPAitsa_1	1	-	-	10:k7	-	-	-	-
+muKya_18(main_1)	4	-	-	5:mod	-	-	-	-
+pOXA_1(plant_6)	5	-	-	7:r6	-	-	-	-
+SarIra_1(body_11)	7	-	-	10:k1	-	-	-	-
+eka_2	8	-	-	9:quant	-	-	-	-
+^sporoPAita_1	9	-	-	10:k1s	-	-	-	-
+ho_1-wA_hE_1	10	-	-	0:main	biology_chapter3_plantkingdom_142.12:vyaBicAra	-	-	-
+$yax	12	-	-	24:k1	9:coref	-	-	-
+vAswavika_7(true_5)	13	-	-	25:mod	-	-	-	-
+jadZa_1(root_1)	14	-	-	-	-	-	-	25:op1
+wanA_1(stem_2)	16	-	-	-	-	-	-	25:op2
+pawwI_9(leaf_27)	18	-	pl	-	-	-	-	25:op3
+viBexiwa_1	20	-	-	-	-	-	-	24:kriyAmUla
+ho_1-wA_hE_1	21	-	-	-	-	-	-	24:verbalizer
+[cp_1]	24	-	-	9:rcelab	-	-	-	-
+[conj_1]	25	-	-	24:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_144>
+#इन अंगों में अच्छी तरह से विभेदित संवहनी ऊतक होते हैं।
+#ina aMgoM meM acCI waraha se viBexiwa saMvahanI Uwaka howe hEM.
+#ina aMgoM meM acCI waraha se viBexiwa saMvahanI Uwaka howe hEM.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+aMga_6(organ_1)	2	-	pl	10:k7p	-	-	-	-
+acCA_8(well_9)	4	-	-	5:mod	-	-	-	-
+waraha_1	5	-	-	10:krvn	-	-	-	-
+viBexiwa_1	7	-	-	9:mod	-	-	-	-
+saMvahanI_1	8	-	-	9:mod	-	-	-	-
+Uwaka_1(tissue_1)	9	-	-	10:k1	-	-	-	-
+ho_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_145a>
+#टेरिडोफाइटा में पत्तियाँ सेलाजिनेला की तरह छोटी (माइक्रोफिल) होती हैं।
+#teridoPAitA meM pawwiyAz selAjinelA kI waraha CotI (mAikroPila) howI hEM.
+#The leaves in pteridophyta are small as in Selaginella .
+^teridoPAitA_1	1	-	-	11:k7p	-	-	-	-
+pawwI_9(leaf_27)	3	-	pl	11:k1	-	-	-	-
+selAjinelA	4	-	-	-	-	-	-	12:start
+CotA_1(small_6)	7	-	-	11:k1s	-	-	-	-
+^mAikroPila	9	-	-	12:re	-	-	-	-
+ho_1-wA_hE_1	11	-	-	0:main	-	-	-	-
+[ne_1]	12	-	-	3:ru	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_145b>
+#या टेरिडोफाइटा में पत्तियाँ फर्न की तरह बड़ी (मैक्रोफिल) होती हैं।
+#yA teridoPAitA meM pawwiyAz Parna kI waraha badZI (mEkroPila) howI hEM.
+#Or the leaves in pteridophyta are large as in ferns.
+^teridoPAitA_1	1	-	-	11:k7p	-	-	-	-
+pawwI_9(leaf_27)	3	-	pl	11:k1	-	-	-	-
+^Parna_1	4	-	-	3:ru	-	-	-	-
+badZA_1	7	-	-	11:k1s	-	-	-	-
+^mEkroPila_1	9	-	-	4:re	-	-	-	-
+ho_1-wA_hE_1	11	-	-	0:main	biology_chapter3_plantkingdom_145a.11:anyawra	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_146>
+#स्पोरोफाइट्स में स्पोरैंगिया होता है जो पत्ती जैसे उपांगों द्वारा निर्मित होता है जिन्हें स्पोरोफिल कहा जाता है।
+#sporoPAitsa meM sporEMgiyA howA hE jo pawwI jEse upAMgoM xvArA nirmiwa howA hE jinheM sporoPila kahA jAwA hE.
+#The sporophytes bear sporangia that are subtended by leaf-like appendages called sporophylls.
+^sporoPAitsa_1	1	-	-	4:k7	-	-	-	-
+^sporEMgiyA_1	3	-	-	4:k1	-	-	-	-
+ho_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+$yax	6	-	-	21:k1	3:coref	-	-	-
+pawwA_1(leaf_2)	7	-	-	9:ru	-	-	-	-
+upAMga_1	9	-	pl	21:k3	-	-	-	-
+nirmiwa_1	11	-	-	-	-	-	-	21:kriyAmUla
+ho_1-wA_hE_1	12	-	-	-	-	-	-	21:verbalizer
+$yax	14	-	-	16:k2	3:coref	-	-	-
+sporoPila_1	15	-	-	16:k2s	-	-	-	-
+kaha_1(call_20)-yA_jA_wA_hE_1(en_is)	16	-	-	3:rcelab	-	-	-	-
+[cp_1]	21	-	-	3:rcdelim	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_147>
+#कुछ मामलों में स्पोरोफिल अलग-अलग कॉम्पैक्ट संरचनाएं बना सकते हैं जिन्हें स्ट्रोबिली या शंकु (सेलाजिनेला, इक्विसेटम) कहा जाता है।
+#kuCa mAmaloM meM sporoPila alaga-alaga kOYmpEkta saMracanAeM banA sakawe hEM jinheM strobilI yA SaMku (selAjinelA, ikvisetama) kahA jAwA hE.
+#In some cases sporophylls may form distinct compact structures called strobili or cones (Selaginella, Equisetum).
+kuCa_1(some_2)	1	-	-	2:quant	-	-	-	-
+mAmalA_1(case_2)	2	-	pl	8:k7	-	-	-	-
+^sporoPila_1	4	-	-	8:k1	-	-	-	-
+alaga_1	5	-	xviwva	7:mod	-	-	-	-
+^kOYmpEkta_1	6	-	-	5:mod	-	-	-	-
+saMracanA_1	7	-	pl	8:k2	-	-	-	-
+banA_1-0_sakawA_hE_1	8	-	-	0:main	-	-	-	-
+$yax	11	-	-	20:k2	7:coref	-	-	-
+^strobilI_1	12	-	-	-	-	-	-	24:op1
+SaMku_1(cone_1)	14	-	-	-	-	-	-	24:op2
+selAjinelA	16	-	-	-	-	-	-	25:start
+ikvisetama	18	-	-	-	-	-	-	26:start
+kaha_1(call_20)-yA_jA_wA_hE_1(en_is)	20	-	-	7:rcdelim	-	-	-	-
+[disjunct_1]	24	-	-	20:k2s	-	-	-	-
+[ne_1]	25	-	-	-	-	-	-	27:op1
+[ne_2]	26	-	-	-	-	-	-	27:op2
+[conj_1]	27	-	-	24:re	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_148>
+#स्पोरैंगिया बीजाणु मातृ कोशिकाओं में अर्धसूत्रीविभाजन द्वारा बीजाणु उत्पन्न करता है।
+#sporEMgiyA bIjANu mAwq koSikAoM meM arXasUwrIviBAjana xvArA bIjANu uwpanna karawA hE.
+#The sporangia produce spores by meiosis in spore mother cells.
+^sporEMgiyA_1	1	-	-	15:k1	-	-	-	-
+bIjANu_1(spore_1)	2	-	-	-	-	-	-	13:mod
+mAwq_1(mother_23)	3	-	-	-	-	-	-	14:mod
+koSikA_1(cell_1)	4	-	pl	-	-	-	-	14:head
+arXasUwrIviBAjana	6	-	-	15:k3	-	-	-	-
+bIjANu_1(spore_1)	8	-	-	15:k2	-	-	-	-
+uwpanna_1	9	-	-	-	-	-	-	15:kriyAmUla
+kara_1-wA_hE_1	10	-	-	-	-	-	-	15:verbalizer
+[nc_1]	13	-	-	15:k7p	-	-	-	-
+[nc_2]	14	-	-	-	-	-	-	13:head
+[cp_1]	15	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_149>
+#बीजाणु अंकुरित होकर अगोचर, छोटे लेकिन बहुकोशिकीय, मुक्त-जीवित, ज्यादातर प्रकाश संश्लेषक थैलॉइड गैमेटोफाइट्स को जन्म देते हैं जिन्हें प्रोथैलस कहा जाता है।
+#bIjANu aMkuriwa hokara agocara, Cote lekina bahukoSikIya, mukwa-jIviwa, jyAxAwara prakASa saMSleRaka WElOYida gEmetoPAitsa ko janma xewe hEM jinheM proWElasa kahA jAwA hE.
+#The spores germinate to give rise to inconspicuous, small but multicellular, free-living, mostly photosynthetic thalloid gametophytes called prothallus.
+bIjANu_1(spore_1)	1	-	-	28:k1	-	-	-	-
+aMkuriwa_1(germinated_1)	2	-	-	-	-	-	-	28:kriyAmUla
+ho_1-kara_1	3	-	-	-	-	-	-	28:verbalizer
+agocara_2	4	-	-	-	-	-	-	30:op1
+CotA_1	6	-	-	-	-	-	-	30:op2
+bahukoSikIya_1	8	-	-	-	-	-	-	30:op3
+mukwa_1+jIviwa_1	10	-	-	-	-	-	-	30:op4
+jyAxAwara_3(most_4)	12	-	-	29:krvn	-	-	-	-
+prakASa	13	-	-	-	-	-	-	27:mod
+saMSleRaka_1	14	-	-	-	-	-	-	27:head
+^WElOYida_1	15	-	-	29:k1	-	-	-	-
+^gEmetoPAitsa_1	16	-	-	29:k2	-	-	-	-
+janma_1	18	-	-	-	-	-	-	29:kriyAmUla
+xe_1(give_1)-wA_hE_1(es_1)	19	-	-	-	-	-	-	29:verbalizer
+$yax	21	-	-	23:k2	16:coref	-	-	-
+^proWElasa_1	22	-	-	23:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	23	-	-	16:rcdelim	-	-	-	-
+[nc_1]	27	-	-	19:k1	-	-	-	30:op5
+[cp_1]	28	-	-	29:rpk	-	-	-	-
+[cp_2]	29	-	-	0:main	-	-	-	-
+[conj_1]	30	-	-	15:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_150>
+#इन गैमेटोफाइट्स को बढ़ने के लिए ठंडी, नम, छायादार जगहों की आवश्यकता होती है।
+#ina gEmetoPAitsa ko baDZane ke lie TaMdI, nama, CAyAxAra jagahoM kI AvaSyakawA howI hE.
+#ina gEmetoPAitsa ko baDZane ke lie TaMdI, nama, CAyAxAra jagahoM kI AvaSyakawA howI hE.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+^gEmetoPAitsa_1	2	-	-	4:k2	-	-	-	-
+baDZa_4(grow_3)	4	-	-	15:rt	-	-	-	-
+TaMdA_1(cool_2)	7	-	-	-	-	-	-	16:op1
+nama_3(damp_3)	9	-	-	-	-	-	-	16:op2
+CAyAxAra_1(shady_3)	11	-	-	-	-	-	-	16:op3
+jagaha_1(place_3)	12	-	pl	14:r6	-	-	-	-
+AvaSyakawA_3(requirement_1)	14	-	-	15:k1	-	-	-	-
+ho_1-wA_hE_1	15	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	12:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_151a>
+#इस विशिष्ट प्रतिबंधित आवश्यकता और निषेचन के लिए पानी होने की आवश्यकता के कारण, जीवित टेरिडोफाइट्स का प्रसार सीमित है।
+#isa viSiRta prawibaMXiwa AvaSyakawA Ora niRecana ke lie pAnI hone kI AvaSyakawA ke kAraNa, jIviwa teridoPAitsa kA prasAra sImiwa hE.
+#Because of this specific restricted requirement and the need for water for fertilisation, the spread of living pteridophytes is limited .
+$wyax	1	-	-	2:dem	-	proximal	-	-
+viSiRta_3(specific_1)	2	-	-	4:mod	-	-	-	-
+prawibaMXiwa_1(restricted_4)	3	-	-	4:mod	-	-	-	-
+AvaSyakawA_3(requirement_1)	4	-	-	-	-	-	-	22:op1
+niRecana_4(fertilisation_4)	6	-	-	23:rt	-	-	-	-
+pAnI_1(water_7)	9	-	-	23:k2	-	-	-	-
+AvaSyakawA_2(need_1)	11	-	-	-	-	def	-	22:op2
+jIviwa_2(living_6)	15	-	-	16:mod	-	-	-	-
+teridoPAitsa_1	16	-	-	18:r6	-	-	-	-
+prasAra_5(spread_3)	18	-	-	20:k1	-	def	-	-
+sImiwa_2(limited_4)	19	-	-	20:k1s	-	-	-	-
+hE_1-pres	20	-	-	0:main	-	-	-	-
+[conj_1]	22	-	-	20:rh	-	-	-	-
+ho_7(happen_2)	23	-	-	11:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_151b>
+#और वह संकीर्ण भौगोलिक क्षेत्रों तक ही सीमित है।
+#Ora vaha saMkIrNa BOgolika kRewroM waka hI sImiwa hE.
+#And that is restricted to narrow geographical regions.
+$wyax	1	-	-	8:k1	biology_chapter3_plantkingdom_151a.18:coref	distal	-	-
+saMkIrNa_2(narrow_5)	2	-	-	3:mod	-	-	-	-
+BOgolika_1(geographical_1)	3	-	-	4:mod	-	-	-	-
+kRewra_4(region_3)	4	-	pl	-	-	hI_1	-	9:end
+sImiwa_1(restricted_7)	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	biology_chapter3_plantkingdom_151a.20:samuccaya	-	-	-
+[span_1]	9	-	-	8:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_152>
+#गैमेटोफाइट्स में क्रमशः नर और मादा यौन अंग होते हैं जिन्हें एंटीहेरिडिया और आर्कगोनिया कहा जाता है।
+#gEmetoPAitsa meM kramaSaH nara Ora mAxA yOna aMga howe hEM jinheM eMtIheridiyA Ora ArkagoniyA kahA jAwA hE.
+#The gametophytes bear male and female sex organs called antiheridia and archegonia, respectively.
+gEmetoPAitsa_1	1	-	-	9:k7	-	def	-	-
+kramaSaH_1(respectively_3)	3	-	-	9:krvn	-	-	-	-
+nara_2(male_1)	4	-	-	-	-	-	-	20:op1
+mAxA_1(female_2)	6	-	-	-	-	-	-	20:op2
+yOna_1(sexual_1)	7	-	-	8:mod	-	-	-	-
+aMga_6(organ_1)	8	-	-	9:k1s	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+$yax	11	-	-	15:k2	-	-	-	-
+eMtIheridiyA_1	12	-	-	-	-	-	-	19:op1
+ArkagoniyA_1	14	-	-	-	-	-	-	19:op2
+kaha_1(call_20)-yA_jA_wA_hE_1(en_is)	15	-	-	8:rcelab	-	-	-	-
+[conj_1]	19	-	-	15:k2s	-	-	-	-
+[conj_2]	20	-	-	7:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_153>
+#एंटीहेरिडिया से निकलने वाले नर युग्मकों को आर्कगोनियम के मुख तक स्थानांतरित करने के लिए पानी की आवश्यकता होती है।
+#eMtIheridiyA se nikalane vAle nara yugmakoM ko Arkagoniyama ke muKa waka sWAnAMwariwa karane ke lie pAnI kI AvaSyakawA howI hE.
+#Water is required for transfer of antherozoids – the male gametes released from the antiheridia, to the mouth of archegonium.
+eMtIheridiyA_1	3	-	-	5:k5	-	def	-	-
+nikala_1	5	-	-	8:mod	-	-	-	-
+nara_2(male_1)	7	-	-	8:mod	-	-	-	-
+yugmaka_4	8	-	pl	25:k2	-	def	-	-
+Arkagoniyama_1	10	-	-	26:r6	-	-	-	-
+muKa_7(mouth_3)	12	-	-	-	-	def	-	26:end
+sWAnAMwariwa_4(transfer_22)	14	-	-	-	-	-	-	25:kriyAmUla
+kara_17(do_2)	15	-	-	-	-	-	-	25:verbalizer
+pAnI_1(water_7)	18	-	-	20:r6	-	-	-	-
+AvaSyakawA_3(requirement_1)	20	-	-	21:k1	-	-	-	-
+ho_1-wA_hE_1	21	-	-	0:main	-	-	-	-
+[cp_1]	25	-	-	21:rt	-	-	-	-
+[span_1]	26	-	-	25:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_153T>
+#एथेरोज़ोइड्स
+#eWerojZoidsa
+#eWerojZoidsa
+eWerojZoidsa_1	1	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_154>
+#आर्कगोनियम में मौजूद अंडे के साथ नर युग्मक के संलयन से युग्मनज का निर्माण होता है।
+#Arkagoniyama meM mOjUxa aMde ke sAWa nara yugmaka ke saMlayana se yugmanaja kA nirmANa howA hE.
+#Fusion of male gamete with the egg present in the archegonium result in the formation of zygote.
+Arkagoniyama_1	1	-	-	3:k7p	-	def	-	-
+mOjUxa_1(present_10)	3	-	-	4:mod	-	-	-	-
+aMdA_1(egg_2)	4	-	-	17:k2	-	def	-	-
+nara_2(male_1)	7	-	-	8:mod	-	-	-	-
+yugmaka_1	8	-	-	17:k1	-	-	-	-
+saMlayana_1	10	-	-	-	-	-	-	17:kriyAmUla
+yugmanaja_1	12	-	-	15:k1	-	-	-	-
+nirmANa_17(form_71)	14	-	-	15:k1s	-	-	-	-
+ho_1-wA_hE_1	15	-	-	0:main	-	-	-	-
+kara_1	16	-	-	-	-	-	-	17:verbalizer
+[cp_1]	17	-	-	15:rh	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_155>
+#इसके बाद जाइगोट एक बहुकोशिकीय सुविभेदित स्पोरोफाइट का निर्माण करता है जो टेरिडोफाइट्स का प्रमुख चरण है।
+#isake bAxa jAigota eka bahukoSikIya suviBexiwa sporoPAita kA nirmANa karawA hE jo teridoPAitsa kA pramuKa caraNa hE.
+#Zygote thereafter produces a multicellular well-differentiated sporophyte which is the dominant phase of the pteridophytes.
+jAigota_1	3	-	-	19:k1	-	-	-	-
+eka_1	4	-	-	7:quant	-	-	-	-
+bahukoSikIya_1	5	-	-	7:mod	-	-	-	-
+suviBexiwa_1	6	-	-	7:mod	-	-	-	-
+sporoPAita_1	7	-	-	19:k2	-	-	-	-
+nirmANa_18	9	-	-	-	-	-	-	19:kriyAmUla
+kara_1-wA_hE_1	10	-	-	-	-	-	-	19:verbalizer
+$yax	12	-	-	17:k1	-	-	-	-
+teridoPAitsa_1	13	-	-	16:r6	-	def	-	-
+pramuKa_7(dominant_1)	15	-	-	16:mod	-	-	-	-
+caraNa_1(phase_1)	16	-	-	17:k1s	-	def	-	-
+hE_1-pres	17	-	-	7:rcelab	-	-	-	-
+[cp_1]	19	-	-	0:main	biology_chapter3_plantkingdom_154.15:uwwarkAla	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_156a>
+#अधिकांश टेरिडोफाइट्स में सभी बीजाणु समान प्रकार के होते हैं।
+#aXikAMSa teridoPAitsa meM saBI bIjANu samAna prakAra ke howe hEM.
+#In majority of the pteridophytes all the spores are of similar kinds.
+aXikAMSa_3	1	-	-	2:quant	-	-	-	-
+teridoPAitsa_1	2	-	-	9:k7	-	def	-	-
+saBI_1(all_1)	4	-	-	5:quant	-	-	-	-
+bIjANu_1(spore_1)	5	-	-	9:k1	-	def	-	-
+samAna_3(similar_5)	6	-	-	7:mod	-	-	-	-
+prakAra_1(kind_8)	7	-	-	5:r6	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_156b>
+#ऐसे पौधों को समबीजाणु कहा जाता है।
+#Ese pOXoM ko samabIjANu kahA jAwA hE.
+#Such plants are called homosporous.
+$wyax	1	-	-	6:dem	-	-	-	-
+pOXa_3(plant_22)	2	-	pl	5:k2	-	-	-	-
+samabIjANu_1	4	-	-	5:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	5	-	-	0:main	-	-	-	-
+prakAra_1(kind_8)	6	-	-	2:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_157>
+#सेलाजिनेला और साल्विनिया जैसी प्रजातियां जो दो प्रकार के बीजाणु, स्थूल (बड़े) और सूक्ष्म (छोटे) बीजाणु उत्पन्न करती हैं, विषमबीजाणु कहलाती हैं।
+#selAjinelA Ora sAlviniyA jEsI prajAwiyAM jo xo prakAra ke bIjANu, sWUla (badZe) Ora sUkRma (Cote) bIjANu uwpanna karawI hEM, viRamabIjANu kahalAwI hEM.
+#Genera like Selaginella and Salvinia which produce two kinds of spores, macro and micro spores, are known as heterosporous.
+selAjinelA_1	1	-	-	-	-	-	-	33:op1
+sAlviniyA_1	3	-	-	-	-	-	-	33:op2
+prajAwI_1	5	-	pl	27:k2	-	-	-	-
+$yax	6	-	-	30:k1	-	-	-	-
+2	7	numex	-	8:card	-	-	-	-
+prakAra_1(kind_8)	8	-	-	10:r6	-	-	-	-
+bIjANu_1(spore_1)	10	-	-	30:k2	-	-	-	-
+sWUla_21	12	-	-	-	-	-	-	32:op1
+badZA_2(large_5)	14	-	-	12:rs	-	-	-	-
+sUkRma_18	17	-	-	-	-	-	-	32:op2
+CotA_1(small_6)	19	-	-	17:rs	-	-	-	-
+bIjANu_1(spore_1)	21	-	-	10:rs	-	-	-	-
+uwpanna_1(produced_1)	22	-	-	-	-	-	-	30:kriyAmUla
+kara_1-wA_hE_1	23	-	-	-	-	-	-	30:verbalizer
+viRamabIjANu_1	26	-	-	27:k2s	-	-	-	-
+kahalA_1-wA_hE_1	27	-	-	0:main	-	-	-	-
+[cp_1]	30	-	-	5:rcelab	-	-	-	-
+[conj_2]	32	-	-	21:mod	-	-	-	-
+[conj_1]	33	-	-	5:ru	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_158a>
+#मेगास्पोर्स और माइक्रोस्कोप अंकुरित होते हैं।
+#megAsporsa Ora mAikroskopa aMkuriwa howe hEM.
+#The megaspores and microscopes germinate .
+megAsporsa_1	1	-	-	-	-	-	-	9:op1
+mAikroskopa_1	3	-	-	-	-	-	-	9:op2
+aMkuriwa_1(germinated_1)	4	-	-	5:k1s	-	-	-	-
+ho_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+[conj_1]	9	-	-	5:k1	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_158b>
+#और वे क्रमशः मादा और नर गैमेटोफाइट्स को जन्म देते हैं।
+#Ora ve kramaSaH mAxA Ora nara gEmetoPAitsa ko janma xewe hEM .
+#Ora ve kramaSaH mAxA Ora nara gEmetoPAitsa ko janma xewe hEM.
+$wyax	1	-	-	12:k1	biology_chapter3_plantkingdom_158a.9:coref	distal	-	-
+kramaSaH_1(respectively_3)	2	-	-	12:krvn	-	-	-	-
+mAxA_1(female_2)	3	-	-	-	-	-	-	13:op1
+nara_2(male_1)	5	-	-	-	-	-	-	13:op2
+gEmetoPAitsa_1	6	-	-	12:k2	-	-	-	-
+janma_1(birth_4)	8	-	-	-	-	-	-	12:kriyAmUla
+xe_1-wA_hE_1	9	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	biology_chapter3_plantkingdom_158a.5:samuccaya	-	-	-
+[conj_1]	13	-	-	6:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_159>
+#इन पौधों में मादा गैमेटोफाइट्स विभिन्न अवधियों के लिए मूल स्पोरोफाइट्स पर बनी रहती हैं।
+#ina pOXoM meM mAxA gEmetoPAitsa viBinna avaXiyoM ke lie mUla sporoPAitsa para banI rahawI hEM.
+#The female gametophytes in these plants are retained on the parent sporophytes for variable periods.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+pOXA_1(plant_6)	2	-	pl	14:k7	-	-	-	-
+mAxA_1(female_2)	4	-	-	5:mod	-	-	-	-
+gEmetoPAitsa_1	5	-	-	14:k1	-	-	-	-
+viBinna_9	6	-	-	7:mod	-	-	-	-
+avaXI_1	7	-	pl	14:rt	-	-	-	-
+mUla_30	10	-	-	11:mod	-	-	-	-
+sporoPAitsa_1	11	-	-	14:k7p	-	-	-	-
+bana_19	13	-	-	14:k1s	-	-	-	-
+raha_1-wA_hE_1	14	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_160>
+#युवा भ्रूणों में युग्मनज का विकास मादा गैमेटोफाइट्स के भीतर होता है।
+#yuvA BrUNoM meM yugmanaja kA vikAsa mAxA gEmetoPAitsa ke BIwara howA hE.
+#The development of the zygotes into young embryos take place within the female gametophytes.
+yuvA_3(young_1)	1	-	-	2:mod	-	-	-	-
+BrUNa_2(embryo_2)	2	-	pl	11:k7	-	-	-	-
+yugmanaja_1	4	-	-	6:r6	-	-	-	-
+vikAsa_2(development_7)	6	-	-	11:k1	-	-	-	-
+mAxA_1(female_2)	7	-	-	8:mod	-	-	-	-
+gEmetoPAitsa_1	8	-	-	10:rdl	-	-	-	-
+BIwara_3(within_2)	10	-	-	11:k7p	-	-	-	-
+ho_1-wA_hE_1	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_161>
+#यह घटना बीज आदत का अग्रदूत है जिसे विकास में एक महत्वपूर्ण कदम माना जाता है।
+#yaha GatanA bIja Axawa kA agraxUwa hE jise vikAsa meM eka mahawvapUrNa kaxama mAnA jAwA hE.
+#This event is a precursor to the seed habit considered an important step in evolution.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+GatanA_1	2	-	-	7:k1	-	-	-	-
+bIja_1	3	-	-	-	-	-	-	18:mod
+Axawa_1	4	-	-	-	-	-	-	18:head
+agraxUwa_1	6	-	-	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+$yax	8	-	-	14:k2	6:coref	-	-	-
+vikAsa_1	9	-	-	14:k7	-	-	-	-
+eka_1	11	-	-	13:quant	-	-	-	-
+mahawvapUrNa_1	12	-	-	13:mod	-	-	-	-
+kaxama_1	13	-	-	14:k2s	-	-	-	-
+mAna_1-yA_jAwA_hE_1	14	-	-	6:rcdelim	-	-	-	-
+[nc_1]	18	-	-	6:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_162>
+#टेरिडोफाइट्स को आगे चार वर्गों में वर्गीकृत किया गया है: साइलोप्सिडा (साइलोटम), लाइकोप्सिडा (सेलाजिनेला, लाइकोपोडियम), स्फेनोप्सिडा (इक्विसेटम) और टेरोप्सिडा (ड्रायोप्टेरिस, पियरिस, एडिएंटम)।
+#teridoPAitsa ko Age cAra vargoM meM vargIkqwa kiyA gayA hE: sAilopsidA (sAilotama), lAikopsidA (selAjinelA, lAikopodiyama), sPenopsidA (ikvisetama) Ora teropsidA (drAyopterisa, piyarisa, edieMtama).
+#The pteridophytes are further classified into four classes: Psilopsida ; Lycopsida (Selaginella, Lycopodium), Sphenopsida and Pteropsida (Dryopteris, Pieris, Adiantum).
+teridoPAitsa_1	1	-	-	38:k2	-	def	-	-
+Age_5(further_3)	3	-	-	38:krvn	-	-	-	-
+4	4	numex	-	5:card	-	-	-	-
+varga_1(class_4)	5	-	pl	38:k7	-	-	-	-
+vargIkqwa_1(classified_1)	7	-	-	-	-	-	-	38:kriyAmUla
+kara_1-yA_jA_yA_hE_1	8	-	-	-	-	-	-	38:verbalizer
+sAilopsidA_1	12	-	-	-	-	-	-	39:op1
+sAilotama_1	14	-	-	12:rs	-	-	-	-
+lAikopsidA_1	17	-	-	-	-	-	-	39:op2
+selAjinelA_1	19	-	-	-	-	-	-	40:op1
+lAikopodiyama_1	21	-	-	-	-	-	-	40:op2
+sPenopsidA_1	24	-	-	-	-	-	-	39:op3
+ikvisetama_1	26	-	-	24:rs	-	-	-	-
+teropsidA_1	29	-	-	-	-	-	-	39:op4
+drAyopterisa_1	31	-	-	-	-	-	-	41:op1
+piyarisa_1	33	-	-	-	-	-	-	41:op2
+edieMtama_1	35	-	-	-	-	-	-	41:op3
+[cp_1]	38	-	-	0:main	-	-	-	-
+[conj_1]	39	-	-	38:k2s	-	-	-	-
+[conj_2]	40	-	-	17:rs	-	-	-	-
+[conj_3]	41	-	-	29:rs	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_163a>
+#जिम्नोस्पर्म (जिमनोज़: नग्न, स्पर्मा: बीज) ऐसे पौधे हैं।
+#jimnosparma (jimanojZa: nagna, sparmA: bIja) Ese pOXe hEM.
+#The gymnosperms (gymnos: naked, sperma: seed) are such plants.
+jimnosparma	1	-	-	13:k1	-	-	-	-
+jimanojZa	3	-	-	1:re	-	-	-	-
+nagna_1	5	-	-	13:k1s	-	-	-	-
+sparmA_1	7	-	-	12:r6	-	-	-	-
+bIja_1	9	-	-	7:re	-	-	-	-
+EsA	11	-	-	12:dem	-	-	-	-
+pOXA_1	12	-	-	13:k1	-	-	-	-
+hE_1-pres	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_163b>
+#जिनमें बीजांड किसी भी अंडाशय की दीवार से घिरे नहीं होते हैं।
+#jinameM bIjAMda kisI BI aMdASaya kI xIvAra se Gire nahIM howe hEM.
+#Their ovules are not enclosed by any ovary wall.
+$yax	1	-	-	11:k7	biology_chapter3_plantkingdom_163a.1:coref	-	-	-
+bIjAMda_1	2	-	-	11:k1	-	-	-	-
+koI_1(any_1)	3	-	-	5:mod	-	BI_1	-	-
+aMdASaya_1(ovaries_1)	5	-	-	7:r6	-	-	-	-
+xIvAra_1(wall_1)	7	-	-	9:k5	-	-	-	-
+Gira_1(surround_3)	9	-	-	11:k1s	-	-	-	-
+nahIM_2(not_3)	10	-	-	11:neg	-	-	-	-
+ho_1-wA_hE_1	11	-	-	biology_chapter3_plantkingdom_163a.1:rcdelim	-	-	-	-
+%negative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_163c>
+#और जिनमें यह निषेचन से पहले और बाद में भी खुले रहते हैं।
+#Ora jinameM yaha niRecana se pahale Ora bAxa meM BI Khule rahate hEM.
+#Ora jinameM yaha niRecana se pahale Ora bAxa meM BI Kule rahawe hEM.
+$yax	1	-	-	15:k7	biology_chapter3_plantkingdom_163a.1:coref	-	-	-
+$wyax	2	-	-	15:k1	1:coref	proximal	-	-
+niRecana_4(fertilisation_4)	3	-	-	14:rkl	-	-	-	-
+pahalA_9(before_1)	5	-	-	-	-	-	-	14:op1
+bAxa_1(after_8)	7	-	-	-	-	-	-	14:op2
+Kula_4	10	-	-	15:k1s	-	-	-	-
+[conj_1]	14	-	-	15:k7t	-	-	-	-
+raha_1-wA_hE_1	15	-	-	biology_chapter3_plantkingdom_163a.1:rcdelim	biology_chapter3_plantkingdom_163b.11:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_164a>
+#निषेचन के बाद जो बीज विकसित होते हैं, वे ढंके हुए नहीं होते।
+#niRecana ke bAxa jo bIja vikasiwa howe hEM, ve DaMke hue nahIM howe.
+#The seeds that develop after fertilisation are not covered.
+niRecana_4(fertilisation_4)	1	-	-	3:rkl	-	-	-	-
+bAxa_1(after_8)	3	-	-	7:k7t	-	-	-	-
+$yax	4	-	-	5:dem	-	-	-	-
+bIja_1(seed_3)	5	-	-	7:k1	-	-	-	-
+vikasiwa_9	6	-	-	7:k1s	-	-	-	-
+ho_1-wA_hE_1	7	-	-	10:rcelab	-	-	-	-
+$wyax	10	-	-	14:k1	5:coref	distal	-	-
+DaMka_1	11	-	-	14:k1s	-	-	-	-
+nahIM_1(not_1)	13	-	-	14:neg	-	-	-	-
+ho_1-wA_hE_1	14	-	-	0:main	-	-	-	-
+%negative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_164b>
+#यानी वे नग्न होते हैं।
+#yAnI ve nagna howe hEM.
+#That is, they are naked.
+$wyax	2	-	-	4:k1	biology_chapter3_plantkingdom_164a.5:coref	distal	-	-
+nagna_2(naked_2)	3	-	-	4:k1s	-	-	-	-
+ho_1-wA_hE_1	4	-	-	0:main	biology_chapter3_plantkingdom_164a.14:arWAwa	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_165>
+#जिम्नोस्पर्म में मध्यम आकार के पेड़ या ऊँचे पेड़ और झाड़ियाँ शामिल हैं (चित्र 3.4)।
+#jimnosparma meM maXyama AkAra ke pedZa yA Uzce pedZa Ora JAdZiyAz SAmila hEM.
+#jimnosparma meM maXyama AkAra ke pedZa yA Uzce pedZa Ora JAdZiyAz SAmila hEM (ciwra 3.4).
+jimnosparma_1	1	-	-	13:k7	-	-	-	-
+maXyama_1(medium_3)	3	-	-	4:mod	-	-	-	-
+AkAra_3(size_1)	4	-	-	6:r6	-	-	-	-
+pedZa_1(tree_5)	6	-	-	-	-	-	-	21:op1
+UzcA_8	8	-	-	9:mod	-	-	-	-
+pedZa_1(tree_5)	9	-	-	-	-	-	-	21:op2
+JAdZI_1(shrub_1)	11	-	pl	-	-	-	-	22:op2
+SAmila_1(included_5)	12	-	-	13:k1s	-	-	-	-
+hE_1-pres	13	-	-	0:main	-	-	-	-
+[disjunct_1]	21	-	-	-	-	-	-	22:op1
+[conj_1]	22	-	-	13:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_166>
+#जिम्नोस्पर्मों में से एक, विशाल रेडवुड वृक्ष सिकोइया सबसे ऊंचे वृक्ष प्रजातियों में से एक है।
+#jimnosparmoM meM se eka, viSAla redavuda vqkRa sikoiyA sabase UMce vqkRa prajAwiyoM meM se eka hE.
+#One gymnosperm, the giant redwood Sequoia, is among the tallest tree species.
+jimnosparma_1	1	-	pl	8:rn	-	-	-	-
+eka_6(one_1)	4	-	-	8:quant	-	-	-	-
+viSAla_13	6	-	-	8:mod	-	-	-	-
+^redavuda_1	7	-	-	8:mod	-	-	-	-
+vqkRa_1(tree_8)	8	-	-	9:rs	-	-	-	-
+sikoiyA_1	9	-	-	17:k1	-	-	-	-
+UMcA_3	11	-	superl	12:mod	-	-	-	-
+vqkRa_1(tree_8)	12	-	-	-	-	-	-	20:mod
+prajAwI_1	13	-	pl	-	-	-	-	20:head
+eka_6(one_1)	16	-	-	21:quant	-	-	-	-
+hE_1(state_copula_1)	17	-	-	0:main	-	-	-	-
+[nc_2]	20	-	-	21:rn	-	-	-	-
+prajAwI_1	21	-	-	17:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_167>
+#जड़ें सामान्यतः मूसला जड़ें होती हैं।
+#jadZeM sAmAnyawaH mUsalA jadZeM howI hEM.
+#The roots are generally tap roots.
+jadZa_1(root_1)	1	-	pl	5:k1	-	def	-	-
+sAmAnyawaH_3(generally_10)	2	-	-	5:krvn	-	-	-	-
+mUsalA_1	3	-	-	4:rs	-	-	-	-
+jadZa_1(root_1)	4	-	pl	5:k1s	-	-	-	-
+ho_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_168a>
+#कुछ वंशों की जड़ों में माइकोराइजा (पिनस) के रूप में फफूंद का संबंध होता है,
+#kuCa vaMSoM kI jadZoM meM mAikorAijA (pinasa) ke rUpa meM PaPUMxa kA saMbaMXa howA hE,
+#In some genera, roots have fungal associations in the form of mycorrhiza .
+kuCa_1(some_2)	1	-	-	2:quant	-	-	-	-
+vaMSa_17	2	-	pl	4:r6	-	-	-	-
+jadZa_1(root_1)	4	-	pl	16:k7	-	-	-	-
+mAikorAijA_1	6	-	-	16:k7	-	-	-	-
+pinasa_1	8	-	-	6:re	-	-	-	-
+PaPUMxa_1	13	-	-	15:r6	-	-	-	-
+saMbaMXa_4(association_12)	15	-	-	16:k1	-	-	-	-
+ho_7(happen_2)-wA_hE_1(es_1)	16	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_168b>
+#जबकि कुछ अन्य वंशों (साइकास) में छोटी विशेष जड़ें जिन्हें कोरलॉइड जड़ें कहा जाता है, एन₂-फिक्सिंग साइनोबैक्टीरिया से जुड़ी होती हैं।
+#jabaki kuCa anya vaMSoM (sAikAsa) meM CotI viSeRa jadZeM jinheM koralOYida jadZeM kahA jAwA hE, ena₂-PiksiMga sAinobEktIriyA se judZI howI hEM.
+#In others , small specialised coralloid roots are associated with N₂-fixing cyanobacteria.
+kuCa_1(some_2)	1	-	-	2:quant	-	-	-	-
+anya_1(other_1)	2	-	-	22:mod	-	-	-	-
+sAikAsa_1	4	-	-	22:rs	-	-	-	-
+CotA_1(small_6)	7	-	-	9:mod	-	-	-	-
+viSeRa_1(special_4)	8	-	-	9:mod	-	-	-	-
+jadZa_1(root_1)	9	-	pl	23:k1	-	-	-	-
+$yax	10	-	-	13:k2	9:coref	-	-	-
+koralOYida_1	11	-	-	12:mod	-	-	-	-
+jadZa_1(root_1)	12	-	pl	13:k2s	-	-	-	-
+kaha_1(call_20)-yA_jA_wA_hE_1(en_is)	13	-	-	9:rcdelim	-	-	-	-
+ena₂+PiksiMga_1	17	-	-	18:mod	-	-	-	-
+sAinobEktIriyA_1	18	-	-	23:k2	-	-	-	-
+judZa_10	20	-	-	-	-	-	-	23:kriyAmUla
+ho_6(be_4)-wA_hE_1(es_1)	21	-	-	-	-	-	-	23:verbalizer
+vaMSa_1	22	-	pl	23:k7	-	-	-	-
+[cp_1]	23	-	-	0:main	biology_chapter3_plantkingdom_168a.16:viroXI_xyowaka	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_169>
+#तने अशाखित (साइकस) या शाखित (पाइनस, सेड्रस) होते हैं।
+#wane aSAKiwa yA SAKiwa (pAinasa, sedrasa) hote hEM.
+#wane aSAKiwa (sAikasa) yA SAKiwa (pAinasa, sedrasa) howe hEM.
+wanA_1(stem_2)	1	-	pl	13:k1	-	-	-	-
+aSAKiwa_1	2	-	-	-	-	-	-	16:op1
+sAikasa_1	4	-	-	2:re	-	-	-	-
+SAKiwa_1	7	-	-	-	-	-	-	16:op2
+pAinasa_1	9	-	-	-	-	-	-	17:op1
+sedrasa_1	11	-	-	-	-	-	-	17:op2
+ho_6(be_4)-wA_hE_1(es_1)	13	-	-	0:main	-	-	-	-
+[disjunct_1]	16	-	-	13:k1s	-	-	-	-
+[conj_1]	17	-	-	7:re	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_170>
+#पत्तियाँ सरल या मिश्रित हो सकती हैं।
+#pawwiyAz sarala yA miSriwa ho sakawI hEM.
+#pawwiyAz sarala yA miSriwa ho sakawI hEM.
+pawwI_9(leaf_27)	1	-	pl	5:k1	-	-	-	-
+sarala_2(simple_7)	2	-	-	-	-	-	-	9:op1
+miSriwa_1	4	-	-	-	-	-	-	9:op2
+ho_6(be_4)-0_sakawA_hE_1(0_can_1)	5	-	-	0:main	-	-	-	-
+[disjunct_1]	9	-	-	5:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_171>
+#साइकस में पंखदार पत्तियाँ कुछ वर्षों तक बनी रहती हैं।
+#sAikasa meM paMKaxAra pawwiyAz kuCa varRoM waka banI rahawI hEM.
+#In Cycas, pinnate leaves persist for several years.
+sAikasa_1	1	-	-	9:k7	-	-	-	-
+paMKaxAra_1	3	-	-	4:mod	-	-	-	-
+pawwI_9(leaf_27)	4	-	pl	9:k1	-	-	-	-
+kuCa_1(some_2)	5	-	-	6:quant	-	-	-	-
+varRa_1(year_4)	6	-	pl	-	-	-	-	10:end
+bana_1	8	-	-	9:k1s	-	-	-	-
+raha_2(stay_8)-wA_hE_1(es_1)	9	-	-	0:main	-	-	-	-
+[span_1]	10	-	-	9:k7t	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_172>
+#जिम्नोस्पर्म की पत्तियाँ अत्यधिक तापमान, आर्द्रता और हवा का सामना करने के लिए अच्छी तरह से अनुकूलित होती हैं।
+#jimnosparma kI pawwiyAz awyaXika wApamAna, ArxrawA Ora havA kA sAmanA karane ke lie acCI waraha se anukUliwa howI hEM.
+#The leaves are adapted to withstand extremes of temperature, humidity and wind.
+jimnosparma_1	1	-	-	3:r6	-	-	-	-
+pawwI_9(leaf_27)	3	-	pl	19:k1	-	def	-	-
+wApamAna_1(temperature_2)	5	-	-	-	-	-	-	24:op1
+ArxrawA_3(humidity_2)	7	-	-	-	-	-	-	24:op2
+havA_2(wind_6)	9	-	-	-	-	-	-	24:op3
+sAmanA_20	11	-	-	-	-	-	-	22:kriyAmUla
+kara_17(do_2)	12	-	-	-	-	-	-	22:verbalizer
+acCA_1(good_1)	15	-	-	16:mod	-	-	-	-
+waraha_11(way_59)	16	-	-	19:krvn	-	-	-	-
+anukUliwa_2	18	-	-	19:k1s	-	-	-	-
+ho_7(happen_2)-wA_hE_1(es_1)	19	-	-	0:main	-	-	-	-
+[cp_1]	22	-	-	19:rt	-	-	-	-
+[conj_1]	24	-	-	22:k2	-	-	-	-
+awyaXika_2(excessive_2)	25	-	-	24:intf	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_173>
+#कोनिफ़र्स में, सुई जैसी पत्तियाँ सतह क्षेत्र को कम कर देती हैं।
+#koniPZarsa meM, suI jEsI pawwiyAz sawaha kRewra ko kama kara xewI hEM.
+#In conifers, needle-like leaves reduce surface area.
+^koniPZarsa_1	1	-	-	16:k7	-	-	-	-
+suI_1(needle_3)	4	-	-	6:ru	-	-	-	-
+pawwI_9(leaf_27)	6	-	pl	16:k1	-	-	-	-
+sawaha_1(surface_3)	7	-	-	-	-	-	-	18:mod
+kRewra_5(area_2)	8	-	-	-	-	-	-	18:head
+kara_17(do_2)-wA_hE_1(es_1)	11	-	-	-	-	[shade:xe_1]	-	16:verbalizer
+[cp_1]	16	-	-	0:main	-	-	-	-
+kama_8(reduced_1)	17	-	-	-	-	-	-	16:kriyAmUla
+[nc_1]	18	-	-	16:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_174>
+#उनके मोटे क्यूटिकल और धँसे हुए रंध्र भी पानी की कमी को कम करने में मदद करते हैं।
+#unake mote kyUtikala Ora XaMse hue raMXra pAnI kI kamI ko kama karane meM maxaxa karwe hEM.
+#unake mote kyUtikala Ora Xazse hue raMXra BI pAnI kI kamI ko kama karane meM maxaxa karawe hEM.
+$wyax	1	-	-	22:r6	biology_chapter3_plantkingdom_173.6:coref	distal	-	-
+motA_4(thick_8)	2	-	-	3:mod	-	-	-	-
+kyUtikala_1	3	-	-	-	-	-	-	22:op1
+Xazsa_5	5	-	-	7:rvks	-	-	-	-
+raMXra_5(stomata_1)	7	-	-	-	-	BI_1	-	22:op2
+pAnI_1(water_7)	9	-	-	11:r6	-	-	-	-
+kamI_18	11	-	-	20:k2	-	-	-	-
+kara_17(do_2)	14	-	-	-	-	-	-	20:verbalizer
+maxaxa_1(help_2)	16	-	-	-	-	-	-	21:kriyAmUla
+kara_17(do_2)-wA_hE_1(es_1)	17	-	-	-	-	-	-	21:verbalizer
+[cp_1]	20	-	-	21:k7	-	-	-	-
+[cp_2]	21	-	-	0:main	-	-	-	-
+[conj_1]	22	-	-	21:k1	-	-	-	-
+kama_8(reduced_1)	23	-	-	-	-	-	-	20:kriyAmUla
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_175a>
+#जिम्नोस्पर्म विषमबीजाणु होते हैं।
+#jimnosparma viRamabIjANu howe hEM.
+#Gymnosperms are heterosporous.
+jimnosparma_1	1	-	-	3:k1	-	-	-	-
+viRamabIjANu_1	2	-	-	3:k1s	-	-	-	-
+ho_7-wA_hE_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_175b>
+#वे अगुणित माइक्रोस्पोर्स और मेगास्पोर्स का उत्पादन करते हैं।
+#ve aguniwa mAikrosporsa Ora megAsporsa kA uwpAxana karte hEM.
+#ve aguNiwa mAikrosporsa Ora megAsporsa kA uwpAxana karawe hEM.
+$wyax	1	-	-	11:k1	biology_chapter3_plantkingdom_175a.1:coref	distal	-	-
+aguNiwa_1	2	-	-	12:mod	-	-	-	-
+mAikrosporsa_1	3	-	-	-	-	-	-	12:op1
+megAsporsa_1	5	-	-	-	-	-	-	12:op2
+uwpAxana_3(produce_3)	7	-	-	-	-	-	-	11:kriyAmUla
+kara_1-wA_hE_1	8	-	-	-	-	-	-	11:verbalizer
+[cp_1]	11	-	-	0:main	-	-	-	-
+[conj_1]	12	-	-	11:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_176a>
+#स्पोरैंगिया के भीतर दो प्रकार के बीजाणु उत्पन्न होते हैं।
+#sporEMgiyA ke BIwara xo prakAra ke bIjANu uwpanna howe hEM.
+#Two kinds of spores are produced within the sporangia.
+sporEMgiyA_1	1	-	-	3:rdl	-	-	-	-
+BIwara_3(within_2)	3	-	-	9:k7p	-	-	-	-
+2	4	numex	-	5:card	-	-	-	-
+prakAra_1(kind_8)	5	-	-	7:r6	-	-	-	-
+bIjANu_1(spore_1)	7	-	-	9:k1	-	-	-	-
+uwpanna_1(produced_1)	8	-	-	9:k1s	-	-	-	-
+ho_2(exist_7)-wA_hE_1(es_1)	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_176b>
+#जो स्पोरोफिल पर पैदा होते हैं।
+#jo sporoPila para pExA howe hEM.
+#They are borne on sporophylls.
+$yax	1	-	-	5:k1	biology_chapter3_plantkingdom_176a.7:coref	-	-	-
+sporoPila_1	2	-	-	5:k7p	-	-	-	-
+pExA_1(born_5)	4	-	-	5:k1s	-	-	-	-
+ho_6(be_4)-wA_hE_1(es_1)	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_176c>
+#जो लैक्स या कॉम्पैक्ट स्ट्रोबिली या शंकु बनाने के लिए एक अक्ष के साथ सर्पिल रूप से व्यवस्थित होते हैं।
+#jo lEksa yA kOYmpEkta strobilI yA SaMku banAne ke lie eka akRa ke sAWa sarpila rUpa se vyavasWiwa howe hEM.
+#They are arranged spirally along an axis forming lax or compact cones.
+$yax	1	-	-	19:k1	biology_chapter3_plantkingdom_176b.2:coref	-	-	-
+^lEksa_1	2	-	-	-	-	-	-	24:op1
+^kOYmpEkta_1	4	-	-	-	-	-	-	24:op2
+strobilI_1	5	-	-	-	-	-	-	25:op1
+SaMku_1(cone_1)	7	-	-	-	-	-	-	25:op2
+banA_1(make_1)	8	-	-	19:rt	-	-	-	-
+eka_2(a_1)	11	-	-	12:quant	-	-	-	-
+akRa_1(axis_1)	12	-	-	19:rask1	-	-	-	-
+sarpila_1(spiral_3)	15	-	-	19:krvn	-	-	-	-
+vyavasWiwa_4(arranged_3)	18	-	-	19:k1s	-	-	-	-
+ho_6(be_4)-wA_hE_1(es_1)	19	-	-	0:main	-	-	-	-
+[disjunct_1]	24	-	-	25:mod	-	-	-	-
+[disjunct_2]	25	-	-	8:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_177>
+#माइक्रोस्पोरोफिल और माइक्रोस्पोरंगिया वाले स्ट्रोबिली को माइक्रोस्पोरैंगिएट या नर स्ट्रोबिली कहा जाता है।
+#mAikrosporoPila Ora mAikrosporaMgiyA vAle strobilI ko mAikrosporEMgieta yA nara strobilI kahA jAwA hE.
+#The cones with microsporophylls and microsporangia are called male strobili.
+mAikrosporoPila_1	1	-	pl	-	-	-	-	15:op1
+mAikrosporaMgiyA_1	3	-	-	-	-	-	-	15:op2
+sTrobilI_1	5	-	-	11:k2	-	def	-	-
+mAikrosporEMgieta_1	7	-	-	-	-	-	-	16:op1
+nara_2(male_1)	9	-	-	-	-	-	-	16:op2
+strobilI_1	10	-	-	11:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	11	-	-	0:main	-	-	-	-
+[conj_1]	15	-	mawup	5:mod	-	-	-	-
+[disjunct_1]	16	-	-	10:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_178a>
+#माइक्रोस्पोर्स एक नर गैमेटोफाइटिक पीढ़ी में विकसित होते हैं।
+#mAikrosporsa eka nara gEmetoPAitika pIDZI meM vikasiwa howe hEM.
+#Microspores develop into a reduced male gametophyte.
+mAikrosporsa_1	1	-	-	8:k1	-	-	-	-
+eka_2(a_1)	2	-	-	5:quant	-	-	-	-
+nara_2(male_1)	3	-	-	-	-	-	-	9:mod
+gEmetoPAitika_1	4	-	-	-	-	-	-	9:head
+pIDZI_2(generation_1)	5	-	-	7:k7	-	-	-	-
+vikasiwa_1(development_1)	7	-	-	8:k1s	-	-	-	-
+ho_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+[cpmpound_1]	9	-	-	5:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_178b>
+#जो अत्यधिक कम हो जाते हैं।
+#jo awyaXika kama ho jAwe hEM.
+#It is highly reduced.
+$yax	1	-	-	4:k1	biology_chapter3_plantkingdom_178a.4:coref	-	-	-
+awyaXika_8(highly_2)	2	-	-	3:intf	-	-	-	-
+kama_8(reduced_1)	3	-	-	4:k1s	-	-	-	-
+ho_1-wA_hE_1	4	-	-	0:main	-	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_178c>
+#और जो केवल सीमित संख्या में कोशिकाओं तक ही सीमित होते हैं।
+#Ora jo kevala sImiwa saMKyA meM koSikAoM waka hI sImiwa howe hEM.
+#It is limited to only a few cells.
+$yax	1	-	-	10:k1	biology_chapter3_plantkingdom_178a.4:coref	-	-	-
+sImiwa_2(limited_4)	3	-	-	6:mod	-	-	-	-
+koSikA_1(cell_1)	6	-	pl	-	-	hI_1	-	14:end
+sImiwa_2(limited_4)	9	-	-	10:k1s	-	-	-	-
+ho_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+[span_1]	14	-	-	10:krvn	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_179>
+#इस घटे हुए गैमेटोफाइट को परागकण कहा जाता है।
+#isa Gate hue gEmetoPAita ko parAgakaNa kahA jAwA hE.
+#This reduced gametophyte is called a pollen grain.
+$wyax	1	-	-	4:dem	-	proximal	-	-
+Gata_1	2	-	kqw	4:rbks	-	-	-	-
+gEmetoPAita_1	4	-	-	7:k2	-	-	-	-
+parAgakaNa_1(pollen_7)	6	-	-	7:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_180>
+#परागकणों का विकास माइक्रोस्पोरंगिया के भीतर होता है।
+#parAgakaNoM kA vikAsa mAikrosporaMgiyA ke BIwara howA hE.
+#Pollen grains develop within the microsporangia.
+parAgakaNa_1(pollen_7)	1	-	pl	3:r6	-	-	-	-
+vikAsa_2(development_7)	3	-	-	7:k1	-	-	-	-
+mAikrosporaMgiyA_1	4	-	-	6:rdl	-	def	-	-
+BIwara_2(inside_3)	6	-	-	7:k7p	-	-	-	-
+ho_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_181>
+#बीजांड या मेगास्पोरंगिया के साथ होने वाले मेगास्पोरोफिल वाले शंकु को मैक्रोस्पोरंगिएट या मादा स्ट्रोबिली कहा जाता है।
+#bIjAMda yA megAsporaMgiyA ke sAWa hone vAle megAsporoPila vAle SaMku ko mEkrosporaMgieta yA mAxA strobilI kahA jAwA hE.
+#Female cones with megasporophylls and ovules are called megasporangiate cones.
+bIjAMda_1	1	-	-	-	-	-	-	19:op1
+megAsporaMgiyA_1	3	-	-	-	-	-	-	19:op2
+megAsporoPila_1	6	-	mawup	8:mod	-	-	-	-
+SaMku_1(cone_1)	8	-	-	14:k2	-	-	-	-
+mEkrosporaMgieta_1	10	-	-	-	-	-	-	18:op1
+mAxA_1(female_2)	12	-	-	-	-	-	-	18:op2
+strobilI_1	13	-	-	14:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	14	-	-	0:main	-	-	-	-
+[disjunct_2]	18	-	-	13:mod	-	-	-	-
+[disjunct_1]	19	-	-	20:rask1	-	-	-	-
+ho_7(happen_2)	20	-	-	6:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_182>
+#नर या मादा शंकु या स्ट्रोबिली एक ही पेड़ (पिनस) पर पैदा हो सकते हैं।
+#nara yA mAxA SaMku yA strobilI eka hI pedZa (pinasa) para pExA ho sakawe hEM.
+#Male or female cones may be borne on the same tree .
+nara_2(male_1)	1	-	-	-	-	-	-	20:op1
+mAxA_1(female_2)	3	-	-	-	-	-	-	20:op2
+SaMku_1(cone_1)	4	-	-	19:k1	-	-	-	-
+strobilI_1	6	-	-	4:rs	-	-	-	-
+eka_7(same_1)	7	-	-	9:mod	-	hI_1	-	-
+pedZa_1(tree_5)	9	-	-	19:k7p	-	-	-	-
+pinasa_1	11	-	-	9:rs	-	-	-	-
+pExA_1(born_5)	14	-	-	-	-	-	-	19:kriyAmUla
+ho_1-0_sakawA_hE_1	15	-	-	-	-	-	-	19:verbalizer
+[cp_1]	19	-	-	0:main	-	-	-	-
+[disjunct_1]	20	-	-	4:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_183>
+#हालाँकि, साइकस में नर शंकु और मेगास्पोरोफिल विभिन्न पेड़ों पर पैदा होते हैं।
+#hAlAzki, sAikasa meM nara SaMku Ora megAsporoPila viBinna pedZoM para pExA howe hEM.
+#But in Cycas, male cones and megasporophylls occur on different trees.
+sAikasa_1	1	-	-	15:k7p	-	-	-	-
+nara_2(male_1)	3	-	-	4:mod	-	-	-	-
+SaMku_1(cone_1)	4	-	-	-	-	-	-	16:op1
+megAsporoPila_1	6	-	-	-	-	-	-	16:op2
+viBinna_1(different_13)	7	-	-	8:mod	-	-	-	-
+pedZa_1(tree_5)	8	-	pl	15:k7	-	-	-	-
+pExA_1(born_5)	10	-	-	-	-	-	-	15:kriyAmUla
+ho_7-wA_hE_1	11	-	-	-	-	-	-	15:verbalizer
+[cp_1]	15	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	15:k1	biology_chapter3_plantkingdom_182.19:viroXI	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_184>
+#मेगास्पोर मातृ कोशिका बीजांडकाय की कोशिकाओं में से एक से भिन्न होती है।
+#megAspora mAwq koSikA bIjAMdakAya kI koSikAoM meM se eka se Binna howI hE.
+#The megaspore mother cell differentiates from a nucellar cell.
+megAspora_1	1	-	-	-	-	-	-	19:mod
+mAwq_1(mother_23)	2	-	-	-	-	-	-	18:mod
+koSikA_1(cell_1)	3	-	-	-	-	-	-	18:head
+bIjAMdakAya_1	4	-	-	6:r6	-	-	-	-
+koSikA_1(cell_1)	6	-	pl	20:rn	-	-	-	-
+1	9	numex	-	20:card	-	-	-	-
+Binna_1(separate_10)	11	-	-	-	-	-	-	17:kriyAmUla
+ho_1-wA_hE_1	12	-	-	-	-	-	-	17:verbalizer
+[cp_1]	17	-	-	0:main	-	-	-	-
+[nc_1]	18	-	-	-	-	-	-	19:head
+[nc_2]	19	-	-	17:k1	-	-	-	-
+koSikA_1(cell_1)	20	-	-	17:k5	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_185a>
+#बीजांडकाय आवरण द्वारा सुरक्षित रहता है।
+#bIjAMdakAya AvaraNa xvArA surakRiwa rahawA hE.
+#The nucellus is protected by integuments.
+bIjAMdakAya_1	1	-	-	5:k1	-	-	-	-
+AvaraNa_1	2	-	-	5:k3	-	-	-	-
+surakRiwa_7	4	-	-	5:k1s	-	-	-	-
+raha_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_185b>
+#और मिश्रित संरचना को बीजांड कहा जाता है।
+#Ora miSriwa saMracanA ko bIjAMda kahA jAwA hE.
+#and the structure is called an ovule.
+miSriwa_2(mixed_5)	1	-	-	2:mod	-	-	-	-
+saMracanA_1(structure_12)	2	-	-	4:k2	-	def	-	-
+bIjAMda_1	3	-	-	4:k2s	-	-	-	-
+kaha_1(call_20)-yA_jA_wA_hE_1(en_is)	4	-	-	0:main	biology_chapter3_plantkingdom_185a.5:samuccaya	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_186>
+#बीजांड मेगास्पोरोफिल पर पैदा होते हैं जिन्हें मादा शंकु बनाने के लिए क्लस्टर किया जा सकता है।
+#bIjAMda megAsporoPila para pExA howe hEM jinheM mAxA SaMku banAne ke lie klastara kiyA jA sakawA hE.
+#Ovules on megasporophylls may be clustered to form female cones.
+bIjAMda_1	1	-	-	19:k1	-	-	-	-
+pExA_1(born_5)	4	-	-	-	-	-	-	19:kriyAmUla
+ho_1-wA_hE_1	5	-	-	-	-	-	-	19:verbalizer
+$yax	7	-	-	20:k2	1:coref	-	-	-
+mAxA_1(female_2)	8	-	-	9:mod	-	-	-	-
+SaMku_1(cone_1)	9	-	-	10:k2	-	-	-	-
+banA_1(make_1)	10	-	-	20:rt	-	-	-	-
+^klastara_1	13	-	-	-	-	-	-	20:kriyAmUla
+kara_1-yA_jA_sakawA_hE_1	14	-	-	-	-	-	-	20:verbalizer
+[cp_1]	19	-	-	0:main	-	-	-	-
+[cp_2]	20	-	-	1:rcelab	-	-	-	-
+megAsporoPila_1	21	-	-	19:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_187>
+#गुरुबीजाणु मातृ कोशिका मेटोटिक रूप से विभाजित होकर चार गुरुबीजाणु बनाती है।
+#gurubIjANu mAwq koSikA metotika rUpa se viBAjiwa hokara cAra gurubIjANu banAwI hE.
+#The megaspore mother cell divides to form four megaspores.
+gurubIjANu_1	1	-	-	-	-	-	-	19:mod
+mAwq_1(mother_23)	2	-	-	-	-	-	-	18:mod
+koSikA_1(cell_1)	3	-	-	-	-	-	-	18:head
+metotika_1	4	-	-	8:krvn	-	-	-	-
+viBAjiwa_1(divided_2)	7	-	-	8:k1s	-	-	-	-
+ho_5(become_1)	8	-	-	11:rpk	-	-	-	-
+4	9	numex	-	10:card	-	-	-	-
+gurubIjANu_1	10	-	-	11:k2	-	-	-	-
+banA_1-wA_hE_1	11	-	-	0:main	-	-	-	-
+[nc_1]	18	-	-	-	-	-	-	19:head
+[nc_2]	19	-	-	11:k1	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_188>
+#मेगास्पोरैंगियम के भीतर संलग्न मेगास्पोर्स एक बहुकोशिकीय मादा गैमेटोफाइट में विकसित होता है जो दो या अधिक आर्कगोनिया या महिला यौन अंगों को धारण करता है।
+#megAsporEMgiyama ke BIwara saMlagna megAsporsa eka bahukoSikIya mAxA gEmetoPAita meM vikasiwa howA hE jo xo yA aXika ArkagoniyA yA mahilA yOna aMgoM ko XAraNa karawA hE.
+#One megaspore develops into a multicellular female gametophyte with archegonia.
+megAsporEMgiyama_1	1	-	-	3:rdl	-	-	-	-
+BIwara_2(inside_3)	3	-	-	4:k7p	-	-	-	-
+saMlagna_1(attached_7)	4	-	-	5:mod	-	-	-	-
+megAsporsa_1	5	-	-	14:k1	-	-	-	-
+eka_2(a_1)	8	-	-	10:quant	-	-	-	-
+bahukoSikIya_1	9	-	-	11:mod	-	-	-	-
+mAxA_1(female_2)	10	-	-	11:mod	-	-	-	-
+gEmetoPAita_1	11	-	-	14:k7	-	-	-	-
+vikasiwa_1(development_1)	13	-	-	14:k1s	-	-	-	-
+ho_1-wA_hE_1	14	-	-	0:main	-	-	-	-
+$yax	16	-	-	31:k1	-	-	-	-
+2	17	numex	-	20:card	-	-	-	-
+ArkagoniyA_1	20	-	-	-	-	-	-	32:op1
+mahilA_3(female_1)	22	-	-	-	-	-	-	35:mod
+yOna_1(sexual_1)	23	-	-	-	-	-	-	35:head
+aMga_6(organ_1)	24	-	-	32:rs	-	-	-	-
+XAraNa_18(carrying_1)	26	-	-	-	-	-	-	31:kriyAmUla
+kara_1-wA_hE_1	27	-	-	-	-	-	-	31:verbalizer
+[cp_1]	31	-	-	11:rcelab	-	-	-	-
+[disjunct_1]	32	-	-	31:k2	-	-	-	-
+2	33	numex	-	34:quantmore	-	-	-	-
+ArkagoniyA_1	34	-	-	-	-	-	-	32:op2
+[compound_1]	35	-	-	24:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_189>
+#बहुकोशिकीय मादा गैमेटोफाइट भी मेगास्पोरंगियम के भीतर बरकरार रहती है।
+#bahukoSikIya mAxA gEmetoPAita BI megAsporaMgiyama ke BIwara barakarAra rahawI hE.
+#The female gametophyte remains within the megasporangium.
+bahukoSikIya_1	1	-	-	3:mod	-	-	-	-
+mAxA_1(female_2)	2	-	-	3:mod	-	-	-	-
+gEmetoPAita_1	3	-	-	9:k1	-	BI_1/def	-	-
+megAsporaMgiyama_1	5	-	-	7:rdl	-	-	-	-
+BIwara_3(within_2)	7	-	-	9:k7p	-	-	-	-
+barakarAra_1(firm_24)	8	-	-	9:krvn	-	-	-	-
+raha_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_190>
+#ब्रायोफाइट्स और टेरिडोफाइट्स के अस्तित्व के विपरीत, जिम्नोस्पर्म में नर और मादा गैमेटोफाइट्स का स्वतंत्र स्वतंत्र अस्तित्व नहीं होता है।
+#brAyoPAitsa Ora teridoPAitsa ke aswiwva ke viparIwa, jimnosparma meM nara Ora mAxA gEmetoPAitsa kA svawaMwra svawaMwra aswiwva nahIM howA hE.
+#Unlike bryophytes and pteridophytes, gymnosperm gametophytes are not free-living.
+brAyoPAitsa_1	1	-	-	-	-	-	-	21:op1
+teridoPAitsa_1	3	-	-	-	-	-	-	21:op2
+jimnosparma_1	7	-	-	18:k7p	-	-	-	-
+nara_2(male_1)	9	-	-	-	-	-	-	22:op1
+mAxA_1(female_2)	11	-	-	-	-	-	-	22:op2
+gEmetoPAitsa_1	12	-	-	16:r6	-	-	-	-
+svawaMwra_2(free_13)	14	-	-	16:mod	-	-	-	-
+aswiwva_4	16	-	-	18:k1	-	-	-	-
+nahIM_2(not_3)	17	-	-	18:neg	-	-	-	-
+ho_1-wA_hE_1	18	-	-	0:main	-	-	-	-
+[conj_1]	21	-	-	23:r6	-	-	-	-
+[conj_2]	22	-	-	12:mod	-	-	-	-
+aswiwva_1	23	-	-	18:rviroXIk1	-	-	-	-
+%negative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_191>
+#वे स्पोरोफाइट्स पर बने स्पोरैंगिया के भीतर रहते हैं।
+#ve sporoPAitsa para bane sporEMgiyA ke BIwara rahawe hEM.
+#They remain within the sporangia on the sporophyte.
+$wyax	1	-	-	8:k1	biology_chapter3_plantkingdom_190.12:coref	distal	-	-
+sporoPAitsa_1	2	-	-	4:k7p	-	-	-	-
+bana_15(made_12)	4	-	kqw	5:rbks	-	-	-	-
+sporEMgiyA_1	5	-	-	7:rdl	-	-	-	-
+BIwara_3(within_2)	7	-	-	8:k7p	-	-	-	-
+raha_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_192>
+#पराग कण माइक्रोस्पोरैंगियम से निकलते हैं।
+#parAga kaNa mAikrosporEMgiyama se nikalawe hEM.
+#Pollen grains are released from microsporangia.
+parAga_1(pollen_1)	1	-	-	-	-	-	-	6:mod
+kaNa_4(grain_2)	2	-	-	-	-	-	-	6:head
+mAikrosporEMgiyama_1	3	-	-	5:k5	-	-	-	-
+nikala_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+[nc_1]	6	-	-	5:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_193a>
+#वे वायु धाराओं में प्रवाहित होते हैं।
+#ve vAyu XArAoM meM pravAhiwa howe hEM.
+#They are carried by air currents.
+$wyax	1	-	-	10:k1	biology_chapter3_plantkingdom_192.6:coref	distal	-	-
+vAyu_1(air_8)	2	-	-	-	-	-	-	9:mod
+XArA_1(current_4)	3	-	pl	-	-	-	-	9:head
+pravAhiwa_4	5	-	-	-	-	-	-	10:kriyAmUla
+ho_1-wA_hE_1	6	-	-	-	-	-	-	10:verbalizer
+[nc_1]	9	-	-	10:k3	-	-	-	-
+[cp_1]	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_193b>
+#और वे मेगास्पोरोफिल पर मौजूद बीजांड के छिद्र के संपर्क में आते हैं।
+#Ora ve megAsporoPila para mOjUxa bIjAMda ke Cixra ke saMparka meM Awe hEM.
+#They reach the opening of the ovule on megasporophylls.
+$wyax	1	-	-	11:k1	biology_chapter3_plantkingdom_192.6:coref	distal	-	-
+megAsporoPila_1	2	-	-	4:k7p	-	-	-	-
+mOjUxa_1(present_10)	4	-	-	5:mod	-	-	-	-
+bIjAMda_1	5	-	-	7:r6	-	-	-	-
+Cixra_5(opening_2)	7	-	-	9:r6	-	-	-	-
+saMparka_1(contact_3)	9	-	-	11:k7	-	-	-	-
+A_1-wA_hE_1	11	-	-	0:main	biology_chapter3_plantkingdom_193a.10:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_194a>
+#नर युग्मकों को ले जाने वाली पराग नलिका बीजांड में आर्कगोनिया की ओर बढ़ती है।
+#nara yugmakoM ko le jAne vAlI parAga nalikA bIjAMda meM ArkagoniyA kI ora baDZawI hE.
+#The pollen tube grows towards the archegonia.
+nara_2(male_1)	1	-	-	2:mod	-	-	-	-
+yugmaka_4	2	-	pl	4:k2	-	-	-	-
+le+jA_1	4	-	-	18:mod	-	-	-	-
+parAga_1(pollen_1)	7	-	-	-	-	-	-	18:mod
+nalikA_2(tube_2)	8	-	-	-	-	-	-	18:head
+bIjAMda_1	9	-	-	14:k7p	-	-	-	-
+ArkagoniyA_1	11	-	-	14:rd	-	-	-	-
+baDZa_4(grow_3)-wA_hE_1(es_1)	14	-	-	0:main	-	-	-	-
+[nc_1]	18	-	-	14:k1	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_194b>
+#और वह अपनी सामग्री को आर्कगोनिया के मुंह के पास छोड़ती है।
+#Ora vaha apanI sAmagrI ko ArkagoniyA ke muMha ke pAsa CodZawI hE.
+#It releases its contents near the archegonial mouth.
+$wyax	1	-	-	10:k1	biology_chapter3_plantkingdom_194a.18:coref	distal	-	-
+apanA	2	-	-	3:r6	1:coref	-	-	-
+sAmagrI_8(content_1)	3	-	-	10:k2	-	-	-	-
+ArkagoniyA_1	5	-	-	7:r6	-	-	-	-
+muMha_1(mouth_5)	7	-	-	9:rdl	-	def	-	-
+pAsa_1(near_17)	9	-	-	10:k7p	-	-	-	-
+CodZa_1(release_10)-wA_hE_1(es_1)	10	-	-	0:main	biology_chapter3_plantkingdom_194a.14:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_195a>
+#निषेचन के बाद, युग्मनज एक भ्रूण में विकसित होता है।
+#niRecana ke bAxa, yugmanaja eka BrUNa meM vikasiwa howA hE.
+#After fertilisation, the zygote develops into an embryo.
+niRecana_4(fertilisation_4)	1	-	-	10:rblak	-	-	-	-
+yugmanaja_1	5	-	-	10:k1	-	def	-	-
+eka_2(a_1)	6	-	-	7:quant	-	-	-	-
+BrUNa_2(embryo_2)	7	-	-	10:k7	-	-	-	-
+vikasiwa_4(developed_2)	9	-	-	10:k1s	-	-	-	-
+ho_6(be_4)-wA_hE_1(es_1)	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_195b>
+#और वह बीजांड बीज में विकसित होता है।
+#Ora vaha bIjAMda bIja meM vikasiwa howA hE.
+#The ovule develops into a seed.
+$wyax	1	-	-	2:dem	-	distal	-	-
+bIjAMda_1	2	-	-	6:k1	-	def	-	-
+bIja_1(seed_3)	3	-	-	6:k7	-	-	-	-
+vikasiwa_4(developed_2)	5	-	-	6:k1s	-	-	-	-
+ho_6(be_4)-wA_hE_1(es_1)	6	-	-	0:main	biology_chapter3_plantkingdom_195a.10:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_196>
+#ये बीज ढके हुए नहीं हैं।
+#ye bIja Dake hue nahIM hEM.
+#These seeds are not covered.
+$wyax	1	-	-	2:dem	biology_chapter3_plantkingdom_195b.3:coref	proximal	-	-
+bIja_1(seed_3)	2	-	-	6:k1	-	-	-	-
+Daka_1(cover_15)	3	-	kqw	6:k1s	-	-	-	-
+nahIM_1	5	-	-	6:neg	-	-	-	-
+hE_1(state_copula_1)	6	-	-	0:main	-	-	-	-
+%negative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_197>
+#जिम्नोस्पर्म के विपरीत जहां बीजांड नग्न होते हैं एंजियोस्पर्म या फूल वाले पौधों में, पराग कण और बीजांड विशेष संरचनाओं में विकसित होते हैं जिन्हें फूल कहा जाता है।
+#jimnosparma ke viparIwa jahAM bIjAMda nagna howe hEM eMjiyosparma yA PUla vAle pOXoM meM, parAga kaNa Ora bIjAMda viSeRa saMracanAoM meM vikasiwa howe hEM jinheM PUla kahA jAwA hE.
+#Unlike gymnosperms where ovules are naked In angiosperms, pollen grains and ovules develop in specialised structures called flowers.
+jimnosparma_1	1	-	-	18:rviroXIk1	-	-	-	-
+$yax	4	-	-	7:k7p	1:coref	-	-	-
+bIjAMda_1	5	-	-	7:k1	-	-	-	-
+nagna_2(naked_2)	6	-	-	7:k1s	-	-	-	-
+ho_6(be_4)-wA_hE_1(es_1)	7	-	-	1:rcelab	-	-	-	-
+eMjiyosparma_1	8	-	-	18:k7p	-	-	-	-
+PUla_1(flower_6)	9	-	mawup	10:mod	-	-	-	-
+pOXA_1(plant_6)	10	-	pl	8:rs	-	-	-	-
+parAga_1(pollen_1)	11	-	-	-	-	-	-	22:mod
+kaNa_4(grain_2)	12	-	-	-	-	-	-	22:head
+bIjAMda_1	13	-	-	-	-	-	-	14:op2
+[conj_1]	14	-	-	18:k1	-	-	-	-
+viSeRa_1(special_4)	15	-	-	16:mod	-	-	-	-
+saMracanA_1(structure_12)	16	-	pl	18:k7	-	-	-	-
+vikasiwa_4(developed_2)	17	-	-	18:k1s	-	-	-	-
+ho_6(be_4)-wA_hE_1(es_1)	18	-	-	0:main	-	-	-	-
+$yax	19	-	-	21:k2	16:coref	-	-	-
+PUla_1(flower_6)	20	-	-	21:k2s	-	-	-	-
+kaha_1(call_20)-wA_hE_1(es_1)	21	-	-	16:rcelab	-	-	-	-
+[nc_1]	22	-	-	-	-	-	-	14:op1
+%pass_affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_197b>
+#जहां एंजियोस्पर्म या फूल वाले पौधों में, पराग कण और बीजांड विशेष संरचनाओं में विकसित होते हैं।
+#jahAM eMjiyosparma yA PUla vAle pOXoM meM, parAga kaNa Ora bIjAMda viSeRa saMracanAoM meM vikasiwa howe hEM.
+#In angiosperms, pollen grains and ovules develop in specialised structures.
+jahAM	1	-	-	17:k7p	-	-	-	-
+eMjiyosparma_1	2	-	-	-	-	-	-	22:op1
+PUla_1	4	-	mawupa	-	-	-	-	22:op2
+pOXa_1	6	-	-	11:ccof	-	-	-	-
+parAga	9	male	-	-	-	-	-	20:begin
+kaNa	10	male	-	-	-	-	-	20:inside
+bIjAMda_1	12	-	-	11:ccof	-	-	-	-
+viSeRa_1	13	-	-	14:mod	-	-	-	-
+saMracanA_1	14	-	-	17:k7	-	-	-	-
+vikasiwa_1	16	-	-	-	-	-	-	21:kriyAmUla
+ho_1-wA_hE_1	17	-	-	-	-	-	-	21:verbalizer
+[ne_1]	20	-	-	11:ccof	-	-	-	-
+[cp_1]	21	-	-	0:main	-	-	-	-
+[disjunct_1]	22	-	-	6:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_197c>
+#इन्हें फूल कहा जाता है।
+#inheM PUla kahA jAwA hE.
+#These structures are called flowers.
+$wyax	1	-	-	3:k2g	biology_chapter3_plantkingdom_197b.8:coref	proximal	-	-
+PUla_1	2	-	-	3:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_198>
+#आवृतबीजी पौधों में, बीज फलों में घिरे रहते हैं।
+#AvqwabIjI pOXoM meM, bIja PaloM meM Gire rahawe hEM.
+#In angiosperms, seeds are enclosed in fruits.
+AvqwabIjI_1	1	-	-	9:k7p	-	-	-	-
+pOXa_3(plant_22)	2	-	-	1:rs	-	-	-	-
+bIja_1(seed_3)	5	-	-	9:k1	-	-	-	-
+Pala_1(fruit_1)	6	-	-	8:k7	-	-	-	-
+Gira_1	8	-	kqw	9:k1s	-	-	-	-
+raha_2(stay_8)-wA_hE_1(es_1)	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_199>
+#एंजियोस्पर्म विभिन्न प्रकार के आवासों में पाए जाने वाले पौधों का एक असाधारण बड़ा समूह है।
+#eMjiyosparma viBinna prakAra ke AvAsoM meM pAe jAne vAle pOXoM kA eka asAXAraNa badZA samUha hE.
+#Angiosperms form an exceptionally large group of plants found in diverse habitats.
+eMjiyosparma_1	1	-	-	16:k1	-	-	-	-
+viBinna_1(different_13)	2	-	-	3:mod	-	-	-	-
+prakAra_7(type_6)	3	-	-	5:r6	-	-	-	-
+AvAsa_2(habitation_1)	5	-	-	7:k7p	-	-	-	-
+pA_13(find_4)	7	-	kqw	10:mod	-	-	-	-
+pOXa_3(plant_22)	10	-	pl	15:r6	-	-	-	-
+eka_2(a_1)	12	-	-	15:quant	-	-	-	-
+asAXAraNa_8	13	-	-	14:intf	-	-	-	-
+badZA_13(large_5)	14	-	-	15:mod	-	-	-	-
+samUha_1(group_11)	15	-	-	16:k1s	-	-	-	-
+hE_5(state_copula_1)	16	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_200>
+#इनका आकार सबसे छोटे वुल्फिटा से लेकर यूकेलिप्टस के ऊंचे पेड़ों (100 मीटर से अधिक) तक होता है।
+#inakA AkAra sabase Cote vulPitA se lekara yUkeliptasa ke UMce pedZoM (100 mItara se aXika) waka howA hE.
+#Their size ranges from the tiny Wolfita to tall Eucalyptus trees over 100 m high.
+$wyax	1	-	-	2:r6	biology_chapter3_plantkingdom_199.1:coref	proximal	-	-
+AkAra_3(size_1)	2	-	-	19:k1	-	-	-	-
+CotA_1(small_6)	4	-	superl	5:mod	-	-	-	-
+vulPitA_1	5	-	-	-	-	-	-	23:start
+yUkeliptasa_1	8	-	-	11:r6	-	-	-	-
+UMcA_2(high_25)	10	-	-	11:mod	-	-	-	-
+pedZa_1(tree_5)	11	-	pl	-	-	-	-	23:end
+100	13	numex	-	-	-	-	-	22:count
+mItara_1	14	meas	-	-	-	-	-	22:unit
+ho_6(be_4)-wA_hE_1(es_1)	19	-	-	0:main	-	-	-	-
+[length_meas_1]	22	-	-	24:quantmore	-	-	-	-
+[span_1]	23	-	-	19:k1s	-	-	-	-
+AkAra_3(size_1)	24	-	-	23:rmeas	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_201>
+#वे हमें भोजन, चारा, ईंधन, दवाएँ और कई अन्य व्यावसायिक रूप से महत्वपूर्ण उत्पाद प्रदान करते हैं।
+#ve hameM Bojana, cArA, IMXana, xavAIz Ora anye vyAvasAyika uwpAxa praxAna karte hEM.
+#ve hameM Bojana, cArA, IMXana, xavAez Ora kaI anya vyAvasAyika rUpa se mahawvapUrNa uwpAxa praxAna karawe hEM.
+$wyax	1	-	-	19:k1	biology_chapter3_plantkingdom_199.1:coref	distal	-	-
+$speaker	2	anim	pl	19:k4	-	-	-	-
+Bojana_1(food_5)	3	-	-	-	-	-	-	23:op1
+cArA_1(fodder_1)	5	-	-	-	-	-	-	23:op2
+IMXana_1(fuel_2)	7	-	-	-	-	-	-	23:op3
+xavA_1(medicine_4)	9	-	pl	-	-	-	-	23:op4
+kaI_5(many_11)	11	-	-	14:quant	-	-	-	-
+anya_1(other_1)	12	-	-	14:mod	-	-	-	-
+vyAvasAyika_5(commercial_8)	13	-	-	12:mod	-	-	-	-
+rUpa_1	14	-	-	-	-	-	-	23:op5
+mahawvapUrNa_1(important_6)	16	-	-	17:mod	-	-	-	-
+uwpAxa_3(product_1)	17	-	-	19:k2	-	-	-	-
+praxAna_11(provide_3)	18	-	-	-	-	-	-	22:kriyAmUla
+kara_17(do_2)-wA_hE_1(es_1)	19	-	-	-	-	-	-	22:verbalizer
+[cp_1]	22	-	-	0:main	-	-	-	-
+[conj_1]	23	-	-	19:rt	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=biology_chapter3_plantkingdom_202>
+#इन्हें दो वर्गों में विभाजित किया गया है: द्विबीजपत्री और एकबीजपत्री (चित्र 3.5)।
+#inheM xo vargoM meM viBAjiwa kiyA gayA hE: xvibIjapawrI Ora ekabIjapawrI (ciwra 3.5).
+#They are divided into two classes: dicotyledons and monocotyledons.
+$wyax	1	-	-	6:k2	biology_chapter3_plantkingdom_199.1:coref	proximal	-	-
+xo	2	-	-	3:card	-	-	-	-
+varga_1	3	-	-	6:k7	-	-	-	-
+viBAjiwa_1	5	-	-	-	-	-	-	20:kriyAmUla
+kara_1	6	-	-	-	-	-	-	20:verbalizer
+xvibIjapawrI	10	-	-	-	-	-	-	21:op1
+ekabIjapawrI_1	12	-	-	-	-	-	-	21:op2
+ciwra_1	14	-	-	0:main	-	-	-	-
+3	15	numex	-	17:card	-	-	-	-
+5	17	numex	-	14:re	-	-	-	-
+[cp_1]	20	-	-	14:re	-	-	-	-
+[conj_1]	21	-	-	14:r6	-	-	-	-
+%affirmative
+</segment_id>

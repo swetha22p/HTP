@@ -1,0 +1,984 @@
+<segment_id=Geo_ncert_6stnd_3ch_0001a>
+#जैसा कि आप यह जानते हैं।
+#jEsA ki Apa yaha jAnawe hEM .
+#As you know, there are two types of motion of the earth – rotation and rotation.
+$addressee	3	anim	-	5:k1	-	respect	-	-
+$wyax	4	-	-	5:k2	Geo_ncert_6stnd_3ch_0001b.7:coref	proximal	-	-
+jAna_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0001b>
+#पृथ्वी की गति दो प्रकार की है-घूर्णन एवं परिक्रमण।
+#pqWvI kI gawi xo prakAra kI hE-GUrNana evaM parikramaNa .
+#As you know, there are two types of motion of the earth – rotation and rotation.
+pqWvI_1(earth_9)	1	-	-	3:r6	-	-	-	-
+gawi_1(motion_1)	2	-	-	7:k1	-	-	-	-
+2	3	numex	-	3:card	-	-	-	-
+prakAra_7(type_6)	4	-	-	-	-	-	-	-
+hE_1-pres	5	-	-	0:main	-	-	-	-
+GUrNana_1(rotation_2)	6	-	-	-	-	-	-	11:op1
+parikramaNa_7(rotation_5)	7	-	-	-	-	-	-	11:op2
+[conj_1]	8	-	-	7:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0002>
+#पृथ्वी का अपने अक्ष पर घूमना घूर्णन कहलाता है।
+#pqWvI kA apane akRa para GUmanA GUrNana kahalAwA hE.
+#The rotation of the earth on its axis is called rotation.
+pqWvI_1(earth_9)	1	-	-	4:r6	-	def	-	-
+apanA	3	-	-	4:r6	1:coref	-	-	-
+akRa_1(axis_1)	4	-	-	11:k7p	-	-	-	-
+GUmanA_1(rotation_13)	6	-	-	11:k1	-	-	-	-
+GUrNana_1(rotation_2)	7	-	-	-	-	-	-	11:kriyAmUla
+kahalA_2(called_1)-wA_hE_1	8	-	-	-	-	-	-	11:verbalizer
+[cp_1]	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0003>
+#सूर्य के चारों ओर एक स्थिर कक्ष में पृथ्वी की गति को परिक्रमण कहते हैं।
+#sUrya ke cAroM ora eka sWira kakRa meM pqWvI kI gawi ko parikramaNa kahawe hEM.
+#The motion of the earth in a fixed orbit around the sun is called revolution
+sUrya_1(sun_5)	1	-	-	15:r6	-	def	-	-
+cAroM+ora_1	2	-	-	-	-	-	-	15:whole
+eka_1	3	-	-	7:card	-	-	-	-
+sWira_1	4	-	-	7:mod	-	-	-	-
+kakRa_1	5	-	-	-	-	-	-	15:part
+[spactial_1]	6	-	-	14:k7p	-	-	-	-
+pqWvI_1	7	-	-	11:r6	-	-	-	-
+gawi_1	8	-	-	14:k2	-	-	-	-
+parikramaNa_1	9	-	-	14:k2s	-	-	-	-
+kaha_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0004>
+#पृथ्वी का अक्ष एक काल्पनिक रेखा है,जो इसके कक्षीय सतह से (66 1/2 )° का कोण बनाती है।
+#pqWvI kA akRa eka kAlpanika reKA hE,jo isake kakRIya sawaha se (66 1/2 ) kA koNa banAwI hE| .
+#Earth's axis is an imaginary line, which makes an angle of (66 1/2 )° with its orbital surface.
+pqWvI_1	1	-	-	3:r6	-	-	-	-
+akRa_1	3	-	-	7:k1	-	-	-	-
+eka_2	4	-	-	6:quant	-	-	-	-
+kAlpanika_1	5	-	-	6:mod	-	-	-	-
+reKA_1	6	-	-	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+$yax	9	-	-	23:k1	3:coref	-	-	-
+$wyax	10	-	-	12:r6	1:coref	proximal	-	-
+kakRIya_1	11	-	-	12:mod	-	-	-	-
+sawaha_1	12	-	-	23:k3	-	-	-	-
+66	15	numex	-	-	-	-	-	24:count
+digrI_1	20	-	-	-	-	-	-	24:unit
+koNa_1	22	-	-	23:k2	-	-	-	-
+banA_1-wA_hE_1	23	-	-	3:rcelab	-	-	-	-
+[meas_1]	24	-	-	23:k2	-	-	-	-
+2	25	-	-	26:card	-	-	-	-
+BAga_1	26	-	-	28:r6	-	-	-	-
+1	27	-	-	28:card	-	-	-	-
+BAga_1	28	-	-	22:rs	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0005>
+#वह समतल जो कक्ष के द्वारा बनाया जाता है,उसे कक्षीय समतल कहते हैं।
+#vaha samawala jo kakRa ke xvArA banAyA jAwA hE,use kakRIya samawala kahawe hEM.
+#The plane made by the orbital is called the orbital plane.
+$wyax	1	-	-	2:dem	-	distal	-	-
+samawala_1	2	-	-	14:k1	-	-	-	-
+$yax	3	-	-	7:k1	2:coref	-	-	-
+kakRa_1	4	-	-	7:k3	-	def	-	-
+banA_1-yA_jA_wA_hE_1	7	-	-	2:rcelab	-	-	-	-
+$wyax	11	-	-	14:k2	2:coref	distal	-	-
+kakRIya_1	12	-	-	13:mod	-	-	-	-
+samawala_1	13	-	-	14:k2s	-	def	-	-
+kaha_1-wA_hE_1	14	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0006>
+#पृथ्वी सूर्य से प्रकाश प्राप्त करती है।
+#pqWvI sUrya se prakASa prApwa karawI hE.
+#Earth receives light from the Sun.
+pqWvI_1	1	-	-	10:k1	-	-	-	-
+sUrya_1	2	-	-	10:k5	-	def	-	-
+prakASa_1	4	-	-	10:k2	-	-	-	-
+prApwa_1	5	-	-	-	-	-	-	10:kriyAmUla
+kara_1-wA_hE_1	6	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0007a>
+#पृथ्वी का आकार गोले के समान है।
+#pqWvI kA AkAra gole ke samAna hE.
+#The shape of the earth is like a sphere, so only half of it receives sunlight at a time; Fig. (3.2).
+pqWvI_1	1	-	-	3:r6	-	def	-	-
+AkAra_1	3	-	-	7:k1	-	-	-	-
+golA_1	4	-	-	3:ru	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0007b>
+#इसलिए एक समय में सिर्फ इसके आधे भाग पर ही सूर्य की रोशनी प्राप्त होती है , चित्र(3.2)।
+#isalie eka samaya meM sirPa isake AXe BAga para hI sUrya kI roSanI prApwa howI hE ;ciwra(3.2) .
+#The shape of the earth is like a sphere, so only half of it receives sunlight at a time; Fig. (3.2).
+eka_2	1	-	-	2:quant	-	-	-	-
+samaya_1	2	-	-	22:freq	-	-	-	-
+$wyax	5	-	-	7:r6	Geo_ncert_6stnd_3ch_0007a.1:coref	sIrPa_1	-	-
+AXA_1	6	-	-	7:quant	-	-	-	-
+BAga_1	7	-	-	22:k7p	-	hI_1	-	-
+sUrya_1	10	-	-	12:r6	-	-	-	-
+roSanI_1	12	-	-	22:k1	-	-	-	-
+prApwa_1	13	-	-	-	-	-	-	22:kriyAmUla
+ho_1	14	-	-	-	-	-	-	22:verbalizer
+ciwra_1	17	-	-	19:rs	Geo_ncert_6stnd_3ch_0007a.7:pariNAma	-	-	-
+3.2	19	-	-	22:k7p	-	-	-	-
+[cp_1]	22	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0008a>
+#सूर्य की ओर वाले भाग में दिन होता है।
+#sUrya kI ora vAle BAga meM xina howA hE.
+#The side facing the sun has day, while the other side which is away from the sun has night.
+sUrya_1	1	-	-	3:r6	-	def	-	-
+ora_1	3	-	mawup	8:k7p	-	-	-	-
+BAga_1	5	place	-	8:k7p	-	-	-	-
+xina_1	7	-	-	8:k1	-	-	-	-
+ho_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0008b>
+#जबकि दूसरा भाग जो सूर्य से दूर होता है वहाँ रात होती है।
+#jabaki xUsarA BAga jo sUrya se xUra howA hE vahAz rAwa howI hE.
+#The side facing the sun has day, while the other side which is away from the sun has night.
+xUsarA_1	1	-	-	2:ord	-	-	-	-
+BAga_1	2	-	-	11:k7p	-	-	-	-
+$yax	3	-	-	7:k1	2:coref	-	-	-
+sUrya_1	4	-	-	7:k5	-	def	-	-
+xUra_1	6	-	-	7:k1s	-	-	-	-
+ho_1-wA_hE_1	7	-	-	2:rcelab	-	-	-	-
+$wyax	9	-	-	11:k7p	2:coref	-	-	-
+rAwa_1	10	-	-	11:k1	-	-	-	-
+ho_1-wA_hE_1	11	-	-	0:main	Geo_ncert_6stnd_3ch_0008a.8:viroXI_xyowaka	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0009>
+#ग्लोब पर वह वृत्त जो दिन तथा रात को विभाजित करता है उसे प्रदीप्ति वृत्त कहते हैं।
+#globa para vaha vqwwa jo xina waWA rAwa ko viBAjiwa karawA hE use praxIpwi vqwwa kahawe hEM.
+#The circle on the globe that divides day and night is called the circle of illumination.
+globa_1	1	-	-	16:k7p	-	-	-	-
+$wyax	3	-	-	3:dem	-	distal	-	-
+vqwwa_1	4	-	-	16:k1	-	-	-	-
+$yax	5	-	-	20:k1	4:coref	-	-	-
+xina_1	6	-	-	-	-	-	-	21:op1
+rAwa_1	8	-	-	-	-	-	-	21:op2
+viBAjiwa_1	10	-	-	-	-	-	-	20:kriyAmUla
+kara_1-wA_hE_1	11	-	-	-	-	-	-	20:verbalizer
+$wyax	13	-	-	16:k2	-	distal	-	-
+praxIpwi_1	14	-	-	-	-	-	-	19:mod
+vqwwa_1	15	-	-	-	-	-	-	19:head
+kaha_1-wA_hE_1	16	-	-	0:main	-	-	-	-
+[nc_1]	19	-	-	16:k2s	-	-	-	-
+[cp_1]	20	-	-	4:rcelab	-	-	-	-
+[conj_1]	21	-	-	20:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0010a>
+#यह वृत्त अक्ष के साथ नहीं मिलता है।
+#yaha vqwwa akRa ke sAWa nahIM milawA hE .
+#This circle does not coincide with the axis as you can see in Fig. 3.2.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+vqwwa_1	2	-	-	7:k1	-	-	-	-
+akRa_1	3	-	-	7:rask1	-	-	-	-
+nahIM_1	6	-	-	7:neg	-	-	-	-
+mila_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0010b>
+#जैसा कि आप चित्र 3.2 में देख सकते हैं।
+#jEsA ki Apa ciwra 3.2 meM xeKa sakawe hEM.
+#This circle does not coincide with the axis as you can see in Fig. 3.2.
+$addressee	3	anim	-	7:k1	-	respect	-	-
+ciwra_1	4	-	-	5:rs	-	-	-	-
+3.2	5	-	-	7:k7p	-	-	-	-
+xeKa_1-0_sakawA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0011>
+#पृथ्वी अपने अक्ष पर एक चक्कर पूरा करने में लगभग 24 घंटे का समय लेती है।
+#pqWvI apane akRa para eka cakkara pUrA karane meM lagaBaga 24 GaMte kA samaya lewI hE.
+#The Earth takes about 24 hours to complete one revolution on its axis.
+pqWvI_1	1	-	-	15:k1	-	-	-	-
+apanA	2	-	-	3:r6	1:coref	-	-	-
+akRa_1	3	-	-	18:k7p	-	-	-	-
+eka_1	5	-	-	6:quant	-	-	-	-
+cakkara_1	6	-	-	18:k2	-	-	-	-
+pUrA_1	7	-	-	-	-	-	-	18:kriyAmUla
+kara_1	8	-	-	-	-	-	-	18:verbalizer
+24	11	numex	-	-	-	-	-	19:count
+GaMtA_1	12	-	pl	-	-	-	-	19:unit
+le_1-wA_hE_1	15	-	-	0:main	-	-	-	-
+[cp_1]	18	-	-	15:k7	-	lagaBaga_1	-	-
+[time_meas_1]	19	-	-	15:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0012>
+#घूर्णन के समय काल को पृथ्वी दिन कहा जाता है।
+#GUrNana ke samaya kAla ko pqWvI xina kahA jAwA hE.
+#The period of rotation is called an Earth day.
+GUrNana_1	1	-	-	8:k7t	-	-	-	-
+kAla_1	4	-	-	8:k2g	-	-	-	-
+pqWvI_1	6	-	-	-	-	-	-	12:mod
+xina_1	7	-	-	-	-	-	-	12:head
+kaha_1-yA_jA_wA_hE_1	8	-	-	0:main	-	-	-	-
+[nc_1]	12	-	-	8:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0013>
+#यह पृथ्वी की दैनिक गति है।
+#yaha pqWvI kI xEnika gawi hE.
+#This is the daily motion of the earth.
+$wyax	1	-	-	6:k1	Geo_ncert_6stnd_3ch_0012.12:coref	proximal	-	-
+pqWvI_1	2	-	-	5:r6	-	-	-	-
+xEnika_1	4	-	-	5:mod	-	-	-	-
+gawi_1	5	-	-	6:k1s	-	def	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0014a>
+#अगर पृथ्वी घूर्णन नहीं करे।
+#agara pqWvI GUrNana nahIM kare .
+#What happens if the earth doesn't rotate?
+pqWvI_1	1	-	-	7:k1	-	-	-	-
+GUrNana_1	2	-	-	-	-	-	-	7:kriyAmUla
+nahIM_1	3	-	-	7:neg	-	-	-	-
+kara_1-e_1	4	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	0:main	Geo_ncert_6stnd_3ch_0014b.2:AvaSyakawApariNAma	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0014b>
+#तो क्या होगा?
+#wo kyA hogA?
+#What happens if the earth doesn't rotate?
+$kim	1	-	-	2:k1	-	-	-	-
+ho_1-gA_1	2	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0015a>
+#सूर्य के तरफ वाले पृथ्वी के भाग में हमेशा दिन होगा।
+#sUrya ke waraPa vAle pqWvI ke BAga meM hameSA xina hogA .
+#The part of the Earth facing the Sun will always have day, due to which the heat will be constant in that part.
+sUrya_1	1	-	-	5:r6	-	-	-	-
+waraPa_1	3	-	mawup	11:rp	-	-	-	-
+pqWvI_1	5	-	-	7:r6	-	def	-	-
+BAga_1	7	place	-	11:k7p	-	-	-	-
+hameSA_1	9	-	-	11:krvn	-	-	-	-
+xina_1	10	-	-	11:k1	-	-	-	-
+ho_1-gA_1	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0015b>
+#जिसके कारण उस भाग में गर्मी लगातार पडेगी।
+#jisake kAraNa usa BAga meM garmI lagAwAra padegI.
+#The part of the Earth facing the Sun will always have day, due to which the heat will be constant in that part.
+$wyax	3	-	-	4:dem	-	distal	-	-
+BAga_1	4	-	-	8:k7p	-	-	-	-
+garmI_1	6	-	-	8:k1	-	-	-	-
+lagAwAra_1	7	-	-	8:krvn	-	-	-	-
+pada_1-gA_1	8	-	-	0:main	Geo_ncert_6stnd_3ch_0015a.11:pariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0016a>
+#दूसरे भाग में हमेशा अँधेरा रहेगा।
+#xUsare BAga meM hameSA azXerA rahegA .
+#The second part will always be dark and cold the whole time.
+xUsarA_1	1	-	pl	2:ord	-	-	-	-
+BAga_1	2	-	-	6:k7p	-	-	-	-
+hameSA_1	4	-	-	6:krvn	-	-	-	-
+azXerA_1	5	-	-	6:k1	-	-	-	-
+raha_1-gA_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0016b>
+#एवं पूरे समय ठंड पडेगी।
+#evaM pUre samaya TaMda padegI.
+#The second part will always be dark and cold the whole time.
+pUrA_1	1	-	pl	2:mod	-	-	-	-
+samaya_1	2	-	-	6:k7t	-	-	-	-
+TaMda_1	3	-	-	-	-	-	-	6:kriyAmUla
+pada_1-gA_1	4	-	-	-	-	-	-	6:verbalizer
+[cp_1]	6	-	-	0:main	Geo_ncert_6stnd_3ch_0016a.6:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0017>
+#इस तरह की अवस्था में जीवन संभव नहीं हो पाएगा।
+#isa waraha kI avasWA meM jIvana saMBava nahIM ho pAegA.
+#Life would not be possible in such a state.
+$wyax	1	-	-	4:dem	-	proximal	-	-
+avasWA_1	4	-	-	12:k7	-	-	-	-
+jIvana_1	6	-	-	12:k1	-	-	-	-
+saMBava_1	7	-	-	-	-	-	-	12:kriyAmUla
+nahIM_1	8	-	-	12:neg	-	-	-	-
+ho_1-0_pAegA_1	9	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	-	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0018>
+#पृथ्वी की दूसरी गति जो सूर्य के चारों ओर कक्ष में होती है उसे परिक्रमण कहा जाता है।
+#pqWvI kI xUsarI gawi jo sUrya ke cAroM ora kakRa meM howI hE use parikramaNa kahA jAwA hE.
+#The second motion of the earth in its orbit around the sun is called revolution.
+pqWvI_1	1	-	-	4:r6	-	-	-	-
+xUsarA_1	3	-	-	4:ord	-	-	-	-
+gawi_1	4	-	-	16:k2	-	-	-	-
+$yax	5	-	-	12:k1	4:coref	-	-	-
+sUrya_1	6	-	-	17:r6	-	def	-	-
+cAra+ora_1	8	numex	pl	-	-	-	-	17:part
+kakRa_1	10	-	-	-	-	-	-	17:whole
+ho_1	12	-	-	4:rcelab	-	-	-	-
+parikramaNa_1	15	-	-	16:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	16	-	-	0:main	-	-	-	-
+[spatial_1]	17	-	-	12:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0019>
+#पृथ्वी एक वर्ष या 365(1/4)दिन में सूर्य का एक चक्कर लगाती है।
+#pqWvI eka varRa yA 365(1/4)xina meM sUrya kA eka cakkara lagAwI hE.
+#The Earth revolves around the Sun in a year or 365(1/4) days.
+pqWvI_	1	-	-	0:k7p	-	-	-	-
+eka_1	2	numex	-	3:card	-	-	-	-
+varRa_1	3	-	-	-	-	-	-	20:op1
+365	5	numex	-	11:card	-	-	-	-
+1	7	numex	-	9:mod	-	-	-	-
+xina_1	11	-	-	17:k7t	-	-	-	-
+sUrya_1	13	-	-	16:r6	-	def	-	-
+1	15	numex	-	16:card	-	-	-	-
+cakkara_1	16	-	-	17:k1	-	-	-	-
+lagA_1-wA_hE_1	17	-	-	-	-	-	-	20:op2
+[disjunct_1]	20	-	-	0:main	-	-	-	-
+xina_1	21	-	-	-	-	-	-	-
+4	22	-	-	-	-	-	-	-
+xina_1	23	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0020a>
+#हम लोग एक वर्ष 365 दिन का मानते हैं।
+#hama loga eka varRa 365 xina kA mAnawe hEM .
+#We consider a year to be 365 days and do not add 6 hours to it for convenience.
+$speaker	1	-	-	2:dem	-	-	-	-
+loga_1	2	anim	-	8:k1	-	-	-	-
+1	3	numex	-	-	-	-	-	12:count
+varRa_1	4	-	-	-	-	-	-	12:unit
+365	5	-	-	-	-	-	-	11:count
+xina_1	6	-	-	-	-	-	-	11:unit
+mAna_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+[calendar_1]	11	calendricunit	-	8:k2s	-	-	-	-
+[calendar_2]	12	-	-	8:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0020b>
+#तथा सुविधा के लिए 6 घंटे को इसमें नहीं जोडते हैं।
+#waWA suviXA ke lie 6 GaMte ko isameM nahIM jodawe hEM.
+#We consider a year to be 365 days and do not add 6 hours to it for convenience.
+suviXA_1	1	-	-	9:rt	-	-	-	-
+6	4	numex	-	-	-	-	-	10:count
+GaMtA_1	5	-	pl	-	-	-	-	10:unit
+$wyax	7	-	-	9:rask2	Geo_ncert_6stnd_3ch_0020a.12:coref	proximal	-	-
+nahIM_1	8	-	-	9:neg	-	-	-	-
+joda_1-wA_hE_1	9	-	-	0:main	Geo_ncert_6stnd_3ch_0020a.8:samuccaya	-	-	-
+[time_meas_1]	10	-	-	9:k2	-	-	-	-
+$speaker	11	anim	-	9:k1	-	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0021>
+#चार वर्षो में प्रत्येक वर्ष के बचे हुए 6 घंटे मिलकर एक दिन यानी 24 घंटे के बराबर हो जाते हैं।
+#cAra varRo meM prawyeka varRa ke bace hue 6 GaMte milakara eka xina yAnI 24 GaMte ke barAbara ho jAwe hEM.
+#In four years, the remaining 6 hours of each year together become equal to one day i.e. 24 hours.
+4	1	numex	-	2:card	-	-	-	-
+varRa_1	2	-	pl	7:k7t	-	-	-	-
+prawyeka_1	4	-	-	5:quant	-	-	-	-
+varRa_1	5	-	-	7:k1	-	-	-	-
+baca_1	7	-	kqw	19:vmod	-	-	-	-
+6	9	numex	-	10:card	-	-	-	-
+GaMtA_1	10	-	pl	11:k7t	-	-	-	-
+mila_1	11	-	-	19:rpk	-	-	-	-
+1	12	numex	-	-	-	-	-	24:count
+xina_1	13	-	-	-	-	-	-	24:unit
+24	15	numex	-	16:card	-	-	-	-
+GaMtA_1	16	-	pl	18:r6	-	-	-	-
+barAbara_1	18	-	-	-	-	-	-	23:kriyAmUla
+ho_1-wA_hE_1	19	-	-	-	-	[shade:jA_1]	-	23:verbalizer
+[cp_1]	23	-	-	0:main	-	-	-	-
+[calendar_1]	24	-	-	-	-	-	-	25:op1
+[time_meas_1]	25	clocktime	-	-	-	yAnI_1	-	-
+[time_meas_2]	26	clocktime	-	-	-	-	-	-
+[rate_meas_1]	27	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0022>
+#इस अतिरिक्त दिन को फ़रवरी के महीने में जोडा जाता है।
+#isa awirikwa xina ko PZaravarI ke mahIne meM jodA jAwA hE.
+#This extra day is added to the month of February.
+$wyax	1	-	-	3:dem	-	proximal	-	-
+awirikwa_1	2	-	-	3:mod	-	-	-	-
+xina_1	3	-	-	9:k2	-	-	-	-
+PZaravarI	5	moy	-	7:r6	-	-	-	-
+mahInA_1	7	-	-	9:rask2	-	-	-	-
+joda_1-yA_jA_wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0023>
+#इस प्रकार प्रत्येक चैथे वर्ष फ़रवरी माह 28 के बदले 29 दिन का होता है।
+#isa prakAra prawyeka cEWe varRa PZaravarI mAha 28 ke baxale 29 xina kA howA hE.
+#In this way, every fourth year February has 29 days instead of 28.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+prakAra_1	2	-	-	14:krvn	-	-	-	-
+prawyeka_1	3	-	-	5:quant	-	-	-	-
+cOWA_1	4	-	-	5:ord	-	-	-	-
+varRa_1	5	-	-	14:k1	-	-	-	-
+PZaravarI	6	moy	-	-	-	-	-	20:mod
+mAha_1	7	-	-	-	-	-	-	20:head
+28	8	numex	-	-	-	-	-	19:count
+29	11	-	-	-	-	-	-	17:count
+xina_1	12	-	-	-	-	-	-	17:unit
+ho_1-wA_hE_1	14	-	-	0:main	-	-	-	-
+[calendar_meas_2]	17	calendricunit	-	14:k7t	-	-	-	-
+xina_1	18	-	-	-	-	-	-	19:unit
+[calendar_meas_1]	19	calendricunit	-	-	-	-	-	-
+[nc_1]	20	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0024>
+#ऐसा वर्ष जिसमें 366 दिन होते हैं उसे लीप वर्ष कहा जाता है।
+#EsA varRa jisameM 366 xina howe hEM use lIpa varRa kahA jAwA hE.
+#A year in which there are 366 days is called a leap year.
+EsA	1	-	-	2:dem	-	-	-	-
+varRa_1	2	-	-	6:k7t	-	-	-	-
+$yax	3	-	-	6:k7	-	-	-	-
+366	4	meas	-	-	-	-	-	15:count
+xina_1	5	-	-	-	-	-	-	15:unit
+ho_1	6	-	pl	8:rc	-	-	-	-
+$wyax	8	-	-	11:k2	-	distal	-	-
+lIpa	9	female	-	10:mod	-	-	-	-
+varRa_1	10	-	-	11:k7t	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	11	-	-	0:main	-	-	-	-
+[meas_1]	15	-	-	6:k7t	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0025a>
+#आप यह पता लगाइए।
+#Apa yaha pawA lagAie.
+#Find out when will be the next leap year?
+$addressee	1	anim	-	6:k1	-	respect	-	-
+$wyax	2	-	-	6:k2	Geo_ncert_6stnd_3ch_0025b.5:coref	proximal	-	-
+pawA_1	3	-	-	-	-	-	-	6:kriyAmUla
+lagA_1-o_1	4	-	-	-	-	-	-	6:verbalizer
+[cp_1]	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0025b>
+#कि अगला लीप वर्ष कब होगा?
+#ki agalA lIpa varRa kaba hogA?
+#Find out when will be the next leap year?
+agalA_1	1	-	-	3:mod	-	-	-	-
+lIpa_1	2	-	-	3:mod	-	-	-	-
+varRa_1	3	-	-	5:k1	-	-	-	-
+$kim	4	-	-	5:k7t	-	-	-	-
+ho_1-gA_1	5	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0026a>
+#चित्र 3.3 से यह स्पष्ट है।
+#ciwra 3.3 se yaha spaRta hE.
+#It is clear from Figure 3.3 that the Earth revolves around the Sun on an elliptical path.
+ciwra_1	1	-	-	2:rs	-	-	-	-
+3.3	2	numex	-	6:k3	-	-	-	-
+$wyax	4	-	-	6:k1	Geo_ncert_6stnd_3ch_0026b.15:coref	proximal	-	-
+spaRta_1	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0026b>
+#कि पृथ्वी दीर्घवृत्ताकार पथ पर सूर्य के चारों ओर चक्कर लगाती है।
+#ki pqWvI xIrGavqwwAkAra paWa para sUrya ke cAroM ora cakkara lagAwI hE.
+#It is clear from Figure 3.3 that the Earth revolves around the Sun on an elliptical path.
+pqWvI_1	1	-	-	15:k1	-	-	-	-
+xIrGavqwwAkAra	2	-	-	3:mod	-	-	-	-
+paWa_1	3	-	-	15:k7p	-	-	-	-
+sUrya	5	-	-	7:r6	-	def	-	-
+cAra+ora_1	7	-	pl	15:rp	-	-	-	-
+cakkara_1	9	-	-	-	-	-	-	15:kriyAmUla
+lagA_1-wA_hE_1	10	-	-	-	-	-	-	15:verbalizer
+[cp_1]	15	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0027a>
+#आप ध्यान यह दीजिए।
+#Apa XyAna yaha xIjie.
+#Note that the earth is tilted in the same direction throughout the orbit.
+$addressee	1	anim	-	5:k1	-	respect	-	-
+XyAna_1	2	-	-	5:k2	-	-	-	-
+$wyax	3	-	-	-	Geo_ncert_6stnd_3ch_0027b.9:coref	proximal	-	5:kriyAmUla
+xe_1-o_1	4	-	-	-	-	-	-	5:verbalizer
+[cp_1]	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0027b>
+#कि पृथ्वी पूरे कक्ष में एक ही दिशा में झुकी हुई है।
+#ki pqWvI pUre kakRa meM eka hI xiSA meM JukI huI hE.
+#Note that the earth is tilted in the same direction throughout the orbit.
+pqWvI	1	female	-	9:k1	-	-	-	-
+pUrA_1	2	-	pl	3:mod	-	-	-	-
+kakRa_1	3	-	-	9:k7	-	-	-	-
+eka_1	5	numex	-	7:card	-	hI	-	-
+xiSA_1	7	-	-	9:k7	-	-	-	-
+Juka_1-yA_ho_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0028>
+#सामान्यतः एक वर्ष को गर्मी, सर्दी, वसंत एवं शरद् ऋतुओं में बाँटा जाता है।
+#sAmAnyawaH eka varRa ko garmI, sarxI, vasaMwa evaM Sarax qwuoM meM bAztA jAwA hE.
+#Generally a year is divided into summer, winter, spring and autumn.
+sAmAnyawaH_1	1	-	-	14:krvn	-	-	-	-
+1	2	numex	-	3:card	-	-	-	-
+varRa_1	3	-	-	14:k2	-	-	-	-
+garmI_1	5	season	-	-	-	-	-	18:op1
+sarxI_1	7	season	-	-	-	-	-	18:op2
+vasaMwa_1	9	season	-	-	-	-	-	18:op3
+Sarax	11	season	-	-	-	-	-	18:op4
+qwu_1	12	-	pl	14:k7	-	-	-	-
+bAzta_1-yA_jA_wA_hE_1	14	-	-	0:main	-	-	-	-
+[conj_1]	18	-	-	12:rs	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0029>
+#ऋतुओं में परिवर्तन सूर्य के चारों ओर पृथ्वी की स्थिति में परिवर्तन के कारण होता है।
+#qwuoM meM parivarwana sUrya ke cAroM ora pqWvI kI sWiwi meM parivarwana ke kAraNa howA hE.
+#Changes in seasons are caused by changes in the position of the Earth around the Sun.
+qwu_1	1	-	pl	15:k7	-	-	-	-
+parivarwana_1	3	-	-	15:k1	-	-	-	-
+sUrya_1	4	-	-	6:r6	-	-	-	-
+cAra+ora_1	6	numex	-	15:rp	-	-	-	-
+pqWvI_1	8	-	-	10:r6	-	-	-	-
+sWiwi_1	10	-	-	15:k7	-	-	-	-
+parivarwana_1	12	-	-	15:rh	-	-	-	-
+ho_1-wA_hE_1	15	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0030a>
+#चित्र 3.3 में आप यह देखेंगे।
+#ciwra 3.3 meM Apa yaha xeKeMge.
+#In Fig. 3.3 you will see that on 21st June the Northern Hemisphere is tilted towards the Sun.
+ciwra_1	1	-	-	2:rs	-	-	-	-
+3.3	2	numex	-	6:k7p	-	-	-	-
+$addressee	4	anim	-	6:k1	-	respect	-	-
+$wyax	5	-	-	6:k2	Geo_ncert_6stnd_3ch_0030b.9:coref	proximal	-	-
+xeKa_1-gA_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0030b>
+#कि 21 जून को उत्तरी गोलार्ध सूर्य की तरफ झुका है।
+#ki 21 jUna ko uwwarI golArXa sUrya kI waraPa JukA hE.
+#In Fig. 3.3 you will see that on 21st June the Northern Hemisphere is tilted towards the Sun.
+21	1	dom	-	-	-	-	-	14:count
+jUna_1	2	moy	-	-	-	-	-	14:unit
+uwwarI_1	4	-	-	-	-	-	-	13:begin
+golArXa	5	-	-	-	-	-	-	13:inside
+sUrya_1	6	-	-	9:rd	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+[ne_1]	13	-	-	9:k1	-	-	-	-
+[calendar_1]	14	-	-	9:k7t	-	-	-	-
+JukA_1	15	-	kqw	9:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0031>
+#सूर्य की किरणें कर्क रेखा पर सीधी पडती हैं।
+#sUrya kI kiraNeM karka reKA para sIXI padawI hEM.
+#The sun's rays fall directly on the Tropic of Cancer.
+sUrya_1	1	-	-	3:r6	-	-	-	-
+kiraNa_1	3	-	pl	8:k1	-	-	-	-
+karka	4	-	-	-	-	-	-	11:begin
+reKA_1	5	-	-	-	-	-	-	11:inside
+sIXA_1	7	-	-	8:krvn	-	-	-	-
+pada_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+[ne_1]	11	-	-	8:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0032>
+#इसके परिणामस्वरूप इन क्षेत्रों में ऊष्मा अधिक प्राप्त होती है।
+#isake pariNAmasvarUpa ina kRewroM meM URmA aXika prApwa howI hE.
+#As a result, more heat is received in these areas.
+$wyax	3	-	-	4:dem	-	proximal	-	-
+kRewra_1	4	-	pl	12:k7p	-	-	-	-
+URmA_1	6	-	-	9:k1	-	-	-	-
+prApwa_1	8	-	compermore	-	-	-	-	12:kriyAmUla
+ho_1-wA_hE_1	9	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	Geo_ncert_6stnd_3ch_0031.8:pariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0033a>
+#ध्रुवो के पास वाले क्षेत्रों में कम ऊष्मा प्राप्त होती है।
+#Xruvo ke pAsa vAle kRewroM meM kama URmA prApwa howI hE .
+#Areas near the poles receive less heat because the sun's rays fall obliquely there.
+Xruva_1	1	-	pl	3:rdl	-	-	-	-
+pAsa_1	3	-	mawup/pl	13:k7p	-	-	-	-
+kRewra_1	5	-	pl	13:k7p	-	-	-	-
+URmA_1	8	-	comperless	10:k1	-	-	-	-
+prApwa_1	9	-	-	-	-	-	-	13:kriyAmUla
+ho_1-wA_hE_1	10	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0033b>
+#क्योंकि वहाँ सूर्य की किरणें तिरछी पडती हैं।
+#kyoMki vahAz sUrya kI kiraNeM wiraCI padawI hEM.
+#Areas near the poles receive less heat because the sun's rays fall obliquely there.
+$wyax	1	-	-	5:k7p	Geo_ncert_6stnd_3ch_0033a.5:coref	-	-	-
+sUrya_1	2	-	-	4:r6	-	-	-	-
+kiraNa_1	4	-	pl	5:k1	-	-	-	-
+padZa_1-wA_hE_1	5	-	-	0:main	Geo_ncert_6stnd_3ch_0033a.13:kAryakAraNa	-	-	-
+wiraCI_1	6	-	-	5:krvn	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0034a>
+#उत्तर ध्रुवो सूर्य की तरफ झुका होता है।
+#uwwara Xruvo sUrya kI waraPa JukA howA hE .
+#The North Pole is tilted towards the Sun and there is a continuous day for about 6 months on the parts after the North Pole line.
+uwwara_1	1	-	-	-	-	-	-	10:begin
+Xruva	2	-	-	-	-	-	-	10:inside
+sUrya_1	3	-	-	6:rd	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+[ne_1]	10	-	-	6:k1	-	-	-	-
+JukA_1	11	-	kqw	6:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0034b>
+#तथा उत्तरी ध्रुव रेखा के बाद वाले भागों पर लगभग 6 महीने तक लगातार दिन रहता है।
+#waWA uwwarI Xruva reKA ke bAxa vAle BAgoM para lagaBaga 6 mahIne waka lagAwAra xina rahawA hE.
+#The North Pole is tilted towards the Sun and there is a continuous day for about 6 months on the parts after the North Pole line.
+uwwarI	1	-	-	-	-	-	-	18:begin
+Xruva	2	-	-	-	-	-	-	18:inside
+reKA	3	-	-	5:rdl	-	-	-	-
+bAxa_1	5	-	-	7:mod	-	-	-	-
+BAga_1	7	-	pl	15:k7p	-	lagaBaga_1	-	-
+6	10	numex	-	-	-	-	-	19:count
+mahInA_1	11	-	pl	-	-	-	-	19:unit
+lagAwAra_1	13	-	-	14:mod	-	-	-	-
+xina_1	14	-	-	15:k1	-	-	-	-
+raha_1-wA_hE_1	15	-	-	0:main	Geo_ncert_6stnd_3ch_0034a.6:samuccaya	-	-	-
+[ne_1]	18	-	-	7:r6	-	-	-	-
+[time_meas_1]	19	-	-	-	-	-	-	20:end
+[span_1]	20	-	-	15:k7t	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0035a>
+#चूँकि, उत्तरी गोलार्ध के बहुत बड़े भाग में सूर्य की रोशनी प्राप्त होती है।
+#cUzki, uwwarI golArXa ke bahuwa bade BAga meM sUrya kI roSanI prApwa howI hE .
+#Since a large part of the Northern Hemisphere receives sunlight, the northern part of the equator has a summer season.
+uwwarI_1	1	-	-	-	-	-	-	16:begin
+golArXa	2	-	-	-	-	-	-	16:inside
+bahuwa_1	4	-	-	5:intf	-	-	-	-
+badA_1	5	-	pl	6:mod	-	-	-	-
+BAga_1	6	-	-	15:k7p	-	-	-	-
+sUrya_1	8	-	-	10:r6	-	-	-	-
+roSanI_1	10	-	-	15:k1	-	-	-	-
+prApwa_1	11	-	-	-	-	-	-	15:kriyAmUla
+ho_1-wA_hE_1	12	-	-	-	-	-	-	15:verbalizer
+[cp_1]	15	-	-	0:main	Geo_ncert_6stnd_3ch_0034b.15:kAryakAraNa	-	-	-
+[ne_1]	16	-	-	5:r6	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0035b>
+#इसलिए विषुवत वृत्त के उत्तरी भाग में गर्मी का मौसम होता है।
+#isalie viRuvawa vqwwa ke uwwarI BAga meM garmI kA mOsama howA hE.
+#Since a large part of the Northern Hemisphere receives sunlight, the northern part of the equator has a summer season.
+viRuvawa	1	-	-	-	-	-	-	13:begin
+vqwwa_1	2	-	-	-	-	-	-	13:inside
+uwwarI_1	4	-	-	5:mod	-	-	-	-
+BAga_1	5	-	-	10:k7p	-	-	-	-
+garmI_1	7	season	-	9:r6	-	-	-	-
+mOsama_1	9	-	-	10:k1	-	-	-	-
+ho_1-wA_hE_1	10	-	-	0:main	Geo_ncert_6stnd_3ch_0035a.15:pariNAma	-	-	-
+[ne_1]	13	-	-	5:r6	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0036>
+#21 जून को इन क्षेत्रों में सबसे लंबा दिन तथा सबसे छोटी रात होती है।
+#21 jUna ko ina kRewroM meM sabase laMbA xina waWA sabase CotI rAwa howI hE.
+#June 21 has the longest day and shortest night in these regions.
+21	1	dom	-	-	-	-	-	18:count
+jUna	2	moy	-	-	-	-	-	18:unit
+$wyax	4	-	-	5:dem	-	proximal	-	-
+kRewra_1	5	-	pl	14:k7p	-	-	-	-
+laMbA_1	8	-	superl	9:mod	-	-	-	-
+xina_1	9	-	-	-	-	-	-	19:op1
+CotA_1	12	-	superl	13:mod	-	-	-	-
+rAwa_1	13	-	-	-	-	-	-	19:op2
+ho_1-wA_hE_1	14	-	-	0:main	-	-	-	-
+[calendar_1]	18	-	-	14:k7t	-	-	-	-
+[conj_1]	19	-	-	14:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0037>
+#पृथ्वी की इस अवस्था को उत्तर अयनांत कहते हैं।
+#pqWvI kI isa avasWA ko uwwara ayanAMwa kahawe hEM.
+#This state of the earth is called post solstice.
+pqWvI_1	1	-	-	4:r6	-	def	-	-
+$wyax	3	-	-	4:dem	-	proximal	-	-
+avasWA_1	4	-	-	8:k2	-	-	-	-
+uwwara	6	-	-	-	-	-	-	11:begin
+ayanAMwa	7	-	-	-	-	-	-	11:inside
+kaha_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+[ne_1]	11	-	-	8:k2s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0038>
+#22 दिसंबर को दक्षिण ध्रुव के सूर्य की ओर झुके होने के कारण मकर रेखा पर सूर्य की किरणें सीधी पडती हैं।
+#22 xisaMbara ko xakRiNa Xruva ke sUrya kI ora Juke hone ke kAraNa makara reKA para sUrya kI kiraNeM sIXI padawI hEM.
+#On December 22, due to the tilt of the South Pole towards the Sun, the rays of the Sun fall directly on the Tropic of Capricorn.
+22	1	dom	-	-	-	-	-	28:count
+xisaMbara_1	2	moy	-	-	-	-	-	28:unit
+xakRiNa	4	-	-	-	-	-	-	25:begin
+Xruva	5	-	-	-	-	-	-	25:inside
+sUrya_1	7	-	-	10:rd	-	-	-	-
+Juka_1	10	-	-	21:rh	-	-	-	-
+makara	14	-	-	-	-	-	-	26:begin
+reKA	15	-	-	-	-	-	-	26:inside
+sUrya_1	17	-	-	19:r6	-	-	-	-
+kiraNa_1	19	-	pl	21:k1	-	-	-	-
+sIXA_1	20	-	-	21:krvn	-	-	-	-
+pada_1-wA_hE_1	21	-	-	0:main	-	-	-	-
+[ne_2]	25	-	-	7:r6	-	-	-	-
+[ne_1]	26	-	-	21:k7p	-	-	-	-
+[calendar_1]	28	-	-	10:k7t	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0039a>
+#चूँकि,सूर्य की किरणें मकर रेखा पर लंबवत् पडती हैं।
+#cUzki,sUrya kI kiraNeM makara reKA para laMbavaw padawI hEM .
+#Since the Sun's rays fall vertically on the Tropic of Capricorn, a large part of the Southern Hemisphere receives light.
+sUrya_1	1	-	-	3:r6	-	-	-	-
+kiraNa_1	3	-	pl	8:k1	-	-	-	-
+makara	4	-	-	-	-	-	-	11:begin
+reKA	5	-	-	-	-	-	-	11:inside
+laMbavaw_1	7	-	-	8:krvn	-	-	-	-
+pada_1-wA_hE_1	8	-	-	0:main	Geo_ncert_6stnd_3ch_0038.21:kAryakAraNa	-	-	-
+[ne_1]	11	-	-	8:k7p	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0039b>
+#इसलिए दक्षिणी गोलार्ध के बहुत बड़े भाग में प्रकाश प्राप्त होता है।
+#isalie xakRiNI golArXa ke bahuwa bade BAga meM prakASa prApwa howA hE.
+#Since the Sun's rays fall vertically on the Tropic of Capricorn, a large part of the Southern Hemisphere receives light.
+xakRiNI_1	1	-	-	-	-	-	-	14:begin
+golArXa	2	-	-	-	-	-	-	14:inside
+bahuwa_1	4	-	-	6:intf	-	-	-	-
+badA_1	5	-	pl	6:mod	-	-	-	-
+BAga_1	6	-	-	13:k7p	-	-	-	-
+prakASa_1	8	-	-	13:k1	-	-	-	-
+prApwa_1	9	-	-	-	-	-	-	13:kriyAmUla
+ho_1-wA_hE_1	10	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	Geo_ncert_6stnd_3ch_0039a.8:pariNAma	-	-	-
+[ne_1]	14	-	-	6:r6	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0040>
+#इसलिए, दक्षिणी गोलार्ध में लंबे दिन तथा छोटी रातों वाली ग्रीष्म ऋतु होती है।
+#isalie, xakRiNI golArXa meM laMbe xina waWA CotI rAwoM vAlI grIRma qwu howI hE.
+#Therefore, the Southern Hemisphere has summers with long days and short nights
+xakRiNI	1	-	-	-	-	-	-	18:begin
+golArXa	2	-	-	-	-	-	-	18:inside
+laMbA_1	4	-	pl	5:mod	-	-	-	-
+xina_1	5	-	-	-	-	-	-	17:op1
+CotA_1	7	-	-	8:mod	-	-	-	-
+rAwa_1	8	-	mawup/pl	-	-	-	-	17:op2
+grIRma	10	-	-	-	-	-	-	15:begin
+qwu_1	11	-	-	12:k1	-	-	-	-
+ho_1-wA_hE_1	12	-	-	0:main	Geo_ncert_6stnd_3ch_0039b.13:pariNAma	-	-	-
+[ne_2]	15	-	-	11:rs	-	-	-	-
+[conj_1]	17	-	-	11:mod	-	-	-	-
+[ne_1]	18	-	-	12:k7p	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0041>
+#इसके ठीक विपरीत स्थिति उत्तरी गोलार्ध में होती है।
+#isake TIka viparIwa sWiwi uwwarI golArXa meM howI hE.
+#The exact opposite is the case in the Northern Hemisphere.
+$wyax	1	-	-	3:r6	-	-	-	-
+viparIwa_1	3	-	-	4:mod	-	-	-	-
+sWiwi_1	4	-	-	8:k1	-	-	-	-
+uwwarI_1	5	-	-	-	-	-	-	9:begin
+golArXa	6	-	-	-	-	-	-	9:inside
+ho_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+[ne_1]	9	-	-	8:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0042>
+#पृथ्वी की इस अवस्था को दक्षिण अयनांत कहा जाता है।
+#pqWvI kI isa avasWA ko xakRiNa ayanAMwa kahA jAwA hE.
+#This state of the earth is called the southern solstice.
+pqWvI_1	1	-	-	4:r6	-	def	-	-
+$wyax	3	-	-	4:dem	-	proximal	-	-
+avasWA_1	4	-	-	8:k2	-	-	-	-
+xakRiNa	6	-	-	-	-	-	-	12:begin
+ayanAMwa	7	-	-	-	-	-	-	12:inside
+kaha_1-yA_jA_wA_hE_1	8	-	-	0:main	-	-	-	-
+[ne_1]	12	-	-	8:k2s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0043a>
+#क्या आप यह जानते हैं?
+#kyA Apa yaha jAnawe hEM?
+#Do you know that Christmas is celebrated in Australia in the summer season?
+$addressee	2	anim	-	4:k1	-	respect	-	-
+$wyax	3	-	-	4:k2	Geo_ncert_6stnd_3ch_0043b.9:coref	proximal	-	-
+jAna_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0043b>
+#कि आस्ट्रेलिया में ग्रीष्म ऋतु में क्रिसमस का पर्व मनाया जाता है।
+#ki AstreliyA meM grIRma qwu meM krisamasa kA parva manAyA jAwA hE .
+#Do you know that Christmas is celebrated in Australia in the summer season?
+AstreliyA	1	-	-	-	-	-	-	14:begin
+grIRma	3	-	-	-	-	-	-	13:begin
+qwu_1	4	-	-	9:k7t	-	-	-	-
+krisamasa	6	-	-	-	-	-	-	15:begin
+parva_1	8	-	-	9:k2	-	-	-	-
+manA_1-yA_jA_wA_hE_1	9	-	-	0:main	-	-	-	-
+[ne_2]	13	season	-	4:rs	-	-	-	-
+[ne_1]	14	place	-	9:k7p	-	-	-	-
+[ne_3]	15	-	-	8:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0044>
+#21 मार्च एवं 23 सितंबर को सूर्य की किरणें विषुवत् वृत्त पर सीधी पडती हैं।
+#21 mArca evaM 23 siwaMbara ko sUrya kI kiraNeM viRuvaw vqwwa para sIXI padawI hEM.
+#On March 21 and September 23, the sun's rays fall directly on the equator.
+21	1	dom	-	-	-	-	-	21:component1
+mArca	2	moy	-	-	-	-	-	21:component2
+23	4	dom	-	-	-	-	-	22:component1
+siwaMbara	5	moy	-	-	-	-	-	22:component2
+sUrya_1	7	-	-	9:r6	-	def	-	-
+kiraNa_1	9	-	pl	14:k1	-	-	-	-
+viRuvaw_1	10	-	-	11:mod	-	-	-	-
+vqwwa_1	11	-	-	14:k7p	-	-	-	-
+sIXA_1	13	-	-	14:krvn	-	-	-	-
+pada_1-wA_hE_1	14	-	-	0:main	-	-	-	-
+[calendar_1]	21	-	-	-	-	-	-	23:op1
+[calendar_2]	22	-	-	-	-	-	-	23:op2
+[conj_1]	23	-	-	14:k7t	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0045a>
+#इस अवस्था में कोई भी ध्रुव सूर्य की ओर नहीं झुका होता है।
+#isa avasWA meM koI BI Xruva sUrya kI ora nahIM JukA howA hE .
+#In this state, none of the poles is tilted towards the Sun, so night and day are equal on the whole earth.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+avasWA_1	2	-	-	12:k7	-	-	-	-
+koI_1	4	-	-	6:mod	-	BI_1	-	-
+Xruva	6	-	-	12:k1	-	-	-	-
+sUrya_1	7	-	-	12:rd	-	-	-	-
+nahIM_1	10	-	-	12:neg	-	-	-	-
+JukA_1	11	-	-	12:k1s	-	-	-	-
+ho_1-wA_hE_1	12	-	-	0:main	-	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0045b>
+#इसलिए पूरी पृथ्वी पर रात एवं दिन बराबर होते हैं।
+#isalie pUrI pqWvI para rAwa evaM xina barAbara howe hEM.
+#In this state, none of the poles is tilted towards the Sun, so night and day are equal on the whole earth.
+pUrI_1	1	-	-	2:mod	-	-	-	-
+pqWvI_1	2	-	-	8:k7p	-	-	-	-
+rAwa_1	4	-	-	-	-	-	-	12:op1
+xina_1	6	-	-	-	-	-	-	12:op2
+barAbara_1	7	-	-	8:k1s	-	-	-	-
+ho_1-wA_hE_1	8	-	-	0:main	-Geo_ncert_6stnd_3ch_0045a.12:pariNAma	-	-	-
+[conj_1]	12	-	-	8:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0046>
+#इसे विषुव कहा जाता है।
+#ise viRuva kahA jAwA hE.
+#This is called the equinox.
+$wyax	1	-	-	3:k2	Geo_ncert_6stnd_3ch_0045b.12:coref	proximal	-	-
+viRuva_1	2	-	-	3:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0047a>
+#23 सितंबर को उत्तरी गोलार्ध में शरद् ऋतुओं होती है।
+#23 siwaMbara ko uwwarI golArXa meM Sarax qwuoM howI hE .
+#On September 23, autumn occurs in the Northern Hemisphere, while it is spring in the Southern Hemisphere.
+23	1	dom	-	-	-	-	-	13:component1
+siwaMbara_1	2	moy	-	-	-	-	-	13:component2
+uwwarI	4	-	-	-	-	-	-	12:begin
+golArXa	5	-	-	-	-	-	-	12:inside
+Sarax_1	7	season	-	8:rs	-	-	-	-
+qwu_1	8	-	pl	9:k1	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+[ne_1]	12	place	-	9:k7p	-	-	-	-
+[calendar_1]	13	-	-	9:k7t	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0047b>
+#जबकि दक्षिणी गोलार्ध में वसंत ऋतु होती है।
+#jabaki xakRiNI golArXa meM vasaMwa qwu howI hE.
+#On September 23, autumn occurs in the Northern Hemisphere, while it is spring in the Southern Hemisphere.
+xakRiNI	1	-	-	-	-	-	-	9:begin
+golArXa	2	-	-	-	-	-	-	9:inside
+vasaMwa_1	4	season	-	5:rs	-	-	-	-
+qwu_1	5	-	-	6:k1	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	Geo_ncert_6stnd_3ch_0047a.6:viroXI_xyowaka	-	-	-
+[ne_1]	9	-	-	6:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0048>
+#21 मार्च को स्थिति इसके विपरीत होती है जब उत्तरी गोलार्ध में वसंत ऋतु तथा दक्षिणी गोलार्ध में शरद् ऋतु होती है।
+#21 mArca ko sWiwi isake viparIwa howI hE jaba uwwarI golArXa meM vasaMwa qwu waWA xakRiNI golArXa meM Sarax qwu howI hE.
+#On March 21, the situation is reversed when it is spring in the Northern Hemisphere and autumn in the Southern Hemisphere.
+21	1	dom	-	-	-	-	-	28:component1
+mArca	2	moy	-	-	-	-	-	28:component2
+sWiwi_1	4	-	-	7:k1	-	-	-	-
+$wyax	5	-	-	32:r6	-	proximal	-	-
+ho_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+$yax	9	-	-	21:k7t	-	-	-	-
+uwwarI	10	-	-	-	-	-	-	30:begin
+golArXa	11	-	-	-	-	-	-	30:inside
+vasaMwa	13	-	-	-	-	-	-	25:begin
+qwu_1	14	-	-	-	-	-	-	29:op1
+xakRiNI	16	-	-	-	-	-	-	31:begin
+golArXa	17	-	-	-	-	-	-	31:inside
+Sarax	19	-	-	-	-	-	-	26:begin
+qwu_1	20	-	-	-	-	-	-	29:op2
+ho_1-wA_hE_1	21	-	-	7:rcsamAnakAla	-	-	-	-
+[ne_2]	25	-	-	14:rs	-	-	-	-
+[ne_4]	26	-	-	20:rs	-	-	-	-
+[calendar_1]	28	-	-	7:k7t	-	-	-	-
+[conj_1]	29	-	-	21:k1	-	-	-	-
+[ne_1]	30	-	-	21:k7p	-	def	-	-
+[ne_3]	31	-	-	21:k7p	-	def	-	-
+viparIwa_1	32	-	-	7:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0049a>
+#इस प्रकार, यह स्पष्ट है।
+#isa prakAra, yaha spaRta hE.
+#Thus, it is clear that due to the rotation and rotation of the earth, there is a change in the day and night and the seasons.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+prakAra_1	2	-	-	6:krvn	-	-	-	-
+$wyax	4	-	-	6:k1	-Geo_ncert_6stnd_3ch_0049b.18:coref	proximal	-	-
+spaRta_1	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_3ch_0049b>
+#कि पृथ्वी के घूर्णन एवं परिक्रमण के कारण दिन एवं रात तथा ऋतुओं में परिवर्तन होता है।
+#ki pqWvI ke GUrNana evaM parikramaNa ke kAraNa xina evaM rAwa waWA qwuoM meM parivarwana howA hE.
+#Thus, it is clear that due to the rotation and rotation of the earth, there is a change in the day and night and the seasons.
+pqWvI_1	1	-	-	3:r6	-	-	-	-
+GUrNana_1	3	-	-	-	-	-	-	22:op1
+parikramaNa_1	5	-	-	-	-	-	-	22:op2
+xina_1	8	-	-	-	-	def	-	21:op1
+rAwa_1	10	-	-	-	-	-	-	21:op2
+qwu_1	12	-	pl	-	-	def	-	19:op2
+parivarwana_1	14	-	-	-	-	-	-	18:kriyAmUla
+ho_1	15	-	-	-	-	-	-	18:verbalizer
+[cp_1]	18	-	-	0:main	-	-	-	-
+[conj_3]	19	-	-	18:k7	-	-	-	-
+[conj_2]	21	-	-	-	-	-	-	19:op1
+[conj_1]	22	-	-	18:rh	-	-	-	-
+%affirmative
+</segment_id>

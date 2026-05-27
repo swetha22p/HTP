@@ -1,0 +1,567 @@
+<segment_id=news_headline_6_0001a>
+#उसे उम्मीद यह थी ।
+#use ummIxa yaha WI .
+#He hoped this.
+$wyax	1	-	-	4:k4a	-	distal	-	-
+ummIxa_1	2	-	-	4:k1	-	-	-	-
+$wyax	3	-	-	4:k2	news_headline_6_0001b.6:coref	proximal	-	-
+hE_1-past	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0001b>
+#कि जब डिब्बा इतना सुंदर है ।
+#ki jaba dibbA iwanA suMxara hE .
+#that since the box was so beautiful.
+$yax	2	-	-	6:k7t	-	-	-	-
+dibbA_1	3	-	-	6:k1	-	-	-	-
+iwanA_1	4	-	-	5:intf	-	-	-	-
+suMxara_1	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	news_headline_6_0001c.8:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0001c>
+#तो अंदर भी कुछ न कुछ मजेदार होगा  ।
+#wo aMxara BI kuCa na kuCa majexAra hogA  .
+#Then there would be something interesting inside too.
+aMxara_1	2	-	-	8:k7	-	BI_2	-	-
+kuCa+na+kuCa_1	4	-	-	7:mod	-	-	-	-
+majexAra_1	7	-	-	8:k1	-	-	-	-
+ho_1-gA_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0002a>
+#ये बॉक्स उन्हें फादर्स डे पर मिला था ।
+#ye bOYksa unheM PAxarsa de para milA WA .
+#He had received this box on Father's Day.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+^bOYksa_1	2	-	-	7:k1	-	-	-	-
+$wyax	3	-	-	7:k4	-	distal	-	-
+^PAxarsa	4	-	-	-	-	-	-	10:begin
+^de	5	-	-	-	-	-	-	10:inside
+milA_1-WA_1	7	-	-	0:main	-	-	-	-
+[ne_1]	10	ne	-	7:k7t	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0002b>
+#ऐसे में उन्हें यह उम्मीद थी ।
+#Ese meM unheM yaha ummIxa WI .
+#So he was hoping this.
+$wyax	3	-	-	6:k4a	-	distal	-	-
+$wyax	4	-	-	5:dem	news_headline_6_0002c.9:coref	proximal	-	-
+ummIxa_1	5	-	-	6:k2	-	-	-	-
+hE_1-past	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0002c>
+#कि शायद इसके अंदर कोई प्यारी सी चीज़ होगी जो कोई यहां भूल गया है ।
+#ki SAyaxa isake aMxara koI pyArI sI cIjZa hogI jo koI yahAM BUla gayA hE .
+#That maybe there would be a lovely thing inside it, which someone had forgotten here.
+SAyaxa_1	2	-	-	9:vkvn	-	-	-	-
+$wyax	3	-	-	4:rdl	news_headline_6_0002a.2:coref	proximal	-	-
+aMxara_1	4	-	-	9:k7p	-	-	-	-
+koI_1	5	-	-	8:mod	-	-	-	-
+pyArA_1	6	-	-	8:mod	-	sI_1	-	-
+cIjZa_1	8	-	-	9:k1	-	-	-	-
+ho_1-gA_1	9	-	-	0:main	8:coref	-	-	-
+$yax	10	-	-	13:k1	-	-	-	-
+koI_1	11	-	-	12:k1	-	-	-	-
+$wyax	12	-	-	13:k7p	-	-	-	-
+BUla_1-yA_hE_1	13	-	-	8:rcelab	-	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0003>
+#हालांकि जैसे ही उन्होंने इसे खोला , तब वे सह नहीं पाए . ।
+#hAlAMki jEse hI unhoMne ise KolA , waba ve saha nahIM pAe . .
+#However, as soon as he opened it, he could not bear it.
+jEsA_1	2	-	-	6:adv	-	-	-	-
+$wyax	4	-	-	6:k1	-	distal	-	-
+$wyax	5	-	-	6:k2	news_headline_6_0002a.2:coref	proximal	-	-
+Kola_1-yA_1	6	-	-	14:main	-	-	-	-
+waba	8	-	-	10:k7t	-	-	-	-
+$wyax	9	-	-	10:k1	-	distal	-	-
+saha_1	10	-	-	14:nmod__relc	-	-	-	-
+nahIM_1	11	-	-	10:neg	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0004a>
+#बॉक्स को वहीं छोड़कर वो इससे दूर भाग गए ।
+#bOYksa ko vahIM CodZakara vo isase xUra BAga gae .
+#Leaving the box there, he ran away from it.
+^bOYksa_1	1	-	-	4:k2	-	def	-	-
+$wyax	3	-	-	4:k7p	-	-	-	-
+CodZa_1	4	-	-	8:rpk	-	-	-	-
+$wyax	5	-	-	8:k1	-	-	-	-
+$wyax	6	-	-	8:k5	1:coref	proximal	-	-
+xUra_1	7	-	-	8:k7p	-	-	-	-
+BAga_1-yA_1	8	-	-	0:main	-	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0004b>
+#क्योंकि इसके अंदर बहुत ही अजीब चीज़ थी ।
+#kyoMki isake aMxara bahuwa hI ajIba cIjZa WI .
+#Because there was something very strange inside it.
+$wyax	2	-	-	3:r6	news_headline_6_0004a.1:coref	proximal	-	-
+aMxara_1	3	-	-	8:k7p	-	-	-	-
+bahuwa_1	4	-	-	6:intf	-	hI_2	-	-
+ajIba_1	6	-	-	7:mod	-	-	-	-
+cIjZa_1	7	-	-	8:k1	-	-	-	-
+hE_1-past	8	-	-	0:main	news_headline_6_0004a.8:kAryakAraNa	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0005>
+#कई बार हमें कुछ ऐसी चीज़ मिल जाती है , जिसकी हमें कल्पना भी न हो  ।
+#kaI bAra hameM kuCa EsI cIjZa mila jAwI hE , jisakI hameM kalpanA BI na ho  .
+#Sometimes we find something we never imagined.
+kaI_1	1	-	-	2:quant	-	-	-	-
+bAra_1	2	-	-	7:freq	-	-	-	-
+$speaker	3	-	pl	7:k4a	-	-	-	-
+kuCa_1	4	-	-	6:quant	-	-	-	-
+$wyax	5	-	-	19:dem	-	-	-	-
+cIjZa_1	6	-	-	7:k2	-	-	-	-
+mila_1-wA_hE_1	7	-	-	0:main	6:coref	[shade:jA_1]	-	-
+$yax	11	-	-	18:k2	-	-	-	-
+$speaker	12	-	-	18:k1	-	-	-	-
+kalpanA_1	13	-	-	-	-	BI_2	-	18:kriyAmUla
+na_1	15	-	-	18:neg	-	-	-	-
+hE_1-o_1	16	-	-	-	-	-	-	18:verbalizer
+[cp_1]	18	-	-	6:rcdelim	-	-	-	-
+prakAra	19	-	-	6:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0006a>
+#अगर ये किसी ऐसी जगह पर मिले जहां उम्मीद भी न हो ।
+#agara ye kisI EsI jagaha para mile jahAM ummIxa BI na ho .
+#If it is found in a place where it is not expected.
+$wyax	2	-	-	7:k1	news_headline_6_0004a.1:coref	proximal	-	-
+koI	3	-	-	5:mod	-	-	-	-
+$wyax	4	-	-	15:dem	-	-	-	-
+jagaha_1	5	-	-	7:k7p	-	-	-	-
+mila_1-e_1	7	-	-	0:main	-	-	-	-
+yax	8	-	-	14:k7p	-	-	-	-
+ummIxa_1	9	-	-	-	-	BI_1	-	14:kriyAmUla
+na_1	11	-	-	14:neg	-	-	-	-
+ho_1-o_1	12	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	5:rcdelim	news_headline_6_0006b.5:AvaSyakawApariNAma	-	-	-
+prakAra_1	15	-	-	5:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0006b>
+#तो लोग दौड़कर इसे उठा लेते ।
+#wo loga xOdZakara ise uTA lewe .
+#Then people would run and pick it up.
+loga_1	2	anim	-	5:k1	-	-	-	-
+xOdZa_1	3	-	-	5:rpk	-	-	-	-
+$wyax	4	-	-	5:k2	news_headline_6_0004a.1:coref	proximal	-	-
+uTA_1-wA_hE_1	5	-	-	0:main	news_headline_6_0005.5:pariNAma	[shade:le_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0007F>
+#मसलन सड़क पर कोई सुंदर सी चीज़ या फिर पहाड़ों या समंदर के किनारे कोई सुंदर बोतल या बॉक्स  ।
+#masalana sadZaka para koI suMxara sI cIjZa yA Pira pahAdZoM yA samaMxara ke kinAre koI suMxara bowala yA bOYksa  .
+#For example, something beautiful on the road or on the seashore.
+sadZaka_1	2	-	-	7:k7p	-	-	-	-
+koI	4	-	-	7:mod	-	-	-	-
+suMxara_1	5	-	-	7:mod	-	sI_1	-	-
+cIjZa_1	7	-	-	21:k1	-	-	-	-
+pahAdZa_1	10	-	pl	11:ccof	-	def	-	20:op1
+samaMxara_1	12	-	-	14:r6	-	-	-	-
+kinArA_1	14	-	-	0:k7p	-	def	-	20:op2
+koI	15	-	-	21:mod	-	-	-	-
+suMxara_1	16	-	-	21:mod	-	-	-	-
+bowala_1	17	-	-	18:ccof	-	-	-	21:op1
+bOYksa_1	19	-	-	18:ccof	-	-	-	21:op2
+[disjunt_1]	20	-	-	21:k7p	-	-	-	-
+[disjunt_2]	21	-	-	0:main	news_headline_6_0006b.5:uXAharaNasvarUpa	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0008>
+#हम इसे देखकर रुक नहीं पाते हैं  ।
+#hama ise xeKakara ruka nahIM pAwe hEM  .
+#We can't stop looking at it.
+$speaker	1	anim	pl	4:k1	-	-	-	-
+$wyax	2	-	-	3:k2	news_headline_6_0007F.21:coref	proximal	-	-
+xeKa_1	3	-	-	4:rpk	-	-	-	-
+ruka_1-wA_hE_1	4	-	-	0:main	-	[shade:pA_1]	-	-
+nahIM_1	5	-	-	4:neg	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0009>
+#कुछ ऐसा ही हुआ एक शख्स के साथ , जोके टैकोमा में रहता है  ।
+#kuCa EsA hI huA eka SaKsa ke sAWa , joke tEkomA meM rahawA hE  .
+#Something similar happened to a man in Tacoma.
+kuCa_1	1	-	-	14:quant	-	-	-	-
+$wyax	2	-	-	14:dem	-	-	-	-
+ho_1-yA_hE_1	4	-	-	0:main	-	-	-	-
+eka_1	5	-	-	6:card	-	-	-	-
+SaKsa_1	6	anim	-	4:rask1	-	-	-	-
+$yax	10	-	-	13:k1	6:coref	ki_1	-	-
+tEkomA	11	-	-	-	-	-	-	15:begin
+raha_1-wA_hE_1	13	-	-	6:rcelab	-	-	-	-
+prakAra	14	-	-	4:krvn	-	-	-	-
+[ne_1]	15	place	-	13:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0010>
+#जब वो अपने परिवार के साथ बीच की ट्रिप पर था , तभी उसकी नजर एक सुंदर से रपर पड़ी  ।
+#jaba vo apane parivAra ke sAWa bIca kI tripa para WA , waBI usakI najara eka suMxara se rapara padZI  .
+#When he was on a beach trip, he spotted a beautiful wrapper.
+$yax	1	-	-	11:k7t	-	-	-	-
+$wyax	2	-	-	11:k1	news_headline_6_0009.6:coref	-	-	-
+apanA	3	-	-	4:r6	2:coref	-	-	-
+parivAra_1	4	-	-	11:rask1	-	-	-	-
+bIca_1	7	-	-	9:r6	-	-	-	-
+^tripa_1	9	-	-	11:k7	-	-	-	-
+hE_1-past	11	-	-	0:main	-	-	-	-
+$wyax	13	-	-	20:k7t	-	-	-	-
+$wyax	14	-	-	15:r6	news_headline_6_0009.6:coref	distal	-	-
+najara_1	15	-	-	20:k1	-	-	-	-
+eka_1	16	-	-	17:card	-	-	-	-
+suMxara_1	17	-	-	19:mod	-	-	-	-
+^rapara_1	19	-	-	20:k7p	-	-	-	-
+padZa_1-yA_WA_1	20	-	-	1:rcsamAnakAla	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0011>
+#न्यूयॉर्क पोस्ट की रिपोर्ट के मुताबिक 15 जून को फादर्स डे के दिन केविन अपनी पत्नी और दो छोटे बच्चों के साथ डैश पॉइंट स्टेट पार्क के समुद्र तट पर घूमने गए थे  ।
+#nyUyOYrka posta kI riporta ke muwAbika 15 jUna ko PAxarsa de ke xina kevina apanI pawnI Ora xo Cote baccoM ke sAWa dESa pOYiMta steta pArka ke samuxra wata para GUmane gae We  .
+#According to the New York Post, Kevin went to Dash Point Park on Father's Day.
+nyUyOYrka	1	-	-	-	-	-	-	35:begin
+posta_1	2	-	-	-	-	-	-	35:inside
+^riporta_1	4	-	-	31:k7a	-	-	-	-
+15	7	dom	-	-	-	-	-	42:component1
+jUna	8	moy	-	-	-	-	-	42:component2
+PAxarsa	10	-	-	-	-	-	-	37:begin
+de	11	-	-	-	-	-	-	37:inside
+xina_1	13	-	-	31:k7t	37:coref	-	-	-
+kevina	14	-	-	-	-	-	-	36:begin
+apanA	15	-	-	16:r6	36:coref	-	-	-
+pawnI_1	16	-	-	-	-	-	-	43:op1
+2	18	-	-	20:card	-	-	-	-
+CotA_1	19	-	-	20:mod	-	-	-	-
+baccA_1	20	-	-	-	-	-	-	43:op2
+dESa	23	-	-	-	-	-	-	38:begin
+pOYiMta	24	-	-	-	-	-	-	38:inside
+steta	25	-	-	-	-	-	-	38:inside
+pArka	26	-	-	-	-	-	-	38:inside
+samuxra_1	28	-	-	-	-	-	-	41:mod
+wata_1	29	-	-	-	-	-	-	41:head
+GUma_1-nA_gae_WA_1	31	-	-	0:main	-	-	-	-
+[ne_1]	35	ne	-	4:r6	-	-	-	-
+[ne_2]	36	per/male	-	31:k1	-	-	-	-
+[ne_3]	37	ne	-	13:r6	-	-	-	-
+[ne_4]	38	ne	-	41:r6	-	-	-	-
+[nc_1]	41	-	-	31:k7p	-	-	-	-
+[calendar_1]	42	-	-	31:k7t	-	-	-	-
+[conj_1]	43	-	-	31:rask1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0012>
+#बच्चों के लिए उन्होंने एक मज़ेदार एक्टिविटी सोची थी  ।
+#baccoM ke lie unhoMne eka majZexAra ektivitI socI WI  .
+#He had planned a fun activity for the children.
+baccA_1	1	anim	pl	8:rt	-	def	-	-
+$wyax	4	-	-	8:k1	news_headline_6_0011.36:coref	distal	-	-
+eka_1	5	-	-	7:card	-	-	-	-
+majZexAra_1	6	-	-	7:mod	-	-	-	-
+^ektivitI_1	7	-	-	8:k2	-	-	-	-
+soca_1-yA_WA_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0013a>
+#वे मिलकर समुद्र किनारे पड़े सुंदर पंखों की खोज कर रहे थे ।
+#ve milakara samuxra kinAre padZe suMxara paMKoM kI Koja kara rahe We .
+#They were searching for beautiful feathers on the shore.
+$wyax	1	-	-	14:k1	news_headline_6_0012.1:coref	distal	-	-
+mila_1	2	-	-	14:rpk	-	-	-	-
+samuxra_1	3	-	-	-	-	-	-	15:mod
+kinArA_1	4	-	-	-	-	def	-	15:head
+padZa_1	5	-	-	7:rvks	-	-	-	-
+suMxara_1	6	-	-	7:mod	-	-	-	-
+paMKa_1	7	-	-	14:k2	-	-	-	-
+Koja_1	9	-	-	-	-	-	-	14:kriyAmUla
+kara_1-0_rahA_WA_1	10	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	0:main	-	-	-	-
+[nc_1]	15	-	-	5:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0013b>
+#लेकिन उन्हें जो मिला उसने सबको चौंका दिया ।
+#lekina unheM jo milA usane sabako cOMkA xiyA .
+#But what they found shocked everyone.
+$wyax	2	-	-	4:k4	news_headline_6_0010.19:coref	distal	-	-
+$yax	3	-	-	4:k1	-	-	-	-
+milA_1-yA_WA_1	4	-	-	5:rcelab	-	-	-	-
+$wyax	5	-	-	7:k1	-	distal	-	-
+saba	6	-	-	7:k2	-	-	-	-
+cOMkA_1-yA_WA_1	7	-	-	0:main	news_headline_6_0013a.14:viroXI	[shade:xe_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0014>
+#बीच पर चलते हुए केविन की नजर एक पुरानी , हरे कपड़े में लिपटी डिब्बीनुमा चीज़ पर पड़ी  ।
+#bIca para calawe hue kevina kI najara eka purAnI , hare kapadZe meM lipatI dibbInumA cIjZa para padZI  .
+#Kevin noticed an old cloth-wrapped box.
+bIca_1	1	-	-	3:k7p	-	-	-	-
+cala_1	3	-	kqw	19:rvks	-	-	-	-
+kevina	5	-	-	-	-	-	-	19:begin
+najara_1	7	-	-	18:k1	-	-	-	-
+eka_1	8	-	-	20:card	-	-	-	-
+purAnA_1	9	-	-	-	-	-	-	20:op1
+harA_1	11	-	-	-	-	-	-	20:op2
+kapadZA_1	12	-	-	-	-	-	-	21:whole
+lipata_1	14	-	kqw	16:rvks	-	-	-	-
+dibbInumA_1	15	-	-	16:mod	-	-	-	-
+cIjZa_1	16	-	-	-	-	-	-	21:part
+padZa_1-yA_1	18	-	-	0:main	-	-	-	-
+[ne_1]	19	per/male	-	7:r6	-	-	-	-
+[conj_1]	20	-	-	12:mod	-	-	-	-
+[Spatial _1]	21	-	-	18:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0015>
+#पीले रंग की रस्सी से बंधी इस छोटे से पाइन वुड की बॉक्स को उन्होंने पहले क्रिसमस का भूला हुआ तोहफा समझा  ।
+#pIle raMga kI rassI se baMXI isa Cote se pAina vuda kI bOYksa ko unhoMne pahale krisamasa kA BUlA huA wohaPA samaJA  .
+#He thought it was a forgotten Christmas gift.
+pIlA_1	1	-	-	2:mod	-	-	-	-
+raMga_1	2	-	-	4:r6	-	-	-	-
+rassA_1	4	-	-	6:k3	-	-	-	-
+baMXI_1	6	-	kqw	13:mod	-	-	-	-
+$wyax	7	-	-	8:dem	-	proximal	-	-
+CotA_1	8	-	-	13:mod	-	sA_1	-	-
+pAina	10	-	-	-	-	-	-	24:begin
+vuda	11	-	-	-	-	-	-	24:inside
+^bOYksa_1	13	-	-	22:k2	news_headline_6_0014.19:coref	-	-	-
+$wyax	15	-	-	22:k1	-	distal	-	-
+pahalA_1	16	-	-	19:k7t	-	-	-	-
+krisamasa	17	-	-	-	-	-	-	25:begin
+BUlA_1	19	-	kqw	21:mod	-	-	-	-
+wohaPA_1	21	-	-	22:k2s	-	-	-	-
+samaJA_1-yA_WA_1	22	-	-	0:main	-	-	-	-
+[ne_1]	24	-	-	13:r6	-	-	-	-
+[ne_2]	25	ne	-	21:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0016>
+#हालांकि जैसे ही उन्होंने इसे खोला , वो पसीना-पसीना हो गए  ।
+#hAlAMki jEse hI unhoMne ise KolA , vo pasInA-pasInA ho gae  .
+#However, as soon as he opened it, he broke into sweat.
+$yax	2	-	-	6:k7t	-	hI_1	-	-
+$wyax	4	-	-	6:k1	news_headline_6_0014.19:coref	distal	-	-
+$wyax	5	-	-	6:k2	news_headline_6_0015.13:coref	proximal	-	-
+Kola_1-yA_WA_1	6	-	-	13:rcsamAnakAla	-	-	-	-
+$wyax	8	-	-	13:k1	news_headline_6_0014.19:coref	-	-	-
+pasInA_1	9	-	xviwva	-	-	-	-	13:kriyAmUla
+ho_1-yA_WA_1	10	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+$wyax	14	-	-	13:k7t	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0017a>
+#डिब्बे के अंदर का नजारा बर्दाश्त नहीं हुआ ।
+#dibbe ke aMxara kA najArA barxASwa nahIM huA .
+#The sight inside was unbearable.
+dibbA_1	1	-	-	3:rdl	-	-	-	-
+aMxara_1	3	-	-	8:k7p	-	-	-	-
+najArA_1	5	-	-	8:k1	-	-	-	-
+barxASwa_1	6	-	-	8:k1s	-	-	-	-
+nahIM_1	7	-	-	8:neg	-	-	-	-
+hE_1-past	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0017b>
+#दरअसल डिब्बे के अंदर उन्हें एक कटे हुए इंसानी पैर का अंगूठा मिला  ।
+#xaraasala dibbe ke aMxara unheM eka kate hue iMsAnI pEra kA aMgUTA milA  .
+#Inside, they found a severed human toe.
+xaraasala_1	1	-	-	13:vkvn	-	-	-	-
+dibbA_1	2	-	-	4:rdl	-	-	-	-
+aMxara_1	4	-	-	7:k7p	-	-	-	-
+$wyax	5	-	-	13:k4	news_headline_6_0014.19:coref	distal	-	-
+eka_1	6	-	-	7:k2	-	-	-	-
+kata_1	7	-	kqw	10:mod	-	-	-	-
+iMsAnI_1	9	-	-	10:mod	-	-	-	-
+pEra_1	10	-	-	12:r6	-	-	-	-
+aMgUTA_1	12	-	-	13:k1	-	-	-	-
+milA_1-yA_WA_1	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0018a>
+#इसे देखकर कुछ मिनट तो वे कुछ समझ नहीं पाए  ।
+#ise xeKakara kuCa minata wo ve kuCa samaJa nahIM pAe  .
+#For a few minutes he couldn't understand anything.
+$wyax	1	-	-	2:k2	news_headline_6_0017b.12:coref	proximal	-	-
+xeKa_1	2	-	-	8:rpk	-	-	-	-
+kuCa_1	3	-	-	4:quant	-	-	-	-
+minata_1	4	-	-	8:k7t	-	wo_1	-	-
+$wyax	6	-	-	8:k1	news_headline_6_0014.19:coref	distal	-	-
+kuCa	7	-	-	8:k2	-	-	-	-
+samaJa_1-0_pAyA_hE_2	8	-	-	0:main	-	-	-	-
+nahIM_1	9	-	-	8:neg	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0018b>
+#और उन्होंने इसे नीचे फेंक दिया  ।
+#Ora unhoMne ise nIce PeMka xiyA  .
+#And he threw it down.
+$wyax	2	-	-	5:k1	news_headline_6_0014.19:coref	distal	-	-
+$wyax	3	-	-	5:k2	news_headline_6_0017b.12:coref	proximal	-	-
+nIcA_1	4	-	-	5:k7p	-	-	-	-
+PeMka_1-yA_1	5	-	-	0:main	news_headline_6_0018a.8:samuccaya	[shade:xe_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0018c>
+#और उन्होंने खुद को संभालने की कोशिश की  ।
+#Ora unhoMne Kuxa ko saMBAlane kI koSiSa kI  .
+#And he tried to compose himself.
+$wyax	2	-	-	10:k1	news_headline_6_0014.19:coref	distal	-	-
+Kuxa	3	-	-	10:k2	2:coref	-	-	-
+saMBAla_1	5	-	-	10:rt	-	-	-	-
+koSiSa_1	7	-	-	-	-	-	-	10:kriyAmUla
+kara_1-yA_hE_1	8	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	news_headline_6_0018b.5:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0019>
+#इसी दौरान केविन ने पास ही एक मरी हुई सीगल चिड़िया भी देखी ।
+#isI xOrAna kevina ne pAsa hI eka marI huI sIgala cidZiyA BI xeKI .
+#During this time, Kevin also saw a dead seagull nearby.news_headline_6_0020a
+$wyax	1	-	-	2:dem	-	-	-	-
+xOrAna_1	2	-	-	13:k7t	-	-	-	-
+kevina	3	-	-	-	-	-	-	14:begin
+pAsa_1	5	-	-	8:k7p	-	hI_2	-	-
+eka_1	7	-	-	11:card	-	-	-	-
+mara_1	8	-	kqw	11:mod	-	-	-	-
+sIgala	10	-	-	-	-	-	-	15:begin
+cidZiyA_1	11	-	-	13:k2	-	-	-	-
+xeKa_1-yA_hE_1	13	-	-	0:main	-	-	-	-
+[ne_1]	14	per/male	-	13:k1	-	-	-	-
+[ne_2]	15	ne	-	11:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0020a>
+#खुद को संभालकर केविन ने तुरंत डिब्बी की तस्वीरें खींचीं ।
+#Kuxa ko saMBAlakara kevina ne wuraMwa dibbI kI wasvIreM KIMcIM .
+#Collecting himself, Kevin immediately took pictures of the box.
+Kuxa	1	-	-	3:k2	11:coref	-	-	-
+saMBAla_1	3	-	-	10:rpk	-	-	-	-
+kevina	4	-	-	-	-	-	-	11:begin
+wuraMwa_1	6	-	-	10:krvn	-	-	-	-
+dibbA_1	7	-	-	9:r6	-	def	-	-
+wasvIra_1	9	-	pl	10:k2	-	-	-	-
+KIMca_1-yA_hE_2	10	-	-	0:main	-	-	-	-
+[ne_1]	11	per/male	-	10:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0020b>
+#और उसने स्थानीय समाचार एजेंसी Federal Way Mirror को भेजीं ।
+#Ora usane sWAnIya samAcAra ejeMsI _Federal_ _Way_ _Mirror_ ko BejIM .
+#And he sent them to the local news agency, Federal Way Mirror.
+$wyax	2	-	-	10:k1	news_headline_6_0020a.11:coref	distal	-	-
+sWAnIya_1	3	-	-	12:mod	-	-	-	-
+samAcAra_1	4	-	-	-	-	-	-	12:mod
+^ejeMsI_1	5	-	-	-	-	-	-	12:head
+Federal	6	-	-	-	-	-	-	13:begin
+Way	7	-	-	-	-	-	-	13:inside
+Beja_1-yA_hE_2	10	-	-	0:main	-	-	-	-
+[nc_1]	12	-	-	13:rs	-	-	-	-
+[ne_1]	13	ne	-	10:k4	news_headline_6_0020a.10:samuccaya	-	-	-
+mirror	14	-	-	-	-	-	-	13:inside
+wasvIra_1	15	-	-	10:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0021a>
+#पुलिस को भी मामले की सूचना दी गई ।
+#pulisa ko BI mAmale kI sUcanA xI gaI .
+#The police were also informed about the case.
+pulisa_1	1	-	-	7:k4	-	BI_1	-	-
+mAmalA_1	4	-	-	6:r6	-	def	-	-
+sUcanA_1	6	-	-	7:k2	-	-	-	-
+xe_1-yA_jA_yA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0021b>
+#और अब उस अंगूठे की डीएनए जांच की जा रही है ।
+#Ora aba usa aMgUTe kI dIenae jAMca kI jA rahI hE .
+#And now the thumb's DNA is being tested.
+aba_1	2	-	-	8:k7t	-	-	-	-
+$wyax	3	-	-	4:dem	-	distal	-	-
+aMgUTA_1	4	-	-	13:r6	-	def	-	-
+dI.ena.e_1	6	-	-	-	-	-	-	13:mod
+jAMca_1	7	-	-	-	-	-	-	13:head
+kara_1-yA_jA_rahA_hE_1	8	-	-	0:main	news_headline_6_0021a.7:samuccaya	-	-	-
+[nc_1]	13	-	-	8:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0021c>
+#इससे उसकी पहचान की जा सके।
+#isase usakI pahacAna kI jA sake.
+#This will help determine its identity.
+$wyax	1	-	-	8:rh	news_headline_6_0021b.13:coref	proximal	-	-
+$wyax	2	-	-	8:k2	news_headline_6_0017b.12:coref	distal	-	-
+pahacAna_1	3	-	-	-	-	-	-	8:kriyAmUla
+kara_1-yA_jA_sakA_1	4	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0022a>
+#केविन ने यह भी बताया ।
+#kevina ne yaha BI bawAyA .
+#Kevin also said this.
+kevina	1	male	-	-	-	-	-	6:begin
+$wyax	3	-	-	5:k2	news_headline_6_0022b.11:coref	proximal	-	-
+bawA_1-yA_1	5	-	-	0:main	-	-	-	-
+[ne_1]	6	per	-	5:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0022b>
+#कि अंगूठे को देखकर यह साफ लग रहा था ।
+#ki aMgUTe ko xeKakara yaha sAPa laga rahA WA .
+#That after looking at the thumb, it was clearly visible.
+aMgUTA_1	2	-	-	4:k2	-	def	-	-
+xeKa_1	4	-	-	11:rpk	-	-	-	-
+$wyax	5	-	-	11:k2	-	proximal	-	-
+sAPa_1	6	-	-	-	-	-	-	11:kriyAmUla
+laga_1-0_raha_WA_1	7	-	-	-	-	-	-	11:verbalizer
+[cp_1]	11	-	-	0:main	-	-	-	-
+$wyax	12	-	-	11:k4	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0022c>
+#कि वो किसी सर्जन ने नहीं काटा है ।
+#ki vo kisI sarjana ne nahIM kAtA hE .
+#That it wasn't cut by any surgeon.
+$wyax	2	-	-	7:k2	news_headline_6_0022b.2:coref	-	-	-
+koI	3	-	-	4:mod	-	-	-	-
+sarjana_1	4	-	-	7:k1	-	-	-	-
+nahIM_1	6	-	-	7:neg	-	-	-	-
+kAta_1-yA_hE_2	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0022d>
+#बल्कि ये बहुत अजीब और डरावना था ।
+#balki ye bahuwa ajIba Ora darAvanA WA .
+#Rather, it was very strange and frightening.
+$wyax	2	-	-	7:k1	-	proximal	-	-
+bahuwa_1	3	-	-	8:intf	-	-	-	-
+ajIba_1	4	-	-	-	-	-	-	8:op1
+darAvanA_1	6	-	-	-	-	-	-	8:op2
+hE_1-past	7	-	-	0:main	news_headline_6_0022c.7:samuccaya	-	-	-
+[conj_1]	8	-	-	7:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_6_0023>
+#केविन और उनके परिवार की एक सामान्य सी सैर एक रहस्यमय कहानी में बदल गई ।
+#kevina Ora unake parivAra kI eka sAmAnya sI sEra eka rahasyamaya kahAnI meM baxala gaI .
+#Kevin and his family’s ordinary walk turned into a mysterious story.
+kevina	1	male	-	-	-	-	-	18:begin
+$wyax	3	-	-	4:r6	-	distal	-	-
+parivAra_1	4	-	-	-	-	-	-	17:op2
+eka_1	6	-	-	9:card	-	-	-	-
+sAmAnya_1	7	-	-	9:mod	-	-	-	-
+sEra_1	9	-	-	14:k1	-	-	-	-
+eka_1	10	-	-	12:card	-	-	-	-
+rahasyamaya_1	11	-	-	12:mod	-	-	-	-
+kahAnI_1	12	-	-	14:k7	-	-	-	-
+baxala_1-yA_hE_2	14	-	-	0:main	-	[shade:jA_1]	-	-
+[conj_1]	17	-	-	9:r6	-	-	-	-
+[ne_1]	18	per	-	-	-	-	-	17:op1
+%affirmative
+</segment_id>

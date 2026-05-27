@@ -1,0 +1,2353 @@
+<segment_id=chapter_1_living_world_001>
+#जीवविज्ञान जीवन रूपों और जीवित प्रक्रियाओं का विज्ञान है।
+#jIvavijFAna jIvana rUpoM Ora jIviwa prakriyAoM kA vijFAna hE.
+#Biology is the science of life forms and living processes.
+jIvavijFAna_1(biology_1)	1	-	-	9:k1	-	-	-	-
+jIvana_1(life_7)	2	-	-	3:mod	-	-	-	-
+rUpa_1(form_10)	3	-	pl	-	-	-	-	13:op1
+jIviwa_2(living_6)	5	-	-	6:mod	-	-	-	-
+prakriyA_1(process_3)	6	-	pl	-	-	-	-	13:op2
+vijFAna_1(science_1)	8	-	-	9:k1s	-	def	-	-
+hE_1-pres(state_copula_1)	9	-	-	0:main	-	-	-	-
+[conj_1]	13	-	-	8:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_002>
+#जीवित संसार में जीवित जीवों की अद्भुत विविधता शामिल है।
+#jIviwa saMsAra meM jIviwa jIvoM kI axBuwa viviXawA SAmila hE.
+#The living world includes an amazing diversity of living organisms.
+jIviwa_2(living_6)	1	-	-	2:mod	-	-	-	-
+saMsAra_1(world_8)	2	-	-	10:k7p	-	def	-	-
+jIviwa_2(living_6)	4	-	-	5:mod	-	-	-	-
+jIva_7(organism_1)	5	anim	pl	8:r6	-	-	-	-
+axBuwa_14	7	-	-	8:mod	-	-	-	-
+viviXawA_2(diversity_4)	8	-	-	10:k1	-	-	-	-
+SAmila_1(included_5)	9	-	-	10:k1s	-	-	-	-
+hE_1-pres	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_003>
+#प्रारंभिक मनुष्य निर्जीव पदार्थ और जीवित जीवों के बीच अंतर को आसानी से समझ सकता था।
+#prAraMBika manuRya nirjIva paxArWa Ora jIviwa jIvoM ke bIca aMwara ko AsAnI se samaJa sakawA WA.
+#Early man could easily understand the difference between inanimate matter and living organisms.
+prAraMBika_6(early_17)	1	-	-	2:mod	-	-	-	-
+manuRya_1(man_7)	2	anim	-	14:k1	-	-	-	-
+nirjIva_2(inanimate_2)	3	-	-	4:mod	-	-	-	-
+paxArWa_1(matter_2)	4	-	-	-	-	-	-	18:op1
+jIviwa_2(living_6)	6	-	-	7:mod	-	-	-	-
+jIva_7(organism_1)	7	anim	pl	-	-	-	-	18:op2
+aMwara_1(difference_1)	10	-	-	14:k2	-	-	-	-
+AsAnI_3(ease_4)	12	-	-	14:krvn	-	-	-	-
+samaJa_7(understand_2)-0_sakawA_WA_1	14	-	-	0:main	-	-	-	-
+[involve_1]	18	-	-	10:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_004>
+#आरंभिक मनुष्य ने कुछ निर्जीव पदार्थ (हवा, समुद्र, आग आदि) में से कुछ निर्जीव पदार्थ को और जानवरों और पौधों में से कुछ जानवरों और पौधों को देवता बनाया था।
+#AraMBika manuRya ne kuCa nirjIva paxArWa (havA, samuxra, Aga Axi) meM se kuCa paxArWa ko Ora jAnavaroM Ora pOXoM meM se kuCa jAnavaroM Ora pOXoM ko xevawA banAyA WA.
+#Early man deified some of the inanimate substances (air, sea, fire, etc.) and some of the animals and plants.
+AraMBika_9	1	-	-	2:mod	-	-	-	-
+manuRya_1(man_7)	2	anim	-	28:k1	-	-	-	-
+kuCa_1(some_2)	4	-	-	6:quant	-	-	-	-
+nirjIva_2(inanimate_2)	5	-	-	6:mod	-	-	-	-
+paxArWa_2(substance_4)	6	-	-	33:rn	-	def	-	-
+havA_1(air_12)	8	-	-	-	-	-	-	31:op1
+samuxra_2(sea_12)	10	-	-	-	-	-	-	31:op2
+Aga_1(fire_4)	12	-	-	-	-	-	-	31:op3
+kuCa_1(some_2)	17	-	-	33:quant	-	-	-	-
+jAnavara_1(animal_2)	20	anim	pl	-	-	-	-	29:op1
+pOXa_3(plant_22)	22	-	pl	-	-	-	-	29:op2
+kuCa_1(some_2)	25	-	-	37:quant	-	-	-	-
+xevawA_1(god_2)	27	-	-	28:k2s	-	-	-	-
+banA_10(do_3)-yA_WA_1(en_had_1)	28	-	-	0:main	-	-	-	-
+[conj_2]	29	-	-	37:rn	-	def	-	-
+Axi_15(etc_2)	30	-	-	-	-	-	-	31:op4
+[conj_1]	31	-	-	6:re	-	-	-	-
+[conj_4]	32	-	-	28:k2	-	-	-	-
+paxArWa_2(substance_4)	33	-	-	-	-	-	-	32:op1
+nirjIva_2(inanimate_2)	34	-	-	33:mod	-	-	-	-
+jAnavara_1(animal_2)	35	anim	pl	-	-	-	-	37:op1
+pOXa_3(plant_22)	36	-	pl	-	-	-	-	37:op2
+[conj_3]	37	-	-	-	-	-	-	32:op2
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_005>
+#निर्जीव और चेतन वस्तुओं के ऐसे सभी रूपों की एक सामान्य विशेषता उनके द्वारा उत्पन्न विस्मय या भय की भावना थी।
+#nirjIva Ora cewana vaswuoM ke Ese saBI rUpoM kI eka sAmAnya viSeRawA unake xvArA uwpanna vismaya yA Baya kI BAvanA WI.
+#A common feature of all such forms of inanimate and animate objects was the feeling of awe or fear produced by them.
+nirjIva_2(inanimate_2)	1	-	-	-	-	-	-	23:op1
+cewana_1(animate_1)	3	-	-	-	-	-	-	23:op2
+vaswu_3(object_7)	4	-	pl	8:r6	-	-	-	-
+$wyax	6	-	-	24:dem	-	proximal	-	-
+saBI_1(all_1)	7	-	-	8:quant	-	-	-	-
+rUpa_1(form_10)	8	-	pl	12:r6	-	-	-	-
+eka_2(a_1)	10	-	-	12:quant	-	-	-	-
+sAmAnya_2(common_6)	11	-	-	12:mod	-	-	-	-
+viSeRawA_7(feature_8)	12	-	-	21:k1	-	-	-	-
+$wyax	13	-	-	15:k3	chapter_1_living_world_004.2:coref	distal	-	-
+uwpanna_1(produced_1)	15	-	-	25:rvks	-	-	-	-
+vismaya_6	16	-	-	17:ccof	-	-	-	25:op1
+Baya_1(fear_5)	18	-	-	-	-	-	-	25:op2
+BAvanA_2(feeling_3)	20	-	-	21:k1s	-	def	-	-
+hE_1(state_copula_1)-past	21	-	-	0:main	-	-	-	-
+[conj_1]	23	-	-	4:mod	-	-	-	-
+prakAra_7(type_6)	24	-	-	8:r6	-	-	-	-
+[disjunct_1]	25	-	-	20:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_006>
+#मानव सहित जीवित जीवों का वर्णन मानव इतिहास में बहुत बाद में शुरू हुआ था।
+#mAnava sahiwa jIviwa jIvoM kA varNana mAnava iwihAsa meM bahuwa bAxa meM SurU huA WA.
+#Description of living organisms, including humans, began much later in human history.
+mAnava_3(human_6)	1	anim	-	6:rask1	-	-	-	-
+jIviwa_2(living_6)	3	-	-	4:mod	-	-	-	-
+jIva_7(organism_1)	4	anim	pl	6:r6	-	-	-	-
+varNana_1(description_4)	6	-	-	14:k1	-	-	-	-
+mAnava_3(human_6)	7	-	-	-	-	-	-	16:mod
+iwihAsa_1(history_1)	8	-	-	-	-	-	-	16:head
+bahuwa_1(much_6)	10	-	-	11:intf	-	-	-	-
+bAxa_18(later_26)	11	-	-	14:k7t	-	-	-	-
+SurU_4	13	-	-	14:k1s	-	-	-	-
+ho_6(be_4)-yA_hE_2(ed_1)	14	-	-	0:main	-	-	-	-
+[nc_1]	16	-	-	14:k7	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_007>
+#जो समाज जीव विज्ञान के प्रति मानवकेंद्रित दृष्टिकोण अपनाते थे, वे जैविक ज्ञान में सीमित प्रगति दर्ज कर सके।
+#jo samAja jIva vijFAna ke prawi mAnavakeMxriwa xqRtikoNa apanAwe We, ve jEvika jFAna meM sImiwa pragawi xarja kara sake.
+#Societies that adopted an anthropocentric approach to biology could record limited progress in biological knowledge.
+$yax	1	-	-	2:dem	-	-	-	-
+samAja_1(society_3)	2	-	-	9:k1	-	-	-	-
+jIva_2(life_6)	3	-	-	-	-	-	-	22:mod
+vijFAna_1(science_1)	4	-	-	-	-	-	-	22:head
+mAnavakeMxriwa_1	7	-	-	8:mod	-	-	-	-
+xqRtikoNa_3(approache_1)	8	-	-	9:k2	-	-	-	-
+apanA_2(adopt_2)-wA_WA_1(0_used_to_1)	9	-	-	12:rcelab	-	-	-	-
+$wyax	12	-	-	24:k1	2:coref	distal	-	-
+jEvika_1(biological_1)	13	-	-	14:mod	-	-	-	-
+jFAna_4(knowledge_7)	14	-	-	24:k7	-	-	-	-
+sImiwa_2(limited_4)	16	-	-	17:mod	-	-	-	-
+pragawi_1(progress_6)	17	-	-	24:k2	-	-	-	-
+xarja_5(record_5)	18	-	-	-	-	-	-	24:kriyAmUla
+kara_17(do_2)-0_sakA_1(0_could_2)	19	-	-	-	-	-	-	24:verbalizer
+[nc_1]	22	-	-	9:rd	-	-	-	-
+[cp_1]	24	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_008F>
+#आवश्यकता से बाहर लाए गए जीवन रूपों का व्यवस्थित और स्मारकीय विवरण, पहचान, नामकरण और वर्गीकरण की विस्तृत प्रणालियाँ।
+#AvaSyakawA se bAhara lAe gae jIvana rUpoM kA vyavasWiwa Ora smArakIya vivaraNa, pahacAna, nAmakaraNa Ora vargIkaraNa kI viswqwa praNAliyAz.
+#Systematic and monumental descriptions of life forms, elaborate systems of identification, naming and classification brought about out of necessity.
+AvaSyakawA_1(necessity_1)	1	-	-	4:k1	-	-	-	-
+bAhara_1(out_1)	3	-	-	4:k7p	-	-	-	-
+lA_1(bring_1)	4	-	-	23:rvks	-	-	-	-
+jIvana_1(life_7)	6	-	-	-	-	-	-	23:mod
+rUpa_1(form_10)	7	-	pl	-	-	-	-	23:head
+vyavasWiwa_1(systematic_5)	9	-	-	-	-	-	-	24:op1
+smArakIya_1	11	-	-	-	-	-	-	24:op2
+vivaraNa_2(description_5)	12	-	-	0:main	-	-	-	-
+pahacAna_4(identification_3)	14	-	-	-	-	-	-	25:op1
+nAmakaraNa_2(naming_2)	16	-	-	-	-	-	-	25:op2
+vargIkaraNa_1(classification_1)	18	-	-	-	-	-	-	25:op3
+viswqwa_4(elaborate_3)	20	-	-	21:mod	-	-	-	-
+praNAlI_1(system_6)	21	-	pl	12:re	-	-	-	-
+[nc_1]	23	-	-	12:r6	-	-	-	-
+[conj_1]	24	-	-	12:mod	-	-	-	-
+[conj_2]	25	-	-	21:r6	-	-	-	-
+%fragment
+</segment_id>
+<segment_id=chapter_1_living_world_009>
+#इस तरह के अध्ययनों का सबसे बड़ा परिणाम जीवित जीवों के बीच क्षैतिज और लंबवत दोनों तरह की समानताओं को साझा करने की मान्यता थी।
+#isa waraha ke aXyayanoM kA sabase badZA pariNAma jIviwa jIvoM ke bIca kREwija Ora laMbavawa xonoM waraha kI samAnawAoM ko sAJA karane kI mAnyawA WI.
+#The greatest outcome of such studies was the recognition of shared similarities, both horizontally and vertically, among living organisms.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+waraha_11(way_59)	2	-	-	4:r6	-	-	-	-
+aXyayana_1(study_1)	4	-	pl	8:r6	-	-	-	-
+badZA_20(great_7)	7	-	superl	8:mod	-	-	-	-
+pariNAma_2(outcome_1)	8	-	-	25:k1	-	-	-	-
+jIviwa_2(living_6)	9	-	-	10:mod	-	-	-	-
+jIva_7(organism_1)	10	anim	pl	-	-	-	-	29:op1
+jIva_7(organism_1)	12	anim	pl	-	-	-	-	29:op2
+kREwija_1(horizontal_2)	13	-	-	-	-	-	-	28:op1
+laMbavawa_1(perpendicular_2)	15	-	-	-	-	-	-	28:op2
+2	16	-	-	17:card	-	-	-	-
+waraha_11(way_59)	17	-	-	19:r6	-	-	-	-
+samAnawA_2(similarity_4)	19	-	pl	27:k2	-	-	-	-
+sAJA_2(share_7)	21	-	-	-	-	-	-	27:kriyAmUla
+kara_17(do_2)	22	-	-	-	-	-	-	27:verbalizer
+mAnyawA_1(recognition_6)	24	-	-	25:k1s	-	-	-	-
+hE_1(state_copula_1)-past	25	-	-	0:main	-	-	-	-
+[cp_1]	27	-	-	24:r6	-	-	-	-
+[conj_1]	28	-	-	17:rs	-	-	-	-
+[involve_1]	29	-	-	27:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_010a>
+#यह रहस्योद्घाटन था ।
+#yaha rahasyoxGAtana WA .
+#This was a revelation.
+$wyax	1	-	-	3:k1	chapter_1_living_world_010b.9:coref	proximal	-	-
+rahasyoxGAtana_1(revelation_3)	2	-	-	3:k1s	-	-	-	-
+hE_1-past(state_copula_1)	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_010b>
+#कि आज के सभी जीवित जीव एक-दूसरे से संबंधित हैं ।
+#ki Aja ke saBI jIviwa jIva eka-xUsare se saMbaMXiwa hEM .
+#That all living organisms today are related to each other.
+Aja_1(today_2)	1	-	-	5:r6	-	-	-	-
+saBI_1(all_1)	3	-	-	5:quant	-	-	-	-
+jIviwa_2(living_6)	4	-	-	5:mod	-	-	-	-
+jIva_7(organism_1)	5	-	-	9:k1	-	-	-	-
+eka+xUsarA	6	-	-	9:k1as	-	-	-	-
+hE_1(state_copula_1)	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_010c>
+#और इस धरती पर रहने वाले सभी जीवों से भी, एक ऐसा रहस्योद्घाटन था।
+#Ora isa XarawI para rahane vAle saBI jIvoM se BI, eka EsA rahasyoxGAtana WA.
+#And from all the living creatures on this earth, there was a revelation.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+XarawI_3(earth_15)	2	-	-	4:k7p	-	-	-	-
+raha_1(live_3)	4	-	-	7:mod	-	-	-	-
+saBI_1(all_1)	6	-	-	7:quant	-	-	-	-
+jIva_1(creature_2)	7	anim	pl	14:k5	-	BI_1	-	-
+eka_2(a_1)	11	-	-	13:card	-	-	-	-
+$wyax	12	-	-	37:dem	-	proximal	-	-
+rahasyoxGAtana_1(revelation_3)	13	-	-	14:k1	-	-	-	-
+hE_1-pres(state_copula_1)	14	-	-	0:main	chapter_1_living_world_010b.9:samuccaya	-	-	-
+prakAra_7(type_6)	37	-	-	13:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_010d>
+#जिसने मनुष्य को नम्र किया था।
+#jisane manuRya ko namra kiyA WA.
+#that humbled man.
+$yax	1	-	-	5:k1	chapter_1_living_world_010c.13:coref	-	-	-
+kara_1-yA_WA_2	2	-	-	-	-	-	-	5:verbalizer
+namra_1	3	-	-	-	-	-	-	5:kriyAmUla
+manuRya_1(man_7)	4	anim	-	5:k4	-	-	-	-
+[cp_1]	5	-	-	0:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_010e>
+#और जो जैव विविधता के संरक्षण के लिए सांस्कृतिक आंदोलनों को जन्म दिया था।
+#Ora jo jEva viviXawA ke saMrakRaNa ke lie sAMskqwika AMxolanoM ko janma xiyA WA.
+#and gave rise to cultural movements for the conservation of biodiversity.
+$yax	1	-	-	2:k1	-	-	-	-
+[cp_1]	2	-	-	0:main	chapter_1_living_world_010d.5:samuccaya	-	-	-
+xe_1-yA_WA_1	3	-	-	-	-	-	-	2:verbalizer
+janma_1	4	-	-	-	-	-	-	2:kriyAmUla
+AMxolana_1(movement_1)	5	-	pl	2:k2	-	-	-	-
+sAMskqwika_1(cultural_1)	6	-	-	5:mod	-	-	-	-
+saMrakRaNa_4(conservation_1)	7	-	-	2:rt	-	def	-	-
+viviXawA_2(diversity_4)	8	-	-	7:r6	-	-	-	-
+jEva_1(biological_1)	9	-	-	8:dem	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_011>
+#इस इकाई के निम्नलिखित अध्यायों में, आपको वर्गीकरण विज्ञानी के दृष्टिकोण से जानवरों और पौधों का वर्गीकरण सहित विवरण मिलेगा।
+#isa ikAI ke nimnaliKiwa aXyAyoM meM, Apako vargIkaraNa vijFAnI ke xqRtikoNa se jAnavaroM Ora pOXoM kA vargIkaraNa sahiwa vivaraNa milegA.
+#In the following chapters of this unit, you will find details including classification of animals and plants from the taxonomist's point of view.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+ikAI_1(unit_1)	2	-	-	5:r6	-	-	-	-
+nimnaliKiwa_2(following_8)	4	-	-	5:mod	-	-	-	-
+aXyAya_1(chapter_1)	5	-	-	21:k7	-	-	-	-
+$addressee	8	anim	-	21:k4	-	respect	-	-
+vargIkaraNa_3(taxonomy_1)	9	-	-	21:k1	-	-	-	24:mod
+vijFAnI_1(Scientist_1)	10	anim	-	12:r6	-	-	-	24:head
+xqRtikoNa_1(viewpoint_2)	12	-	-	21:krvn	-	-	-	-
+jAnavara_1(animal_2)	14	anim	pl	-	-	-	-	23:op1
+pOXa_3(plant_22)	16	-	pl	-	-	-	-	23:op2
+vargIkaraNa_1(classification_1)	18	-	-	21:rask1	-	-	-	-
+vivaraNa_5(details_3)	20	-	-	21:k1	-	-	-	-
+mila_9(find_3)-gA_1(0_will_1)	21	-	-	0:main	-	-	-	-
+[conj_1]	23	-	-	18:r6	-	-	-	-
+[nc_1]	24	-	-	12:r6	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_012>
+#जीव जगत कितना अद्भुत है!
+#jIva jagawa kiwanA axBuwa hE!
+#How amazing is the living world!
+jIva_9	1	-	-	2:mod	-	-	-	-
+jagawa_2(world_21)	2	-	-	5:k1	-	def	-	-
+$kim	3	-	-	4:quant	-	-	-	-
+axBuwa_14	4	-	-	5:k1s	-	-	-	-
+hE_1-pres(state_copula_1)	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_013>
+#जीवित प्रकारों की विस्तृत श्रृंखला अद्भुत है।
+#jIviwa prakAroM kI viswqwa SrqMKalA axBuwa hE.
+#The wide range of living species is amazing.
+jIviwa_2(living_6)	1	-	-	2:mod	-	-	-	-
+prakAra_1	2	-	pl	5:r6	-	-	-	-
+viswqwa_16(wide_8)	4	-	-	5:mod	-	-	-	-
+SrqMKalA_5(range_12)	5	-	-	7:k1	-	def	-	-
+axBuwa_1	6	-	-	7:k1s	-	-	-	-
+hE_1(state_copula_1)	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_014a>
+#असाधारण आवास जिनमें हम जीवित जीव पाते हैं, हमें अवाक कर देते हैं।
+#asAXAraNa AvAsa jinameM hama jIviwa jIva pAwe hEM,  hameM avAka kara xewe hEM.
+#The extraordinary habitats in which we find living organisms, leave us speechless.
+asAXAraNa_1(extraordinary_2)	1	-	-	2:mod	-	-	-	-
+AvAsa_2(habitation_1)	2	-	-	42:k1	-	-	-	-
+$yax	3	-	-	7:k7p	2:coref	-	-	-
+$speaker	4	anim	pl	7:k1	-	-	-	-
+jIviwa_2(living_6)	5	-	-	6:mod	-	-	-	-
+jIva_7(organism_1)	6	anim	-	7:k2	-	-	-	-
+pA_13(find_4)-wA_hE_1(es_1)	7	-	-	2:rcloc	-	-	-	-
+$speaker	36	anim	pl	42:k4a	-	-	-	-
+avAka_1	37	-	-	-	-	-	-	42:kriyAmUla
+kara_17(do_2)-wA_hE_1(es_1)	38	-	-	-	-	[shade:xe_1]	-	42:verbalizer
+[cp_1]	42	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_014b>
+#चाहे वह ठंडे पहाड़ हों।
+#cAhe vaha TaMde pahAdZa hoM.
+#be it cold mountains.
+ho_6(be_4)	1	-	-	0:main	chapter_1_living_world_014a.42:vyaBicAra	cAhe_1	-	-
+pahAdZa_1(mountain_4)	2	-	-	1:k1s	-	-	-	-
+TaMda_1(cold_3)	3	-	-	2:mod	-	-	-	-
+$wyax	4	-	-	1:k1	chapter_1_living_world_014a.2:coref	distal	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_014c>
+#वह पर्णपाती जंगल हों।
+#vaha parNapAwI jaMgala hoM.
+#be it deciduous forests.
+$wyax	1	-	-	2:k1	chapter_1_living_world_014a.2:coref	distal	-	-
+ho_6(be_4)	2	-	-	0:main	-	-	-	-
+jaMgala_1(forest_2)	3	-	-	2:k1s	-	-	-	-
+parNapAwI_1(deciduous_1)	4	-	-	3:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_014d>
+#वह महासागर हों।
+#vaha  mahAsAgara hoM.
+#be it oceans.
+ho_6(be_4)	1	-	-	0:main	-	-	-	-
+mahAsAgara_1(ocean_4)	2	-	-	1:k1s	-	-	-	-
+$wyax	3	-	-	1:k1	chapter_1_living_world_014a.2:coref	distal	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_014e>
+#वह ताजे पानी की झीलें हों।
+#vaha wAje pAnI kI JIleM hoM.
+#be it freshwater lakes.
+$wyax	1	-	-	2:k1	chapter_1_living_world_014a.2:coref	distal	-	-
+ho_6(be_4)	2	-	-	0:main	-	-	-	-
+JIla_1(lake_1)	3	-	pl	2:k1s	-	-	-	-
+pAnI_1(water_7)	4	-	-	3:r6	-	-	-	-
+wAjA_1(fresh_11)	5	-	-	4:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_014f>
+#वह रेगिस्तान हों।
+#vaha regiswAna hoM.
+#be it deserts.
+$wayx	1	-	-	2:k1	chapter_1_living_world_014a.2:coref	-	-	-
+ho_6(be_4)	2	-	-	0:main	-	-	-	-
+regiswAna_1(desert_2)	3	-	-	2:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_014g>
+#या वह गर्म झरने हों।
+#vaha yA garma Jarane hoM.
+#or be it hot springs.
+$wyax	1	-	-	2:k1	chapter_1_living_world_014a.2:coref	distal	-	-
+ho_6(be_4)	2	-	-	0:main	chapter_1_living_world_014f.2:anyawra	-	-	-
+JaranA_1(spring_5)	3	-	-	2:k1s	-	-	-	-
+garma_2(hot_7)	4	-	-	3:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_015>
+#सरपट दौड़ते घोड़े, प्रवासी पक्षियों, फूलों की घाटी या हमलावर शार्क की सुंदरता विस्मय और आश्चर्य की गहरी भावना पैदा करती है।
+#sarapata xOdZawe GodZe, pravAsI pakRiyoM, PUloM kI GAtI yA hamalAvara SArka kI suMxarawA vismaya Ora AScarya kI gaharI BAvanA pExA karawI hE.
+#The beauty of a galloping horse, migratory birds, a valley of flowers or an attacking shark evokes a deep sense of awe and wonder.
+sarapata_1(galloping_1)	1	-	-	2:krvn	-	-	-	-
+xOdZa_3(running_3)	2	-	-	3:rvks	-	-	-	-
+GodZA_1(horse_2)	3	anim	-	-	-	-	-	28:op1
+pravAsI_1(migratory_1)	5	-	-	6:mod	-	-	-	-
+pakRI_1(bird_4)	6	anim	pl	-	-	-	-	28:op2
+PUla_1(flower_6)	8	-	pl	10:r6	-	-	-	-
+GAtI_1(valley_2)	10	-	-	-	-	-	-	28:op3
+hamalAvara_1(attacking_7)	12	-	-	13:mod	-	-	-	-
+^SArka_2(shark_2)	13	anim	-	-	-	-	-	28:op4
+suMxarawA_1(beauty_15)	15	-	-	26:k1	-	def	-	-
+vismaya_6	16	-	-	-	-	-	-	27:op1
+AScarya_1(wonder_4)	18	-	-	-	-	-	-	27:op2
+gaharA_1(deep_5)	20	-	-	21:mod	-	-	-	-
+BAvanA_15	21	-	-	26:k2	-	-	-	-
+pExA_9	22	-	-	-	-	-	-	26:kriyAmUla
+kara_17(do_2)-wA_hE_1(es_1)	23	-	-	-	-	-	-	26:verbalizer
+[cp_1]	26	-	-	0:main	-	-	-	-
+[conj_1]	27	-	-	21:r6	-	-	-	-
+[disjunct_1]	28	-	-	15:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_016a>
+#एक आबादी के सदस्यों और एक समुदाय की आबादी के बीच पारिस्थितिक संघर्ष और सहयोग या यहां तक ​​कि एक कोशिका के अंदर आणविक यातायात हमें गहराई से यह सोचने पर मजबूर करता है ।
+#eka AbAxI ke saxasyoM Ora eka samuxAya kI AbAxI ke bIca pArisWiwika saMGarRa Ora sahayoga yA yahAM waka ​​ki eka koSikA ke aMxara ANavika yAwAyAwa hameM gaharAI se yaha socane para majabUra karawA hE .
+#Ecological conflict and cooperation between members of a population and the populations of a community or even the molecular traffic inside a cell forces us to think deeply.
+eka_2(a_1)	1	-	-	2:quant	-	-	-	-
+AbAxI_1(population_1)	2	-	-	4:r6	-	-	-	-
+saxasya_1(member_4)	4	-	pl	-	-	-	-	11:op1
+eka_2(a_1)	6	-	-	7:quant	-	-	-	-
+samuxAya_1(community_9)	7	-	-	9:r6	-	-	-	-
+AbAxI_1(population_1)	9	-	-	-	-	def	-	11:op2
+[involve_1]	11	-	-	40:k7p	-	-	-	-
+pArisWiwika_2(ecological_1)	12	-	-	13:mod	-	-	-	-
+saMGarRa_2(conflict_3)	13	-	-	-	-	-	-	17:op1
+sahayoga_1(cooperation_1)	15	-	-	-	-	-	-	17:op2
+[conj_1]	17	-	-	-	-	-	-	39:op1
+eka_2(a_1)	20	-	-	21:quant	-	-	-	-
+koSikA_1(cell_1)	21	-	-	-	-	yaha+waka+ki_1	-	39:op2
+ANavika_1(molecular_1)	24	-	-	25:mod	-	-	-	-
+yAwAyAwa_1(traffic_2)	25	-	-	36:k1	-	-	-	-
+$speaker	26	anim	pl	36:k4a	-	-	-	-
+gaharAI_5(deep_13)	27	-	-	30:krvn	-	-	-	-
+$wyax	29	-	-	30:k2	chapter_1_living_world_016b.5:coref	proximal	-	-
+soca_9(think_3)	30	-	-	36:k7	-	-	-	-
+majabUra_3	32	-	-	-	-	-	-	36:kriyAmUla
+kara_17(do_2)-wA_hE_1(es_1)	33	-	-	-	-	-	-	36:verbalizer
+[cp_1]	36	-	-	0:main	-	-	-	-
+[disjunct_1]	39	-	-	25:k7p	-	-	-	-
+ho_7(happen_2)	40	-	-	17:rvks	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_016b>
+#कि वास्तव में जीवन क्या है?
+#ki vAswava meM jIvana kyA hE?
+#What is life really about?
+vAswava_1(real_4)	1	-	-	5:k7	-	-	-	-
+jIvana_1(life_7)	3	-	-	5:k1	-	-	-	-
+$kim	4	-	-	5:k1s	-	-	-	-
+hE_1-pres(state_copula_1)	5	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=chapter_1_living_world_017>
+#इस प्रश्न के भीतर दो अंतर्निहित प्रश्न हैं।
+#isa praSna ke BIwara xo aMwarnihiwa praSna hEM.
+#There are two underlying questions within this question.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+praSna_1(question_3)	2	-	-	8:k7	-	-	-	-
+2	5	numex	-	7:card	-	-	-	-
+aMwarnihiwa_6	6	-	-	7:mod	-	-	-	-
+praSna_1(question_3)	7	-	-	8:k1	-	-	-	-
+hE_1-pres(state_copula_1)	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_018a>
+#पहला  प्रश्न तकनीकी है  ।
+#pahalA praSna wakanIkI hE  .
+#The first is technical.
+pahalA_1(first)	1	-	-	4:ord	-	def	-	-
+wakanIkI_1(technical_1)	2	-	-	3:k1s	-	-	-	-
+hE_1-pres(state_copula_1)	3	-	-	0:main	-	-	-	-
+praSna_1(question_3)	4	-	-	3:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_018b>
+#और निर्जीव के विपरीत सजीव क्या है ?
+#Ora nirjIva ke viparIwa sajIva kyA hE ?
+#And what is living as opposed to nonliving?
+nirjIva_1	1	-	-	6:rviroXIk1	-	-	-	-
+sajIva_1(living_12)	4	-	-	6:k1s	-	-	-	-
+$kim	5	-	-	6:k1	-	-	-	-
+hE_1-pres(state_copula_1)	6	-	-	0:main	chapter_1_living_world_018a.3:samuccaya	-	-	-
+%interrogative
+</segment_id>
+<segment_id=chapter_1_living_world_018c>
+#इसका उत्तर ढूंढता है ।
+#isakA uwwara DUMDawA hE .
+#Finds the answer to this.
+$wyax	1	-	-	2:r6	chapter_1_living_world_018b.6:coref	proximal	-	-
+uwwara_1(answer_1)	2	-	-	3:k2	-	def	-	-
+DUMDa_1(find_2)-wA_hE_1(es_1)	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_018d>
+#और दूसरा प्रश्न दार्शनिक है ।
+#Ora xUsarA xArSanika hE .
+#And the other is a philosopher.
+xUsarA_8(other_3)	1	-	-	4:ord	-	-	-	-
+xArSanika_1(philosopher_2)	2	-	-	3:k1s	-	-	-	-
+hE_1-pres(state_copula_1)	3	-	-	0:main	chapter_1_living_world_018a.3:samuccaya	-	-	-
+praSna_1(question_3)	4	-	-	3:k1	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_018e>
+#और जीवन का उद्देश्य क्या है ?
+#Ora jIvana kA uxxeSya kyA hE ?
+#And what is the purpose of life?
+jIvana_1(life_7)	1	-	-	3:r6	-	-	-	-
+uxxeSya_2(purpose_2)	3	-	-	5:k1	-	def	-	-
+$kim	4	-	-	5:k1s	-	-	-	-
+hE_1(state_copula_1)-pres	5	-	-	0:main	chapter_1_living_world_018d.3:samuccaya	-	-	-
+%interrogative
+</segment_id>
+<segment_id=chapter_1_living_world_018f>
+#इसका उत्तर ढूंढता है।
+#isakA uwwara DUMDawA hE.
+#Finds the answer to this.
+$wyax	1	-	-	2:r6	chapter_1_living_world_018e.5:coref	proximal	-	-
+uwwara_1(answer_1)	2	-	-	3:k2	-	def	-	-
+DUMDa_1(find_2)-wA_hE_1(es_1)	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_019>
+#वैज्ञानिकों के रूप में, हम दूसरे प्रश्न का उत्तर देने का प्रयास नहीं करेंगे।
+#vEjFAnikoM ke rUpa meM, hama xUsare praSna kA uwwara xene kA prayAsa nahIM kareMge.
+#As scientists, we will not attempt to answer the second question.
+vEjFAnika_1(scientist_1)	1	anim	pl	17:krvn	-	-	-	-
+$speaker	6	anim	pl	17:k1	-	-	-	-
+xUsarA_1(second_1)	7	-	-	8:ord	-	-	-	-
+praSna_1(question_3)	8	-	-	10:r6	-	def	-	-
+uwwara_1(answer_1)	10	-	-	11:k2	-	-	-	-
+xe_1(give_1)	11	-	-	17:k2	-	-	-	-
+prayAsa_3(attempt_2)	13	-	-	-	-	-	-	17:kriyAmUla
+nahIM_1(not_1)	14	-	-	17:neg	-	-	-	-
+kara_17(do_2)-gA_1(0_will_1)	15	-	-	-	-	-	-	17:verbalizer
+[cp_1]	17	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_020a>
+#हम इस पर विचार करने का प्रयास करेंगे ।
+#hama isa para vicAra karane kA prayAsa kareMge .
+#We will try to consider this.
+$speaker	1	anim	pl	11:k1	-	-	-	-
+$wyax	2	-	-	10:k7	chapter_1_living_world_020b.3:coref	proximal	-	-
+vicAra_18	4	-	-	-	-	-	-	10:kriyAmUla
+kara_17(do_2)	5	-	-	-	-	-	-	10:verbalizer
+prayAsa_5(try_5)	7	-	-	-	-	-	-	11:kriyAmUla
+kara_17(do_2)-gA_1(0_will_1)	8	-	-	-	-	-	-	11:verbalizer
+[cp_1]	10	-	-	11:k2	-	-	-	-
+[cp_2]	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_020b>
+#कि जीना क्या है?
+#ki jInA kyA hE?
+#What is living?
+jInA_1(living_13)	1	-	-	3:k1	-	-	-	-
+$kim	2	-	-	3:k1s	-	-	-	-
+hE_1-pres(state_copula_1)	3	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=chapter_1_living_world_021a>
+#यदि आप अपने चारों ओर देखें।
+#yaxi Apa apane cAroM ora xeKeM.
+#If you look around you.
+$addressee	1	anim	-	5:k1	-	respect	-	-
+apanA	2	-	-	3:r6	-	-	-	-
+cAroM+ora_3(around_16)	3	-	-	5:k7p	-	-	-	-
+xeKa_2(look_1)-o_1(o_1)	5	-	-	0:main	chapter_1_living_world_021b.2:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_021b>
+#तो आपको विभिन्न प्रकार के जीवित जीव दिखाई देंगे।
+#wo Apako viBinna prakAra ke jIviwa jIva xiKAI xeMge.
+#you'll see a variety of living organisms.
+$addressee	1	anim	-	2:k4	-	respect	-	-
+xeKa_1(see_1)-AI_xe_gA_1	2	-	-	0:main	-	-	-	-
+jIva_7(organism_1)	3	anim	-	2:k1	-	-	-	-
+jIviwa_2(living_6)	4	-	-	3:mod	-	-	-	-
+prakAra_7(type_6)	5	-	-	3:r6	-	-	-	-
+viBinna_4(various_8)	6	-	-	5:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_021c>
+#चाहे वे गमले में लगे पौधे हों।
+#cAhe ve gamale meM lage pOXe hoM.
+#whether they're potted plants.
+$wyax	1	-	-	2:k1	chapter_1_living_world_021b.3:coref	distal	-	-
+ho_6(be_4)	2	-	-	0:main	-	-	-	-
+pOXA_1(plant_6)	3	-	-	2:k1s	-	-	-	-
+laga_2(appear_1)	4	-	-	3:rvks	-	-	-	-
+gamalA_1	5	-	-	4:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_021d>
+#वे कीड़े-मकौड़े हों।
+#ve kIdZe-makOdZe hoM.
+#They're insects.
+$wyax	1	-	-	2:k1	chapter_1_living_world_021b.3:coref	def	-	-
+ho_6(be_4)	2	-	-	0:main	-	-	-	-
+[xvanxva_1]	3	-	pl	2:k1s	-	-	-	-
+makOdZA_1	4	-	-	-	-	-	-	3:head
+kIdZA_1(insect_2)	5	-	-	-	-	-	-	3:mod
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_021e>
+#वे पक्षी हों।
+#ve pakRI hoM.
+#They're birds.
+$wyax	1	-	-	2:k1	chapter_1_living_world_021b.3:coref	distal	-	-
+ho_6(be_4)	2	-	-	0:main	-	-	-	-
+pakRI_1(bird_4)	3	anim	-	2:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_021f>
+#वे आपके पालतू जानवर हों।
+#ve Apake pAlawU jAnavara hoM.
+#They're your pets.
+$wyax	1	-	-	5:k1	chapter_1_living_world_021b.3:coref	distal	-	-
+$addressee	2	anim	-	4:r6	-	respect	-	-
+pAlawU_1	3	-	-	4:mod	-	-	-	-
+jAnavara_1(animal_2)	4	anim	-	5:k1s	-	-	-	-
+ho_6(be_4)	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_021g>
+#या वे अन्य जानवर और पौधे हों।
+#yA ve anya jAnavara Ora pOXe hoM.
+#or they're  other animals and plants.
+$wyax	1	-	-	6:k1	chapter_1_living_world_021b.3:coref	distal	-	-
+anya_1(other_1)	2	-	-	5:quant	-	-	-	-
+jAnavara_1(animal_2)	3	anim	-	-	-	-	-	5:op1
+pOXA_1(plant_6)	4	-	-	-	-	-	-	5:op2
+[conj_1]	5	-	-	6:k1s	-	-	-	-
+ho_6(be_4)	6	-	-	0:main	chapter_1_living_world_021f.5:anyawra	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_022a>
+#ऐसे कई जीव भी हैं जिन्हें आप नंगी आंखों से नहीं देख सकते ।
+#Ese kaI jIva BI hEM jinheM Apa naMgI AMKoM se nahIM xeKa sakawe .
+#There are many creatures which you cannot see with the naked eye.
+$wyax	1	-	-	13:dem	-	-	-	-
+kaI_5(many_11)	2	-	-	3:quant	-	-	-	-
+jIva_1(creature_2)	3	anim	-	5:k1	-	BI_1	-	-
+hE_1(state_copula_1)-pres	5	-	-	0:main	-	-	-	-
+$yax	6	-	-	12:k2	3:coref	-	-	-
+$addressee	7	anim	-	12:k1	-	respect	-	-
+naMgA_1(naked_1)	8	-	-	9:mod	-	-	-	-
+AMKa_1(eye_17)	9	-	pl	12:k3	-	def	-	-
+nahIM_1(not_1)	11	-	-	12:neg	-	-	-	-
+xeKa_1(see_1)-0_sakawA_hE_1(0_can_1)	12	-	-	3:rcelab	-	-	-	-
+prakAra_1(kind_8)	13	-	-	3:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_022b>
+#लेकिन वे आपके चारों तरफ हैं।
+#lekina ve Apake cAroM waraPa hEM.
+#But they are all around you.
+$wyax	1	-	-	5:k1	chapter_1_living_world_022a.3:coref	distal	-	-
+$addressee	2	anim	-	3:r6	-	respect	-	-
+cAroM+waraPa_1(everywhere_39)	3	-	-	5:k7p	-	-	-	-
+hE_1(state_copula_1)-pres	5	-	-	0:main	chapter_1_living_world_022a.5:viroXI	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_023a>
+#यदि आप उस क्षेत्र को बढ़ाते हैं जिसमें आप अवलोकन करते हैं।
+#yaxi Apa usa kRewra ko baDZAwe hEM jisameM Apa avalokana karawe hEM.
+#If you increase the area in which you make observations.
+$addressee	1	anim	-	5:k1	-	respect	-	-
+$wyax	2	-	-	3:dem	-	distal	-	-
+kRewra_5(area_2)	3	-	-	5:k2	-	def	-	-
+baDZa_1(increase_7)-wA_hE_1(es_1)	5	-	-	0:main	-	-	-	-
+$yax	7	-	-	13:k7p	3:coref	-	-	-
+$addressee	8	anim	-	13:k1	-	respect	-	-
+avalokana_3	9	-	-	-	-	-	-	13:kriyAmUla
+kara_17(do_2)-wA_hE_1(es_1)	10	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	3:rcloc	chapter_1_living_world_023b.11:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_023b>
+#तो आपके द्वारा देखे जाने वाले जीवों की सीमा और विविधता बढ़ जाएगी।
+#wo Apake xvArA xeKe jAne vAle jIvoM kI sImA Ora viviXawA baDZa jAegI.
+#So the range and diversity of creatures you see will increase.
+$addressee	1	anim	-	3:k3	-	respect	-	-
+xeKa_1(see_1)	3	-	-	6:mod	-	-	-	-
+jIva_1(creature_2)	6	anim	pl	14:r6	-	-	-	-
+sImA_5(range_14)	8	-	-	-	-	-	-	14:op1
+viviXawA_2(diversity_4)	10	-	-	-	-	-	-	14:op2
+baDZa_1(increase_7)-gA_1(0_will_1)	11	-	-	0:main	-	[shade:jA_1]	-	-
+[conj_1]	14	-	-	11:k1	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_024a>
+#यह जाहिर है ।
+#yaha jAhira hE .
+#it is obviously .
+$wyax	1	-	-	3:k1	chapter_1_living_world_024b.7:coref	proximal	-	-
+jAhira_3	2	-	-	3:k1s	-	-	-	-
+hE_1(state_copula_1)-pres	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_024b>
+#कि यदि आप किसी घने जंगल में जाएँ।
+#ki yaxi Apa kisI Gane jaMgala meM jAez.
+#That if you go to a dense forest.
+$addressee	2	anim	-	7:k1	-	respect	-	-
+koI_1(any_1)	3	-	-	5:quant	-	-	-	-
+Gana_8	4	-	-	5:mod	-	-	-	-
+jaMgala_1(forest_2)	5	-	-	7:k7p	-	-	-	-
+jA_1(go_1)-o_1(o_1)	7	-	-	0:main	chapter_1_living_world_024c.12:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_024c>
+#तो संभवतः आपको वहाँ बहुत अधिक संख्या और प्रकार के जीवित जीव दिखाई देंगे।
+#wo saMBavawaH Apako vahAz bahuwa aXika saMKyA Ora prakAra ke jIviwa jIva xiKAI xeMge.
+#So you will probably see a much greater number and variety of living organisms there.
+saMBavawaH_1(probably_4)	1	-	-	12:krvn	-	-	-	-
+$addressee	2	anim	-	12:k4a	-	def	-	-
+$wyax	3	-	-	12:k7p	chapter_1_living_world_024b.5:coref	distal	-	-
+bahuwa_1(much_6)	4	-	-	5:intf	-	-	-	-
+aXika_15	5	-	compermore	15:quantmore	-	-	-	-
+saMKyA_1(number_8)	6	-	-	-	-	-	-	15:op1
+prakAra_9(variety_7)	8	-	-	-	-	-	-	15:op2
+jIviwa_2(living_6)	10	-	-	11:mod	-	-	-	-
+jIva_7(organism_1)	11	anim	-	12:k1	-	-	-	-
+xeKa_1(see_1)-AI_xe_gA_1	12	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	11:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_025>
+#प्रत्येक भिन्न प्रकार का पौधा, जानवर या जीव जिसे आप देखते हैं,  एक प्रजाति का प्रतिनिधित्व करता है।
+#prawyeka Binna prakAra kA pOXA, jAnavara yA jIva jise Apa xeKawe hEM,  eka prajAwi kA prawiniXiwva karawA hE.
+#Each different type of plant, animal or creature you see represents a species.
+prawyeka_1(each_1)	1	-	-	3:quant	-	-	-	-
+Binna_2(different_6)	2	-	-	3:mod	-	-	-	-
+prakAra_7(type_6)	3	-	-	23:r6	-	-	-	-
+pOXA_1(plant_6)	5	-	-	-	-	-	-	23:op1
+jAnavara_1(animal_2)	7	anim	-	-	-	-	-	23:op2
+jIva_1(creature_2)	9	anim	-	-	-	-	-	23:op3
+$yax	10	-	-	12:k2	23:coref	-	-	-
+$addressee	11	anim	-	12:k1	-	respect	-	-
+xeKa_1(see_1)-wA_hE_1(es_1)	12	-	-	23:rcelab	-	-	-	-
+eka_2(a_1)	15	-	-	16:card	-	-	-	-
+prajAwi_1(species_1)	16	-	-	18:r6	-	-	-	-
+prawiniXiwva_4	18	-	-	19:k2	-	-	-	-
+kara_17(do_2)-wA_hE_1(es_1)	19	-	-	0:main	-	-	-	-
+[disjunct_1]	23	-	-	19:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_026>
+#ज्ञात और वर्णित प्रजातियों की संख्या 1.7-1.8 मिलियन के बीच है।
+#jFAwa Ora varNiwa prajAwiyoM kI saMKyA 1.7-1.8 miliyana ke bIca hE.
+#The number of known and described species is between 1.7–1.8 million.
+jFAwa_1(known_1)	1	-	-	-	-	-	-	16:op1
+varNiwa_1(described_1)	3	-	-	-	-	-	-	16:op2
+prajAwi_1(species_1)	4	-	pl	6:r6	-	-	-	-
+saMKyA_1(number_8)	6	-	-	15:k1	-	def	-	-
+1700000	7	numex	-	-	-	-	-	14:op1
+1800000	11	numex	-	-	-	-	-	14:op2
+[involve_1]	14	-	-	15:k1s	-	-	-	-
+hE_1-pres(state_copula_1)	15	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	4:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_027>
+#इसका तात्पर्य जैव विविधता या पृथ्वी पर मौजूद जीवों की संख्या और प्रकार से है।
+#isakA wAwparya jEva viviXawA yA pqWvI para mOjUxa jIvoM kI saMKyA Ora prakAra se hE.
+#It refers to biodiversity or the number and types of living organisms present on Earth.
+$wyax	1	-	-	2:r6	chapter_1_living_world_026.4:coref	proximal	-	-
+wAwparya_1	2	-	-	15:k1	-	-	-	-
+jEva_4(biotic_2)	3	-	-	4:mod	-	-	-	-
+viviXawA_2(diversity_4)	4	-	-	-	-	-	-	18:op1
+pqWvI_1(earth_9)	6	-	-	8:k7p	-	def	-	-
+mOjUxa_1(present_10)	8	-	kqw	9:mod	-	-	-	-
+jIva_7(organism_1)	9	-	pl	19:r6	-	-	-	-
+saMKyA_1(number_8)	11	-	-	-	-	-	-	19:op1
+prakAra_7(type_6)	13	-	-	-	-	-	-	19:op2
+hE_1-pres(state_copula_1)	15	-	-	0:main	-	-	-	-
+[disjunct_1]	18	-	-	15:k1s	-	-	-	-
+[conj_1]	19	-	-	-	-	-	-	18:op2
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_028a>
+#हमें यहां यह याद रखना चाहिए ।
+#hameM yahAM yaha yAxa raKanA cAhie .
+#We must remember this here.
+$speaker	1	anim	pl	8:k4a	-	-	-	-
+$wyax	2	-	-	8:k7p	chapter_1_living_world_028b.30:coref	proximal	-	-
+$wyax	3	-	-	8:k2	chapter_1_living_world_028b.29:coref	proximal	-	-
+yAxa_1	4	-	-	-	-	-	-	8:kriyAmUla
+raKa_3(keep_4)-nA_cAhie_1	5	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_028b>
+#कि जैसे-जैसे हम नए क्षेत्रों और यहां तक ​​कि पुराने क्षेत्रों का पता लगाते हैं,व्यसे व्यसे नए जीवों की लगातार पहचान होती रहती है।
+#ki jEse-jEse hama nae kRewroM Ora yahAM waka ​​ki purAne kRewroM kA pawA lagAwe hEM,vyase vyase nae jIvoM kI lagAwAra pahacAna howI rahawI hE.
+#That as we explore new areas and even old areas, new organisms are constantly being identified.
+$yax	1	-	xviwva	31:mod	-	-	-	-
+$speaker	2	anim	pl	28:k1	-	-	-	-
+nae_1	3	-	-	4:mod	-	-	-	-
+kRewra_5(area_2)	4	-	pl	-	-	-	-	30:op1
+purAnA_1(old_5)	9	-	-	10:mod	-	-	-	-
+kRewra_5(area_2)	10	-	pl	-	-	yaha+waka+ki_1	-	30:op2
+pawA_11	12	-	-	-	-	-	-	28:kriyAmUla
+lagA_23(apply_11)_wA_hE_1	13	-	-	-	-	-	-	28:verbalizer
+$wyax	16	-	xviwva	32:dem	-	distal	-	-
+nae_1	18	-	-	19:mod	-	-	-	-
+jIva_1	19	-	pl	29:k1	-	-	-	-
+lagAwAra_3(constantly_11)	21	-	-	29:krvn	-	-	-	-
+pahacAna_4(identification_3)	22	-	-	-	-	-	-	29:kriyAmUla
+ho_8(be_2)-wA_rahawA_hE_1(ing_keep_on_1)	23	-	-	-	-	-	-	29:verbalizer
+[cp_1]	28	-	-	32:rcelab	-	-	-	-
+[cp_2]	29	-	-	0:main	-	-	-	-
+[conj_1]	30	-	-	28:k2	-	-	-	-
+prakAra_4(manner_5)	31	-	-	28:krvn	-	-	-	-
+prakAra_4(manner_5)	32	-	-	29:krvn	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_029a>
+#जैसा कि यह पहले कहा गया है ।
+#jEsA ki yaha pahale kahA gayA hE .
+#As it has been said before.
+$wyax	3	-	-	5:k2	chapter_1_living_world_029b.7:coref	proximal	-	-
+pahalA_9(before_1)	4	-	-	5:k7t	-	-	-	-
+kaha_5(say_3)-yA_jA_yA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_029b>
+#कि दुनिया में लाखों पौधे और जानवर हैं ।
+#ki xuniyA meM lAKoM pOXe Ora jAnavara hEM .
+#That there are millions of plants and animals in the world.
+xuniyA_2(world_7)	1	-	-	7:k7p	-	def	-	-
+100000	3	numex	pl	9:card	-	-	-	-
+pOXA_1(plant_6)	4	-	-	-	-	-	-	9:op1
+jAnavara_1(animal_2)	6	-	-	-	-	-	-	9:op2
+hE_1(state_copula_1)-pres	7	-	-	0:main	-	-	-	-
+[conj_1]	9	-	-	7:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_029c>
+#हम अपने क्षेत्र के पौधों और जानवरों को उनके स्थानीय नामों से जानते हैं।
+#hama apane kRewra ke pOXoM Ora jAnavaroM ko unake sWAnIya nAmoM se jAnawe hEM.
+#We know the plants and animals of our region by their local names.
+$speaker	1	anim	pl	13:k1	-	-	-	-
+apanA	2	-	-	3:r6	-	-	-	-
+kRewra_4(region_3)	3	-	-	16:r6	-	-	-	-
+pOXa_3(plant_22)	5	-	pl	-	-	-	-	16:op1
+jAnavara_1(animal_2)	7	-	pl	-	-	-	-	16:op2
+$wyax	9	-	-	11:r6	16:coref	distal	-	-
+sWAnIya_1(local_6)	10	-	-	11:mod	-	-	-	-
+nAma_1(name_3)	11	-	-	13:k3	-	-	-	-
+jAna_1(knew_1)-wA_hE_1(es_1)	13	-	-	0:main	chapter_1_living_world_029b.7:samuccaya	-	-	-
+[conj_1]	16	-	-	13:k2	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_030>
+#ये स्थानीय नाम स्थान-दर-स्थान भिन्न-भिन्न होंगे, यहाँ तक कि एक देश के भीतर भी।
+#ye sWAnIya nAma sWAna-xara-sWAna Binna-Binna hoMge, yahAz waka ki eka xeSa ke BIwara BI.
+#These local names will vary from place to place, even within a country.
+$wyax	1	-	-	3:dem	-	proximal	-	-
+sWAnIya_1(local_6)	2	-	-	3:mod	-	-	-	-
+nAma_1(name_3)	3	-	-	6:k1	-	-	-	-
+sWAna+xara+sWAna_1	4	-	-	6:k7	-	-	-	-
+Binna_16	5	-	xviwva	6:k1s	-	-	-	-
+ho_6(be_4)-gA_1(0_will_1)	6	-	-	0:main	-	-	-	-
+eka_2(a_1)	11	-	-	12:quant	-	-	-	-
+xeSa_1(country_1)	12	-	-	14:rdl	-	yaha+waka+ki_1	-	-
+BIwara_3(within_2)	14	-	-	6:k7p	-	BI_1	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_031a>
+#संभवतः आप उस भ्रम को पहचानेंगे जो तब पैदा होगा ।
+#saMBavawaH Apa usa Brama ko pahacAneMge jo waba pExA hogA .
+#You will probably recognize the confusion that will arise.
+saMBavawaH_1(probably_4)	1	-	-	6:krvn	-	-	-	-
+$addressee	2	anim	-	6:k1	-	respect	-	-
+$wyax	3	-	-	4:dem	-	distal	-	-
+Brama_4(confusion_9)	4	-	-	6:k2	-	def	-	-
+pahacAna_6(recognize_1)-gA_1(0_will_1)	6	-	-	0:main	-	-	-	-
+$yax	7	-	-	12:k1	4:coref	-	-	-
+$wyax	8	-	-	12:k7t	-	distal	-	-
+pExA_9	9	-	-	-	-	-	-	12:kriyAmUla
+ho_6(be_4)-gA_1(0_will_1)	10	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	4:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_031b>
+#जब हम एक-दूसरे से बात करने के तरीके और साधन नहीं खोजेंगे।
+#jaba hama eka-xUsare se bAwa karane ke warIke Ora sAXana nahIM KojeMge.
+#When we don't find ways and means to talk to each other.
+$speaker	1	anim	pl	11:k1	-	-	-	-
+eka+xUsare_1	2	-	-	13:k1as	-	-	-	-
+bAwa_6(talk_5)	4	-	-	-	-	-	-	13:kriyAmUla
+kara_17(do_2)	5	-	-	-	-	-	-	13:verbalizer
+warIkA_4(way_25)	7	-	-	-	-	-	-	14:op1
+sAXana_2(means_9)	9	-	-	-	-	-	-	14:op2
+nahIM_1(not_1)	10	-	-	11:neg	-	-	-	-
+Koja_1-gA_1	11	-	-	chapter_1_living_world_031a.8:rcsamAnakAla	-	-	-	-
+[cp_1]	13	-	-	14:r6	-	-	-	-
+[conj_1]	14	-	-	11:k2	-	-	-	-
+$yax	15	-	-	11:k7t	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_031c>
+#जब हम उन जीवों का संदर्भ नहीं लेंगे जिनके बारे में हम बात कर रहे हैं।
+#jaba hama una jIvoM kA saMxarBa nahIM leMge jinake bAre meM hama bAwa kara rahe hEM.
+#When we do not refer to the organisms we are talking about.
+$speaker	1	anim	pl	7:k1	-	-	-	-
+$wyax	2	-	-	3:dem	-	distal	-	-
+jIva_7(organism_1)	3	-	pl	5:r6	-	def	-	-
+saMxarBa_1(reference_4)	5	-	-	7:k2	-	-	-	-
+nahIM_1(not_1)	6	-	-	7:neg	-	-	-	-
+le_1(take_1)-gA_1(0_will_1)	7	-	-	chapter_1_living_world_031a.8:rcsamAnakAla	chapter_1_living_world_031b.11:samuccaya	-	-	-
+$yax	8	-	-	17:k7	-	-	-	-
+$speaker	11	anim	pl	17:k1	-	-	-	-
+bAwa_6(talk_5)	12	-	-	-	-	-	-	17:kriyAmUla
+kara_17(do_2)-0_rahA_hE_1(ing_is_1)	13	-	-	-	-	-	-	17:verbalizer
+[cp_1]	17	-	-	3:rcelab	-	-	-	-
+$yax	18	-	-	7:k7t	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_032a>
+#इसलिए, जीवित जीवों के नामकरण को मानकीकृत करने की आवश्यकता है ।
+#isalie, jIviwa jIvoM ke nAmakaraNa ko mAnakIkqwa karane kI AvaSyakawA hE .
+#Therefore, there is a need to standardize the nomenclature of living organisms.
+jIviwa_2(living_6)	1	-	-	2:mod	-	-	-	-
+jIva_7(organism_1)	2	anim	pl	4:r6	-	-	-	-
+nAmakaraNa_3(nomenclature_3)	4	-	-	12:k2	-	def	-	-
+mAnakIkqwa_1	6	-	-	-	-	-	-	12:kriyAmUla
+kara_17(do_2)	7	-	-	-	-	-	-	12:verbalizer
+AvaSyakawA_2(need_1)	9	-	-	10:k1s	-	-	-	-
+hE_1-pres(state_copula_1)	10	-	-	0:main	chapter_1_living_world_031a.6:pariNAma	-	-	-
+[cp_1]	12	-	-	10:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_032b>
+#ताकि किसी विशेष जीव को पूरी दुनिया में उसी नाम से जाना जा सके।
+#wAki kisI viSeRa jIva ko pUrI xuniyA meM usI nAma se jAnA jA sake.
+#So that a particular organism can be known by the same name in the whole world.
+koI_1	1	-	-	3:quant	-	-	-	-
+viSeRa_3(particular_4)	2	-	-	3:mod	-	-	-	-
+jIva_7(organism_1)	3	-	-	11:k2	-	-	-	-
+pUrA_3(whole_4)	5	-	-	6:mod	-	-	-	-
+xuniyA_2(world_7)	6	-	-	11:k7p	-	def	-	-
+$wyax	8	-	-	9:dem	-	distal	-	-
+nAma_1(name_3)	9	-	-	11:k3	-	def	-	-
+jA_1-nA_saka_1	11	-	-	0:main	chapter_1_living_world_032a.10:kAryaxyowaka	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_033>
+#इस प्रक्रिया को नामकरण कहा जाता है।
+#isa prakriyA ko nAmakaraNa kahA jAwA hE.
+#This process is called naming.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+prakriyA_1(process_3)	2	-	-	5:k2	-	-	-	-
+nAmakaraNa_2(naming_2)	4	-	-	5:k2s	-	-	-	-
+kaha_1(call_20)-yA_jA_wA_hE_1(en_is)	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_034a>
+#यह जाहिर है ।
+#yaha jAhira hE .
+#it is obviously .
+$wyax	1	-	-	3:k1	chapter_1_living_world_034b.4:coref	proximal	-	-
+jAhira_1	2	-	-	3:k1s	-	-	-	-
+hE_1-pres(state_copula_1)	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_034b>
+#नामकरण तभी संभव है ।
+#nAmakaraNa waBI saMBava hE .
+#Naming is possible only then.
+nAmakaraNa_2(naming_2)	1	-	-	4:k1	-	-	-	-
+$wyax	2	-	-	4:k7t	chapter_1_living_world_034c.6:coref	distal	-	-
+saMBava_1(possible_3)	3	-	-	4:k1s	-	-	-	-
+hE_1-pres(state_copula_1)	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_034c>
+#जब जीव का सही वर्णन किया गया हो ।
+#jaba jIva kA sahI varNana kiyA gayA ho .
+#When the organism has been described correctly.
+jIva_7(organism_1)	1	-	-	7:k2	-	def	-	-
+sahI_13	3	-	-	7:krvn	-	-	-	-
+varNana_9	4	-	-	-	-	-	-	7:kriyAmUla
+kara_17(do_2)-yA_jA_yA_hE_1	5	-	-	-	-	-	-	7:verbalizer
+$yax	6	-	-	7:k7t	-	-	-	-
+[cp_1]	7	-	-	0:rcsamAnakAla	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_034d>
+#और जब हमें यह पता हो ।
+#Ora jaba hameM yaha pawA ho .
+#And when we know this.
+$yax	1	-	-	5:k7t	-	-	-	-
+$speaker	2	anim	pl	5:k4a	-	-	-	-
+$wyax	3	-	-	5:k1	chapter_1_living_world_034e.5:coref	proximal	-	-
+pawA_4(knowledge_2)	4	-	-	-	-	-	-	7:kriyAmUla
+ho_6(be_4)-o_1	5	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	0:main	chapter_1_living_world_034c.7:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_034e>
+#कि नाम किस जीव से जुड़ा है।
+#ki nAma kisa jIva se judZA hE.
+#Which creature is that name associated with?
+nAma_1(name_3)	1	-	-	5:k1	-	-	-	-
+$kim	2	-	-	3:mod	-	-	-	-
+jIva_1(creature_2)	3	anim	-	5:k1as	-	-	-	-
+hE_1-pres(state_copula_1)	5	-	-	0:main	-	-	-	-
+judZa_10	6	-	kqw	5:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_035>
+#यह पहचान है.
+#yaha pahacAna hE.
+#This is identity.
+$wyax	1	-	-	3:k1	chapter_1_living_world_034b.1:coref	proximal	-	-
+pahacAna_5(identity_5)	2	-	-	3:k1s	-	-	-	-
+hE_1(state_copula_1)	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_036>
+#अध्ययन को सुविधाजनक बनाने के लिए, कई वैज्ञानिकों ने प्रत्येक ज्ञात जीव को एक वैज्ञानिक नाम निर्दिष्ट करने की प्रक्रियाएँ स्थापित की हैं।
+#aXyayana ko suviXAjanaka banAne ke lie, kaI vEjFAnikoM ne prawyeka jFAwa jIva ko eka vEjFAnika nAma nirxiRta karane kI prakriyAez sWApiwa kI hEM.
+#To facilitate study, many scientists have established procedures for assigning a scientific name to each known organism.
+aXyayana_1(study_1)	1	-	-	26:k2	-	-	-	-
+suviXAjanaka_2	3	-	-	-	-	-	-	26:kriyAmUla
+bana_1	4	-	-	-	-	-	-	26:verbalizer
+kaI_5(many_11)	8	-	-	9:quant	-	-	-	-
+vEjFAnika_1(scientist_1)	9	anim	pl	28:k1	-	-	-	-
+prawyeka_1(each_1)	11	-	-	13:quant	-	-	-	-
+jFAwa_1(known_1)	12	-	-	13:mod	-	-	-	-
+jIva_7(organism_1)	13	-	-	17:r6	-	-	-	-
+eka_2(a_1)	15	-	-	17:quant	-	-	-	-
+vEjFAnika_2(scientific_3)	16	-	-	17:mod	-	-	-	-
+nAma_1(name_3)	17	-	-	27:k2	-	-	-	-
+nirxiRta_1(specified_1)	18	-	-	-	-	-	-	27:kriyAmUla
+kara_17(do_2)	19	-	-	-	-	-	-	27:verbalizer
+prakriyA_2(procedure_2)	21	-	-	28:k2	-	-	-	-
+sWApiwa_3(established_5)	22	-	-	-	-	-	-	28:kriyAmUla
+kara_17(do_2)-yA_hE_1(en_have_1)	23	-	-	-	-	-	-	28:verbalizer
+[cp_1]	26	-	-	28:rt	-	-	-	-
+[cp_2]	27	-	-	21:r6	-	-	-	-
+[cp_3]	28	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_037>
+#यह दुनिया भर के जीवविज्ञानियों को स्वीकार्य है।
+#yaha xuniyA Bara ke jIvavijFAniyoM ko svIkArya hE.
+#This is acceptable to biologists around the world.
+$wyax	1	-	-	8:k1	chapter_1_living_world_036.28:coref	proximal	-	-
+xuniyA_2(world_7)	2	-	-	5:r6	-	def	-	-
+jIvavijFAnI_1(biologist_1)	5	anim	pl	8:k4a	-	-	-	-
+svIkArya_1(acceptable_4)	7	-	-	8:k1s	-	-	-	-
+hE_1(state_copula_1)	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_038>
+#पौधों के लिए, वैज्ञानिक नाम सहमत सिद्धांतों और मानदंडों पर आधारित होते हैं, जो वानस्पतिक नामकरण के लिए अंतर्राष्ट्रीय कोड में प्रदान किए जाते हैं।
+#pOXoM ke lie, vEjFAnika nAma sahamawa sixXAMwoM Ora mAnaxaMdoM para AXAriwa howe hEM, jo vAnaspawika nAmakaraNa ke lie aMwarrARtrIya koda meM praxAna kie jAwe hEM.
+#For plants, scientific names are based on agreed principles and criteria, which are provided in the International Code for Botanical Nomenclature.
+pOXa_3(plant_22)	1	-	-	13:rt	-	-	-	-
+vEjFAnika_2(scientific_3)	5	-	-	6:mod	-	-	-	-
+nAma_1(name_3)	6	-	-	13:k1	-	-	-	-
+sahamawa_1(agreed_1)	7	-	-	8:mod	-	-	-	-
+sixXAMwa_1(principle_4)	8	-	pl	-	-	-	-	31:op1
+mAnaxaMda_2(criterion_3)	10	-	pl	-	-	-	-	31:op2
+AXAriwa_1(based_1)	12	-	-	13:k1s	-	-	-	-
+ho_6(be_4)-wA_hE_1(es_1)	13	-	-	0:main	-	-	-	-
+$yax	16	-	-	29:k2	-	-	-	-
+vAnaspawika_2	17	-	-	18:mod	-	-	-	-
+nAmakaraNa_3(nomenclature_3)	18	-	-	29:rt	-	-	-	-
+aMwarrARtrIya_1(international_1)	21	-	-	22:mod	-	def	-	-
+koda_1(code_2)	22	-	-	29:k7	-	-	-	-
+praxAna_11(provide_3)	24	-	-	-	-	-	-	29:kriyAmUla
+kara_17(do_2)-yA_jA_wA_hE_1(en_is)	25	-	-	-	-	-	-	29:verbalizer
+[cp_1]	29	-	-	31:rcelab	-	-	-	-
+[conj_1]	31	-	-	12:k7	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_039a>
+#आप यह पूछ सकते हैं ।
+#Apa yaha pUCa sakawe hEM .
+#You can ask this.
+$addressee	1	anim	-	3:k1	-	respect	-	-
+$wyax	2	-	-	3:k2	chapter_1_living_world_039b.5:coref	proximal	-	-
+pUCa_3(ask_1)-0_sakawA_hE_1(0_can_1)	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_039b>
+#कि जानवरों के नाम कैसे रखे जाते हैं ?
+#ki jAnavaroM ke nAma kEse raKe jAwe hEM ?
+#How are animals named?
+jAnavara_1(animal_2)	1	anim	pl	3:r6	-	-	-	-
+nAma_1(name_3)	3	-	-	5:k2	-	-	-	-
+$kim	4	-	-	6:dem	-	-	-	-
+raKa_3(keep_4)-yA_jA_wA_hE_1(en_is)	5	-	-	0:main	-	-	-	-
+prakAra_5(way_8)	6	-	-	5:krvn	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=chapter_1_living_world_040>
+#पशु वर्गिकीविदों ने प्राणीशास्त्रीय नामकरण की अंतर्राष्ट्रीय संहिता विकसित की है।
+#paSu vargikIvixoM ne prANISAswrIya nAmakaraNa kI aMwarrARtrIya saMhiwA vikasiwa kI hE.
+#Animal taxonomists have developed the International Code of Zoological Nomenclature.
+paSu_1(animal_3)	1	-	-	-	-	-	-	13:mod
+vargikIvixa_1	2	anim	pl	-	-	-	-	13:head
+prANISAswrIya_1	4	-	-	5:mod	-	-	-	-
+nAmakaraNa_3(nomenclature_3)	5	-	-	8:r6	-	-	-	-
+aMwarrARtrIya_1	7	-	-	8:mod	-	-	-	-
+saMhiwA_1(code_2)	8	-	-	14:k2	-	def	-	-
+vikasiwa_1(development_1)	9	-	-	-	-	-	-	14:kriyAmUla
+kara_17(do_2)-yA_hE_2(ed_1)	10	-	-	-	-	-	-	14:verbalizer
+[nc_1]	13	-	-	14:k1	-	-	-	-
+[cp_1]	14	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_041a>
+#वैज्ञानिक नाम यह सुनिश्चित करते हैं ।
+#vEjFAnika nAma yaha suniSciwa karawe hEM .
+#The scientific names ensure this.
+vEjFAnika_2(scientific_3)	1	-	-	2:mod	-	-	-	-
+nAma_1(name_3)	2	-	-	8:k1	-	def	-	-
+$wyax	3	-	-	8:k2	chapter_1_living_world_041b.8:coref	proximal	-	-
+suniSciwa_4(ensure_1)	4	-	-	-	-	-	-	8:kriyAmUla
+kara_17(do_2)-wA_hE_1(es_1)	5	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_041b>
+#कि प्रत्येक जीव का केवल एक ही नाम हो।
+#ki prawyeka jIva kA kevala eka hI nAma ho.
+#That every living being has only one name.
+prawyeka_1(each_1)	1	-	-	2:quant	-	-	-	-
+jIva_7(organism_1)	2	anim	-	7:r6	-	-	-	-
+1	5	numex	-	7:card	-	hI_1	-	-
+nAma_1(name_3)	7	-	-	8:k1	-	-	-	-
+ho_6(be_4)-e_1(e_1)	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_042>
+#किसी भी जीव का वर्णन लोगों को (दुनिया के किसी भी हिस्से में) एक ही नाम पर पहुंचने में सक्षम बनाना चाहिए।
+#kisI BI jIva kA varNana logoM ko (xuniyA ke kisI BI hisse meM) eka hI nAma para pahuMcane meM sakRama banAnA cAhie.
+#The description of any organism should enable people (in any part of the world) to arrive at a single name.
+koI_1	1	-	-	3:quant	-	BI_1	-	-
+jIva_7(organism_1)	3	anim	-	5:r6	-	-	-	-
+varNana_1(description_4)	5	-	-	26:k1	-	def	-	-
+loga_2(people_5)	6	-	pl	20:k1	-	-	-	-
+xuniyA_2(world_7)	9	-	-	13:r6	-	def	-	-
+koI_1	11	-	-	13:mod	-	BI_1	-	-
+hissA_1(part_13)	13	-	-	20:k7p	-	-	-	-
+1	16	numex	-	18:card	-	hI_1	-	-
+nAma_1(name_3)	18	-	-	20:k7	-	-	-	-
+pahuMca_5(reach_11)	20	-	-	26:k7	-	-	-	-
+sakRama_1(competent_8)	22	-	-	-	-	-	-	26:kriyAmUla
+banA_7-nA_cAhie_1	23	-	-	-	-	-	-	26:verbalizer
+[cp_1]	26	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_043a>
+#वे यह भी सुनिश्चित करते हैं ।
+#ve yaha BI suniSciwa karawe hEM .
+#They also ensure this.
+$wyax	1	-	-	5:k1	chapter_1_living_world_041a.2:coref	distal	-	-
+$wyax	2	-	-	5:k2	chapter_1_living_world_043b.18:coref	proximal	-	-
+suniSciwa_1(assured_2)	4	-	-	-	-	-	-	8:kriyAmUla
+kara_17(do_2)-wA_hE_1(es_1)	5	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_043b>
+#कि इस तरह के नाम का उपयोग किसी अन्य ज्ञात जीव के लिए नहीं किया गया है।
+#ki isa waraha ke nAma kA upayoga kisI anya jFAwa jIva ke lie nahIM kiyA gayA hE.
+#That such name has not been used for any other known organism.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+waraha_2(sort_1)	2	-	-	4:r6	-	-	-	-
+nAma_1(name_3)	4	-	-	18:k2	-	-	-	-
+upayoga_1(use_2)	6	-	-	-	-	-	-	18:kriyAmUla
+koI_1(any_1)	7	-	-	10:quant	-	-	-	-
+anya_1(other_1)	8	-	-	10:mod	-	-	-	-
+jFAwa_1(known_1)	9	-	-	10:mod	-	-	-	-
+jIva_7(organism_1)	10	anim	-	18:rt	-	-	-	-
+nahIM_1(not_1)	13	-	-	18:neg	-	-	-	-
+kara_17(do_2)-yA_jA_yA_hE_1	14	-	-	-	-	-	-	18:verbalizer
+[cp_1]	18	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_044>
+#ज्ञात जीवों को वैज्ञानिक नाम प्रदान करने के लिए जीवविज्ञानी सार्वभौमिक रूप से स्वीकृत सिद्धांतों का पालन करते हैं।
+#jFAwa jIvoM ko vEjFAnika nAma praxAna karane ke lie jIvavijFAnI sArvaBOmika rUpa se svIkqwa sixXAMwoM kA pAlana karawe hEM.
+#Biologists follow universally accepted principles for assigning scientific names to known organisms.
+jFAwa_1(known_1)	1	-	-	2:mod	-	-	-	-
+jIva_7(organism_1)	2	anim	-	21:k4	-	-	-	-
+vEjFAnika_2(scientific_3)	4	-	-	5:mod	-	-	-	-
+nAma_1(name_3)	5	-	-	21:k2	-	-	-	-
+praxAna_12	6	-	-	-	-	-	-	21:kriyAmUla
+kara_17(do_2)	7	-	-	-	-	-	-	21:verbalizer
+jIvavijFAnI_1(biologist_1)	10	anim	-	22:k1	-	-	-	-
+sArvaBOmika_1(universal_7)	11	-	-	14:krvn	-	-	-	-
+svIkqwa_1(accepted_4)	14	-	-	15:mod	-	-	-	-
+sixXAMwa_1(principle_4)	15	-	pl	22:k2	-	-	-	-
+pAlana_27	17	-	-	-	-	-	-	22:kriyAmUla
+kara_17(do_2)-wA_hE_1(es_1)	18	-	-	-	-	-	-	22:verbalizer
+[cp_1]	21	-	-	22:rt	-	-	-	-
+[cp_2]	22	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_045>
+#प्रत्येक नाम के दो घटक होते हैं - सामान्य नाम और विशिष्ट विशेषण।
+#prawyeka nAma ke xo Gataka howe hEM - sAmAnya nAma Ora viSiRta viSeRaNa.
+#Every name has two components – the common name and the specific adjective.
+prawyeka_1(each_1)	1	-	-	2:quant	-	-	-	-
+nAma_1(name_3)	2	-	-	5:r6	-	-	-	-
+2	4	numex	-	5:card	-	-	-	-
+Gataka_7(component_17)	5	-	-	6:k1	-	-	-	-
+ho_7(happen_2)-wA_hE_1(es_1)	6	-	-	0:main	-	-	-	-
+sAmAnya_2(common_6)	9	-	-	10:mod	-	-	-	-
+nAma_1(name_3)	10	-	-	-	-	def	-	15:op2
+viSiRta_3(specific_1)	12	-	-	13:mod	-	-	-	-
+viSeRaNa_1(adjective_1)	13	-	-	-	-	def	-	15:op3
+[conj_1]	15	-	-	5:re	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_046>
+#दो घटकों के साथ नाम प्रदान करने की इस प्रणाली को द्विपद नामकरण कहा जाता है।
+#xo GatakoM ke sAWa nAma praxAna karane kI isa praNAlI ko xvipaxa nAmakaraNa kahA jAwA hE.
+#This system of providing names with two components is called binomial nomenclature.
+2	1	numex	-	2:card	-	-	-	-
+Gataka_7(component_17)	2	-	pl	19:rask2	-	-	-	-
+nAma_1(name_3)	5	-	-	19:k2	-	-	-	-
+praxAna_11(provide_3)	6	-	-	-	-	-	-	19:kriyAmUla
+kara_17(do_2)	7	-	-	-	-	-	-	19:verbalizer
+$wyax	9	-	-	10:dem	-	proximal	-	-
+praNAlI_2(method_11)	10	-	-	14:k2	-	-	-	-
+xvipaxa_4	12	-	-	13:mod	-	-	-	-
+nAmakaraNa_3(nomenclature_3)	13	-	-	14:k2s	-	-	-	-
+kaha_1(call_20)-yA_jA_wA_hE_1(en_is)	14	-	-	0:main	-	-	-	-
+[cp_1]	19	-	-	10:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_047>
+#कैरोलस लिनिअस द्वारा दी गई इस नामकरण प्रणाली का अभ्यास दुनिया भर के जीवविज्ञानी कर रहे हैं।
+#kErolasa liniasa xvArA xI gaI isa nAmakaraNa praNAlI kA aByAsa xuniyA Bara ke jIvavijFAnI kara rahe hEM.
+#This naming system given by Carolus Linnaeus is being practiced by biologists all over the world.
+kErolasa	1	male	-	-	-	-	-	19:begin
+liniasa	2	-	-	-	-	-	-	19:inside
+xe_1(give_1)	4	-	kqw	8:rbks	-	-	-	-
+$wyax	6	-	-	8:dem	-	proximal	-	-
+nAmakaraNa_2(naming_2)	7	-	-	8:mod	-	-	-	-
+praNAlI_1(system_6)	8	-	-	21:k2	-	def	-	-
+aByAsa_1(practice_1)	10	-	-	-	-	-	-	21:kriyAmUla
+xuniyA_2(world_7)	11	-	-	14:r6	-	-	-	-
+jIvavijFAnI_1(biologist_1)	14	anim	-	21:k1	-	-	-	-
+kara_17(do_2)-0_rahA_hE_1(ing_is_1)	15	-	-	-	-	-	-	21:verbalizer
+[ne_1]	19	-	-	4:k1	-	-	-	-
+[cp_1]	21	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_048>
+#दो शब्दों के प्रारूप का उपयोग करने वाली यह नामकरण प्रणाली सुविधाजनक पाई गई।
+#xo SabxoM ke prArUpa kA upayoga karane vAlI yaha nAmakaraNa praNAlI suviXAjanaka pAI gaI.
+#This naming system using a two-word format was found convenient.
+2	1	numex	-	2:card	-	-	-	-
+Sabxa_1	2	-	pl	4:r6	-	-	-	-
+prArUpa_5(form_56)	4	-	-	17:k2	-	-	-	-
+upayoga_1(use_2)	6	-	-	-	-	-	-	17:kriyAmUla
+kara_17(do_2)	7	-	-	-	-	-	-	17:verbalizer
+$wyax	9	-	-	11:dem	-	proximal	-	-
+nAmakaraNa_2(naming_2)	10	-	-	11:mod	-	-	-	-
+praNAlI_1(system_6)	11	-	-	13:k2	-	-	-	-
+suviXAjanaka_1(convenient_2)	12	-	-	13:k2s	-	-	-	-
+pA_13(find_4)-yA_jA_yA_hE_1	13	-	-	0:main	-	-	-	-
+[cp_1]	17	-	-	11:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_049a>
+#आप आइए ।
+#Apa Aie .
+#You come.
+$addressee	1	anim	-	2:k1	-	respect	-	-
+A_1(come_1)-o_1(o_1)	2	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_049b>
+#हम वैज्ञानिक नाम प्रदान करने के तरीके को बेहतर ढंग से समझने के लिए आम का उदाहरण लें।
+#hama vEjFAnika nAma praxAna karane ke warIke ko behawara DaMga se samaJane ke lie Ama kA uxAharaNa leM.
+#Let us take the example of mango to better understand the way scientific names are assigned.
+$speaker	1	anim	pl	18:k1	-	-	-	-
+vEjFAnika_2(scientific_3)	2	-	-	3:mod	-	-	-	-
+nAma_1(name_3)	3	-	-	20:k2	-	-	-	-
+praxAna_1	4	-	-	-	-	-	-	20:kriyAmUla
+kara_17(do_2)	5	-	-	-	-	-	-	20:verbalizer
+warIkA_4(way_25)	7	-	-	12:k2	-	def	-	-
+acCA_1(good_1)	9	-	compermore	12:krvn	-	-	-	-
+samaJa_7(understand_2)	12	-	-	18:rt	-	-	-	-
+Ama_1(mango_1)	15	-	-	17:r6	-	-	-	-
+uxAharaNa_1(example_1)	17	-	-	18:k2	-	def	-	-
+le_1(take_1)-e_1(e_1)	18	-	-	0:main	-	-	-	-
+[cp_1]	20	-	-	7:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_050>
+#आम का वैज्ञानिक नाम मैंगीफेरा इंडिका लिखा गया है।
+#Ama kA vEjFAnika nAma mEMgIPerA iMdikA liKA gayA hE.
+#The scientific name of mango is Mangifera indica.
+Ama_1(mango_1)	1	-	-	4:r6	-	-	-	-
+vEjFAnika_2(scientific_3)	3	-	-	4:mod	-	-	-	-
+nAma_1(name_3)	4	-	-	7:k2	-	def	-	-
+mEMgIPerA	5	ne	-	-	-	-	-	11:begin
+iMdikA	6	-	-	-	-	-	-	11:inside
+liKA_1-yA_jA_wA_hE_1	7	-	-	0:main	-	-	-	-
+[ne_1]	11	-	-	7:k2s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_051a>
+#इस नाम में मैंगीफ़ेरा जीनस का प्रतिनिधित्व करता है ।
+#isa nAma meM mEMgIPZerA jInasa kA prawiniXiwva karawA hE .
+#This name represents the genus Mangifera.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+nAma_1(name_3)	2	-	-	11:k1	-	-	-	-
+mEMgIPZerA_1	4	-	-	11:k2	-	-	-	-
+jInasa_1	5	-	-	4:rs	-	def	-	-
+prawiniXiwva_1(representation_5)	7	-	-	-	-	-	-	11:kriyAmUla
+kara_1-wA_hE_1	8	-	-	-	-	-	-	11:verbalizer
+[cp_1]	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_051b>
+#जबकि इंडिका प्रजाति या विशिष्ट विशेषण है।
+#jabaki iMdikA prajAwi yA viSiRta viSeRaNa hE.
+#While indica is the species or specific adjective.
+iMdikA_1	1	-	-	6:k1	-	-	-	8:mod
+prajAwi_1(species_1)	2	-	-	-	-	def	-	9:op1
+viSiRta_3(specific_1)	4	-	-	5:mod	-	-	-	-
+viSeRaNa_1(adjective_1)	5	-	-	-	-	-	-	9:op2
+hE_1(state_copula_1)	6	-	-	0:main	chapter_1_living_world_051a.11:viroXI_xyowaka	-	-	-
+[disjunct_1]	9	-	-	6:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_052a>
+#नामकरण के अन्य सार्वभौमिक नियम इस प्रकार हैं ।
+#nAmakaraNa ke anya sArvaBOmika niyama isa prakAra hEM .
+#Other universal rules of naming are as follows.
+nAmakaraNa_2(naming_2)	1	-	-	5:r6	-	-	-	-
+anya_1(other_1)	3	-	-	5:mod	-	-	-	-
+sArvaBOmika_1(universal_7)	4	-	-	3:mod	-	-	-	-
+niyama_1(rule_3)	5	-	-	8:k1	-	-	-	-
+$wyax	6	-	-	7:dem	-	proximal	-	-
+prakAra_5(way_8)	7	-	-	8:k1s	chapter_1_living_world_052b.8:coref	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_052b>
+#जैविक नाम आम तौर पर लैटिन में होते हैं ।
+#jEvika nAma Ama wOra para lEtina meM howe hEM .
+#Biological names are generally in Latin.
+jEvika_1(biological_1)	1	-	-	2:mod	-	-	-	-
+nAma_1(name_3)	2	-	-	8:k1	-	-	-	-
+Ama+wOra+para_1	3	-	-	8:krvn	-	-	-	-
+lEtina_1	6	-	-	8:k7	-	-	-	-
+ho_6(be_4)-wA_hE_1(es_1)	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_052c>
+#और वे इटैलिक में लिखे जाते हैं।
+#Ora ve itElika meM liKe jAwe hEM.
+#And they are written in italics.
+$wyax	1	-	-	4:k1	chapter_1_living_world_052b.2:coref	distal	-	-
+itElika_1	2	-	-	4:k7	-	-	-	-
+liKa_1(write_1)-yA_jA_wA_hE_1(en_is)	4	-	-	0:main	chapter_1_living_world_052b.8:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_053a>
+#चाहे उनकी उत्पत्ति कुछ भी हो।
+#cAhe unakI uwpawwi kuCa BI ho.
+#Whatever their origin.
+$wyax	2	-	-	3:r6	chapter_1_living_world_044.2:coref	distal	-	-
+uwpawwi_4(origin_2)	3	-	-	6:k1	-	-	-	-
+kuCa_10(any_1)	4	-	-	6:k1s	-	BI_1	-	-
+ho_6(be_4)-e_1(e_1)	6	-	-	0:main	-	cAhe_1	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_053b>
+#वे लैटिनीकृत हैं ।
+#ve lEtinIkqwa hEM .
+#They are Latinized.
+$wyax	1	-	-	3:k1	chapter_1_living_world_044.2:coref	distal	-	-
+lEtinIkqwa_1	2	-	-	3:k1s	-	-	-	-
+hE_1(state_copula_1)	3	-	-	0:main	chapter_1_living_world_053a.6:vyaBicAra	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_053c>
+#या वे लैटिन से व्युत्पन्न हैं।
+#yA ve lEtina se vyuwpanna hEM.
+#Or they are derived from Latin.
+$wyax	1	-	-	5:k1	chapter_1_living_world_044.2:coref	distal	-	-
+lEtina_1	2	-	-	5:k5prk	-	-	-	-
+vyuwpanna_1(derived_1)	4	-	-	5:k1s	-	-	-	-
+hE_1(state_copula_1)	5	-	-	0:main	chapter_1_living_world_053b.3:anyawra	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_054a>
+#जैविक नाम में पहला शब्द जीनस को दर्शाता है ।
+#jEvika nAma meM pahalA Sabxa jInasa ko xarSAwA hE .
+#The first word in the biological name indicates the genus.
+jEvika_1(biological_1)	1	-	-	2:mod	-	-	-	-
+nAma_1(name_3)	2	-	-	8:k7	-	-	-	-
+pahalA_1(first)	4	-	-	5:ord	-	-	-	-
+Sabxa_1(word_5)	5	-	-	8:k1	-	def	-	-
+jInasa_1	6	-	-	8:k2	-	-	-	-
+xarSA_3(exhibit_1)-wA_hE_1(es_1)	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_054b>
+#जबकि दूसरा घटक विशिष्ट विशेषण को दर्शाता है।
+#jabaki xUsarA Gataka viSiRta viSeRaNa ko xarSAwA hE.
+#While the second component refers to the specific adjective.
+xUsarA_1(second_1)	1	-	-	2:ord	-	-	-	-
+Gataka_7(component_17)	2	-	-	6:k1	-	def	-	-
+viSiRta_3(specific_1)	3	-	-	4:mod	-	-	-	-
+viSeRaNa_1(adjective_1)	4	-	-	6:k2	-	-	-	-
+xarSA_2(display_1)-wA_hE_1(es_1)	6	-	-	0:main	chapter_1_living_world_054a.8:viroXI_xyowaka	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_055a>
+#हस्तलिखित होने पर दोनों शब्दों को उनके लैटिन मूल को इंगित करने के लिए अलग-अलग रेखांकित किया जाता है ।
+#haswaliKiwa hone para xonoM SabxoM ko unake lEtina mUla ko iMgiwa karane ke lie alaga-alaga reKAMkiwa kiyA jAwA hE .
+#When handwritten both words are underlined separately to indicate their Latin origin.
+haswaliKiwa_1	1	-	-	2:k1s	-	-	-	-
+ho_6(be_4)	2	-	-	23:rblsk	-	-	-	-
+2	4	numex	-	5:card	-	-	-	-
+Sabxa_1(word_5)	5	-	pl	23:k2	-	-	-	-
+$wyax	7	-	-	8:r6	5:coref	distal	-	-
+lEtina_1	8	-	-	9:mod	-	-	-	-
+mUla_2(origin_9)	9	-	-	22:k2	-	-	-	-
+iMgiwa_1(indication_1)	11	-	-	-	-	-	-	22:kriyAmUla
+kara_17(do_2)	12	-	-	-	-	-	-	22:verbalizer
+alaga_1(separate_1)	15	-	xviwva	23:krvn	-	-	-	-
+reKAMkiwa_1(underlined_2)	16	-	-	-	-	-	-	23:kriyAmUla
+kara_1-yA_jA_wA_hE_1	17	-	-	-	-	-	-	23:verbalizer
+[cp_2]	22	-	-	23:rt	-	-	-	-
+[cp_3]	23	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_055b>
+#या उनको इटैलिक में मुद्रित किया जाता है।
+#yA unako itElika meM muxriwa kiyA jAwA hE.
+#Or they are printed in italics.
+$wyax	1	-	-	9:k2	chapter_1_living_world_055a.5:coref	distal	-	-
+itElika_1	2	-	-	9:k7	-	-	-	-
+muxriwa_1(printed_1)	4	-	-	-	-	-	-	9:kriyAmUla
+kara_17(do_2)-yA_jA_wA_hE_1(en_is)	5	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	chapter_1_living_world_055a.23:anyawra	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_056a>
+#पहला शब्द बड़े अक्षर से शुरू होता है ।
+#pahalA Sabxa badZe akRara se SurU howA hE .
+#The first word starts with a capital letter.
+pahalA_1(first)	1	-	-	2:ord	-	-	-	-
+Sabxa_1(word_5)	2	-	-	7:k1	-	def	-	-
+badZA_26	3	-	-	4:mod	-	-	-	-
+akRara_3(letter_7)	4	-	-	-	-	-	-	8:start
+SurU_3(start_15)	6	-	-	7:k1s	-	-	-	-
+ho_8(be_2)-wA_hE_1(es_1)	7	-	-	0:main	-	-	-	-
+[span_1]	8	-	-	7:krvn	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_056b>
+#जबकि विशिष्ट विशेषण छोटे अक्षर से शुरू होता है।
+#jabaki viSiRta viSeRaNa Cote akRara se SurU howA hE.
+#Whereas the specific adjective starts with a small letter.
+viSiRta_3(specific_1)	1	-	-	2:mod	-	-	-	-
+viSeRaNa_1(adjective_1)	2	-	-	7:k1	-	def	-	-
+CotA_1(small_6)	3	-	-	4:mod	-	-	-	-
+akRara_3(letter_7)	4	-	-	-	-	-	-	8:start
+SurU_3(start_15)	6	-	-	7:k1s	-	-	-	-
+ho_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+[span_1]	8	-	-	7:krvn	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_057>
+#लेखक का नाम विशिष्ट विशेषण के बाद संक्षिप्त रूप में आता है।
+#leKaka kA nAma viSiRta viSeRaNa ke bAxa saMkRipwa rUpa meM AwA hE.
+#The author's name comes in abbreviated form after the specific adjective.
+leKaka_2(author_4)	1	-	-	3:r6	-	-	-	-
+nAma_1(name_3)	3	-	-	11:k1	-	def	-	-
+viSiRta_3(specific_1)	4	-	-	5:mod	-	-	-	-
+viSeRaNa_1(adjective_1)	5	-	-	3:rkrl	-	def	-	-
+saMkRipwa_5(abbreviated_1)	8	-	-	9:mod	-	-	-	-
+rUpa_1(form_10)	9	-	-	11:k7	-	-	-	-
+A_1(come_1)-wA_hE_1(es_1)	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_058a>
+#चूँकि सभी जीवित जीवों का अध्ययन करना लगभग असंभव है है।
+#cUzki saBI jIviwa jIvoM kA aXyayana karanA lagaBaga asaMBava hE hE.
+#Since it is almost impossible to study all living organisms.
+saBI_1(all_1)	1	-	-	3:quant	-	-	-	-
+jIviwa_2(living_6)	2	-	-	3:mod	-	-	-	-
+jIva_7(organism_1)	3	anim	pl	12:k2	-	-	-	-
+aXyayana_1(study_1)	5	-	-	-	-	-	-	12:kriyAmUla
+kara_17(do_2)	6	-	-	-	-	-	-	12:verbalizer
+lagaBaga_2(almost_3)	7	-	-	9:krvn	-	-	-	-
+asaMBava_1(impossible_2)	8	-	-	9:k1s	-	-	-	-
+hE_1-pres	9	-	-	0:main	chapter_1_living_world_058b.11:kAryakAraNa	-	-	-
+[cp_1]	12	-	-	9:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_058b>
+#इसलिए इसे संभव बनाने के लिए कुछ साधन तैयार करना आवश्यक है।
+#isalie ise saMBava banAne ke lie kuCa sAXana wEyAra karanA AvaSyaka hE.
+#Therefore, it is necessary to prepare some means to make this possible.
+$wyax	1	-	-	3:k2	chapter_1_living_world_058a.12:coref	proximal	-	-
+saMBava_1(possible_3)	2	-	-	3:k2s	-	-	-	-
+banA_1(make_1)	3	-	-	11:rt	-	-	-	-
+kuCa_1(some_2)	6	-	-	7:quant	-	-	-	-
+sAXana_2(means_9)	7	-	-	12:k2	-	-	-	-
+wEyAra_1(ready_4)	8	-	-	-	-	-	-	12:kriyAmUla
+kara_17(do_2)	9	-	-	-	-	-	-	12:verbalizer
+AvaSyaka_1(necessary_1)	10	-	-	11:k1s	-	-	-	-
+hE_1-pres	11	-	-	0:main	chapter_1_living_world_058a.9:pariNAma	-	-	-
+[cp_1]	12	-	-	11:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_059>
+#यह प्रक्रिया वर्गीकरण है।
+#yaha prakriyA vargIkaraNa hE.
+#This process is classification.
+$wyax	1	-	-	3:dem	-	proximal	-	-
+prakriyA_1(process_3)	2	-	-	4:k1	-	-	-	-
+vargIkaraNa_1(classification_1)	3	-	-	4:k1s	-	-	-	-
+hE_1-pres	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_060>
+#वर्गीकरण वह प्रक्रिया है जिसके द्वारा किसी भी चीज़ को कुछ आसानी से देखे जा सकने वाले लक्षणों के आधार पर सुविधाजनक श्रेणियों में समूहीकृत किया जाता है।
+#vargIkaraNa vaha prakriyA hE jisake xvArA kisI BI cIjZa ko kuCa AsAnI se xeKe jA sakane vAle lakRaNoM ke AXAra para suviXAjanaka SreNiyoM meM samUhIkqwa kiyA jAwA hE.
+#Classification is the process by which things are grouped into convenient categories based on some easily observable characteristics.
+vargIkaraNa_1(classification_1)	1	-	-	4:k1	-	-	-	-
+$wyax	2	-	-	3:dem	5:coref	distal	-	-
+prakriyA_1(process_3)	3	-	-	4:k1s	-	-	-	-
+hE_1-pres	4	-	-	0:main	-	-	-	-
+$yax	5	-	-	30:k3	-	-	-	-
+koI_1(any_1)	7	-	-	9:quant	-	BI_3	-	-
+cIjZa_1(thing_1)	9	-	-	14:k2	-	-	-	-
+kuCa_7(little_1)	11	-	-	18:quant	-	-	-	-
+AsAnI_3(ease_4)	12	-	-	14:krvn	-	-	-	-
+xeKa_1(see_1)	14	-	-	18:mod	-	[shade:jA_1]	-	-
+lakRaNa_1	18	-	pl	30:k7a	-	-	-	-
+suviXAjanaka_1(convenient_2)	22	-	-	23:mod	-	-	-	-
+SreNI_2(category_5)	23	-	pl	30:k7	-	-	-	-
+samUhIkqwa_1	25	-	-	-	-	-	-	30:kriyAmUla
+kara_1-yA_jA_wA_hE_1	26	-	-	-	-	-	-	30:verbalizer
+[cp_1]	30	-	-	4:rcdelim	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_061>
+#उदाहरण के लिए, हम पौधों या जानवरों या कुत्तों, बिल्लियों या कीड़ों जैसे समूहों को आसानी से पहचान लेते हैं।
+#uxAharaNa ke lie, hama pOXoM yA jAnavaroM yA kuwwoM, billiyoM yA kIdZoM jEse samUhoM ko AsAnI se pahacAna lewe hEM.
+#For example, we easily recognize plants or animals or groups like dogs, cats or insects.
+$speaker	5	anim	pl	24:k1	-	-	-	-
+pOXa_3(plant_22)	6	-	-	-	-	-	-	25:op1
+jAnavara_1(animal_2)	8	anim	pl	-	-	-	-	25:op2
+kuwwA_1(dog_2)	10	anim	pl	-	-	-	-	26:op1
+billI_1(cat_2)	12	anim	pl	-	-	-	-	26:op2
+kIdZA_1(insect_2)	14	anim	pl	-	-	-	-	26:op3
+samUha_1(group_11)	16	-	pl	-	-	-	-	25:op3
+AsAnI_3(ease_4)	18	-	-	24:krvn	-	-	-	-
+pahacAna_3(recognition_2)	20	-	-	-	-	-	-	24:kriyAmUla
+le_1-wA_hE_1	21	-	-	-	-	-	-	24:verbalizer
+[cp_1]	24	-	-	0:main	chapter_1_living_world_060.4:uXAharaNasvarUpa	-	-	-
+[disjunct_1]	25	-	-	24:k2	-	-	-	-
+[disjunct_2]	26	-	-	16:re	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_062>
+#जैसे ही हम इनमें से किसी भी शब्द का उपयोग करते हैं, हम उस समूह के जीव के साथ कुछ लक्षण जोड़ लेते हैं।
+#jEse hI hama inameM se kisI BI Sabxa kA upayoga karawe hEM, hama usa samUha ke jIva ke sAWa kuCa lakRaNa jodZa lewe hEM.
+#As soon as we use any of these words, we associate some characteristics with the organism of that group.
+jEsA_1	1	-	-	11:krvn	-	-	-	-
+$speaker	3	-	-	11:k1	-	-	-	-
+$wyax	4	-	-	11:k7	-	proximal	-	-
+kisI	6	-	-	8:mod	-	-	-	-
+Sabxa_1	8	-	-	10:k2	-	-	-	-
+upayoga_1	10	-	-	-	-	-	-	27:kriyAmUla
+kara_1-wA_hE_1	11	-	-	-	-	-	-	27:verbalizer
+$speaker	14	-	-	23:k1	-	-	-	-
+$wyax	15	-	-	16:dem	-	distal	-	-
+samUha_1	16	-	-	18:r6	-	-	-	-
+jIva_1	18	-	-	23:ras-k2	-	-	-	-
+sAWa_1	20	-	-	18:k7p	-	-	-	-
+kuCa_1	21	-	-	22:quant	-	-	-	-
+lakRaNa_1	22	-	-	23:k2	-	-	-	-
+jodZa_1-wA_hE_1	23	-	-	11:rc	-	[shade:le_1]	-	-
+[cp_1]	27	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_063>
+#इसलिए ये सभी शब्द सुविधाजनक श्रेणियां हैं जिनका उपयोग हम जीवों का अध्ययन करने के लिए करते हैं।
+#isalie ye saBI Sabxa suviXAjanaka SreNiyAM hEM jinakA upayoga hama jIvoM kA aXyayana karane ke lie karawe hEM.
+#So all these terms are convenient categories that we use to study organisms.
+$wyax	1	-	-	3:dem	-	proximal	-	-
+saBI_1(all_1)	2	-	-	3:quant	-	-	-	-
+Sabxa_2(term_4)	3	-	-	6:k1	-	-	-	-
+suviXAjanaka_1(convenient_2)	4	-	-	5:mod	-	-	-	-
+SreNi_1(category_11)	5	-	pl	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	chapter_1_living_world_062.23:pariNAma	-	-	-
+$yax	7	-	-	19:k2	5:coref	-	-	-
+upayoga_1(use_2)	8	-	-	-	-	-	-	19:kriyAmUla
+$speaker	9	anim	pl	19:k1	-	-	-	-
+jIva_2(life_6)	10	-	pl	20:k2	-	-	-	-
+aXyayana_1(study_1)	12	-	-	-	-	-	-	20:kriyAmUla
+kara_17(do_2)	13	-	-	-	-	-	-	20:verbalizer
+kara_1-wA_hE_1	16	-	-	-	-	-	-	19:verbalizer
+[cp_1]	19	-	-	5:rcelab	-	-	-	-
+[cp_2]	20	-	-	19:rt	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_064>
+#इन श्रेणियों के लिए वैज्ञानिक शब्द टैक्सा है।
+#ina SreNiyoM ke lie vEjFAnika Sabxa tEksA hE.
+#The scientific term for these categories is taxa.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+SreNI_2(category_5)	2	-	pl	8:rt	-	-	-	-
+vEjFAnika_2(scientific_3)	5	-	-	6:mod	-	-	-	-
+Sabxa_2(term_4)	6	-	-	8:k1	-	def	-	-
+tEksA_1(taxa_1)	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_065>
+#टैक्सा बहुत भिन्न स्तरों पर श्रेणियों को इंगित कर सकता है।
+#tEksA bahuwa Binna swaroM para SreNiyoM ko iMgiwa kara sakawA hE.
+#Taxa may indicate ranges at very different levels.
+tEksA_1(taxa_1)	1	-	-	13:k1	-	-	-	-
+bahuwa_7(very_1)	2	-	-	3:intf	-	-	-	-
+Binna_2(different_6)	3	-	-	4:mod	-	-	-	-
+swara_2(level_6)	4	-	pl	13:k7	-	-	-	-
+SreNI_2(category_5)	6	-	pl	13:k2	-	-	-	-
+iMgiwa_1(indication_1)	8	-	-	-	-	-	-	13:kriyAmUla
+kara_1-0_sakawA_hE_1	9	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_066>
+#विशेषताओं के आधार पर सभी जीवित जीवों को अलग-अलग वर्गों में वर्गीकृत किया जा सकता है।
+#viSeRawAoM ke AXAra para saBI jIviwa jIvoM ko alaga-alaga vargoM meM vargIkqwa kiyA jA sakawA hE.
+#On the basis of characteristics, all living organisms can be classified into different classes.
+viSeRawA_6(characteristic_10)	1	-	pl	18:k7a	-	-	-	-
+saBI_1(all_1)	5	-	-	7:quant	-	-	-	-
+jIviwa_2(living_6)	6	-	-	7:mod	-	-	-	-
+jIva_7(organism_1)	7	anim	pl	18:k2	-	-	-	-
+alaga_7(different_4)	9	-	xviwva	10:mod	-	-	-	-
+varga_1(class_4)	10	-	pl	18:k7	-	-	-	-
+vargIkqwa_1(classified_1)	12	-	-	-	-	-	-	18:kriyAmUla
+kara_1-yA_jA_sakawA_hE_1	13	-	-	-	-	-	-	18:verbalizer
+[cp_1]	18	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_067>
+#वर्गीकरण की यह प्रक्रिया वर्गीकरण है।
+#vargIkaraNa kI yaha prakriyA vargIkaraNa hE.
+#This process of classification is classification.
+vargIkaraNa_1(classification_1)	1	-	-	4:r6	-	-	-	-
+$wyax	3	-	-	4:dem	-	proximal	-	-
+prakriyA_1(process_3)	4	-	-	6:k1	-	-	-	-
+vargIkaraNa_1(classification_1)	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_068>
+#कोशिका की संरचना, विकास प्रक्रिया और जीवों की पारिस्थितिक जानकारी के साथ बाहरी और आंतरिक संरचना आधुनिक वर्गीकरण अध्ययन का आधार बनती है।
+#koSikA kI saMracanA, vikAsa prakriyA Ora jIvoM kI pArisWiwika jAnakArI ke sAWa bAharI Ora AMwarika saMracanA AXunika vargIkaraNa aXyayana kA AXAra banawI hE.
+#The external and internal structure along with the cell structure, developmental process and ecological information of organisms form the basis of modern taxonomic studies.
+koSikA_1(cell_1)	1	-	-	3:r6	-	-	-	-
+saMracanA_1(structure_12)	3	-	-	-	-	def	-	28:op1
+vikAsa_2(development_7)	5	-	-	-	-	-	-	26:mod
+prakriyA_1(process_3)	6	-	-	-	-	-	-	26:head
+jIva_7(organism_1)	8	anim	pl	11:r6	-	-	-	-
+pArisWiwika_2(ecological_1)	10	-	-	11:mod	-	-	-	-
+jAnakArI_3(information_14)	11	-	-	-	-	-	-	28:op3
+bAharI_2(external_2)	14	-	-	-	-	-	-	29:op1
+AMwarika_1(internal_4)	16	-	-	-	-	-	-	29:op2
+saMracanA_1(structure_12)	17	-	-	23:k1	-	-	-	-
+AXunika_1(modern_3)	18	-	-	27:mod	-	-	-	-
+vargIkaraNa_3(taxonomy_1)	19	-	-	-	-	-	-	27:mod
+aXyayana_1(study_1)	20	-	-	-	-	-	-	27:head
+AXAra_2(basis_1)	22	-	-	23:k2	-	def	-	-
+bana_1-wA_hE_1	23	-	-	0:main	-	-	-	-
+[nc_1]	26	-	-	-	-	-	-	28:op2
+[nc_2]	27	-	-	22:r6	-	-	-	-
+[conj_1]	28	-	-	23:rask1	-	-	-	-
+[conj_2]	29	-	-	17:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_069>
+#इसलिए, लक्षण वर्णन, पहचान, वर्गीकरण और नामकरण ऐसी प्रक्रियाएं हैं जो वर्गीकरण के लिए बुनियादी हैं।
+#isalie, lakRaNa varNana, pahacAna, vargIkaraNa Ora nAmakaraNa EsI prakriyAeM hEM jo vargIkaraNa ke lie buniyAxI hEM.
+#Therefore, characterization, identification, classification and naming are the processes that are basic to taxonomy.
+lakRaNa_5	1	-	-	-	-	-	-	20:mod
+varNana_1(description_4)	2	-	-	-	-	-	-	20:head
+pahacAna_4(identification_3)	4	-	-	-	-	-	-	19:op2
+vargIkaraNa_1(classification_1)	6	-	-	-	-	-	-	19:op3
+nAmakaraNa_2(naming_2)	8	-	-	-	-	-	-	19:op4
+$wyax	9	-	-	21:dem	-	proximal	-	-
+prakriyA_1(process_3)	10	-	pl	11:k1s	-	def	-	-
+hE_1-pres	11	-	-	0:main	chapter_1_living_world_068.23:pariNAma	-	-	-
+$yax	12	-	-	17:k1	-	-	-	-
+vargIkaraNa_3(taxonomy_1)	13	-	-	17:rt	-	-	-	-
+buniyAxI_1(fundamental_7)	16	-	-	17:k1s	-	-	-	-
+hE_1-pres	17	-	-	11:rcdelim	-	-	-	-
+[conj_1]	19	-	-	11:k1	-	-	-	-
+[nc_1]	20	-	-	-	-	-	-	19:op1
+prakAra_1(kind_8)	21	-	-	10:r6	12:coref	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_070>
+#मनुष्य हमेशा से विभिन्न प्रकार के जीवों के बारे में अधिक से अधिक जानने में रुचि रखता है, विशेषकर अपने स्वयं के उपयोग के संदर्भ में।
+#manuRya hameSA se viBinna prakAra ke jIvoM ke bAre meM aXika se aXika jAnane meM ruci raKawA hE, viSeRakara apane svayaM ke upayoga ke saMxarBa meM.
+#Man has always been interested in knowing more and more about different types of organisms, especially in terms of his own use.
+manuRya_1(man_7)	1	anim	-	29:k1	-	-	-	-
+hameSA_1(always_7)	2	-	-	29:krvn	-	-	-	-
+viBinna_1(different_13)	4	-	-	5:mod	-	-	-	-
+prakAra_7(type_6)	5	-	-	7:r6	-	-	-	-
+jIva_7(organism_1)	7	anim	pl	14:k7	-	-	-	-
+jAna_14	14	-	-	29:k7	-	-	-	-
+ruci_1(interest_1)	16	-	-	-	-	-	-	29:kriyAmUla
+raKa_1-wA_hE_1	17	-	-	-	-	-	-	29:verbalizer
+apanA	21	-	-	24:r6	1:coref	viSeRakara_1	-	-
+upayoga_1(use_2)	24	-	-	29:k7	-	svayaM_1	-	-
+[cp_1]	29	-	-	0:main	-	-	-	-
+aXika+se_aXika_1	30	-	-	14:krvn	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_071>
+#शुरुआती दिनों में, मनुष्य को भोजन, कपड़े और आश्रय की अपनी बुनियादी जरूरतों के लिए स्रोत खोजने की जरूरत थी।
+#SuruAwI xinoM meM, manuRya ko Bojana, kapadZe Ora ASraya kI apanI buniyAxI jarUrawoM ke lie srowa Kojane kI jarUrawa WI.
+#In the early days, humans needed to find sources for their basic needs of food, clothing and shelter.
+SuruAwI_1	1	-	-	2:mod	-	-	-	-
+xina_1(day_6)	2	-	pl	22:k7t	-	def	-	-
+manuRya_1(man_7)	5	anim	-	22:k4a	-	-	-	-
+Bojana_1(food_5)	7	-	-	-	-	-	-	24:op1
+kapadZA_2(clothing_1)	9	-	pl	-	-	-	-	24:op2
+ASraya_1(shelter_1)	11	-	-	-	-	-	-	24:op3
+apanA	13	-	-	15:r6	-	-	-	-
+buniyAxI_1(fundamental_7)	14	-	-	15:mod	-	-	-	-
+jarUrawa_1(need_10)	15	-	-	19:rt	-	-	-	-
+srowa_1(source_10)	18	-	-	19:k2	-	-	-	-
+Koja_1(search_1)	19	-	-	21:r6	-	-	-	-
+jarUrawa_2(requirement_3)	21	-	-	22:k1	-	-	-	-
+hE_1-past	22	-	-	0:main	-	-	-	-
+[conj_1]	24	-	-	18:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_072>
+#इसलिए, प्रारंभिक वर्गीकरण विभिन्न जीवों के उपयोग पर आधारित थे।
+#isalie, prAraMBika vargIkaraNa viBinna jIvoM ke upayoga para AXAriwa We.
+#Therefore, early classifications were based on the use of different organisms.
+prAraMBika_6(early_17)	1	-	-	2:mod	-	-	-	-
+vargIkaraNa_1(classification_1)	2	-	-	9:k1	-	-	-	-
+viBinna_1(different_13)	3	-	-	4:mod	-	-	-	-
+jIva_7(organism_1)	4	anim	pl	6:r6	-	-	-	-
+upayoga_1(use_2)	6	-	-	8:k7	-	def	-	-
+AXAriwa_1(based_1)	8	-	-	9:k1s	-	-	-	-
+hE_1-past	9	-	-	0:main	chapter_1_living_world_071.22:pariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_073>
+#मनुष्य विभिन्न जीवों के बीच संबंधों में भी रुचि रखते थे।
+#manuRya viBinna jIvoM ke bIca saMbaMXoM meM BI ruci raKawe We.
+#Humans were also interested in the relationships between different organisms.
+manuRya_1(man_7)	1	anim	-	13:k1	-	-	-	-
+viBinna_1(different_13)	2	-	-	16:mod	-	-	-	-
+jIva_7(organism_1)	3	anim	pl	-	-	-	-	16:component1
+saMbaMXa_2(relationship_8)	6	-	-	13:k7	-	def/BI_1	-	-
+ruci_1(interest_1)	9	-	-	-	-	-	-	13:kriyAmUla
+raKa_1-wA_WA_1	10	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+jIva_7(organism_1)	14	anim	pl	-	-	-	-	16:component2
+[involve_1]	16	-	-	6:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_074>
+#अध्ययन की इस शाखा को सिस्टमैटिक्स कहा जाता था।
+#aXyayana kI isa SAKA ko sistamEtiksa kahA jAwA WA.
+#This branch of study was called systematics.
+aXyayana_1(study_1)	1	-	-	4:r6	-	-	-	-
+$wyax	3	-	-	4:dem	-	proximal	-	-
+SAKA_1(branch_4)	4	-	-	7:k2	-	-	-	-
+^sistamEtiksa_1	6	-	-	7:k2s	-	-	-	-
+kaha_1-yA_jA_wA_WA_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_075>
+#बाद में पहचान, नामकरण और वर्गीकरण को शामिल करने के लिए सिस्टमैटिक्स का दायरा बढ़ाया गया।
+#bAxa meM pahacAna, nAmakaraNa Ora vargIkaraNa ko SAmila karane ke lie sistamEtiksa kA xAyarA baDZAyA gayA.
+#The scope of systematics was later expanded to include identification, nomenclature, and classification.
+pahacAna_4(identification_3)	3	-	-	-	-	-	-	20:op1
+nAmakaraNa_3(nomenclature_3)	5	-	-	-	-	-	-	20:op2
+vargIkaraNa_1(classification_1)	7	-	-	-	-	-	-	20:op3
+SAmila_1(included_5)	9	-	-	-	-	-	-	19:kriyAmUla
+kara_17(do_2)	10	-	-	-	-	-	-	19:verbalizer
+^sistamEtiksa_1	13	-	-	15:r6	-	-	-	-
+xAyarA_12(extent_22)	15	-	-	16:k2	-	def	-	-
+baDZA_1-yA_jA_yA_hE_2	16	-	-	0:main	chapter_1_living_world_074.7:uwwarkAla	-	-	-
+[cp_1]	19	-	-	16:rt	-	-	-	-
+[conj_1]	20	-	-	19:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_076>
+#सिस्टेमैटिक्स जीवों के बीच विकासवादी संबंधों को ध्यान में रखता है।
+#sistemEtiksa jIvoM ke bIca vikAsavAxI saMbaMXoM ko XyAna meM raKawA hE.
+#Systematics takes into account evolutionary relationships between organisms.
+^sistemEtiksa	1	-	-	12:k1	-	-	-	-
+jIva_7(organism_1)	2	anim	pl	-	-	-	-	4:component1
+[involve_1]	4	-	-	6:r6	-	-	-	-
+vikAsavAxI_3	5	-	-	6:mod	-	-	-	-
+saMbaMXa_2(relationship_8)	6	-	pl	12:k2	-	-	-	-
+XyAna_5(consideration_7)	8	-	-	-	-	-	-	12:kriyAmUla
+raKa_1-wA_hE_1	10	-	-	-	-	-	-	12:verbalizer
+jIva_7(organism_1)	11	anim	pl	-	-	-	-	4:component2
+[cp_1]	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_077a>
+#वर्गीकरण एक एकल चरणीय प्रक्रिया नहीं है है।
+#vargIkaraNa eka ekala caraNIya prakriyA nahIM hE hE.
+#Classification is not a single step process.
+vargIkaraNa_1(classification_1)	1	-	-	7:k1	-	-	-	-
+eka_2(a_1)	2	-	-	5:quant	-	-	-	-
+ekala_1(single_4)	3	-	-	-	-	-	-	11:mod
+caraNIya_1	4	-	-	-	-	-	-	11:head
+prakriyA_1(process_3)	5	-	-	7:k1s	-	-	-	-
+nahIM_1(not_1)	6	-	-	7:neg	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	nA_kEvala_1	-	-
+[compound_1]	11	-	-	5:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_077b>
+#बल्कि इसमें चरणों का पदानुक्रम शामिल होता है जिसमें प्रत्येक चरण एक रैंक या श्रेणी का प्रतिनिधित्व करता है।
+#balki isameM caraNoM kA paxAnukrama SAmila howA hE jisameM prawyeka caraNa eka rEMka yA SreNI kA prawiniXiwva karawA hE.
+#Rather it involves a hierarchy of steps with each step representing a rank or category.
+$wyax	1	-	-	6:k7	chapter_1_living_world_077a.1:coref	proximal	-	-
+caraNa_16(step_2)	2	-	pl	4:r6	-	-	-	-
+paxAnukrama_1(hierarchy_2)	4	-	-	6:k1	-	-	-	-
+SAmila_15(involved_7)	5	-	-	6:k1s	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+$yax	8	-	-	21:k7	1:coref	-	-	-
+prawyeka_1(each_1)	9	-	-	10:quant	-	-	-	-
+caraNa_16(step_2)	10	-	-	21:k1	-	-	-	-
+eka_2(a_1)	11	-	-	12:quant	-	-	-	-
+^rEMka_1	12	-	-	21:k2	-	-	-	-
+SreNI_1(class_6)	14	-	-	12:rs	-	-	-	-
+prawiniXiwva_1(representation_5)	16	-	-	-	-	-	-	21:kriyAmUla
+kara_1-wA_hE_1	17	-	-	-	-	-	-	21:verbalizer
+[cp_1]	21	-	-	1:rcelab	chapter_1_living_world_077a.7:samuccaya	BI_1	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_078a>
+#यह श्रेणी समग्र वर्गीकरण व्यवस्था का एक हिस्सा है ।
+#yaha SreNI samagra vargIkaraNa vyavasWA kA eka hissA hE .
+#This category is a part of the overall classification system.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+SreNI_2(category_5)	2	-	-	9:k1	-	-	-	-
+samagra_2(whole_10)	3	-	-	11:mod	-	-	-	-
+vargIkaraNa_1(classification_1)	4	-	-	-	-	-	-	11:mod
+vyavasWA_2(system_8)	5	-	-	-	-	-	-	11:head
+1	7	-	-	8:card	-	-	-	-
+hissA_1(part_13)	8	-	-	9:k1s	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+[nc_1]	11	-	-	8:r6	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_078b>
+#और इसे वर्गीकरण श्रेणी कहा जाता है।
+#Ora ise vargIkaraNa SreNI kahA jAwA hE.
+#And this is called classification category.
+$wyax	1	-	-	4:k2	chapter_1_living_world_078a.2:coref	proximal	-	-
+vargIkaraNa_1(classification_1)	2	-	-	-	-	-	-	8:mod
+SreNI_2(category_5)	3	-	-	-	-	-	-	8:head
+kaha_1-yA_jA_wA_hE_1	4	-	-	0:main	chapter_1_living_world_078a.9:samuccaya	-	-	-
+[nc_1]	8	-	-	4:k2s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_079>
+#सभी श्रेणियाँ मिलकर वर्गीकरण पदानुक्रम का निर्माण करती हैं।
+#saBI SreNiyAz milakara vargIkaraNa paxAnukrama kA nirmANa karawI hEM.
+#All the categories together form the classification hierarchy.
+saBI_1(all_1)	1	-	-	2:quant	-	-	-	-
+SreNI_2(category_5)	2	-	pl	12:k1	-	def	-	-
+milakar_1	3	-	-	12:krvn	-	-	-	-
+vargIkaraNa_1(classification_1)	4	-	-	-	-	-	-	11:mod
+paxAnukrama_1(hierarchy_2)	5	-	-	-	-	def	-	11:head
+nirmANa_16(formation_4)	7	-	-	-	-	-	-	12:kriyAmUla
+kara_1-wA_hE_1	8	-	-	-	-	-	-	12:verbalizer
+[nc_1]	11	-	-	12:k2	-	-	-	-
+[cp_1]	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_080>
+#सभी ज्ञात जीवों के वर्गीकरण संबंधी अध्ययनों से सामान्य श्रेणियों जैसे जगत, फाइलम या प्रभाग, वर्ग, क्रम, परिवार, जीनस और प्रजातियों का विकास हुआ है।
+#saBI jFAwa jIvoM ke vargIkaraNa saMbaMXI aXyayanoM se sAmAnya SreNiyoM jEse jagawa, PAilama yA praBAga, varga, krama, parivAra, jInasa Ora prajAwiyoM kA vikAsa huA hE.
+#Taxonomic studies of all known organisms have led to the development of general categories such as kingdom, phylum or division, class, order, family, genus, and species.
+saBI_1(all_1)	1	-	-	3:quant	-	-	-	-
+jFAwa_1(known_1)	2	-	-	3:mod	-	-	-	-
+jIva_7(organism_1)	3	anim	pl	7:r6	-	-	-	-
+vargIkaraNa_3(taxonomy_1)	5	-	-	-	-	-	-	34:component1
+saMbaMXI_4(related_15)	6	-	-	-	-	-	-	34:component2
+aXyayana_1(study_1)	7	-	pl	29:k3	-	-	-	-
+sAmAnya_1(general_1)	9	-	-	10:mod	-	-	-	-
+SreNI_2(category_5)	10	-	pl	28:r6	-	-	-	-
+jagawa_4(kingdom_1)	12	-	-	-	-	-	-	33:op1
+^PAilama_1	14	-	-	-	-	-	-	33:op2
+praBAga_3(division_21)	16	-	-	14:rs	-	-	-	-
+varga_1(class_4)	18	-	-	-	-	-	-	33:op3
+krama_1(order_3)	20	-	-	-	-	-	-	33:op4
+parivAra_1(family_8)	22	-	-	-	-	-	-	33:op5
+jInasa_1	24	-	-	-	-	-	-	33:op6
+prajAwi_1(species_1)	26	anim	pl	-	-	-	-	33:op7
+vikAsa_2(development_7)	28	-	-	29:k1	-	def	-	-
+ho_1-yA_hE_1	29	-	-	0:main	-	-	-	-
+[conj_1]	33	-	-	10:re	-	-	-	-
+[compound_1]	34	-	-	7:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_081>
+#प्रजाति सबसे निचली श्रेणी है।
+#prajAwi sabase nicalI SreNI hE.
+#Species is the lowest category.
+prajAwi_1	1	anim	-	5:k1	-	-	-	-
+nicalA_1(lower_2)	3	-	superl	4:mod	-	-	-	-
+SreNI_2(category_5)	4	-	-	5:k1s	-	def	-	-
+hE_1-pres	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_082>
+#वर्गीकरण अध्ययन मौलिक समानता वाले व्यक्तिगत जीवों के एक समूह को एक प्रजाति मानते हैं।
+#vargIkaraNa aXyayana mOlika samAnawA vAle vyakwigawa jIvoM ke eka samUha ko eka prajAwi mAnawe hEM.
+#Taxonomic studies consider a group of individual organisms with fundamental similarities as a species.
+vargIkaraNa_1	1	-	-	-	-	-	-	17:mod
+aXyayana_1	2	-	-	-	-	-	-	18:mod
+mOlika_1	3	-	-	4:mod	-	-	-	-
+samAnawA_1	4	-	mawupa	-	-	-	-	18:head
+vyakwigawa_1	6	-	-	7:mod	-	-	-	-
+jIva_1	7	-	-	10:r6	-	-	-	-
+eka_1	9	-	-	10:card	-	-	-	-
+samUha_1	10	-	-	14:k2	-	-	-	-
+eka_1	12	-	-	13:card	-	-	-	-
+prajAwi_1	13	-	-	14:k2s	-	-	-	-
+mAna_1-wA_hE_1	14	-	-	0:main	-	-	-	-
+[nc_1]	17	-	-	7:mod	-	-	-	-
+[nc_2]	18	-	-	7:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_083>
+#व्यक्ति को विशिष्ट रूपात्मक अंतरों के आधार पर एक प्रजाति को अन्य निकट संबंधी प्रजातियों से अलग करने में सक्षम होना चाहिए।
+#vyakwi ko viSiRta rUpAwmaka aMwaroM ke AXAra para eka prajAwi ko anya nikata saMbaMXI prajAwiyoM se alaga karane meM sakRama honA cAhie.
+#One must be able to distinguish a species from other closely related species on the basis of distinctive morphological differences.
+vyakwi_1(individual_6)	1	-	-	21:k1	-	-	-	-
+viSiRta_8(distinctive_4)	3	-	-	5:mod	-	-	-	-
+rUpAwmaka_2	4	-	-	5:mod	-	-	-	-
+aMwara_1(difference_1)	5	-	pl	24:k7a	-	-	-	-
+eka_2(a_1)	9	-	-	10:quant	-	-	-	-
+prajAwi_1(species_1)	10	-	-	24:k2	-	-	-	-
+anya_1(other_1)	12	-	-	15:mod	-	-	-	-
+nikata_2(close_5)	13	-	-	14:mod	-	-	-	-
+saMbaMXI_4(related_15)	14	-	-	15:mod	-	-	-	-
+prajAwi_1(species_1)	15	-	pl	24:k5	-	-	-	-
+alaga_15	17	-	-	-	-	-	-	24:kriyAmUla
+kara_17(do_2)	18	-	-	-	-	-	-	24:verbalizer
+sakRama_2(capable_4)	20	-	-	21:k1s	-	-	-	-
+ho_1-nA_cAhie_1	21	-	-	0:main	-	-	-	-
+[cp_1]	24	-	-	21:k7	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_084>
+#जीनस में संबंधित प्रजातियों का एक समूह शामिल होता है जिसमें अन्य जेनेरा की प्रजातियों की तुलना में अधिक समान लक्षण होते हैं।
+#jInasa meM saMbaMXiwa prajAwiyoM kA eka samUha SAmila howA hE jisameM anya jenerA kI prajAwiyoM kI wulanA meM aXika samAna lakRaNa howe hEM.
+#The genus includes a group of related species that have more similar characteristics than species of other genera.
+jInasa_1	1	-	-	9:k7p	-	-	-	-
+saMbaMXiwa_1(related_2)	3	-	-	4:mod	-	-	-	-
+prajAwi_1(species_1)	4	-	pl	7:r6	-	-	-	-
+eka_2(a_1)	6	-	-	7:quant	-	-	-	-
+samUha_1(group_11)	7	-	-	9:k1	-	-	-	-
+SAmila_1(included_5)	8	-	-	9:k1s	-	-	-	-
+ho_8(be_2)-wA_hE_1(es_1)	9	-	-	0:main	-	-	-	-
+$yax	11	-	-	22:k7	4:coref	-	-	-
+anya_1(other_1)	12	-	-	13:mod	-	-	-	-
+jenerA_1	13	-	-	15:r6	-	-	-	-
+prajAwi_1(species_1)	15	-	pl	11:rv	-	-	-	-
+samAna_3(similar_5)	20	-	-	21:mod	-	-	-	-
+lakRaNa_7	21	-	-	22:k1	-	-	-	-
+ho_8(be_2)-wA_hE_1(es_1)	22	-	-	4:rcelab	-	-	-	-
+aXika_1(more_1)	23	-	-	20:quant	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_085>
+#अगली श्रेणी, परिवार, में संबंधित प्रजातियों का एक समूह है जिनमें अभी भी कम समानताएँ हैं।
+#agalI SreNI, parivAra, meM saMbaMXiwa prajAwiyoM kA eka samUha hE jinameM aBI BI kama samAnawAez hEM.
+#The next category, family, consists of a group of related species that have still less similarity.
+agalA_1(next_1)	1	-	-	2:mod	-	-	-	-
+SreNI_2(category_5)	2	-	-	12:k7	-	-	-	-
+parivAra_1(family_8)	4	-	-	12:k1	-	-	-	-
+prajAwi_1(species_1)	8	-	pl	11:r6	-	-	-	-
+eka_2(a_1)	10	-	-	11:quant	-	-	-	-
+samUha_1(group_11)	11	-	-	12:k1s	-	-	-	-
+hE_1(state_copula_1)-pres	12	-	-	0:main	-	-	-	-
+$yax	13	-	-	18:k7	4:coref	-	-	-
+aBI_4(now_9)	14	-	-	18:k7t	-	BI_1	-	-
+samAnawA_2(similarity_4)	17	-	pl	18:k1	-	-	-	-
+hE_1(state_copula_1)-pres	18	-	-	4:rcelab	-	-	-	-
+kama_4(less_1)	19	-	-	17:mod	-	-	-	-
+saMbaMXiwa_1(related_2)	20	-	-	8:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_086>
+#परिवारों की पहचान पौधों की प्रजातियों की वानस्पतिक और प्रजनन विशेषताओं के आधार पर की जाती है।
+#parivAroM kI pahacAna pOXoM kI prajAwiyoM kI vAnaspawika Ora prajanana viSeRawAoM ke AXAra para kI jAwI hE.
+#Families are identified on the basis of vegetative and reproductive characteristics of plant species.
+parivAra_1(family_8)	1	-	pl	19:k2	-	-	-	-
+pahacAna_5(identity_5)	3	-	-	-	-	-	-	19:kriyAmUla
+pOXa_3(plant_22)	4	-	pl	6:r6	-	-	-	-
+prajAwi_1(species_1)	6	-	pl	20:r6	-	-	-	-
+vAnaspawika_1(vegetative_2)	8	-	-	-	-	-	-	20:op1
+prajanana_1(reproduction_4)	10	-	-	-	-	-	-	20:op2
+viSeRawA_6(characteristic_10)	11	-	pl	19:k7a	-	-	-	-
+kara_17(do_2)-yA_jA_wA_hE_1(en_is)	15	-	-	-	-	-	-	19:verbalizer
+[cp_1]	19	-	-	0:main	-	-	-	-
+[conj_1]	20	-	-	11:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_087>
+#ऑर्डर परिवारों का समूह है जो कुछ समान लक्षण प्रदर्शित करता है।
+#OYrdara parivAroM kA samUha hE jo kuCa samAna lakRaNa praxarSiwa karawA hE.
+#Orders are groups of families that exhibit certain similar characteristics.
+OYrdara_3	1	-	-	5:k1	-	-	-	-
+parivAra_1(family_8)	2	-	pl	4:r6	-	-	-	-
+samUha_1(group_11)	4	-	-	5:k1s	-	-	-	-
+hE_1(state_copula_1)-pres	5	-	-	0:main	-	-	-	-
+$yax	6	-	-	15:k1	1:coref	-	-	-
+kuCa_11(certain_6)	7	-	-	9:quant	-	-	-	-
+samAna_3(similar_5)	8	-	-	9:mod	-	-	-	-
+lakRaNa_7	9	-	-	15:k2	-	-	-	-
+praxarSiwa_2(exhibited_2)	10	-	-	-	-	-	-	15:kriyAmUla
+kara_11(act_1)-wA_hE_1(es_1)	11	-	-	-	-	-	-	15:verbalizer
+[cp_1]	15	-	-	1:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_088>
+#कक्षा में संबंधित आदेश शामिल हैं।
+#kakRA meM saMbaMXiwa AxeSa SAmila hEM.
+#Class contains related commands.
+kakRA_1(class_1)	1	-	-	6:k7	-	-	-	-
+saMbaMXiwa_1(related_2)	3	-	-	4:mod	-	-	-	-
+AxeSa_1(command_2)	4	-	-	6:k1	-	-	-	-
+SAmila_1(included_5)	5	-	-	6:k1s	-	-	-	-
+hE_1(state_copula_1)-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_089a>
+#फाइलम में जानवरों के संबंधित वर्ग शामिल हैं।
+#PAilama meM jAnavaroM ke saMbaMXiwa varga SAmila hEM.
+#Phylum includes related classes of animals.
+PAilama_1	1	-	-	8:k7	-	-	-	-
+jAnavara_1(animal_2)	3	-	pl	6:r6	-	-	-	-
+saMbaMXiwa_1(related_2)	5	-	-	6:mod	-	-	-	-
+varga_1(class_4)	6	-	-	8:k1	-	-	-	-
+SAmila_1(included_5)	7	-	-	8:k1s	-	-	-	-
+hE_1(state_copula_1)-pres	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_089b>
+#और विभाजन में पौधों के संबंधित वर्ग शामिल हैं।
+#Ora viBAjana
+#and division includes related class
+viBAjana_1(division_14)	1	-	-	5:k7	-	-	-	-
+pOXA_1(plant_6)	2	-	pl	3:r6	-	-	-	-
+varga_1(class_4)	3	-	-	5:k1	-	-	-	-
+SAmila_1(included_5)	4	-	-	5:k1s	-	-	-	-
+hE_1(state_copula_1)-pres	5	-	-	0:main	chapter_1_living_world_089a.8:samuccaya	-	-	-
+saMbaMXiwa_1(related_2)	6	-	-	3:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_090>
+#साम्राज्य सर्वोच्च श्रेणी है।
+#sAmrAjya sarvocca SreNI hE.
+#Empire is the highest category.
+sAmrAjya_1(empire_1)	1	-	-	4:k1	-	-	-	-
+sarvocca_5(highest_1)	2	-	-	3:mod	-	-	-	-
+SreNI_2(category_5)	3	-	-	4:k1s	-	-	-	-
+hE_1(state_copula_1)-pres	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_091>
+#जैसे-जैसे हम प्रजाति से जगत की ओर ऊपर जाते हैं, सामान्य विशेषताओं की संख्या घटती जाती है।
+#jEse-jEse hama prajAwi se jagawa kI ora Upara jAwe hEM, sAmAnya viSeRawAoM kI saMKyA GatawI jAwI hE.
+#As we move up from species to kingdom, the number of common characteristics decreases.
+$yax	1	-	-	17:dem	-	-	-	-
+$speaker	2	-	-	9:k1	-	-	-	-
+prajAwi_1(species_1)	3	-	-	9:k5	-	-	-	-
+jagawa_4(kingdom_1)	5	-	-	8:rdl	-	-	-	-
+Upara_4(upward_1)	8	-	-	9:rd	-	-	-	-
+jA_1(go_1)-wA_hE_1(es_1)	9	-	-	16:rcprop	-	-	-	-
+sAmAnya_2(common_6)	12	-	-	13:mod	-	-	-	-
+viSeRawA_6(characteristic_10)	13	-	pl	15:r6	-	-	-	-
+saMKyA_1(number_8)	15	-	-	16:k1	-	def	-	-
+Gata_12	16	-	-	0:main	-	-	-	-
+prakAra_5(way_8)	17	-	-	9:krvn	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_092>
+#टैक्सा जितना कम होगा, सदस्य उतनी ही अधिक विशेषताएँ साझा करेंगे।
+#tEksA jiwanA kama hogA, saxasya uwanI hI aXika viSeRawAez sAJA kareMge.
+#The smaller the taxa, the more characteristics members share.
+tEksA_1	1	-	-	4:k1	-	-	-	-
+$yax	2	-	-	3:intf	-	-	-	-
+kama_6(small_3)	3	-	-	4:k1s	-	-	-	-
+ho_6(be_4)-gA_1(0_will_1)	4	-	-	7:rcprop	-	-	-	-
+saxasya_1(member_4)	6	-	-	14:k1	-	-	-	-
+$wyax	7	-	-	15:intf	-	hI_1	-	-
+viSeRawA_6(characteristic_10)	10	-	pl	14:k2	-	-	-	-
+sAJA_2(share_7)	11	-	-	-	-	-	-	14:kriyAmUla
+kara_17(do_2)-gA_1(0_will_1)	12	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	0:main	-	-	-	-
+aXika_1(more_1)	15	-	-	10:quant	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_093>
+#जितनी ऊंची श्रेणी होगी, अन्य करों से संबंध निर्धारित करने में उतनी ही अधिक कठिनाई होगी।
+#jiwanI UMcI SreNI hogI, anya karoM se saMbaMXa nirXAriwa karane meM uwanI hI aXika kaTinAI hogI.
+#The higher the category, the greater the difficulty in determining relationships with other taxa.
+$yax	1	-	-	2:intf	-	-	-	-
+UMcA_2(high_25)	2	-	-	3:mod	-	-	-	-
+SreNI_2(category_5)	3	-	-	4:k1	-	-	-	-
+ho_2(exist_7)-gA_1(0_will_1)	4	-	-	13:rcprop	-	-	-	-
+anya_1(other_1)	6	-	-	7:mod	-	-	-	-
+kara_3	7	-	pl	19:k3	-	-	-	-
+saMbaMXa_2(relationship_8)	9	-	-	19:k2	-	-	-	-
+nirXAriwa_2(determined_7)	10	-	-	-	-	-	-	19:kriyAmUla
+kara_17(do_2)	11	-	-	-	-	-	-	19:verbalizer
+$wyax	13	-	-	16:intf	-	hI_1	-	-
+kaTinAI_7(difficulty_27)	16	-	-	17:k1	-	-	-	-
+ho_6(be_4)-gA_1(0_will_1)	17	-	-	0:main	-	-	-	-
+[cp_1]	19	-	-	17:k7	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_094>
+#अतः वर्गीकरण की समस्या अधिक जटिल हो जाती है।
+#awaH vargIkaraNa kI samasyA aXika jatila ho jAwI hE.
+#Therefore the problem of classification becomes more complex.
+vargIkaraNa_1(classification_1)	1	-	-	3:r6	-	-	-	-
+samasyA_1(problem_3)	3	-	-	6:k1	-	def	-	-
+jatila_4(complex_6)	5	-	-	6:k1s	-	-	-	-
+ho_5(become_1)-wA_hE_1(es_1)	6	-	-	0:main	chapter_1_living_world_093.17:pariNAma	[shade:jA_1]	-	-
+aXika_1(more_1)	7	-	-	5:quant	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_095>
+#सजीव जगत विविधता से समृद्ध है।
+#sajIva jagawa viviXawA se samqxXa hE.
+#The living world is rich in diversity.
+sajIva_1(living_12)	1	-	-	2:mod	-	-	-	-
+jagawa_2(world_21)	2	-	-	6:k1	-	def	-	-
+viviXawA_2(diversity_4)	3	-	-	6:k3	-	-	-	-
+samqxXa_9(rich_11)	5	-	-	6:k1s	-	-	-	-
+hE_5(state_copula_1)-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_096a>
+#लाखों पौधों और जानवरों की पहचान और वर्णन किया गया है ।
+#lAKoM pOXoM Ora jAnavaroM kI pahacAna Ora varNana kiyA gayA hE .
+#Millions of plants and animals have been identified and described.
+100000	1	numex	-	14:quantmore	-	-	-	-
+pOXa_3(plant_22)	2	-	pl	-	-	-	-	14:op1
+jAnavara_1(animal_2)	4	-	pl	-	-	-	-	14:op2
+pahacAna_19	6	-	-	-	-	-	-	15:op1
+varNana_9	8	-	-	-	-	-	-	15:op2
+kara_17(do_2)-yA_jA_yA_hE_1	9	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+[conj_1]	14	-	-	13:k2	-	-	-	-
+[conj_2]	15	-	-	-	-	-	-	13:kriyAmUla
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_096b>
+#लेकिन बड़ी संख्या अभी भी अज्ञात है।
+#lekina badZI saMKyA aBI BI ajFAwa hE.
+#But a large number are still unknown.
+badZA_2(large_5)	1	-	-	2:mod	-	-	-	-
+saMKyA_1(number_8)	2	-	-	6:k1	-	-	-	-
+aBI_2(still_16)	3	-	-	6:k7t	-	BI_1	-	-
+ajFAwa_1(unknown_3)	5	-	-	6:k1s	-	-	-	-
+hE_1(state_copula_1)-pres	6	-	-	0:main	chapter_1_living_world_096a.13:viroXI	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_097>
+#आकार, रंग, आवास, शारीरिक और रूपात्मक विशेषताओं के संदर्भ में जीवों की विस्तृत श्रृंखला हमें जीवित जीवों की परिभाषित विशेषताओं की तलाश करने पर मजबूर करती है।
+#AkAra, raMga, AvAsa, SArIrika Ora rUpAwmaka viSeRawAoM ke saMxarBa meM jIvoM kI viswqwa SrqMKalA hameM jIviwa jIvoM kI pariBARiwa viSeRawAoM kI walASa karane para majabUra karawI hE.
+#The wide range of organisms in terms of size, colour, habitat, physical and morphological characteristics forces us to look for the defining characteristics of living organisms.
+AkAra_3(size_1)	1	-	-	-	-	-	-	34:op1
+raMga_1(colour_1)	3	-	-	-	-	-	-	34:op2
+AvAsa_9	5	-	-	-	-	-	-	34:op3
+SArIrika_1(physical_7)	7	-	-	-	-	-	-	35:op1
+rUpAwmaka_2	9	-	-	-	-	-	-	35:op2
+viSeRawA_6(characteristic_10)	10	-	pl	-	-	-	-	34:op4
+jIva_7(organism_1)	14	-	pl	17:r6	-	-	-	-
+viswqwa_16(wide_8)	16	-	-	17:mod	-	-	-	-
+SrqMKalA_5(range_12)	17	-	-	33:k1	-	def	-	-
+$speaker	18	-	-	33:k2	-	-	-	-
+jIviwa_2(living_6)	19	-	-	20:mod	-	-	-	-
+jIva_7(organism_1)	20	-	pl	23:r6	-	-	-	-
+pariBARiwa_3(defined_9)	22	-	-	23:mod	-	-	-	-
+viSeRawA_6(characteristic_10)	23	-	pl	32:k2	-	def	-	-
+walASa_1	25	-	-	-	-	-	-	32:kriyAmUla
+kara_17(do_2)	26	-	-	-	-	-	-	32:verbalizer
+majabUra_1	28	-	-	-	-	-	-	33:kriyAmUla
+kara_17(do_2)-wA_hE_1(es_1)	29	-	-	-	-	-	-	33:verbalizer
+[cp_1]	32	-	-	33:rblsk	-	-	-	-
+[cp_2]	33	-	-	0:main	-	-	-	-
+[conj_1]	34	-	-	33:k7	-	-	-	-
+[conj_2]	35	-	-	10:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_098>
+#अध्ययन को सुविधाजनक बनाने के लिए, जीवविज्ञानियों ने पहचान, नामकरण और वर्गीकरण के लिए नियम और सिद्धांत विकसित किए हैं।
+#aXyayana ko suviXAjanaka banAne ke lie, jIvavijFAniyoM ne pahacAna, nAmakaraNa Ora vargIkaraNa ke lie niyama Ora sixXAMwa vikasiwa kie hEM.
+#To facilitate study, biologists have developed rules and principles for identification, naming, and classification.
+aXyayana_1(study_1)	1	-	-	24:k2	-	-	-	-
+suviXAjanaka_1	3	-	-	-	-	-	-	24:kriyAmUla
+banA_1(make_1)	4	-	-	-	-	-	-	24:verbalizer
+jIvavijFAnI_1(biologist_1)	8	-	pl	25:k1	-	-	-	-
+pahacAna_4(identification_3)	10	-	-	-	-	-	-	27:op1
+nAmakaraNa_2(naming_2)	12	-	-	-	-	-	-	27:op2
+vargIkaraNa_1(classification_1)	14	-	-	-	-	-	-	27:op3
+niyama_1(rule_3)	17	-	-	-	-	-	-	26:op1
+sixXAMwa_1(principle_4)	19	-	-	-	-	-	-	26:op2
+vikasiwa_4(developed_2)	20	-	-	-	-	-	-	25:kriyAmUla
+kara_17(do_2)-yA_hE_1(en_have_1)	21	-	-	-	-	-	-	25:verbalizer
+[cp_1]	24	-	-	25:rt	-	-	-	-
+[cp_2]	25	-	-	0:main	-	-	-	-
+[conj_1]	26	-	-	25:k2	-	-	-	-
+[conj_2]	27	-	-	25:rt	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_099>
+#ज्ञान की यह शाखा वर्गीकरण विज्ञान है।
+#jFAna kI yaha SAKA vargIkaraNa vijFAna hE.
+#This branch of knowledge is taxonomy.
+jFAna_4(knowledge_7)	1	-	-	4:r6	-	-	-	-
+$wyax	3	-	-	4:dem	-	proximal	-	-
+SAKA_1(branch_4)	4	-	-	7:k1	-	-	-	-
+vargIkaraNa_3(taxonomy_1)	5	-	-	-	-	-	-	10:mod
+vijFAna_1(science_1)	6	-	-	-	-	-	-	10:head
+hE_5(state_copula_1)-pres	7	-	-	0:main	-	-	-	-
+[nc_1]	10	-	-	7:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_100>
+#वर्गीकरण अध्ययन कृषि, वानिकी, उद्योग और सामान्य तौर पर हमारे जैव-संसाधनों को जानने के लिए उपयोगी होते हैं।
+#vargIkaraNa aXyayana kqRi, vAnikI, uxyoga Ora sAmAnya wOra para hamAre jEva-saMsAXanoM ko jAnane ke lie upayogI howe hEM.
+#Taxonomic studies are useful in agriculture, forestry, industry and in general to know our biological resources.
+vargIkaraNa_3(taxonomy_1)	1	-	-	-	-	-	-	22:mod
+aXyayana_1(study_1)	2	-	-	-	-	-	-	22:head
+kqRi_1(agriculture_1)	3	-	-	-	-	-	-	25:op1
+vAnikI_1(forestry_1)	5	-	-	-	-	-	-	25:op2
+uxyoga_1(industry_1)	7	-	-	-	-	-	-	25:op3
+sAmAnya_1(general_1)	9	-	-	10:mod	-	-	-	-
+wOra_4(manner_14)	10	-	-	15:krvn	-	-	-	-
+$speaker	12	-	-	13:r6	-	-	-	-
+jEva+saMsAXana_1	13	-	pl	15:k2	-	-	-	-
+jAna_10(know_1)	15	-	-	-	-	-	-	25:op4
+upayogI_1(useful_1)	18	-	-	19:k1s	-	-	-	-
+ho_6(be_4)-wA_hE_1(es_1)	19	-	-	0:main	-	-	-	-
+[nc_1]	22	-	-	19:k1	-	-	-	-
+[conj_1]	25	-	-	19:rt	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_101>
+#जीवों की पहचान, नामकरण और वर्गीकरण जैसी वर्गीकरण विज्ञान की मूल बातें अंतरराष्ट्रीय कोड के तहत सार्वभौमिक रूप से विकसित की गई हैं।
+#jIvoM kI pahacAna, nAmakaraNa Ora vargIkaraNa jEsI vargIkaraNa vijFAna kI mUla bAweM aMwararARtrIya koda ke wahawa sArvaBOmika rUpa se vikasiwa kI gaI hEM.
+#The basics of taxonomy such as identification, nomenclature and classification of organisms are universally developed under international codes.
+jIva_7(organism_1)	1	-	pl	27:r6	-	-	-	-
+pahacAna_4(identification_3)	3	-	-	-	-	-	-	27:op1
+nAmakaraNa_3(nomenclature_3)	5	-	-	-	-	-	-	27:op2
+vargIkaraNa_1(classification_1)	7	-	-	-	-	-	-	27:op3
+vargIkaraNa_3(taxonomy_1)	9	-	-	-	-	-	-	28:mod
+vijFAna_1(science_1)	10	-	-	-	-	-	-	28:head
+mUla_11(basic_1)	12	-	-	13:mod	-	-	-	-
+bAwa_4(point_5)	13	-	-	26:k2	-	def	-	-
+aMwararARtrIya_1(international_2)	14	-	-	15:mod	-	-	-	-
+koda_1(code_2)	15	-	-	26:k7a	-	-	-	-
+sArvaBOmika_1(universal_7)	18	-	-	26:krvn	-	-	-	-
+vikasiwa_1(development_1)	21	-	-	-	-	-	-	26:kriyAmUla
+kara_11(act_1)-yA_jA_yA_hE_1	22	-	-	-	-	-	-	26:verbalizer
+[cp_1]	26	-	-	0:main	-	-	-	-
+[conj_1]	27	-	-	13:ru	-	-	-	-
+[nc_1]	28	-	-	13:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_102a>
+#समानता और अंतर के आधार पर, प्रत्येक जीव की पहचान की जाती है ।
+#samAnawA Ora aMwara ke AXAra para, prawyeka jIva kI pahacAna kI jAwI hE .
+#On the basis of similarities and differences, each organism is identified.
+samAnawA_2(similarity_4)	1	-	-	-	-	-	-	17:op1
+aMwara_1(difference_1)	3	-	-	-	-	-	-	17:op2
+prawyeka_1(each_1)	8	-	-	9:quant	-	-	-	-
+jIva_7(organism_1)	9	-	-	16:k2	-	-	-	-
+pahacAna_5(identity_5)	11	-	-	-	-	-	-	16:kriyAmUla
+kara_17(do_2)-yA_jA_wA_hE_1(en_is)	12	-	-	-	-	-	-	16:verbalizer
+[cp_1]	16	-	-	0:main	-	-	-	-
+[conj_1]	17	-	-	16:k7a	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_102b>
+#और उसे द्विपद नामकरण के अनुसार दो शब्दों वाला एक वैज्ञानिक नाम दिया जाता है।
+#Ora use xvipaxa nAmakaraNa ke anusAra xo SabxoM vAlA eka vEjFAnika nAma xiyA jAwA hE.
+#And according to binomial nomenclature it is given a scientific name consisting of two words.
+$wyax	1	-	-	12:k4	chapter_1_living_world_102a.9:coref	distal	-	-
+xvipaxa_4	2	-	-	3:mod	-	-	-	-
+nAmakaraNa_3(nomenclature_3)	3	-	-	12:k7a	-	-	-	-
+2	6	-	-	7:card	-	-	-	-
+Sabxa_1(word_5)	7	-	pl	11:mod	-	-	-	-
+1	9	-	-	11:card	-	-	-	-
+vEjFAnika_2(scientific_3)	10	-	-	11:mod	-	-	-	-
+nAma_1(name_3)	11	-	-	12:k2	-	-	-	-
+xe_1(give_1)-yA_jA_wA_hE_1(en_is)	12	-	-	0:main	chapter_1_living_world_102a.16:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_103>
+#एक जीव वर्गीकरण प्रणाली में एक स्थान या स्थान रखता है।
+#eka jIva vargIkaraNa praNAlI meM eka sWAna yA sWAna raKawA hE.
+#An organism occupies a place or position in the classification system.
+eka_2(a_1)	1	-	-	2:quant	-	-	-	-
+jIva_7(organism_1)	2	-	-	10:k1	-	-	-	-
+vargIkaraNa_1(classification_1)	3	-	-	-	-	-	-	14:mod
+praNAlI_1(system_6)	4	-	-	-	-	def	-	14:head
+eka_2(a_1)	6	-	-	15:quant	-	-	-	-
+sWAna_1(place_14)	7	-	-	-	-	-	-	15:op1
+sWAna_8(position_2)	9	-	-	-	-	-	-	15:op2
+raKa_3(keep_4)-wA_hE_1(es_1)	10	-	-	0:main	-	-	-	-
+[nc_2]	14	-	-	10:k7	-	-	-	-
+[disjunct_1]	15	-	-	10:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_104>
+#श्रेणियों को आम तौर पर टैक्सोनोमिक श्रेणियां या टैक्सा कहा जाता है।
+#SreNiyoM ko Ama wOra para tEksonomika SreNiyAM yA tEksA kahA jAwA hE.
+#Categories are usually called taxonomic categories or taxa.
+SreNI_2(category_5)	1	-	pl	10:k2	-	-	-	-
+Ama+wOra_1	3	-	-	10:krvn	-	-	-	-
+tEksonomika_1	6	-	-	7:mod	-	-	-	-
+SreNI_2(category_5)	7	-	pl	-	-	-	-	15:op1
+tEksA_1(taxa_1)	9	-	-	-	-	-	-	15:op2
+kaha_1(call_20)-yA_jA_wA_hE_1(en_is)	10	-	-	0:main	-	-	-	-
+[disjunct_1]	15	-	-	10:k2s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=chapter_1_living_world_105>
+#सभी श्रेणियां एक वर्गीकरण पदानुक्रम का गठन करती हैं।
+#saBI SreNiyAM eka vargIkaraNa paxAnukrama kA gaTana karawI hEM.
+#All categories constitute a classification hierarchy.
+saBI_1(all_1)	1	-	-	2:quant	-	-	-	-
+SreNI_2(category_5)	2	-	pl	12:k1	-	-	-	-
+eka_2(a_1)	3	-	-	11:card	-	-	-	-
+vargIkaraNa_1(classification_1)	4	-	-	-	-	-	-	11:mod
+paxAnukrama_1(hierarchy_2)	5	-	-	-	-	-	-	11:head
+gaTana_1	7	-	-	-	-	-	-	12:kriyAmUla
+kara_17(do_2)-wA_hE_1(es_1)	8	-	-	-	-	-	-	12:verbalizer
+[nc_1]	11	-	-	12:k2	-	-	-	-
+[cp_1]	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>

@@ -1,0 +1,1847 @@
+<segment_id=sept-7-2022ICF-HD_source_hin_003>
+#एक दाता के रूप में आप इस अध्ययन में भाग लेने के लिये योग्य पात्र हो सकते हैं।
+#eka xAwA ke rUpa meM Apa isa aXyayana meM BAga lene ke liye yogya pAwra ho sakawe hEM.
+#You may be eligible to take part as a donor for this study.
+eka_2(a_1)	1	-	-	2:quant	-	-	-	-
+xAwA_2(donor_1)	2	anim	-	13:r6	-	-	-	-
+$addressee	3	anim	-	12:k1	-	respect	-	-
+$wyax	4	-	-	5:dem	-	proximal	-	-
+aXyayana_1(study_1)	5	-	-	6:k7	-	-	-	-
+[cp_1]	6	-	-	12:rt	-	-	-	-
+yogya_7(eligible_1)	7	-	-	11:mod	-	-	-	-
+BAga_2(part_9)	9	-	-	-	-	-	-	6:kriyAmUla
+le_1(take_1)	10	-	-	-	-	-	-	6:verbalizer
+pAwra_12(candidate_4)	11	-	-	12:k1s	-	-	-	-
+ho_2-0_sakawA_hE_1(be_2)	12	-	-	0:main	-	-	-	-
+rUpa_1(form_10)	13	-	-	6:krvn	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_004>
+#यह सहमति-पत्र आपको इस परियोजना के बारे में महत्वपूर्ण जानकारी देता है।
+#yaha sahamawi-pawra Apako isa pariyojanA ke bAre meM mahawvapUrNa jAnakArI xewA hE.
+#This consent form gives you important information about this project.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+[nc_1]	2	-	-	8:k1	-	-	-	-
+$addressee	3	anim	-	8:k4	-	respect	-	-
+$wyax	4	-	-	5:dem	-	proximal	-	-
+pariyojanA_1(project_2)	5	-	-	8:k7	-	-	-	-
+mahawvapUrNa_1(important_6)	6	-	-	7:mod	-	-	-	-
+jAnakArI_3(information_14)	7	-	-	-	-	-	-	8:kriyAmUla
+[cp_1]	8	-	-	0:main	-	-	-	-
+sahamawi_1(consent_8)	9	-	-	-	-	-	-	2:mod
+xe_1-wA_hE_1(give_1)	9	-	-	-	-	-	-	8:verbalizer
+pawra_2(paper_2)	10	-	-	-	-	-	-	2:head
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_005>
+#यह इस अध्ययन के उद्देश्य, भाग लेने के जोखिमों और संभावित लाभों का वर्णन करता है।
+#yaha isa aXyayana ke uxxeSya, BAga lene ke joKimoM Ora saMBAviwa lABoM kA varNana karawA hE.
+#It describes the purpose of this study , the risks and possible benefits of participating.
+$wyax	1	-	-	9:k1	sept-7-2022ICF-HD_source_hin_004.2:coref	proximal	-	-
+$wyax	2	-	-	3:dem	-	proximal	-	-
+aXyayana_1(study_1)	3	-	-	4:r6	-	-	-	-
+uxxeSya_2(purpose_2)	4	-	-	-	-	-	-	14:op1
+[cp_1]	5	-	-	6:r6	-	-	-	-
+joKima_1(risk_2)	6	-	pl	-	-	-	-	14:op2
+saMBAviwa_7(possible_3)	7	-	-	8:mod	-	-	-	-
+lABa_4(benefit_2)	8	-	pl	-	-	-	-	14:op3
+[cp_2]	9	-	-	0:main	-	-	-	-
+BAga_2(part_9)	10	-	-	-	-	-	-	5:kriyAmUla
+le_1(take_1)	11	-	-	-	-	-	-	5:verbalizer
+varNana_1(description_4)	12	-	-	-	-	-	-	9:kriyAmUla
+kara_17-wA_hE_1(do_2)	13	-	-	-	-	-	-	9:verbalizer
+[conj_1]	14	-	-	9:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_006a>
+#यदि इस फार्म में कुछ भी ऐसा है जो आप समझ नहीं पा रहे हैं।
+#yaxi isa PArma meM kuCa BI EsA hE jo Apa samaJa nahIM pA rahe hEM.
+#If there is anything in this form you do not understand.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+^PoYrma_1	2	-	-	5:k7p	-	-	-	-
+kuCa_10(any_1)	3	-	-	5:k1	-	BI_3	-	-
+$wyax	4	-	-	11:dem	-	proximal	-	-
+hE_1-pres(state_copula_1)	5	-	-	0:main	sept-7-2022ICF-HD_source_hin_006b.4:AvaSyakawApariNAma	-	-	-
+$yax	6	-	-	8:k2	3:coref	-	-	-
+$addressee	7	anim	-	8:k1	-	respect	-	-
+samaJa_12-0_rahA_hE_1(understand_3)	8	-	-	3:rcdelim	-	[shade:pA_1]	-	-
+nahIM_1	9	-	-	8:neg	-	-	-	-
+prakAra_1(kind_8)	11	-	-	5:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_006b>
+#तो आप कृपया प्रश्न पूछें।
+#wo Apa kqpayA praSna pUCeM.
+#Please you ask questions.
+$addressee	1	anim	-	4:k1	-	respect	-	-
+kqpayA_2(please_1)	2	-	-	4:vkvn	-	-	-	-
+praSna_1(question_3)	3	-	-	4:k2	-	-	-	-
+pUCa_3-o_1(ask_1)	4	-	-	0:main	-	-	-	-
+%imperative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_007>
+#कृपया, आप पूरा समय लें।
+#kqpayA, Apa pUrA samaya leM.
+#Please you take your time.
+kqpayA_2(please_1)	1	-	-	5:vkvn	-	-	-	-
+$addressee	2	anim	-	5:k1	-	respect	-	-
+pUrA_5(full_2)	3	-	-	4:mod	-	-	-	-
+samaya_1(time_8)	4	-	-	5:k2	-	-	-	-
+le_1-o_1(take_1)	5	-	-	0:main	-	-	-	-
+%imperative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_008a>
+#यदि आप नहीं चाहते हैं।
+#yaxi Apa nahIM cAhawe hEM.
+#If you do not want to.
+$addressee	1	anim	-	3:k1	-	respect	-	-
+nahIM_1	2	-	-	3:neg	-	-	-	-
+cAha_1-wA_hE_1(want_1)	3	-	-	0:main	sept-7-2022ICF-HD_source_hin_008b.7:AvaSyakawApariNAma	-	-	-
+%negative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_008b>
+#तो आपको इसमें भाग लेने की आवश्यकता नहीं है।
+#wo Apako isameM BAga lene kI AvaSyakawA nahIM hE.
+#You do not have to take part in this.
+$addressee	1	anim	-	7:k4	-	respect	-	-
+$wyax	2	-	-	8:k7	sept-7-2022ICF-HD_source_hin_005.3:coref	proximal	-	-
+BAga_2(part_9)	3	-	-	-	-	-	-	8:kriyAmUla
+le_1(take_1)	4	-	-	-	-	-	-	8:verbalizer
+AvaSyakawA_1(necessity_1)	5	-	-	7:k1	-	-	-	-
+nahIM_1	6	-	-	7:neg	-	-	-	-
+hE_2-pres(have_1)	7	-	-	0:main	-	-	-	-
+[cp_1]	8	-	-	5:r6	-	-	-	-
+%negative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_009>
+#दाताओं को किसी भी समय अपनी भागीदारी वापस लेने का अधिकार है।
+#xAwAoM ko kisI BI samaya apanI BAgIxArI vApasa lene kA aXikAra hE.
+#Donors have the right to withdraw their participation at any time.
+xAwA_2(donor_1)	1	anim	pl	12:k4a	-	-	-	-
+koI_1(any_1)	3	-	-	5:quant	-	BI_3	-	-
+samaya_1(time_8)	5	-	-	15:k7t	-	-	-	-
+apanA	6	-	-	7:r6	-	-	-	-
+BAgIxArI_1(participation_1)	7	-	-	15:k2	-	-	-	-
+vApasa_5(back_7)	8	-	-	-	-	-	-	15:kriyAmUla
+le_1(take_1)	9	-	-	-	-	-	-	15:verbalizer
+aXikAra_1(right_2)	11	-	-	12:k1	-	-	-	-
+hE_2-pres(have_1)	12	-	-	0:main	-	-	-	-
+[cp_1]	15	-	-	11:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_010>
+#मुझे दाता के रूप में भाग लेने के लिए क्यों कहा जा रहा है?
+#muJe xAwA ke rUpa meM BAga lene ke lie kyoM kahA jA rahA hE?
+#Why am I being asked to take part as a donor.
+$speaker	1	anim	-	11:k2	-	-	-	-
+xAwA_2(donor_1)	2	anim	-	3:r6	-	-	-	-
+rUpa_1(form_10)	3	-	-	16:krvn	-	-	-	-
+BAga_2(part_9)	6	-	-	-	-	-	-	16:kriyAmUla
+le_1(take_1)	7	-	-	-	-	-	-	16:verbalizer
+$kim	10	-	-	11:rh	-	-	-	-
+kaha_11-yA_jA_rahA_hE_1(ask_5)	11	-	-	0:main	-	-	-	-
+[cp_1]	16	-	-	11:rt	-	-	-	-
+%pass_interrogative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_011>
+#हम इस अध्ययन के लिए आपको एक दाता के रूप में नामांकित करने के लिए आपकी अनुमति मांग रहे हैं।
+#hama isa aXyayana ke lie Apako eka xAwA ke rUpa meM nAmAMkiwa karane ke lie ApakI anumawi mAMga rahe hEM.
+#We are seeking your permission to enroll you as a donor for this study.
+$speaker	1	anim	pl	18:k1	-	-	-	-
+$wyax	2	-	-	3:dem	-	proximal	-	-
+aXyayana_1(study_1)	3	-	-	22:rt	-	-	-	-
+rUpa_1(form_10)	4	-	-	22:krvn	-	-	-	-
+$addressee	6	anim	-	22:k2	-	respect	-	-
+eka_2(a_1)	7	-	-	8:quant	-	-	-	-
+xAwA_2(donor_1)	8	anim	-	4:r6	-	-	-	-
+nAmAMkiwa_1(enrolled_1)	12	-	-	-	-	-	-	22:kriyAmUla
+kara_17(do_2)	13	-	-	-	-	-	-	22:verbalizer
+$addressee	16	anim	-	17:r6	-	respect	-	-
+anumawi_1(permission_5)	17	-	-	18:k2	-	-	-	-
+mAMga_2-0_rahA_hE_1(seek_5)	18	-	-	0:main	-	-	-	-
+[cp_1]	22	-	-	18:rt	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_012>
+#इस परियोजना में हम रक्त संश्लेषण के लिए जिम्मेदार कोशिकाओं को संशोधित करके थैलेसीमिया / सिकल सेल रोग पैदा करने वाले वंशानुगत कारक को ठीक करने का प्रस्ताव कर रहे हैं।
+#isa pariyojanA meM hama rakwa saMSleRaNa ke lie jimmexAra koSikAoM ko saMSoXiwa karake WElesImiyA / sikala sela roga pExA karane vAle vaMSAnugawa kAraka ko TIka karane kA praswAva kara rahe hEM.
+#In this project , we propose to correct the hereditary factor causing thalassemia/Sickle cell diseases by modifying the cells responsible for blood synthesis.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+pariyojanA_1(project_2)	2	-	-	39:k7	-	-	-	-
+$speaker	4	anim	pl	39:k1	-	-	-	-
+rakwa_1(blood_2)	5	-	-	-	-	-	-	33:mod
+saMSleRaNa_1(synthesis_2)	6	-	-	-	-	-	-	33:head
+jimmexAra_1(responsible_5)	9	-	-	10:mod	-	-	-	-
+koSikA_1(cell_1)	10	-	pl	36:k2	-	-	-	-
+saMSoXiwa_1	12	-	-	-	-	-	-	36:kriyAmUla
+kara_17(do_2)	13	-	-	-	-	-	-	36:verbalizer
+[ne_1]	14	-	-	-	-	-	-	40:op1
+[ne_2]	16	-	-	-	-	-	-	40:op2
+roga_1(disease_3)	18	-	-	37:k1	-	-	-	-
+pExA_1	19	-	-	-	-	-	-	37:kriyAmUla
+kara_17(do_2)	20	-	-	-	-	-	-	37:verbalizer
+vaMSAnugawa_1(hereditary_15)	22	-	-	23:mod	-	-	-	-
+kAraka_1(factor_2)	23	-	-	38:k2	-	-	-	-
+TIka_1	25	-	-	-	-	-	-	38:kriyAmUla
+kara_17(do_2)	26	-	-	-	-	-	-	38:verbalizer
+praswAva_1	28	-	-	-	-	-	-	39:kriyAmUla
+kara_17-0_rahA_hE_1(do_2)	29	-	-	-	-	-	-	39:verbalizer
+[nc_1]	33	-	-	10:rt	-	-	-	-
+[cp_1]	36	-	-	38:rpk	-	-	-	-
+[cp_2]	37	-	-	23:mod	-	-	-	-
+[cp_3]	38	-	-	39:k2	-	-	-	-
+[cp_4]	39	-	-	0:main	-	-	-	-
+[disjunct_1]	40	-	-	18:rs	-	-	-	-
+WElesImiyA	41	-	-	-	-	-	-	14:begin
+sikala	42	-	-	-	-	-	-	16:begin
+sela	43	-	-	-	-	-	-	16:inside
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_016H>
+#बीमारियों के बारे में।
+#bImAriyoM ke bAre meM.
+#About the diseases:
+bImArI_3(disease_1)	1	-	pl	0:main	-	-	-	-
+%heading
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_017>
+#बीटा थैलेसीमिया एक रक्त विकार है जो हीमोग्लोबिन के उत्पादन को कम करता है।
+#bItA WElesImiyA eka rakwa vikAra hE jo hImoglobina ke uwpAxana ko kama karawA hE.
+#Beta thalassemia is a blood disorder that reduces the production of hemoglobin
+bItA	1	-	-	-	-	-	-	3:begin
+WElesImiyA	2	-	-	-	-	-	-	3:inside
+[ne_1]	3	-	-	7:k1	-	-	-	-
+eka_2(a_1)	4	-	-	14:quant	-	-	-	-
+rakwa_1(blood_2)	5	-	-	-	-	-	-	14:mod
+vikAra_4(disorder_6)	6	-	-	-	-	-	-	14:head
+hE_1-pres(state_copula_1)	7	-	-	0:main	-	-	-	-
+$yax	8	-	-	15:k1	3:coref	-	-	-
+hImoglobina	9	-	-	-	-	-	-	10:begin
+[ne_2]	10	-	-	11:r6	-	-	-	-
+uwpAxana_1(production_2)	11	-	-	15:k2	-	-	-	-
+kama_8(reduced_1)	12	-	-	-	-	-	-	15:kriyAmUla
+kara_17-wA_hE_1(do_2)	13	-	-	-	-	-	-	15:verbalizer
+[nc_1]	14	-	-	7:k1s	-	-	-	-
+[cp_1]	15	-	-	3:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_018>
+#हीमोग्लोबिन लाल रक्त कोशिकाओं में लौह युक्त प्रोटीन है, जो पूरे शरीर में कोशिकाओं को ऑक्सीजन पहुंचाता है।
+#hImoglobina lAla rakwa koSikAoM meM lOha yukwa protIna hE, jo pUre SarIra meM koSikAoM ko oYksIjana pahuMcAwA hE.
+#Hemoglobin is the iron-containing protein in red blood cells that carries oxygen to cells throughout the body.
+hImoglobina	1	-	-	-	-	-	-	2:begin
+[ne_1]	2	-	-	9:k1	-	-	-	-
+lAla_1(red_44)	3	-	-	-	-	-	-	16:mod
+rakwa_1(blood_2)	4	-	-	-	-	-	-	16:head
+koSikA_1(cell_1)	5	-	pl	-	-	-	-	17:head
+lOha_1(iron_2)	6	-	-	-	-	-	-	18:mod
+yukwa_1(containing_4)	7	-	-	-	-	-	-	18:head
+protIna_1(protein_1)	8	-	-	9:k1s	-	-	-	-
+hE_1-pres(state_copula_1)	9	-	-	0:main	-	-	-	-
+$yax	10	-	-	15:k1	2:coref	-	-	-
+pUrA_3(whole_4)	11	-	-	12:mod	-	-	-	-
+SarIra_1(body_11)	12	-	-	15:k7p	-	-	-	-
+koSikA_1(cell_1)	13	-	pl	15:k4	-	-	-	-
+OYksIjana_1(oxygen_2)	14	-	-	15:k2	-	-	-	-
+pahuMcA_1-wA_hE_1(carry_10)	15	-	-	2:rcelab	-	-	-	-
+[nc_1]	16	-	-	-	-	-	-	17:mod
+[6-waw_1]	17	-	-	9:k7p	-	-	-	-
+[compound_1]	18	-	-	8:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_019>
+#बीटा थैलेसीमिया वाले लोगों में, हीमोग्लोबिन का निम्न स्तर शरीर के कई हिस्सों में ऑक्सीजन की कमी का कारण बनता है।
+#bItA WElesImiyA vAle logoM meM, hImoglobina kA nimna swara SarIra ke kaI hissoM meM oYksIjana kI kamI kA kAraNa banawA hE.
+#In people with beta thalassemia , low levels of hemoglobin lead to a lack of oxygen in many parts of the body.
+[ne_1]	1	-	-	4:mod	-	-	-	-
+loga_2(people_5)	4	anim	pl	21:k7	-	-	-	-
+[ne_2]	7	-	-	10:r6	-	-	-	-
+nimna_1(low_6)	9	-	-	10:mod	-	-	-	-
+swara_2(level_6)	10	-	-	21:k1	-	-	-	-
+SarIra_1(body_11)	11	-	-	14:r6	-	-	-	-
+kaI_5(many_11)	13	-	-	14:quant	-	-	-	-
+hissA_1(part_13)	14	-	pl	18:k7p	-	-	-	-
+OYksIjana_1(oxygen_2)	16	-	-	18:r6	-	-	-	-
+kamI_4(lack_2)	18	-	-	20:r6	-	-	-	-
+kAraNa_1(reason_2)	20	-	-	21:k2	-	-	-	-
+bana_16-wA_hE_1(become_2)	21	-	-	0:main	-	-	-	-
+bItA	22	-	-	-	-	-	-	1:begin
+WElesImiyA	23	-	-	-	-	-	-	1:inside
+hImoglobina	24	-	-	-	-	-	-	7:begin
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_020>
+#प्रभावित व्यक्तियों में लाल रक्त कोशिकाओं (एनीमिया) की भी कमी होती है, जो पीली त्वचा, कमजोरी, थकान और अधिक गंभीर जटिलताओं का कारण बन सकती है।
+#praBAviwa vyakwiyoM meM lAla rakwa koSikAoM kI BI kamI howI hE, jo pIlI wvacA, kamajorI, WakAna Ora aXika gaMBIra jatilawAoM kA kAraNa bana sakawI hE.
+#Affected individuals also have a shortage of red blood cells , which can cause pale skin , weakness , fatigue , and more serious complications.
+praBAviwa_3(affected_3)	1	-	-	2:mod	-	-	-	-
+vyakwi_4(individual_11)	2	anim	pl	9:k7	-	-	-	-
+lAla_1(red_44)	3	-	-	-	-	-	-	20:mod
+rakwa_1(blood_2)	4	-	-	-	-	-	-	20:head
+koSikA_1(cell_1)	5	-	pl	-	-	-	-	21:head
+enImiyA	6	-	-	-	-	-	-	7:begin
+[ne_1]	7	-	-	21:rs	-	BI_1	-	-
+kamI_2(shortage_2)	8	-	-	9:k1	-	-	-	-
+ho_1-wA_hE_1(be_2)	9	-	-	0:main	-	-	-	-
+$yax	10	-	-	19:k1	7:coref	-	-	-
+pIlA_2(pale_2)	11	-	-	12:mod	-	-	-	-
+wvacA_1(skin_18)	12	-	-	-	-	-	-	22:op1
+kamajorI_1(weakness_14)	13	-	-	-	-	-	-	22:op2
+WakAna_2(fatigue_1)	14	-	-	-	-	-	-	22:op3
+aXika_1(more_1)	15	-	-	16:intf	-	-	-	-
+gaMBIra_1(serious_1)	16	-	-	17:mod	-	-	-	-
+jatilawA_2(complication_1)	17	-	pl	-	-	-	-	22:op4
+kAraNa_2(cause_2)	18	-	-	19:k2	-	-	-	-
+bana_1-0-sakawA_hE_1	19	-	-	8:rcelab	-	-	-	-
+[nc_1]	20	-	-	-	-	-	-	21:mod
+[6-waw_1]	21	-	-	8:r6	-	-	-	-
+[conj_1]	22	-	-	18:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_021>
+#बीटा थैलेसीमिया वाले लोगों में असामान्य रूप से रक्त के थक्के विकसित होने का खतरा बढ जाता है।
+#bItA WElesImiyA vAle logoM meM asAmAnya rUpa se rakwa ke Wakke vikasiwa hone kA KawarA baDa jAwA hE.
+#People with beta thalassemia are at an increased risk of developing abnormal blood clots.
+bItA	1	-	-	-	-	-	-	3:begin
+WElesImiyA	2	-	-	-	-	-	-	3:inside
+[ne_1]	3	-	mawup	4:mod	-	-	-	-
+loga_2(people_5)	4	anim	pl	13:k7	-	-	-	-
+asAmAnya_4(abnormal_4)	5	-	-	6:mod	-	-	-	-
+rUpa_1(form_10)	6	-	-	9:krvn	-	-	-	-
+rakwa_1(blood_2)	7	-	-	8:r6	-	-	-	-
+WakkA_1(clot_2)	8	-	pl	10:k1	-	-	-	-
+vikasiwa_4(developed_2)	9	-	-	10:k1s	-	-	-	-
+ho_5(become_1)	10	-	-	12:r6	-	-	-	-
+KawarA_7(risk_7)	12	-	-	13:k1	-	-	-	-
+baDZa_1-wA_hE_1(increase_17)	13	-	-	0:main	-	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_022>
+#इस अध्ययन में भाग लेने के लिए क्या करना होगा?
+#isa aXyayana meM BAga lene ke lie kyA karanA hogA?
+#What is required to take part in this study?
+$wyax	1	-	-	2:dem	-	proximal	-	-
+aXyayana_1(study_1)	2	-	-	8:k7	-	-	-	-
+BAga_2(part_9)	3	-	-	-	-	-	-	8:kriyAmUla
+le_1(take_1)	4	-	-	-	-	-	-	8:verbalizer
+$speaker	5	anim	pl	7:k1	-	-	-	-
+$kim	6	-	-	7:k2	-	-	-	-
+kara_17-nA_hogA_1(do_2)	7	-	-	0:main	-	-	-	-
+[cp_1]	8	-	-	7:rt	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_023>
+#आपको ग्रोथ फैक्टर्स (जी-सीएसएफ) नामक एक विशिष्ट दवा का एक उपचर्म- इंजेक्शन दिया जाएगा - जो रक्त में अपरिपक्व कोशिकाओं (रक्त बनाने वाली स्टेम कोशिकाएं) की संख्या को बढाता है।
+#Apako groWa PEktarsa (jI-sIesaePa) nAmaka eka viSiRta xavA kA eka upacarma- iMjekSana xiyA jAegA - jo rakwa meM aparipakva koSikAoM kI saMKyA ko baDAwA hE.
+#You will be receiving a subcutaneous injection of a specific medication called growth factors ( G-CSF ) that increases the number of immature cells in the blood.
+$addressee	1	anim	-	15:k4	-	respect	-	-
+groWa	3	-	-	-	-	-	-	5:begin
+PEktarsa	4	-	-	-	-	-	-	5:inside
+[ne_1]	5	-	-	15:k2	-	-	-	-
+jI-sIesaePa	6	-	-	-	-	-	-	7:begin
+[ne_2]	7	-	-	5:rs	-	-	-	-
+eka_2(a_1)	8	-	-	9:quant	-	-	-	-
+viSiRta_3(specific_1)	9	-	-	10:mod	-	-	-	-
+xavA_1(medicine_4)	10	-	-	14:r6	-	-	-	-
+eka_2(a_1)	11	-	-	14:quant	-	-	-	-
+upacarma_1(subcutaneous_1)	12	-	-	-	-	-	-	14:mod
+iMjekSana_1(injection_1)	13	-	-	-	-	-	-	14:head
+[nc_1]	14	-	-	5:rs	-	-	-	-
+xe_1-yA_jA_gA_1(give_1)	15	-	-	0:main	-	-	-	-
+$yax	16	-	-	26:k1	5:coref	-	-	-
+rakwa_1(blood_2)	17	-	-	26:k7	-	-	-	-
+aparipakva_1(immature_3)	18	-	-	19:mod	-	-	-	-
+koSikA_1(cell_1)	19	-	pl	25:r6	-	-	-	-
+rakwa_1(blood_2)	20	-	-	21:k2	-	-	-	-
+banA_7(form_19)	21	-	-	24:mod	-	-	-	-
+^stem_1	22	-	-	-	-	-	-	24:mod
+koSikA_1(cell_1)	23	-	pl	-	-	-	-	24:head
+[nc_2]	24	-	-	19:rs	-	-	-	-
+saMKyA_1(number_8)	25	-	-	26:k2	-	-	-	-
+baDZA_1-wA_hE_1(increase_20)	26	-	-	5:rcelab	-	-	-	-
+%pass-affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_025>
+#स्टेम सेल संग्रह सत्र लगभग 2-5 घंटे तक चलता है।
+#stema sela saMgraha sawra lagaBaga 2-5 GaMte waka calawA hE.
+#The stem cells collection session lasts approximately 2-5 hours.
+stema_1	1	-	-	-	-	-	-	14:mod
+sela_1	2	-	-	-	-	-	-	14:head
+saMgraha_1(collection_9)	4	-	-	-	-	-	-	6:head
+sawra_1(session_2)	5	-	-	-	-	-	-	13:head
+[6_waw_1]	6	-	-	-	-	-	-	13:mod
+2	7	numex	-	-	-	-	-	11:start
+5	8	numex	-	-	-	-	-	11:end
+GaMtA_4(hour_1)	9	-	pl	-	-	-	-	10:unit
+[time_meas_1]	10	-	-	12:k7t	-	-	-	-
+[span_1]	11	-	-	-	-	-	-	10:count
+cala_9-wA_hE_1(last_4)	12	-	-	0:main	-	-	-	-
+[6_waw_2]	13	-	-	12:k1	-	-	-	-
+[nc_1]	14	-	-	-	-	-	-	6:mod
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_026>
+#इस प्रक्रिया में किस प्रकार का जोखिम हो सकता हैं?
+#isa prakriyA meM kisa prakAra kA joKima ho sakawA hEM?
+#What are the risks involved?
+$wyax	1	-	-	2:dem	-	proximal	-	-
+prakriyA_2(procedure_2)	2	-	-	6:k7	-	-	-	-
+$kim	3	-	-	4:mod	-	-	-	-
+prakAra_1(kind_8)	4	-	-	5:r6	-	-	-	-
+joKima_1(risk_2)	5	-	-	6:k1	-	-	-	-
+ho_1-0_sakawA_hE_1(be_2)	6	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_027>
+#जी-सीएसएफ (1-2 दिनों के लिए) के कारण अस्थायी रूप से हड्डियों में दर्द, शरीर में गर्माहट और कुछ समय के लिए दिल की धडकन का एहसास हो सकता है।
+#jI-sIesaePa (1-2 xinoM ke lie) ke kAraNa asWAyI rUpa se haddiyoM meM xarxa, SarIra meM garmAhata Ora kuCa samaya ke lie xila kI Xadakana kA ehasAsa ho sakawA hE.
+#Through G-CSF ( for 1-2 days ) may experience temporary bone pain , warm feeling in the body and consciousness of their heartbeat for some time.
+jI-sIesaePa	1	-	-	-	-	-	-	2:begin
+[ne_1]	2	-	-	21:rh	-	-	-	-
+1	3	numex	-	-	-	-	-	7:start
+2	4	numex	-	-	-	-	-	7:end
+xina_1(day_6)	5	-	pl	-	-	-	-	6:unit
+[time_meas_1]	6	-	-	21:dur	-	-	-	-
+[span_1]	7	-	-	-	-	-	-	6:count
+asWAyI_1(temporary_1)	8	-	-	9:mod	-	-	-	-
+rUpa_1(form_10)	9	-	-	21:krvn	-	-	-	-
+haddI_1(bone_3)	10	-	pl	11:k7p	-	-	-	-
+xarxa_1(pain_3)	11	-	-	-	-	-	-	20:op1
+SarIra_1(body_11)	12	-	-	13:k7p	-	-	-	-
+garmAhata_1	13	-	-	-	-	-	-	20:op2
+kuCa_1(some_2)	14	-	-	15:quant	-	-	-	-
+samaya_1(time_8)	15	-	-	17:dur	-	-	-	-
+xila_1	16	-	-	17:r6	-	-	-	-
+XadZakana_1	17	-	-	-	-	-	-	20:op3
+ehasAsa_1	18	-	-	-	-	-	-	21:kriyAmUla
+ho_1-0_sakawA_hE_1	19	-	-	-	-	-	-	21:verbalizer
+[conj_1]	20	-	-	21:k1	-	-	-	-
+[cp_1]	21	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_028a>
+#यदि आवश्यक हो।
+#yaxi AvaSyaka ho.
+#if required.
+$wyax	1	-	-	3:k1	-	-	-	-
+AvaSyaka_1(necessary_1)	2	-	-	3:k1s	-	-	-	-
+hE_1-e_2(state_copula_1)	3	-	-	0:main	sept-7-2022ICF-HD_source_hin_028b.6:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_028b>
+#तो डॉक्टर दर्द निवारक दवाएं दे सकते हैं।
+#wo doYktara xarxa nivAraka xavAeM xe sakawe hEM.
+#Doctors may prescribe pain relieving medications .
+dOYktara_1	1	anim	-	6:k1	-	-	-	-
+xarxa_1(pain_3)	2	-	-	-	-	-	-	4:mod
+nivAraka_8(relieving_2)	3	-	-	-	-	-	-	4:head
+[compound_1]	4	-	-	5:mod	-	-	-	-
+xavA_1(medicine_4)	5	-	pl	6:k2	-	-	-	-
+xe_1-0_sakawA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_029>
+#क्या इस अध्ययन में भाग लेने का कोई लाभ है?
+#kyA isa aXyayana meM BAga lene kA koI lABa hE?
+#Are there any benefits to taking part in this study?
+$wyax	1	-	-	2:dem	-	proximal	-	-
+aXyayana_1(study_1)	2	-	-	5:k7	-	-	-	-
+BAga_2(part_9)	3	-	-	-	-	-	-	5:kriyAmUla
+le_1(take_1)	4	-	-	-	-	-	-	5:verbalizer
+[cp_1]	5	-	-	7:r6	-	-	-	-
+koI_1(any_1)	6	-	-	7:quant	-	-	-	-
+lABa_4(benefit_2)	7	-	-	8:k1	-	-	-	-
+hE_1-pres(state_copula_1)	8	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_030>
+#इस अध्ययन में भाग लेने से आपको कोई प्रत्यक्ष लाभ नहीं हो सकता है।
+#isa aXyayana meM BAga lene se Apako koI prawyakRa lABa nahIM ho sakawA hE.
+#There may be NO direct benefit to you from taking part in this study.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+aXyayana_1(study_1)	2	-	-	5:k7	-	-	-	-
+BAga_2(part_9)	3	-	-	-	-	-	-	5:kriyAmUla
+le_1(take_1)	4	-	-	-	-	-	-	5:verbalizer
+[cp_1]	5	-	-	11:rh	-	-	-	-
+$addressee	6	anim	-	11:k4a	-	respect	-	-
+koI_1(any_1)	7	-	-	9:quant	-	-	-	-
+prawyakRa_6(direct_3)	8	-	-	9:mod	-	-	-	-
+lABa_4(benefit_2)	9	-	-	11:k1	-	-	-	-
+nahIM_1	10	-	-	11:neg	-	-	-	-
+ho_1-0_sakawA_hE_1(be_2)	11	-	-	0:main	-	-	-	-
+%negative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_031>
+#हालांकि, यह परियोजना भविष्य में बीटा थैलेसीमिया के रोगियों के लिए जीन थेरेपी के तरीकों को स्थापित करने में मदद करेगी।
+#hAlAMki, yaha pariyojanA BaviRya meM bItA WElesImiyA ke rogiyoM ke lie jIna WerepI ke warIkoM ko sWApiwa karane meM maxaxa karegI.
+#However this project will help in establishing the methods for gene therapy for patients with Beta thalassemia in the future.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+pariyojanA_1(project_2)	2	-	-	16:k1	-	-	-	-
+BaviRya_2(future_6)	3	-	-	16:k7t	-	-	-	-
+bItA	4	-	-	-	-	-	-	6:begin
+WElesImiyA	5	-	-	-	-	-	-	6:inside
+[ne_1]	6	-	-	7:r6	-	-	-	-
+rogI_1(patient_3)	7	anim	pl	16:rt	-	-	-	-
+jIna_1	8	-	-	-	-	-	-	10:mod
+WerepI_1(treatment_18)	9	-	-	-	-	-	-	10:head
+[nc_1]	10	-	-	11:r6	-	-	-	-
+warIkA_5(method_16)	11	-	pl	17:k2	-	-	-	-
+sWApiwa_3(established_5)	12	-	-	-	-	-	-	17:kriyAmUla
+kara_17(do_2)	13	-	-	-	-	-	-	17:verbalizer
+maxaxa_1(help_2)	14	-	-	-	-	-	-	16:kriyAmUla
+kara_17-gA_1(do_2)	15	-	-	-	-	-	-	16:verbalizer
+[cp_2]	16	-	-	0:main	sept-7-2022ICF-HD_source_hin_030.11:vyaBicAra	-	-	-
+[cp_1]	17	-	-	16:k7	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_032a>
+#यदि हमारे अध्ययन से कोई उपचार निकलता है।
+#yaxi hamAre aXyayana se koI upacAra nikalawA hE.
+#If any treatment comes out of our study.
+$speaker	1	anim	pl	2:r6	-	-	-	-
+aXyayana_1(study_1)	2	-	-	5:k5	-	-	-	-
+koI_1(any_1)	3	-	-	4:quant	-	-	-	-
+upacAra_7(treatment_19)	4	-	-	5:k1	-	-	-	-
+nikala_2-wA_hE_1(emerge_3)	5	-	-	0:main	sept-7-2022ICF-HD_source_hin_032b.6:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_032b>
+#तो आपसे संपर्क किया जाएगा।
+#wo Apase saMparka kiyA jAegA.
+#you will be contacted.
+$addressee	1	-	-	6:k2	-	-	-	-
+saMparka_1(contact_3)	2	-	-	-	-	-	-	6:kriyAmUla
+kara_17-yA_jA_gA_1(do_2)	3	-	-	-	-	-	-	6:verbalizer
+[cp_1]	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_033>
+#क्या मुझे भाग लेने के लिए सहमति देने की आवश्यकता है?
+#kyA muJe BAga lene ke lie sahamawi xene kI AvaSyakawA hE?
+#Do I need to give consent in order to participate?
+$speaker	2	anim	-	9:k4a	-	-	-	-
+BAga_2(part_9)	3	-	-	-	-	-	-	5:kriyAmUla
+le_1(take_1)	4	-	-	-	-	-	-	5:verbalizer
+[cp_1]	5	-	-	10:rt	-	-	-	-
+sahamawi_1(consent_8)	6	-	-	-	-	-	-	10:kriyAmUla
+xe_1(give_1)	7	-	-	-	-	-	-	10:verbalizer
+AvaSyakawA_2(need_1)	8	-	-	9:k1	-	-	-	-
+hE_1-pres(state_copula_1)	9	-	-	0:main	-	-	-	-
+[cp_2]	10	-	-	8:r6	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_034a>
+#एक बार जब आप इस फॉर्म को पढते हैं।
+#eka bAra jaba Apa isa PoYrma ko paDawe hEM.
+#Once you read this form.
+eka+bAra_1(once_2)	1	-	-	8:krvn	-	-	-	-
+$addressee	4	anim	-	8:k1	-	-	-	-
+$wyax	5	-	-	6:dem	-	proximal	-	-
+POYrma_1(form_58)	6	-	-	8:k2	-	-	-	-
+paDZa_1-wA_hE_1(read_1)	8	-	-	0:main	sept-7-2022ICF-HD_hin_target_034c.10:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_034b>
+#और आपको अपने सवालों का जवाब मिल जाता हैं।
+#Ora Apako apane savAloM kA javAba mila jAwA hEM.
+#and had your questions answered.
+$addressee	1	anim	-	6:k4	-	respect	-	-
+apanA	2	-	-	3:r6	1:coref	-	-	-
+savAla_1(question_5)	3	-	pl	5:r6	-	-	-	-
+javAba_2(answer_2)	5	-	-	6:k1	-	-	-	-
+mila_1-wA_hE_1	6	-	-	0:main	sept-7-2022ICF-HD_hin_target_034a.8:samuccaya	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_034c>
+#तो आपको यह तय करने के लिए कहा जाएगा।
+#wo Apako yaha waya karane ke lie kahA jAegA.
+#you will be asked to decide.
+$addressee	1	anim	-	7:k2	-	respect	-	-
+$wyax	2	-	-	10:k1	-	proximal	-	-
+waya_1	3	-	-	-	-	-	-	10:kriyAmUla
+kara_17(do_2)	4	-	-	-	-	-	-	10:verbalizer
+kaha_11-yA_jA_gA_1(ask_5)	7	-	-	0:main	-	-	-	-
+[cp_1]	10	-	-	7:rt	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_034d>
+#कि क्या आप भाग लेना चाहते हैं।
+#ki kyA Apa BAga lenA cAhawe hEM.
+#if you wish to participate.
+$addressee	2	anim	-	5:k1	-	respect	-	-
+BAga_2(part_9)	3	-	-	4:k2	-	-	-	6:kriyAmUla
+le_1(take_1)	4	-	-	5:k2	-	-	-	6:verbalizer
+cAha_1-wA_hE_1(want_1)	5	-	-	0:main	-	-	-	-
+[cp_1]	6	-	-	5:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_035a>
+#यदि आप इस अध्ययन में भाग लेना चाहते हैं।
+#yaxi Apa isa aXyayana meM BAga lenA cAhawe hEM.
+#If you wish to participate in this study.
+$addressee	1	anim	-	7:k1	-	respect	-	-
+$wyax	2	-	-	3:dem	-	proximal	-	-
+aXyayana_1(study_1)	3	-	-	8:k7	-	-	-	-
+BAga_2(part_9)	5	-	-	-	-	-	-	8:kriyAmUla
+le_1(take_1)	6	-	-	-	-	-	-	8:verbalizer
+cAha_7-wA_hE_1(wish_5)	7	-	-	0:main	sept-7-2022ICF-HD_hin_target_035b.9:AvaSyakawApariNAma	-	-	-
+[cp_1]	8	-	-	7:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_035b>
+#तो आपको इस फॉर्म पर हस्ताक्षर करना होगा।
+#wo Apako isa PoYrma para haswAkRara karanA hogA.
+#you must sign this form.
+$addressee	1	anim	-	9:k1	-	respect	-	-
+$wyax	2	-	-	3:dem	-	proximal	-	-
+POYrma_1(form_58)	3	-	-	9:k7p	-	-	-	-
+haswAkRara_1(signature_2)	5	-	-	-	-	-	-	9:kriyAmUla
+kara_17-nA_hogA_1(do_2)	6	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_036>
+#आपको रिकॉर्ड के रूप में रखने के लिए एक प्रति दी जाएगी।
+#Apako rikoYrda ke rUpa meM raKane ke lie eka prawi xI jAegI.
+#A copy will be given to you to keep as a record.
+$addressee	1	anim	-	11:k4	-	respect	-	-
+rikOYrda_1(record_11)	2	-	-	13:r6	-	-	-	-
+raKa_3(keep_4)	6	-	-	11:rt	-	-	-	-
+eka_2(a_1)	9	-	-	12:card	-	-	-	-
+xe_1-yA_jA_gA_1(give_1)	11	-	-	0:main	-	-	-	-
+prawi_1(copy_7)	12	-	-	11:k2	-	-	-	-
+rUpa_1(form_10)	13	-	-	6:k7	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_037a>
+#यदि आप इस अध्ययन में भाग नहीं लेने का निर्णय लेते हैं।
+#yaxi Apa isa aXyayana meM BAga nahIM lene kA nirNaya lewe hEM.
+#if you decide not to take part in this study.
+$addressee	1	anim	-	14:k1	-	respect	-	-
+$wyax	2	-	-	3:dem	-	proximal	-	-
+aXyayana_1(study_1)	3	-	-	15:k7	-	-	-	-
+nahIM_1	5	-	-	15:neg	-	-	-	-
+BAga_2(part_9)	6	-	-	-	-	-	-	15:kriyAmUla
+le_1(take_1)	7	-	-	-	-	-	-	15:verbalizer
+nirNaya_2(decision_1)	9	-	-	-	-	-	-	14:kriyAmUla
+le_1-wA_hE_1(take_1)	10	-	-	-	-	-	-	14:verbalizer
+[cp_2]	14	-	-	0:main	sept-7-2022ICF-HD_source_hin_037b.2:AvaSyakawApariNAma	-	-	-
+[cp_1]	15	-	-	14:k2	-	-	-	-
+%negative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_037b>
+#तो क्या होगा?
+#wo kyA hogA?
+#What happens?
+$kim	1	-	-	2:k1	-	-	-	-
+ho_7-gA_1(happen_2)	2	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_038>
+#भागीदारी/दान स्वैच्छिक है।
+#BAgIxArI/xAna svEcCika hE.
+#Participation / donation is voluntary.
+BAgIxArI_1(participation_1)	1	-	-	-	-	-	-	7:op1
+xAna_1(donation_2)	3	-	-	-	-	-	-	7:op2
+svEcCika_1(voluntary_3)	4	-	-	5:k1s	-	-	-	-
+hE_1-pres(state_copula_1)	5	-	-	0:main	-	-	-	-
+[disjunct_1]	7	-	-	5:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_039a>
+#यदि आप भाग नहीं लेने का निर्णय लेते हैं।
+#yaxi Apa BAga nahIM lene kA nirNaya lewe hEM.
+#If you decide not to take part .
+$addressee	1	anim	-	10:k1	-	respect	-	-
+nahIM_1	2	-	-	11:neg	-	-	-	-
+BAga_2(part_9)	3	-	-	-	-	-	-	11:kriyAmUla
+le_1(take_1)	4	-	-	-	-	-	-	11:verbalizer
+nirNaya_2(decision_1)	6	-	-	-	-	-	-	10:kriyAmUla
+le_1-wA_hE_1(take_1)	7	-	-	-	-	-	-	10:verbalizer
+[cp_2]	10	-	-	0:main	sept-7-2022ICF-HD_hin_target_039c.19:AvaSyakawApariNAma	-	-	-
+[cp_1]	11	-	-	10:k2	-	-	-	-
+%negative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_039b>
+#या यदि आप अपना विचार बदलते हैं।
+#yA yaxi Apa apanA vicAra baxalawe hEM.
+#or if you change your mind.
+$addressee	2	anim	-	5:k1	-	respect	-	-
+apanA	3	-	-	4:r6	2:coref	-	-	-
+vicAra_17(mind_39)	4	-	-	5:k2	-	-	-	-
+baxala_1-wA_hE_1(change_6)	5	-	-	0:main	sept-7-2022ICF-HD_source_hin_039c.19:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_039c>
+#तो किसी भी प्रकार का लाभ जिसके आप अन्यथा हकदार हैं, के लिये कोई दंड या नुकसान नहीं होगा।
+#wo kisI BI prakAra kA lABa jisake Apa anyaWA hakaxAra hEM, ke liye koI xaMda yA nukasAna nahIM hogA.
+#there will be no penalties or loss of any benefits to which you are otherwise entitled.
+koI_1(any_1)	1	-	-	3:quant	-	BI_3	-	-
+prakAra_1(kind_8)	3	-	-	5:r6	-	-	-	-
+lABa_4(benefit_2)	5	-	-	19:rt	-	-	-	-
+$yax	6	-	-	9:r6	-	-	-	-
+$addressee	7	anim	-	10:k1	-	respect	-	-
+anyaWA_1(otherwise_2)	8	-	-	10:krvn	-	-	-	-
+hakaxAra_2(entitled_2)	9	-	-	10:k1s	-	-	-	-
+hE_1-pres(state_copula_1)	10	-	-	5:rcelab	-	-	-	-
+koI_1(any_1)	14	-	-	21:quant	-	-	-	-
+xaMda_14(penalty_2)	15	-	-	-	-	-	-	21:op1
+nukasAna_4(loss_27)	17	-	-	-	-	-	-	21:op2
+nahIM_1	18	-	-	19:neg	-	-	-	-
+ho_1-gA_1(be_2)	19	-	-	0:main	-	-	-	-
+[disjunct_1]	21	-	-	19:k1	-	-	-	-
+%negative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_040>
+#सीएमसी, वेल्लोर में आपकी वर्तमान और भविष्य की चिकित्सीय देखभाल आपके निर्णय से प्रभावित नहीं होगी।
+#sIemasI, vellora meM ApakI varwamAna Ora BaviRya kI cikiwsIya xeKaBAla Apake nirNaya se praBAviwa nahIM hogI.
+#Your current and future medical care at CMC , Vellore will not be affected by your decision.
+sIemasI	1	-	-	-	-	-	-	3:begin
+vellora	2	-	-	-	-	-	-	3:inside
+[ne_1]	3	place	-	14:k7p	-	-	-	-
+$addressee	4	anim	-	8:r6	-	respect	-	-
+varwamAna_1(present_12)	5	-	-	-	-	-	-	15:op1
+BaviRya_2(future_6)	6	-	-	-	-	-	-	15:op2
+cikiwsIya_3(medical_2)	7	-	-	8:mod	-	-	-	-
+xeKaBAla_1(care_8)	8	-	-	14:k1	-	-	-	-
+$addressee	9	anim	-	10:r6	-	respect	-	-
+nirNaya_2(decision_1)	10	-	-	14:rh	-	-	-	-
+praBAviwa_1(influenced_2)	11	-	-	-	-	-	-	14:kriyAmUla
+nahIM_1	12	-	-	14:neg	-	-	-	-
+ho_1-gA_1(be_2)	13	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	8:r6	-	-	-	-
+%negative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_041>
+#निजता, व्यक्तिगत स्वास्थ्य जानकारी के उपयोग और गोपनीयता के अधिकरण के बारे में क्या नीति है ?
+#nijawA, vyakwigawa svAsWya jAnakArI ke upayoga Ora gopanIyawA ke aXikaraNa ke bAre meM kyA nIwi hE ?
+#What about privacy , authorization for use of Personal Health Information and confidentiality.
+nijawA_1	1	-	-	-	-	-	-	20:op1
+vyakwigawa_2(personal_3)	3	-	-	-	-	-	-	19:mod
+svAsWya_1(health_3)	4	-	-	-	-	-	-	19:head
+jAnakArI_3(information_14)	5	-	-	-	-	-	-	21:head
+upayoga_1(use_2)	7	-	-	-	-	-	-	20:op2
+gopanIyawA_1(confidentiality_1)	9	-	-	11:r6	-	-	-	-
+aXikaraNa_1	11	-	-	17:k7	-	-	-	20:op3
+$kim	15	-	-	16:mod	-	-	-	-
+nIwi_1(policy_2)	16	-	-	17:k1	-	-	-	-
+hE_1-pres(state_copula_1)	17	-	-	0:main	-	-	-	-
+[nc_1]	19	-	-	-	-	-	-	21:mod
+[conj_1]	20	-	-	17:k7	-	-	-	-
+[nc_2]	21	-	-	7:r6	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_042>
+#हम आपकी व्यक्तिगत जानकारी को निजी और गोपनीय रखने की पूरी कोशिश करेंगे।
+#hama ApakI vyakwigawa jAnakArI ko nijI Ora gopanIya raKane kI pUrI koSiSa kareMge.
+#We will do our best to keep your personal information private and confidential.
+$speaker	1	anim	pl	15:k1	-	-	-	-
+$addressee	2	anim	-	4:r6	-	respect	-	-
+vyakwigawa_1	3	-	-	4:mod	-	-	-	-
+jAnakArI_1	4	-	-	9:k2	-	-	-	-
+nijI_1	6	-	-	-	-	-	-	16:op1
+gopanIya_1	8	-	-	-	-	-	-	16:op2
+raKa_1	9	-	-	15:rt	-	-	-	-
+pUrA_1	11	-	-	15:krvn	-	-	-	-
+koSiSa_1	12	-	-	-	-	-	-	15:kriyAmUla
+kara_1-gA_1	13	-	-	-	-	-	-	15:verbalizer
+[cp_1]	15	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	9:k2s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_043>
+#हालांकि, कानूनन आवश्यक होने पर आपकी व्यक्तिगत जानकारी का खुलासा किया जा सकता है।
+#hAlAMki, kAnUnana AvaSyaka hone para ApakI vyakwigawa jAnakArI kA KulAsA kiyA jA sakawA hE.
+#However your personal information may be disclosed.
+kAnUnana_1	1	-	-	3:k1	-	-	-	-
+AvaSyaka_1	2	-	-	3:k1s	-	-	-	-
+ho_1	3	-	-	16:rblsk	-	-	-	-
+$addressee	5	anim	-	7:r6	-	respect	-	-
+vyakwigawa_1	6	-	-	7:mod	-	-	-	-
+jAnakArI_1	7	-	-	16:k2	-	-	-	-
+KulAsA_1	9	-	-	-	-	-	-	16:kriyAmUla
+kara_1-yA_jA_sakawA_hE_1	10	-	-	-	sept-7-2022ICF-HD_source_hin_042.15:vyaBicAra	-	-	16:verbalizer
+[cp_1]	16	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_044a>
+#इस अध्ययन के परिणाम अन्य डॉक्टरों और स्वास्थ्य पेशेवरों को सूचित करने के लिए बैठकों में दिखाए जा सकते हैं।
+#isa aXyayana ke pariNAma anya doYktaroM Ora svAsWya peSevaroM ko sUciwa karane ke lie bETakoM meM xiKAe jA sakawe hEM.
+#The results of this study may be shown at meetings.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+aXyayana_1	2	-	-	4:r6	-	-	-	-
+pariNAma_1	4	-	-	17:k2	-	-	-	-
+anya_1	5	-	-	6:mod	-	-	-	-
+dOYktara_1	6	anim	pl	-	-	-	-	24:op1
+svAsWya_1	8	-	-	-	-	-	-	22:mod
+peSevara_1	9	anim	pl	-	-	-	-	22:head
+sUciwa_1	11	-	-	-	-	-	-	23:kriyAmUla
+kara_1	12	-	-	-	-	-	-	23:verbalizer
+bETaka_1	15	-	pl	17:k7p	-	-	-	-
+xiKA_1-yA_jA_sakawA_hE_1	17	-	-	0:main	-	-	-	-
+[nc_1]	22	-	-	-	-	-	-	24:op2
+[cp_1]	23	-	-	17:rt	-	-	-	-
+[conj_1]	24	-	-	23:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_044b>
+#या वह पत्रिकाओं में प्रकाशित किए जा सकते हैं।
+#yA vaha pawrikAoM meM prakASiwa kie jA sakawe hEM.
+#or published in journals to inform other doctors and health professionals.
+$wyax	1	-	-	10:k2	sept-7-2022ICF-HD_source_hin_044a.4:coref	distal	-	-
+pawrikA_1	2	-	pl	10:k7p	-	-	-	-
+prakASiwa_1	4	-	-	-	-	-	-	10:kriyAmUla
+kara_1-yA_jA_sakawA_hE_1	5	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	sept-7-2022ICF-HD_source_hin_044a.17:anyawra	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_045>
+#हम इस अध्ययन से होने वाले किसी भी प्रकाशन या प्रस्तुति में आपकी पहचान गुप्त रखेंगे।
+#hama isa aXyayana se hone vAle kisI BI prakASana yA praswuwi meM ApakI pahacAna gupwa raKeMge.
+#We will keep your identity private in any publication or presentation from this study.
+$speaker	1	anim	pl	18:k1	-	-	-	-
+$wyax	2	-	-	3:dem	-	proximal	-	-
+aXyayana_1	3	-	-	5:k5	-	-	-	-
+ho_1	5	-	-	19:mod	-	-	-	-
+koI_1	7	-	-	19:quant	-	BI_3	-	-
+prakASana_1	9	-	-	-	-	-	-	19:op1
+praswuwi_1	11	-	-	-	-	-	-	19:op2
+$addressee	13	anim	-	14:r6	-	respect	-	-
+pahacAna_1	14	-	-	18:k2	-	-	-	-
+gupwa_1	15	-	-	-	-	-	-	18:kriyAmUla
+raKa_1-gA_1	16	-	-	-	-	-	-	18:verbalizer
+[cp_1]	18	-	-	0:main	-	-	-	-
+[disjunct_1]	19	-	-	18:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_047F>
+#सीएमसी, वेल्लोर में अनुसंधान टीम के सदस्य।
+#sIemasI, vellora meM anusaMXAna tIma ke saxasya.
+#Members of the research team at the CMC , Vellore.
+sIemasI	1	-	-	-	-	-	-	10:begin
+vellora	3	place	-	-	-	-	-	10:inside
+anusaMXAna_1	5	-	-	-	-	-	-	12:mod
+tIma_1	6	-	-	-	-	-	-	12:head
+saxasya_1	8	-	-	0:main	-	-	-	-
+[ne_1]	10	-	-	8:k7	-	-	-	-
+[nc_1]	12	-	-	8:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_048F>
+#चिकित्सा कर्मचारी जो इस शोध से संबंधित आपकी देखभाल में प्रत्यक्ष या अप्रत्यक्ष रूप से शामिल हैं।
+#cikiwsA karmacArI jo isa SoXa se saMbaMXiwa ApakI xeKaBAla meM prawyakRa yA aprawyakRa rUpa se SAmila hEM.
+#Medical staff who are directly or indirectly involved in your care related to this research.
+cikiwsA_6(medical_5)	1	-	-	-	-	-	-	19:mod
+karmacArI_1	2	anim	-	-	-	-	-	19:head
+$yax	3	-	-	17:k1	19:coref	-	-	-
+$wyax	4	-	-	5:dem	-	proximal	-	-
+SoXa_1(research_3)	5	-	-	17:k1as	-	-	-	-
+$addressee	8	anim	-	9:r6	-	respect	-	-
+xeKaBAla_1(care_8)	9	-	-	17:k7	-	-	-	-
+prawyakRa_6(direct_3)	11	-	-	-	-	-	-	20:op1
+aprawyakRa_3(indirect_1)	13	-	-	-	-	-	-	20:op2
+rUpa_1(form_10)	14	-	-	17:krvn	-	-	-	-
+SAmila_1	16	-	-	17:k1s	-	-	-	-
+hE_1-pres	17	-	-	19:rcdelim	-	-	-	-
+[nc_1]	19	-	-	0:main	-	-	-	-
+[disjunct_1]	20	-	-	14:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_049F>
+#जो लोग सीएमसी, वेल्लोर में अनुसंधान और देखभाल गतिविधियों की देखरेख या मूल्यांकन करते हैं।
+#jo loga sIemasI, vellora meM anusaMXAna Ora xeKaBAla gawiviXiyoM kI xeKareKa yA mUlyAMkana karawe hEM.
+#People who oversee or evaluate research and care activities at CMC , Vellore.
+$yax	1	-	-	2:dem	sept-7-2022ICF-HD_source_hin_048F.19:coref	-	-	-
+loga_2(people_5)	2	anim	-	21:k1	-	-	-	-
+sIemasI	3	-	-	-	-	-	-	24:begin
+vellora	5	-	-	-	-	-	-	24:inside
+anusaMXAna_1	7	-	-	-	-	-	-	22:op1
+xeKaBAla_1(care_8)	9	-	-	-	-	-	-	23:mod
+gawiviXi_1(activity_5)	10	-	pl	-	-	-	-	23:head
+xeKareKa_1	12	-	-	13:ccof	-	-	-	25:op1
+mUlyAMkana_2(evaluation_3)	14	-	-	13:ccof	-	-	-	25:op2
+kara_17-wA_hE_1(do_2)	15	-	-	-	-	-	-	21:verbalizer
+[cp_1]	21	-	-	0:main	-	-	-	-
+[conj_1]	22	-	-	21:k2	-	-	-	-
+[nc_1]	23	-	-	-	-	-	-	22:op2
+[ne_1]	24	org	-	21:k7p	-	-	-	-
+[disjunct_1]	25	-	-	-	-	-	-	21:kriyAmUla
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_051>
+#कानूनन, सीएमसी, वेल्लोर के लिये आपकी स्वास्थ्य जानकारी को सुरक्षित रखना आवश्यक है।
+#kAnUnana, sIemasI, vellora ke liye ApakI svAsWya jAnakArI ko surakRiwa raKanA AvaSyaka hE.
+#By law , CMC , Vellore is required to protect your health information.
+kAnUnana_2(lawfully_4)	1	-	-	15:krvn	-	-	-	-
+sIemasI	3	-	-	-	-	-	-	21:begin
+vellora	5	-	-	-	-	-	-	21:inside
+$addressee	8	anim	-	19:r6	-	respect	-	-
+svAsWya_1(health_3)	9	-	-	-	-	-	-	19:mod
+jAnakArI_3(information_14)	10	-	-	-	-	-	-	19:head
+surakRiwa_6(safe_4)	12	-	-	-	-	-	-	20:kriyAmUla
+raKa_3(keep_4)	13	-	-	-	-	-	-	20:verbalizer
+AvaSyaka_1(necessary_1)	14	-	-	15:k1s	-	-	-	-
+hE_1-pres(state_copula_1)	15	-	-	0:main	-	-	-	-
+[nc_1]	19	-	-	20:k2	-	-	-	-
+[cp_1]	20	-	-	15:k1	-	-	-	-
+[ne_1]	21	org	-	15:rt	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_052>
+#अनुसंधान कर्मचारी, केवल ऊपर सूचीबद्ध समूहों को ही आपकी स्वास्थ्य जानकारी तक पहुंचने की अनुमति देगा।
+#anusaMXAna karmacArI, kevala Upara sUcIbaxXa samUhoM ko hI ApakI svAsWya jAnakArI waka pahuMcane kI anumawi xegA.
+#The research staff will only allow access to your health information to the groups listed above.
+anusaMXAna_1(research_1)	1	-	-	-	-	-	-	19:mod
+karmacArI_2(staff_16)	2	-	-	-	-	-	-	19:head
+Upara_3(above_2)	5	-	-	6:mod	-	kevala_1	-	-
+sUcIbaxXa_2(listed_2)	6	-	-	7:mod	-	-	-	-
+samUha_7(group_13)	7	-	pl	21:k4	-	hI_2	-	-
+$addressee	10	anim	-	12:r6	-	respect	-	-
+svAsWya_1(health_3)	11	-	-	-	-	-	-	20:mod
+jAnakArI_3(information_14)	12	-	-	-	-	-	-	20:head
+pahuMca_3(access_12)	14	-	-	21:k2	-	-	-	-
+anumawi_1(permission_5)	16	-	-	-	-	-	-	21:kriyAmUla
+xe_1-gA_1(give_1)	17	-	-	-	-	-	-	21:verbalizer
+[nc_1]	19	-	-	21:k1	-	-	-	-
+[nc_2]	20	-	-	14:k7p	-	-	-	-
+[cp_1]	21	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_054>
+#एकत्र की गई जानकारी को नष्ट करने के लिए कोई निर्धारित समय नहीं है।
+#ekawra kI gaI jAnakArI ko naRta karane ke lie koI nirXAriwa samaya nahIM hE.
+#There is no set time for destroying the information that will be collected.
+ekawra_1	1	-	-	-	-	-	-	16:kriyAmUla
+kara_17(do_2)	2	-	-	-	-	-	-	16:verbalizer
+jAnakArI_3(information_14)	4	-	-	17:k2	-	-	-	-
+naRta_1	6	-	-	-	-	-	-	17:kriyAmUla
+kara_17(do_2)	7	-	-	-	-	-	-	17:verbalizer
+koI_1(any_1)	10	-	-	12:quant	-	-	-	-
+nirXAriwa_7(fixed_8)	11	-	-	12:mod	-	-	-	-
+samaya_1(time_8)	12	-	-	14:k1	-	-	-	-
+nahIM_1	13	-	-	14:neg	-	-	-	-
+hE_1-pres(state_copula_1)	14	-	-	0:main	-	-	-	-
+[cp_1]	16	-	-	4:rbks	-	-	-	-
+[cp_2]	17	-	-	14:rt	-	-	-	-
+%negative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_055a>
+#जानकारी और डेटा का उपयोग और साझा करने की आपकी अनुमति अनुसंधान समाप्त होने तक जारी रहेगी।
+#jAnakArI Ora detA kA upayoga Ora sAJA karane kI ApakI anumawi anusaMXAna samApwa hone waka jArI rahegI.
+#Your permission to use and share the information and data will continue until the research ends .
+jAnakArI_3(information_14)	1	-	-	-	-	-	-	25:op1
+detA_1	3	-	-	27:r6	-	-	-	-
+upayoga_1(use_2)	5	-	-	-	-	-	-	27:op1
+sAJA_2(share_7)	7	-	-	-	-	-	-	27:op2
+kara_17(do_2)	8	-	-	-	-	-	-	20:verbalizer
+$addressee	10	anim	-	11:r6	-	respect	-	-
+anumawi_1(permission_5)	11	-	-	21:k1	-	-	-	-
+anusaMXAna_1(research_1)	12	-	-	14:k1	-	-	-	-
+samApwa_1	13	-	-	14:k1s	-	-	-	-
+ho_1(be_2)	14	-	-	-	-	-	-	26:end
+jArI_1	16	-	-	-	-	-	-	21:kriyAmUla
+raha_4-gA_1(remain_1)	17	-	-	-	-	-	-	21:verbalizer
+[cp_1]	20	-	-	11:r6	-	-	-	-
+[cp_2]	21	-	-	0:main	-	-	-	-
+[conj_1]	25	-	-	-	-	-	-	20:kriyAmUla
+[span_1]	26	-	-	21:k7t	-	-	-	-
+[conj_2]	27	-	-	-	-	-	-	25:op2
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_055b>
+#और यह समाप्त नहीं होगी।
+#Ora yaha samApwa nahIM hogI.
+#and it will not expire.
+$wyax	1	-	-	6:k1	-	proximal	-	-
+samApwa_1	2	-	-	-	-	-	-	6:kriyAmUla
+nahIM_1	3	-	-	6:neg	-	-	-	-
+ho_1-gA_1	4	-	-	-	-	-	-	6:verbalizer
+[cp_1]	6	-	-	0:main	sept-7-2022ICF-HD_source_hin_055a.6:samuccaya	-	-	-
+%negative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_056a>
+#शोधकर्ता कई वर्षों तक डेटा का विश्लेषण करना जारी रखते हैं।
+#SoXakarwA kaI varRoM waka detA kA viSleRaNa karanA jArI raKawe hEM.
+#Researchers continue to analyze data for many years.
+SoXakarwA_1(researcher_11)	1	anim	pl	14:k1	-	-	-	-
+kaI_5(many_11)	2	-	-	3:quant	-	-	-	-
+varRa_1(year_4)	3	-	pl	-	-	-	-	15:end
+detA_1	5	-	-	13:k2	-	-	-	-
+viSleRaNa_1(analysis_2)	7	-	-	-	-	-	-	13:kriyAmUla
+kara_17(do_2)	8	-	-	-	-	-	-	13:verbalizer
+jArI_1	9	-	-	-	-	-	-	14:kriyAmUla
+raKa_3-wA_hE_1(keep_4)	10	-	-	-	-	-	-	14:verbalizer
+[cp_1]	13	-	-	14:k2	-	-	-	-
+[cp_2]	14	-	-	0:main	-	-	-	-
+[span_1]	15	-	-	14:k7t	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_056b>
+#और यह जानना संभव नहीं है।
+#Ora yaha jAnanA saMBava nahIM hE.
+#and it is not possible to know.
+$wyax	1	-	-	2:k2	sept-7-2022ICF-HD_source_hin_056a.13:coref	proximal	-	-
+jAna_10(know_1)	2	-	-	5:k1	-	-	-	-
+saMBava_1(possible_3)	3	-	-	5:k1s	-	-	-	-
+nahIM_1	4	-	-	5:neg	-	-	-	-
+hE_1-pres(state_copula_1)	5	-	-	0:main	sept-7-2022ICF-HD_source_hin_056a.14:samuccaya	-	-	-
+%negative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_056c>
+#कि वह कब तक पूरा कर लिया जाएगा।
+#ki vaha kaba waka pUrA kara liyA jAegA.
+#when they will be completely done.
+$wyax	1	-	-	9:k2	sept-7-2022ICF-HD_source_hin_056a.13:coref	distal	-	-
+$kim	2	-	-	-	-	-	-	10:end
+pUrA_1	4	-	-	-	-	-	-	9:kriyAmUla
+kara_17-yA_jA_gA_1(do_2)	5	-	-	-	-	[shade:le_1]	-	9:verbalizer
+[cp_1]	9	-	-	0:main	-	-	-	-
+[span_1]	10	-	-	9:k7t	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_057>
+#दाता के रूप में मेरे अधिकार और दायित्व क्या हैं?
+#xAwA ke rUpa meM mere aXikAra Ora xAyiwva kyA hEM?
+#What are my rights and responsibilities as a donor.
+xAwA_2(donor_1)	1	anim	-	13:r6	-	-	-	-
+$speaker	5	anim	-	12:r6	-	-	-	-
+aXikAra_1(right_2)	6	-	-	-	-	-	-	12:op1
+xAyiwva_1(responsibility_9)	8	-	-	-	-	-	-	12:op2
+$kim	9	-	-	10:k1s	-	-	-	-
+hE_1-pres(state_copula_1)	10	-	-	0:main	-	-	-	-
+[conj_1]	12	-	-	10:k1	-	-	-	-
+rUpa_1(form_10)	13	-	-	10:krvn	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_058a>
+#यदि आप एक दाता के रूप में भाग लेने का निर्णय लेते हैं।
+#yaxi Apa eka xAwA ke rUpa meM BAga lene kA nirNaya lewe hEM.
+#If you decide to participate as a donor.
+$addressee	1	anim	-	15:k1	-	respect	-	-
+eka_2(a_1)	2	-	-	3:quant	-	-	-	-
+xAwA_2(donor_1)	3	anim	-	16:r6	-	-	-	-
+BAga_2(part_9)	7	-	-	-	-	-	-	14:kriyAmUla
+le_1(take_1)	8	-	-	-	-	-	-	14:verbalizer
+nirNaya_2(decision_1)	10	-	-	-	-	-	-	15:kriyAmUla
+le_1-wA_hE_1(take_1)	11	-	-	-	-	-	-	15:verbalizer
+[cp_1]	14	-	-	15:k2	-	-	-	-
+[cp_2]	15	-	-	0:main	sept-7-2022ICF-HD_source_hin_058b.21:AvaSyakawApariNAma	-	-	-
+rUpa_1(form_10)	16	-	-	14:krvn	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_058b>
+#तो आप स्वयं के या आपकी चिकित्सीय देखभाल के प्रभावित हुए बिना, अपनी सहमति को वापस लेने के लिए स्वतंत्र हैं।
+#wo Apa svayaM ke yA ApakI cikiwsIya xeKaBAla ke praBAviwa hue binA, apanI sahamawi ko vApasa lene ke lie svawaMwra hEM.
+#you are free to withdraw your consent without effect to you or effect on your medical care.
+$addressee	1	anim	-	21:k1	-	respect	-	-
+svayaM_1	2	-	-	4:r6	-	-	-	25:op1
+$addressee	5	anim	-	7:r6	-	respect	-	-
+cikiwsIya_1	6	-	-	7:mod	-	-	-	-
+xeKaBAla_1	7	-	-	-	-	-	-	25:op2
+praBAviwa_1	9	-	-	-	-	-	-	23:kriyAmUla
+ho_1	10	-	-	-	-	-	-	23:verbalizer
+apanA	13	-	-	14:r6	-	-	-	-
+sahamawi_1	14	-	-	24:k2	-	-	-	-
+vApasa_1	16	-	-	-	-	-	-	24:kriyAmUla
+le_1	17	-	-	-	-	-	-	24:verbalizer
+svawaMwra_1	20	-	-	21:k1s	-	-	-	-
+hE_1-pres	21	-	-	0:main	-	-	-	-
+[cp_1]	23	-	-	24:krvnneg	-	-	-	-
+[cp_2]	24	-	-	21:rt	-	-	-	-
+[disjunct_1]	25	-	-	23:rask2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_059a>
+#आप अपना मन बदल सकते हैं।
+#Apa apanA mana baxala sakawe hEM.
+#You may change your mind.
+$addressee	1	anim	-	4:k1	-	respect	-	-
+apanA	2	-	-	3:r6	-	-	-	-
+mana_1(mind_8)	3	-	-	4:k2	-	-	-	-
+baxala_1-0_sakawA_hE_1(change_6)	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_059b>
+#और किसी भी समय अपनी स्वास्थ्य जानकारी के उपयोग और प्रकटीकरण का अपना अधिकरण वापस ले सकते हैं।
+#Ora kisI BI samaya apanI svAsWya jAnakArI ke upayoga Ora prakatIkaraNa kA apanA aXikaraNa vApasa le sakawe hEM.
+#and take back your authorization to use and disclosure of your health information at any time.
+koI_1	1	-	-	3:quant	-	BI_3	-	-
+samaya_1(time_8)	3	-	-	15:k7t	-	-	-	-
+apanA	4	-	-	22:r6	-	-	-	-
+svAsWya_1(health_3)	5	-	-	-	-	-	-	20:mod
+jAnakArI_3(information_14)	6	-	-	-	-	-	-	20:head
+upayoga_1(use_2)	8	-	-	-	-	-	-	22:op1
+prakatIkaraNa_3(disclosure_1)	10	-	-	-	-	-	-	22:op2
+apanA	12	-	-	13:r6	sept-7-2022ICF-HD_source_hin_059a:coref	-	-	-
+aXikaraNa_1	13	-	-	21:k2	-	-	-	-
+vApasa_5(back_7)	14	-	-	-	-	-	-	21:kriyAmUla
+le_1-0_sakawA_hE_1(take_1)	15	-	-	-	-	-	-	21:verbalizer
+[nc_1]	20	-	-	8:r6	-	-	-	-
+[cp_1]	21	-	-	0:main	sept-7-2022ICF-HD_source_hin_059a.4:samuccaya	-	-	-
+[conj_1]	22	-	-	13:r6	-	-	-	-
+$addressee	23	anim	-	21:k1	-	respect	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_060a>
+#भले ही आप अपना अधिकरण वापस ले लें।
+#Bale hI Apa apanA aXikaraNa vApasa le leM.
+#Even if you take back your authorization.
+$addressee	3	anim	-	10:k1	-	respect	-	-
+apanA	4	-	-	5:r6	3:coref	-	-	-
+aXikaraNa_1	5	-	-	10:k2	-	-	-	-
+vApasa_5(back_7)	6	-	-	-	-	-	-	10:kriyAmUla
+le_1-0_1(take_1)	7	-	-	-	-	[shade:le_1]	-	10:verbalizer
+[cp_1]	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_060b>
+#फिर भी हम वर्तमान शोध की अखंडता या विश्वसनीयता को बनाए रखने के लिए आवश्यक स्वास्थ्य जानकारी का उपयोग और खुलासा कर सकते हैं, जो हमने आपके बारे में पहले ही प्राप्त कर ली है।
+#Pira BI hama varwamAna SoXa kI aKaMdawA yA viSvasanIyawA ko banAe raKane ke lie AvaSyaka svAsWya jAnakArI kA upayoga Ora KulAsA kara sakawe hEM, jo hamane Apake bAre meM pahale hI prApwa kara lI hE.
+#we may still use and disclose the health information we have already obtained about you as necessary to maintain the integrity or reliability of the current research.
+$speaker	3	anim	pl	45:k1	-	-	-	-
+varwamAna_1	4	-	-	5:mod	-	-	-	-
+SoXa_1	5	-	-	43:r6	-	-	-	-
+aKaMdawA_1	7	-	-	-	-	-	-	43:op1
+viSvasanIyawA_1	9	-	-	-	-	-	-	43:op2
+banA_1	11	-	-	45:rt	-	-	-	-
+AvaSyaka_1	15	-	-	38:mod	-	-	-	-
+svAsWya_1	16	-	-	-	-	-	-	38:mod
+jAnakArI_1	17	-	-	-	-	-	-	38:head
+upayoga_1	19	-	-	45:k2	-	-	-	-
+KulAsA_1	21	-	-	-	-	-	-	45:kriyAmUla
+kara_1-0_sakawA_hE_1	22	-	-	-	-	-	-	45:verbalizer
+$yax	26	-	-	39:k2	-	-	-	-
+$speaker	27	anim	pl	39:k1	-	-	-	-
+$addressee	28	anim	-	39:k7	-	respect	-	-
+pahale_1	31	-	-	39:k7t	-	hI_2	-	-
+prApwa_1	33	-	-	-	-	-	-	39:kriyAmUla
+kara_1-yA_hE_1	34	-	-	-	-	[shade:le_1]	-	39:verbalizer
+[nc_1]	38	-	-	19:r6	-	-	-	-
+[cp_1]	39	-	-	38:rcelab	-	-	-	43:op1
+[disjunct_1]	43	-	-	11:k2	sept-7-2022ICF-HD_source_hin_060a.10:uwwarkAla	-	-	-
+[cp_2]	45	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_061>
+#क्या मुझे किसी प्रकार का मूल्य देना होगा?
+#kyA muJe kisI prakAra kA mUlya xenA hogA?
+#Will there be any costs to me?
+$speaker	2	anim	-	7:k1	-	-	-	-
+koI_1(any_1)	3	-	-	4:quant	-	-	-	-
+prakAra_1(kind_8)	4	-	-	6:r6	-	-	-	-
+mUlya_5(cost_14)	6	-	-	7:k2	-	-	-	-
+xe_1-nA_hogA_1(give_1)	7	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_062>
+#आपके रक्त के संग्रह, प्रसंस्करण और अन्य गतिविधियों में शामिल लागत हमारे द्वारा वहन की जाएगी।
+#Apake rakwa ke saMgraha, prasaMskaraNa Ora anya gawiviXiyoM meM SAmila lAgawa hamAre xvArA vahana kI jAegI.
+#The costs involved in collection of your blood , processing and other activities involved will be borne by us.
+$addressee	1	anim	-	2:r6	-	respect	-	-
+rakwa_1(blood_2)	2	-	-	4:r6	-	-	-	-
+saMgraha_1(collection_9)	4	-	-	-	-	-	-	20:op1
+prasaMskaraNa_1(processing_3)	6	-	-	-	-	-	-	20:op2
+anya_1(other_1)	8	-	-	9:mod	-	-	-	-
+gawiviXi_1(activity_5)	9	-	pl	-	-	-	-	20:op3
+SAmila_15(involved_7)	11	-	-	12:mod	-	-	-	-
+lAgawa_1(cost_5)	12	-	-	19:k2	-	-	-	-
+$speaker	13	anim	pl	19:k1	-	-	-	-
+vahana_1	15	-	-	-	-	-	-	19:kriyAmUla
+kara_17-yA_jA_gA_1(do_2)	16	-	-	-	-	-	-	19:verbalizer
+[cp_1]	19	-	-	0:main	-	-	-	-
+[conj_1]	20	-	-	11:k7	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_063>
+#इस परियोजना में भाग लेने के लिए आपको किसी भी राशि का भुगतान नहीं करना है।
+#isa pariyojanA meM BAga lene ke lie Apako kisI BI rASi kA BugawAna nahIM karanA hE.
+#You do not have to pay any amount for participation in this project.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+pariyojanA_1(project_2)	2	-	-	18:k7	-	-	-	-
+BAga_2(part_9)	4	-	-	-	-	-	-	18:kriyAmUla
+le_1(take_1)	5	-	-	-	-	-	-	18:verbalizer
+$addressee	8	anim	-	19:k1	-	respect	-	-
+koI_1	9	-	-	11:quant	-	BI_3	-	-
+rASi_2(amount_3)	11	-	-	19:k2	-	-	-	-
+BugawAna_1(payment_2)	13	-	-	-	-	-	-	19:kriyAmUla
+nahIM_1	14	-	-	19:neg	-	-	-	-
+kara_17-nA_hE_1(do_2)	15	-	-	-	-	-	-	19:verbalizer
+[cp_1]	18	-	-	19:rt	-	-	-	-
+[cp_2]	19	-	-	0:main	-	-	-	-
+%negative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_064H>
+#नमूनों या डेटा की कोडिंग :
+#namUnoM yA detA kI kodiMga :
+#Coding of samples or data:
+namUnA_1(sample_1)	1	-	pl	-	-	-	-	7:op1
+detA_1	3	-	-	-	-	-	-	7:op2
+^kodiMga_1	5	-	-	0:main	-	-	-	-
+[disjunct_1]	7	-	-	5:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_065>
+#इस अध्ययन के लिए प्राप्त सभी जानकारी और नमूनों को एक कोड नंबर दिया जाएगा।
+#isa aXyayana ke lie prApwa saBI jAnakArI Ora namUnoM ko eka koda naMbara xiyA jAegA.
+#All information and samples obtained for this study will be assigned a code number.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+aXyayana_1(study_1)	2	-	-	5:rt	-	-	-	-
+prApwa_2(obtained_1)	5	-	-	18:mod	-	-	-	-
+saBI_1(all_1)	6	-	-	18:quant	-	-	-	-
+jAnakArI_3(information_14)	7	-	-	-	-	-	-	18:op1
+namUnA_1(sample_1)	9	-	pl	-	-	-	-	18:op2
+eka_2(a_1)	11	-	-	17:card	-	-	-	-
+^koda_1	12	-	-	-	-	-	-	17:mod
+^naMbara_1	13	-	-	-	-	-	-	17:head
+xe_1-yA_jA_gA_1(give_1)	14	-	-	0:main	-	-	-	-
+[nc_1]	17	-	-	14:k2	-	-	-	-
+[conj_1]	18	-	-	14:k4	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_066>
+#अस्पताल, मेडिकल रिकॉर्ड नंबर या किसी भी पहचान संख्या जैसे कि कोई नाम या महत्वपूर्ण संख्या, उनसे आसानी से आपकी पहचान जोडने के लिए नमूनों पर कुछ नहीं लिखा जाएगा।
+#aspawAla, medikala rikoYrda naMbara yA kisI BI pahacAna saMKyA jEse ki koI nAma yA mahawvapUrNa saMKyA, unase AsAnI se ApakI pahacAna jodane ke lie namUnoM para kuCa nahIM liKA jAegA.
+#No names or important numbers like hospital medical record number or any identity number will be kept on samples to link them easily to you.
+aspawAla_1(hospital_1)	1	-	-	-	-	-	-	36:mod
+^medikala_1	3	-	-	-	-	-	-	34:mod
+^rikOYrda_1	4	-	-	-	-	-	-	34:head
+^naMbara_1	5	-	-	-	-	-	-	35:head
+koI_1	7	-	-	14:quant	-	BI	-	-
+pahacAna_1	9	-	-	-	-	-	-	39:mod
+saMKyA_1	10	-	-	-	-	-	-	39:head
+koI_1	13	-	-	16:quant	-	-	-	-
+nAma_1	14	-	-	-	-	-	-	38:op1
+mahawvapUrNa_1	16	-	-	17:mod	-	-	-	-
+saMKyA_1	17	-	-	-	-	-	-	38:op2
+$wyax	19	-	-	24:k2as	-	distal	-	-
+AsAnI_1	20	-	-	24:krvn	-	-	-	-
+$addressee	22	anim	-	23:r6	-	respect	-	-
+pahacAna_1	23	-	-	24:k2	-	-	-	-
+jodZa_1	24	-	-	31:rt	-	-	-	-
+namUnA_1	27	-	pl	31:k7p	-	-	-	-
+kuCa_1	29	-	-	31:k2	-	-	-	-
+nahIM_1	30	-	-	31:neg	-	-	-	-
+liKa_yA_jA_gA_1	31	-	-	0:main	-	-	-	-
+[6-waw_1]	34	-	-	-	-	-	-	35:mod
+[6-waw_2]	35	-	-	-	-	-	-	36:head
+[6-waw_3]	36	-	-	-	-	-	-	37:op1
+[disjunct_1]	37	-	-	24:k2as	-	-	-	-
+[disjunct_2]	38	-	-	37:re	-	-	-	-
+[6-waw_4]	39	-	-	-	-	-	-	37:op2
+%negative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_067F>
+#दाता से पुन:संपर्क :
+#xAwA se puna:saMparka :
+#Donor re-contact:
+xAwA_2(donor_1)	1	anim	-	3:k2	-	-	-	-
+punahsaMparka_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_068a>
+#एक दाता के रूप में, यदि आवश्यक हो।
+#eka xAwA ke rUpa meM, yaxi AvaSyaka ho.
+#As a donor you may be re-contacted in future .
+eka_2(a_1)	1	-	-	2:card	-	-	-	-
+xAwA_2(donor_1)	2	anim	-	12:r6	-	-	-	-
+AvaSyaka_1(necessary_1)	8	-	-	9:k1	-	-	-	-
+hE_1-e_2(state_copula_1)	9	-	-	0:main	sept-7-2022ICF-HD_source_hin_068b.12:AvaSyakawApariNAma	-	-	-
+rUpa_1(form_10)	12	-	-	9:krvn	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_068b>
+#तो आपसे भविष्य में फिर से संपर्क किया जा सकता है।
+#wo Apase BaviRya meM Pira se saMparka kiyA jA sakawA hE.
+#if needed.
+$addressee	1	anim	-	12:k2	-	respect	-	-
+BaviRya_2(future_6)	2	-	-	12:k7t	-	-	-	-
+Pira_2(again_3)	4	-	-	12:krvn	-	sA_1	-	-
+saMparka_1(contact_3)	6	-	-	-	-	-	-	12:kriyAmUla
+kara_17-yA_jA_sakawA_hE_1(do_2)	7	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_069F>
+#हितों का टकराव।
+#hiwoM kA takarAva.
+#Conflict of interest.
+hiwa_1(interest_5)	1	-	pl	3:r6	-	-	-	-
+takarAva_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_070>
+#खुलासा करने के लिए हितों का कोई संभावित संघर्ष नहीं है।
+#KulAsA karane ke lie hiwoM kA koI saMBAviwa saMGarRa nahIM hE.
+#There is no potential conflict of interest to disclose.
+KulAsA_1	1	-	-	-	-	-	-	13:kriyAmUla
+kara_17(do_2)	2	-	-	-	-	-	-	13:verbalizer
+hiwa_1(interest_5)	5	-	pl	9:r6	-	-	-	-
+koI_1(any_1)	7	-	-	9:quant	-	-	-	-
+saMBAviwa_7(possible_3)	8	-	-	9:mod	-	-	-	-
+saMGarRa_2(conflict_3)	9	-	-	11:k1	-	-	-	-
+nahIM_1	10	-	-	11:neg	-	-	-	-
+hE_1-pres(state_copula_1)	11	-	-	0:main	-	-	-	-
+[cp_1]	13	-	-	11:rt	-	-	-	-
+%negative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_071F>
+#सहमति को वापस लेना।
+#sahamawi ko vApasa lenA.
+#Consent withdrawal.
+sahamawi_1(consent_8)	1	-	-	6:k2	-	-	-	-
+vApasa_5(back_7)	3	-	-	-	-	-	-	6:kriyAmUla
+le_1(take_1)	4	-	-	-	-	-	-	6:verbalizer
+[cp_1]	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_072>
+#आपकी भागीदारी स्वैच्छिक है।
+#ApakI BAgIxArI svEcCika hE.
+#Your participation is voluntary.
+$addressee	1	anim	-	2:r6	-	respect	-	-
+BAgIxArI_1(participation_1)	2	-	-	4:k1	-	-	-	-
+svEcCika_1(voluntary_3)	3	-	-	4:k1s	-	-	-	-
+hE_1-pres(state_copula_1)	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_073a>
+#यदि आप पहले भाग लेने के लिए सहमत हैं।
+#yaxi Apa pahale BAga lene ke lie sahamawa hEM.
+#If you first agree to participate.
+$addressee	1	anim	-	8:k1	-	respect	-	-
+pahale_1	2	-	-	8:k7t	-	-	-	-
+BAga_2(part_9)	3	-	-	-	-	-	-	10:kriyAmUla
+le_1(take_1)	4	-	-	-	-	-	-	10:verbalizer
+sahamawa_1	7	-	-	8:k1s	-	-	-	-
+hE_1-pres(state_copula_1)	8	-	-	0:main	sept-7-2022ICF-HD_source_hin_073c.16:AvaSyakawApariNAma	-	-	-
+[cp_1]	10	-	-	8:rt	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_073b>
+#और फिर अपना मन बदलते हैं।
+#Ora Pira apanA mana baxalawe hEM.
+#and then you change your mind.
+apanA	2	-	-	3:r6	-	-	-	-
+mana_1(mind_8)	3	-	-	4:k2	-	-	-	-
+baxala_1-wA_hE_1(change_6)	4	-	-	0:main	sept-7-2022ICF-HD_source_hin_073a.8:uwwarkAla	-	-	-
+$addressee	5	-	-	4:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_073c>
+#तो आप अपनी सहमति वापस लेने और अपनी प्रत्यक्ष भागीदारी को बंद करने के लिए स्वतंत्र हैं।
+#wo Apa apanI sahamawi vApasa lene Ora apanI prawyakRa BAgIxArI ko baMxa karane ke lie svawaMwra hEM.
+#you are free to withdraw your consent and discontinue your direct participation.
+$addressee	1	-	-	16:k1	-	respect	-	-
+apanA	2	-	-	3:r6	1:coref	-	-	-
+sahamawi_1(consent_8)	3	-	-	18:k2	-	-	-	-
+vApasa_5(back_7)	4	-	-	-	-	-	-	18:kriyAmUla
+le_1(take_1)	5	-	-	-	-	-	-	18:verbalizer
+apanA	7	-	-	9:r6	-	-	-	-
+prawyakRa_6(direct_3)	8	-	-	9:mod	-	-	-	-
+BAgIxArI_1(participation_1)	9	-	-	19:k2	-	-	-	-
+baMxa_1	11	-	-	-	-	-	-	19:kriyAmUla
+kara_17(do_2)	12	-	-	-	-	-	-	19:verbalizer
+svawaMwra_2(free_13)	15	-	-	16:k1s	-	-	-	-
+hE_1-pres(state_copula_1)	16	-	-	0:main	-	-	-	-
+[cp_1]	18	-	-	-	-	-	-	20:op1
+[cp_2]	19	-	-	-	-	-	-	20:op2
+[conj_1]	20	-	-	16:rt	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_075>
+#व्यक्तिगत पहचान की जानकारी के बिना संग्रहीत की गई हो सकती हैं।
+#vyakwigawa pahacAna kI jAnakArI ke binA saMgrahIwa kI gaI ho sakawI hEM.
+#because they might have been Stored without personal identifying information.
+vyakwigawa_1(individual_10)	1	-	-	2:mod	-	-	-	-
+pahacAna_4(identification_3)	2	-	-	4:r6	-	-	-	-
+jAnakArI_3(information_14)	4	-	-	14:rasnegk2	-	-	-	-
+saMgrahIwa_1	7	-	-	-	-	-	-	14:kriyAmUla
+kara_17(do_2)	8	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	17:k1s	-	-	-	-
+$wyax	16	-	-	17:k1	-	-	-	-
+ho_1-0_sakawA hE_1(be_2)	17	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_076>
+#जीन संपादन निर्माणों की प्रभावकारिता के परीक्षण के लिए शोधकर्ताओं को प्रदान किये गये हों।
+#jIna saMpAxana nirmANoM kI praBAvakAriwA ke parIkRaNa ke lie SoXakarwAoM ko praxAna kiye gaye hoM.
+#Provided to researchers for testing the efficacy of gene editing constructs.
+jIna_2(gene_2)	1	-	-	-	-	-	-	17:mod
+saMpAxana_1(editing_1)	2	-	-	-	-	-	-	17:head
+nirmANa_1(construction_3)	3	-	pl	-	-	-	-	18:head
+praBAvakAriwA_1	5	-	-	7:r6	-	-	-	-
+parIkRaNa_1	7	-	-	19:rt	-	-	-	-
+SoXakarwA_1(researcher_11)	10	anim	pl	19:k4	-	-	-	-
+praxAna_1	12	-	-	-	-	-	-	19:kriyAmUla
+kara_17-yA_jA_yA_hE_1(do_2)	13	-	-	-	-	-	-	19:verbalizer
+[nc_1]	17	-	-	-	-	-	-	18:mod
+[nc_2]	18	-	-	5:r6	-	-	-	-
+[cp_1]	19	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_077>
+#क्या मुझे इस अध्ययन में भाग लेने के लिए भुगतान किया जाएगा?
+#kyA muJe isa aXyayana meM BAga lene ke lie BugawAna kiyA jAegA?
+#Will I be paid for taking part in this study?
+$speaker	2	anim	-	15:k2	-	-	-	-
+$wyax	3	-	-	4:dem	-	proximal	-	-
+aXyayana_1(study_1)	4	-	-	14:k7	-	-	-	-
+BAga_2(part_9)	6	-	-	-	-	-	-	14:kriyAmUla
+le_1(take_1)	7	-	-	-	-	-	-	14:verbalizer
+BugawAna_1	10	-	-	-	-	-	-	15:kriyAmUla
+kara_1-yA_jA_gA_1	11	-	-	-	-	-	-	15:verbalizer
+[cp_1]	14	-	-	15:rt	-	-	-	-
+[cp_2]	15	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_078>
+#इस अध्ययन में भाग लेने के लिए आपको कोई भुगतान नहीं किया जाएगा।
+#isa aXyayana meM BAga lene ke lie Apako koI BugawAna nahIM kiyA jAegA.
+#You will not receive any payments for taking part in this study.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+aXyayana_1	2	-	-	15:k7	-	-	-	-
+BAga_1	4	-	-	-	-	-	-	15:kriyAmUla
+le_1	5	-	-	-	-	-	-	15:verbalizer
+$addressee	8	anim	-	16:k2	-	respect	-	-
+koI_1	9	-	-	10:quant	-	-	-	-
+BugawAna_1	10	-	-	-	-	-	-	16:kriyAmUla
+nahIM_1	11	-	-	16:neg	-	-	-	-
+kara_1-yA_jA_gA_1	12	-	-	-	-	-	-	16:verbalizer
+[cp_1]	15	-	-	16:rt	-	-	-	-
+[cp_2]	16	-	-	0:main	-	-	-	-
+%negative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_079>
+#इस शोध का वित्तपोषण कौन कर रहा है?
+#isa SoXa kA viwwapoRaNa kOna kara rahA hE?
+#Who is funding this research?
+$wyax	1	-	-	2:dem	-	proximal	-	-
+SoXa_1	2	-	-	4:r6	-	-	-	-
+viwwapoRaNa_1	4	-	-	6:k2	-	-	-	-
+$kim	5	-	-	6:k1	-	-	-	-
+kara_1-0_rahA_hE_1	6	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_080>
+#इस परियोजना को भारत सरकार के जैव प्रौद्योगिकी विभाग द्वारा वित्त पोषित किया जा रहा है।
+#isa pariyojanA ko BArawa sarakAra ke jEva prOxyogikI viBAga xvArA viwwa poRiwa kiyA jA rahA hE.
+#This project is being funded by Department of BioTechnology , Government of India.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+pariyojanA_1(project_2)	2	-	-	22:k2	-	-	-	-
+BArawa	4	-	-	-	-	-	-	18:begin
+sarakAra	5	-	-	-	-	-	-	18:inside
+jEva	7	-	-	-	-	-	-	19:begin
+prOxyogikI	8	-	-	-	-	-	-	19:inside
+viBAga	9	-	-	-	-	-	-	19:inside
+viwwa_1	11	-	-	-	-	-	-	21:mod
+poRiwa_1	12	-	-	-	-	-	-	21:head
+kara_1-yA_jA_rahA_hE_1	13	-	-	-	-	-	-	22:verbalizer
+[ne_1]	18	org	-	19:r6	-	-	-	-
+[ne_2]	19	org	-	22:k1	-	-	-	-
+[nc_1]	21	-	-	-	-	-	-	22:kriyAmUla
+[cp_1]	22	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_081a>
+#अगर मेरे पास अध्ययन के बारे में कोई प्रश्न है।
+#agara mere pAsa aXyayana ke bAre meM koI praSna hE.
+#What if I have questions about the study?
+$speaker	1	anim	-	9:rsm	-	-	-	-
+aXyayana_1(study_1)	3	-	-	9:k7	-	-	-	-
+koI_1(any_1)	7	-	-	8:mod	-	-	-	-
+praSna_1(question_3)	8	-	-	9:k1	-	-	-	-
+hE_2-pres(have_1)	9	-	-	0:main	sept-7-2022ICF-HD_source_hin_081b.2:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_081b>
+#तो क्या होगा?
+#wo kyA hogA?
+#What if I have questions about the study?
+$kim	1	-	-	2:k1	-	-	-	-
+ho_1-gA_1	2	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_082a>
+#यदि आपके प्रश्न हैं।
+#yaxi Apake praSna hEM.
+#If you have questions .
+$addressee	1	anim	-	2:r6	-	respect	-	-
+praSna_1(question_3)	2	-	-	3:k1	-	-	-	-
+hE_1-pres(state_copula_1)	3	-	-	0:main	sept-7-2022ICF-HD_source_hin_082b.7:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_082b>
+#तो निम्नलिखित चिकित्सकों को फोन कीजिये।
+#wo nimnaliKiwa cikiwsakoM ko Pona kIjiye.
+#call the Physicians.
+nimnaliKiwa_1	1	-	-	2:mod	-	-	-	-
+cikiwsaka_1	2	anim	pl	7:k2	-	-	-	-
+Pona_1	4	-	-	-	-	-	-	7:kriyAmUla
+kara_1-o_1	5	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	0:main	-	-	-	-
+$addressee	8	anim	-	7:k1	-	respect	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_001INFOSHEET>
+#स्वस्थ दाताओं के लिए-सूचना पत्र।
+#svasWa xAwAoM ke lie-sUcanA pawra.
+#Information Sheet - For Healthy donors.
+svasWa_1(healthy_8)	1	-	-	2:mod	-	-	-	-
+xAwA_2(donor_1)	2	anim	pl	5:rt	-	-	-	-
+sUcanA_1(information_6)	3	-	-	-	-	-	-	5:mod
+pawra_8(sheet_5)	4	-	-	-	-	-	-	5:head
+[nc_1]	5	-	-	0:main	-	-	-	-
+%title
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_002T>
+#β-हीमोग्लोबिनोपैथी के उपचार के लिए जीन संपादित हेमटोपोइएटिक स्टेम और प्रोजेनिटर कोशिकाओं पर सुरक्षा संबंधी एवं बड़े पैमाने पर अध्ययन।
+#β-hImoglobinopEWI ke upacAra ke lie jIna saMpAxiwa hematopoietika stema Ora projenitara koSikAoM para surakRA saMbaMXI evaM bade pEmAne para aXyayana.
+#The safety and scale-up studies with gene edited Hematopoietic Stem and Progenitor cells for the treatment of β-hemoglobinopathies.
+β-hImoglobinopEWI	1	-	-	-	-	-	-	2:begin
+[ne_1]	2	-	-	3:r6	-	-	-	-
+upacAra_7(treatment_19)	3	-	-	19:rt	-	-	-	-
+^jIna_1	4	-	-	-	-	-	-	6:mod
+saMpAxiwa_1(edited_1)	5	-	-	-	-	-	-	6:head
+[compound_1]	6	-	-	18:mod	-	-	-	-
+hematopoietika_1	7	-	-	-	-	-	-	20:mod
+^stema_1	8	-	-	-	-	-	-	20:head
+^projenitara_1	9	-	-	-	-	-	-	18:op2
+koSikA_1(cell_1)	10	-	pl	9:rs	-	-	-	-
+surakRA_4(safety_6)	11	-	-	-	-	-	-	14:mod
+saMbaMXI_3(related_15)	12	-	-	-	-	-	-	14:head
+aXyayana_1(study_1)	13	-	-	-	-	-	-	19:op1
+[compound_2]	14	-	-	13:mod	-	-	-	-
+badZA_13(large_5)	15	-	-	16:mod	-	-	-	-
+pEmAnA_1(scale_4)	16	-	-	17:k7	-	-	-	-
+aXyayana_1(study_1)	17	-	-	-	-	-	-	19:op2
+[conj_1]	18	-	-	19:k7	-	-	-	-
+[conj_2]	19	-	-	0:main	-	-	-	-
+[nc_1]	20	-	-	-	-	-	-	18:op1
+%title
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_013>
+#हम रक्त संश्लेषण के लिए जिम्मेदार कोशिकाओं को इकट्ठा करके अपनी पद्धति का परीक्षण करने की योजना बना रहे हैं।
+#hama rakwa saMSleRaNa ke lie jimmexAra koSikAoM ko ikatTA karake apanI paxXawi kA parIkRaNa karane kI yojanA banA rahe hEM.
+#We are planning to test our approach by collecting the cells responsible for blood synthesis.
+$speaker	1	anim	pl	18:k1	-	-	-	-
+rakwa_1(blood_2)	2	-	-	-	-	-	-	22:mod
+saMSleRaNa_1(synthesis_2)	3	-	-	-	-	-	-	22:head
+jimmexAra_1(responsible_5)	6	-	-	7:mod	-	-	-	-
+koSikA_1(cell_1)	7	-	pl	23:k2	-	-	-	-
+ikatTA_5(collection_27)	9	-	-	-	-	-	-	23:kriyAmUla
+kara_17(do_2)	10	-	-	-	-	-	-	23:verbalizer
+apanA	11	-	-	12:r6	1:coref	-	-	-
+paxXawi_1(method_8)	12	-	-	14:r6	-	-	-	-
+parIkRaNa_2(test_9)	14	-	-	-	-	-	-	24:kriyAmUla
+kara_17(do_2)	15	-	-	-	-	-	-	24:verbalizer
+yojanA_1(plan_5)	17	-	-	18:k2	-	-	-	-
+banA_1-0_rahA_hE_1(make_1)	18	-	-	0:main	-	-	-	-
+[nc_1]	22	-	-	7:rt	-	-	-	-
+[cp_1]	23	-	-	24:rpk	-	-	-	-
+[cp_2]	24	-	-	17:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_014>
+#प्रयोगशाला में इन कोशिकाओं में वंशानुगत कारक को संशोधित करके, इन कोशिकाओं को चूहों में डालकर इसका परीक्षण करेंगे।
+#prayogaSAlA meM ina koSikAoM meM vaMSAnugawa kAraka ko saMSoXiwa karake, ina koSikAoM ko cUhoM meM dAlakara isakA parIkRaNa kareMge.
+#modify the hereditary factor in these cells in lab. and test it by infusing these cells in mice.
+prayogaSAlA_1(laboratory_1)	1	-	-	17:k7p	-	-	-	-
+$wyax	2	-	-	3:dem	-	proximal	-	-
+koSikA_1(cell_1)	3	-	pl	16:k7p	-	-	-	-
+vaMSAnugawa_1(hereditary_15)	4	-	-	5:mod	-	-	-	-
+kAraka_1(factor_2)	5	-	-	16:k2	-	-	-	-
+saMSoXiwa_7(modified_1)	6	-	-	-	-	-	-	16:kriyAmUla
+kara_17(do_2)	7	-	-	-	-	-	-	16:verbalizer
+$speaker	8	anim	pl	17:k1	-	-	-	-
+$wyax	9	-	-	10:dem	-	proximal	-	-
+koSikA_1(cell_1)	10	-	pl	12:k2	-	-	-	-
+cUhA_2(mouse_1)	11	anim	pl	12:k7p	-	-	-	-
+dAla_17(infuse_3)	12	-	-	17:rpk	-	-	-	-
+$wyax	13	-	-	17:k2	10:coref	proximal	-	-
+parIkRaNa_2(test_9)	14	-	-	-	-	-	-	17:kriyAmUla
+kara_17-gA_1(do_2)	15	-	-	-	-	-	-	17:verbalizer
+[cp_1]	16	-	-	12:rpk	-	-	-	-
+[cp_2]	17	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_015a>
+#यदि हम सफल हुए।
+#yaxi hama saPala hue.
+#If it is successful.
+$speaker	2	anim	pl	6:k1	-	-	-	-
+saPala_1(successful_3)	3	-	-	-	-	-	-	6:kriyAmUla
+ho_1-yA_1(be_2)	4	-	-	-	-	-	-	6:verbalizer
+[cp_1]	6	-	-	0:main	sept-7-2022ICF-HD_source_hin_015b.14:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_015b>
+#तो हमारी कार्यप्रणाली का थैलेसीमिया और सिकल सेल एनीमिया के उपचार पर महत्वपूर्ण प्रभाव पडेगा।
+#wo hamArI kAryapraNAlI kA WElesImiyA Ora sikala sela enImiyA ke upacAra para mahawvapUrNa praBAva padegA.
+#Our methodology will have a significant impact in the treatment of Thalassemia and Sickle cell Anemia.
+$speaker	1	anim	pl	2:r6	-	-	-	-
+kAryapraNAlI_1(methodology_3)	2	-	-	14:k1	-	-	-	-
+WElesImiyA	3	-	-	-	-	-	-	4:begin
+[ne_1]	4	-	-	-	-	-	-	13:op1
+sikala	5	-	-	-	-	-	-	8:begin
+sela	6	-	-	-	-	-	-	8:inside
+enImiyA	7	-	-	-	-	-	-	8:inside
+[ne_2]	8	-	-	-	-	-	-	13:op2
+upacAra_7(treatment_19)	9	-	-	14:k7	-	-	-	-
+mahawvapUrNa_3(significant_13)	10	-	-	11:mod	-	-	-	-
+praBAva_3(impact_5)	11	-	-	-	-	-	-	14:kriyAmUla
+padZa_7-gA_1(have_2)	12	-	-	-	-	-	-	14:verbalizer
+[conj_1]	13	-	-	9:r6	-	-	-	-
+[cp_1]	14	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_024a>
+#फिर आप एक ऐसी मशीन से जुडेंगे।
+#Pira Apa eka EsI maSIna se judeMge.
+#Then you will be connected to a machine .
+$addressee	2	anim	-	7:k1	-	respect	-	-
+eka_2(a_1)	3	-	-	5:quant	-	-	-	-
+$wyax	4	-	-	6:dem	-	proximal	-	-
+maSIna_1(machine_1)	5	-	-	7:k1as	-	-	-	-
+prakAra_1(kind_8)	6	-	-	5:r6	-	-	-	-
+judZa_7-gA_1(connected_4)	7	-	-	0:main	sept-7-2022ICF-HD_source_hin_023.18:uwwarkAla	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_024b>
+#जो स्टेम सेल को इकट्ठा करती है।
+#jo stema sela ko ikatTA karawI hE.
+#which collects the stem cell containing fraction .
+$yax	1	-	-	7:k1	sept-7-2022ICF-HD_source_hin_024a.5:coref	-	-	-
+stema_1	2	-	-	-	-	-	-	8:mod
+sela_1	3	-	-	-	-	-	-	8:head
+ikatTA_1(collected_1)	5	-	-	-	-	-	-	7:kriyAmUla
+kara_17-wA_hE_1(do_2)	6	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	sept-7-2022ICF-HD_source_hin_024a.7:rcdelim	-	-	-	-
+[nc_1]	8	-	-	7:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_024c>
+#और जो शेष को शरीर में वापस डाल देती है।
+#Ora jo SeRa ko SarIra meM vApasa dAla xewI hE.
+#and returns the remainder to the body.
+$yax	1	-	-	11:k1	sept-7-2022ICF-HD_source_hin_024a.5:coref	-	-	-
+SeRa_6(remainder_1)	2	-	-	11:k2	-	-	-	-
+SarIra_1(body_11)	4	-	-	11:k7p	-	-	-	-
+vApasa_1(returned_3)	6	-	-	-	-	-	-	11:kriyAmUla
+dAla_3-wA_hE_1(drop_7)	7	-	-	-	-	[shade:xe_1]	-	11:verbalizer
+[cp_1]	11	-	-	sept-7-2022ICF-HD_source_hin_024a.7:rcdelim	sept-7-2022ICF-HD_source_hin_024b.7:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_046a>
+#वे व्यक्ति या संगठन, इस शोध को संचालित करने के लिए अपने शोध रिकॉर्ड का निरीक्षण और/या कॉपी कर सकते हैं।
+#ve vyakwi yA saMgaTana,isa SoXa ko saMcAliwa karane ke lie apane SoXa rikoYrda kA nirIkRaNa Ora/yA koYpI kara sakawe hEM.
+#People and organizations that may inspect and/or copy your research records to conduct this research.
+$wyax	1	-	pl	-	-	distal	-	29:op1
+vyakwi_1	2	-	-	3:ccof	-	-	-	-
+saMgaTana_1	4	-	-	3:ccof	-	-	-	-
+$wyax	6	-	-	7:dem	-	proximal	-	-
+SoXa_1	7	-	-	10:k2	-	-	-	-
+saMcAliwa_1	9	-	-	-	-	-	-	25:kriyAmUla
+kara_1	10	-	pl	-	-	-	-	25:verbalizer
+apanA	13	-	pl	15:r6	-	-	-	-
+SoXa_1	14	-	-	-	-	-	-	24:mod
+rikOYrda_1	15	-	-	-	-	-	-	24:head
+nirIkRaNa_1	17	-	-	-	-	-	-	26:kriyAmUla
+kOYpI_1	19	-	-	-	-	-	-	28:kriyAmUla
+kara_1-nA_saka_hE_1	20	-	-	-	-	-	-	28:verbalizer
+[nc_1]	24	-	-	17:r6	-	-	-	-
+[cp_1]	25	-	-	20:rt	-	-	-	-
+[cp_2]	26	-	-	-	-	-	-	30:op1
+[cp_3]	27	-	-	0:main	-	-	-	-
+[cp_4]	28	-	-	-	-	-	-	30:op2
+[disjunct_1]	29	-	-	20:k1	-	-	-	-
+[conj_1]	30	-	-	20:pof	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_046b>
+#वे व्यक्ति या संगठन, इस शोध को संचालित करने के लिए अपने शोध रिकॉर्ड का निरीक्षण या कॉपी कर सकते हैं।
+#detA kA viSleRaNa karane meM SAmila howe hEM.
+#assure the quality of the data and to analyze the data include.
+$wyax	1	-	pl	-	-	distal	-	29:op1
+vyakwi_1	2	-	-	3:ccof	-	-	-	-
+saMgaTana_1	4	-	-	3:ccof	-	-	-	-
+$wyax	6	-	-	7:dem	-	proximal	-	-
+SoXa_1	7	-	-	10:k2	-	-	-	-
+saMcAliwa_1	9	-	-	-	-	-	-	25:kriyAmUla
+kara_1	10	-	pl	-	-	-	-	25:verbalizer
+apanA	13	-	pl	15:r6	-	-	-	-
+SoXa_1	14	-	-	-	-	-	-	24:mod
+rikOYrda_1	15	-	-	-	-	-	-	24:head
+nirIkRaNa_1	17	-	-	-	-	-	-	26:kriyAmUla
+kOYpI_1	19	-	-	-	-	-	-	28:kriyAmUla
+kara_1-nA_saka_hE_1	20	-	-	-	-	-	-	28:verbalizer
+[nc_1]	24	-	-	17:r6	-	-	-	-
+[cp_1]	25	-	-	20:rt	-	-	-	-
+[cp_2]	26	-	-	-	-	-	-	30:op1
+[cp_3]	27	-	-	0:main	-	-	-	-
+[cp_4]	28	-	-	-	-	-	-	30:op2
+[disjunct_1]	29	-	-	20:k1	-	-	-	-
+[disjunct_2]	30	-	-	20:pof	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_046c>
+#डेटा का विश्लेषण करने में शामिल होते हैं।
+#Ora detA kI guNavawwA kA ASvAsana xewe hEM. assure the quality of the data and to analyze the data include.
+#-
+-	-	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_050aF>
+#स्वतंत्र मान्यता प्राप्त और/या अनुसंधान की निगरानी करने वाली एजेंसियों और संगठनों के लोग।
+#svawaMwra mAnyawA prApwa Ora/yA anusaMXAna kI nigarAnI karane vAlI ejeMsiyoM Ora saMgaTanoM ke loga.
+#People from agencies and organizations that perform independent accreditation and/or oversight of research.
+svawaMwra_1	1	-	-	2:mod	-	-	-	-
+mAnyawA_1	2	-	-	3:intf	-	-	-	-
+prApwa_1	3	-	-	-	-	-	-	16:kriyAmUla
+anusaMXAna_1	5	-	-	7:k2	-	-	-	-
+nigarAnI_1	7	-	-	-	-	-	-	18:kriyAmUla
+kara_1	8	-	pl	-	-	-	-	18:verbalizer
+ejeMsiyoM_1	10	-	-	11:ccof	-	-	-	-
+saMgaTana_1	12	-	pl	11:ccof	-	-	-	-
+loga_1	14	-	-	0:main	-	-	-	-
+[cp_1]	16	-	-	-	-	-	-	19:op1
+[cp_2]	17	-	-	10:mod	-	-	-	-
+[cp_3]	18	-	-	-	-	-	-	19:op2
+[conj_1]	19	-	-	8:pof	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_050bF>
+#स्वतंत्र मान्यता प्राप्त या अनुसंधान की निगरानी करने वाली एजेंसियों और संगठनों के लोग।
+#svawaMwra mAnyawA prApwa Ora anusaMXAna kI nigarAnI karane vAlI ejeMsiyoM Ora saMgaTanoM ke loga.
+#People from agencies and organizations that perform independent accreditation and oversight of research.
+svawaMwra_1	1	-	-	2:mod	-	-	-	-
+mAnyawA_1	2	-	-	3:intf	-	-	-	-
+prApwa_1	3	-	-	-	-	-	-	17:op1
+anusaMXAna_1	5	-	-	-	-	-	-	17:op2
+nigarAnI_1	7	-	-	-	-	-	-	16:kriyAmUla
+kara_1	8	-	pl	-	-	-	-	16:verbalizer
+ejeMsiyoM_1	10	-	-	11:ccof	-	-	-	-
+saMgaTana_1	12	-	pl	11:ccof	-	-	-	-
+loga_1	14	-	-	0:main	-	-	-	-
+[cp_1]	16	-	-	10:mod	-	-	-	-
+[disjunct_1]	17	-	-	7:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_053a>
+#इस दस्तावेज पर हस्ताक्षर करके, आप विभाग को इस शोध के लिए अपनी स्वास्थ्य जानकारी का उपयोग करने और/या जारी करने के लिए अधिकृत कर रहे हैं।
+#isa xaswAveja para haswAkRara karake, Apa viBAga ko isa SoXa ke lie apanI svAsWya jAnakArI kA upayoga karane Ora/yA jArI karane ke lie aXikqwa kara rahe hEM.
+#By signing this document , you are authorizing the Department to use and/or release your health information for this research.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+xaswAveja_1	2	-	-	5:k7	-	-	-	-
+haswAkRara_1	4	-	-	-	-	-	-	31:kriyAmUla
+kara_1	5	-	-	-	-	-	-	31:verbalizer
+$addressee	7	-	-	26:k1	-	respect	-	-
+viBAga_1	8	-	-	19:k2	-	-	-	-
+$wyax	10	-	-	11:dem	-	proximal	-	-
+SoXa_1	11	-	-	19:rt	-	-	-	-
+apanA	14	-	-	16:r6	-	-	-	-
+svAsWya_1	15	-	-	-	-	-	-	30:mod
+jAnakArI_1	16	-	-	-	-	-	-	30:head
+upayoga_1	18	-	-	-	-	-	-	32:kriyAmUla
+kara_1	19	-	pl	-	-	-	-	32:verbalizer
+jArI_1	21	-	-	-	-	-	-	33:kriyAmUla
+kara_1	22	-	pl	-	-	-	-	33:verbalizer
+aXikqwa_1	25	-	-	-	-	-	-	34:kriyAmUla
+kara_1-kara_raha_hE_1	26	-	-	-	-	-	-	34:verbalizer
+[nc_1]	30	-	-	18:k2	-	-	-	-
+[cp_1]	31	-	-	7:rc	-	-	-	-
+[cp_2]	32	-	-	-	-	-	-	35:op1
+[cp_3]	33	-	-	-	-	-	-	35:op2
+[cp_4]	34	-	-	0:main	-	-	-	-
+[disjunct_1]	35	-	-	26:rt	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_053b>
+#इस दस्तावेज पर हस्ताक्षर करके, आप विभाग को इस शोध के लिए अपनी स्वास्थ्य जानकारी का उपयोग करने और जारी करने के लिए अधिकृत कर रहे हैं।
+#isa xaswAveja para haswAkRara karake, Apa viBAga ko isa SoXa ke lie apanI svAsWya jAnakArI kA upayoga karane Ora jArI karane ke lie aXikqwa kara rahe hEM.
+#By signing this document , you are authorizing the Department to use and release your health information for this research.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+xaswAveja_1	2	-	-	5:k7	-	-	-	-
+haswAkRara_1	4	-	-	-	-	-	-	31:kriyAmUla
+kara_1	5	-	-	-	-	-	-	31:verbalizer
+$addressee	7	-	-	26:k1	-	respect	-	-
+viBAga_1	8	-	-	19:k2	-	-	-	-
+$wyax	10	-	-	11:dem	-	proximal	-	-
+SoXa_1	11	-	-	19:rt	-	-	-	-
+apanA	14	-	-	16:r6	-	-	-	-
+svAsWya_1	15	-	-	-	-	-	-	30:mod
+jAnakArI_1	16	-	-	-	-	-	-	30:head
+upayoga_1	18	-	-	-	-	-	-	32:kriyAmUla
+kara_1	19	-	pl	-	-	-	-	32:verbalizer
+jArI_1	21	-	-	-	-	-	-	33:kriyAmUla
+kara_1	22	-	pl	-	-	-	-	33:verbalizer
+aXikqwa_1	25	-	-	-	-	-	-	34:kriyAmUla
+kara_1-kara_raha_hE_1	26	-	-	-	-	-	-	34:verbalizer
+[nc_1]	30	-	-	18:k2	-	-	-	-
+[cp_1]	31	-	-	7:rc	-	-	-	-
+[cp_2]	32	-	-	-	-	-	-	35:op1
+[cp_3]	33	-	-	-	-	-	-	35:op2
+[cp_4]	34	-	-	0:main	-	-	-	-
+[conj_1]	35	-	-	26:rt	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_074a>
+#हालांकि, दान के बाद, हम ऊतक, ऊतक से पृथक की गई कोशिकाओं, और/या पृथक कोशिकाओं से बने अन्य उत्पादों को वापस देने में निम्नलिखित कारणों से सक्षम नहीं हो सकते हैं।
+#hAlAMki, xAna ke bAxa, hama Uwaka, Uwaka se pqWaka kI gaI koSikAoM,Ora/yA pqWaka koSikAoM se bane anya uwpAxoM ko vApasa xene meM nimnaliKiwa kAraNoM se sakRama nahIM ho sakawe hEM.
+#However after donation , we may not be able to withdraw the tissue , cells isolated from the tissue , and/or other products made from the isolated cells.
+xAna_1	1	-	-	31:k7t	-	-	-	-
+bAxa_1	3	-	-	1:k7p	-	-	-	-
+$speaker	5	-	pl	31:k1	-	-	-	-
+Uwaka_1	6	-	-	-	-	-	-	38:op1
+Uwaka_1	8	-	-	11:k5	-	-	-	-
+pqWaka_1	10	-	-	-	-	-	-	35:kriyAmUla
+kara_1	11	-	-	-	-	-	-	35:verbalizer
+koSikA_1	13	-	pl	-	-	-	-	38:op2
+pqWaka_1	16	-	-	17:mod	-	-	-	-
+koSikA_1	17	-	pl	-	-	-	-	38:op3
+bana_1	19	-	-	21:rbks	-	-	-	-
+anya_1	20	-	-	21:mod	-	-	-	-
+uwpAxa_1	21	-	pl	24:k2	-	-	-	-
+vApasa_1	23	-	-	-	-	-	-	36:kriyAmUla
+xe_1	24	-	pl	-	-	-	-	36:verbalizer
+nimnaliKiwa_1	26	-	-	27:mod	-	-	-	-
+kAraNa_1	27	-	pl	31:krvn	-	-	-	-
+sakRama_1	29	-	-	-	-	-	-	37:kriyAmUla
+nahIM_1	30	-	-	31:neg	-	-	-	-
+ho_1-0_saka_hE_1	31	-	-	-	-	-	-	37:verbalizer
+[cp_1]	35	-	-	13:rbks	-	-	-	-
+[cp_2]	36	-	-	31:k7	-	-	-	-
+[cp_3]	37	-	-	0:main	-	-	-	-
+[conj_1]	38	-	-	19:k7	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=sept-7-2022ICF-HD_source_hin_074b>
+#हालांकि, दान के बाद, हम ऊतक, ऊतक से पृथक की गई कोशिकाओं, और/या पृथक कोशिकाओं से बने अन्य उत्पादों को वापस देने में निम्नलिखित कारणों से सक्षम नहीं हो सकते हैं।
+#hAlAMki, xAna ke bAxa, hama Uwaka, Uwaka se pqWaka kI gaI koSikAoM,Ora pqWaka koSikAoM se bane anya uwpAxoM ko vApasa xene meM nimnaliKiwa kAraNoM se sakRama nahIM ho sakawe hEM.
+#However after donation , we may not be able to withdraw the tissue , cells isolated from the tissue , and other products made from the isolated cells.
+xAna_1	1	-	-	31:k7t	-	-	-	-
+bAxa_1	3	-	-	1:k7p	-	-	-	-
+$speaker	5	-	pl	31:k1	-	-	-	-
+Uwaka_1	6	-	-	-	-	-	-	38:op1
+Uwaka_1	8	-	-	11:k5	-	-	-	-
+pqWaka_1	10	-	-	-	-	-	-	35:kriyAmUla
+kara_1	11	-	-	-	-	-	-	35:verbalizer
+koSikA_1	13	-	pl	-	-	-	-	38:op2
+pqWaka_1	16	-	-	17:mod	-	-	-	-
+koSikA_1	17	-	pl	-	-	-	-	38:op3
+bana_1	19	-	-	21:rbks	-	-	-	-
+anya_1	20	-	-	21:mod	-	-	-	-
+uwpAxa_1	21	-	pl	24:k2	-	-	-	-
+vApasa_1	23	-	-	-	-	-	-	36:kriyAmUla
+xe_1	24	-	pl	-	-	-	-	36:verbalizer
+nimnaliKiwa_1	26	-	-	27:mod	-	-	-	-
+kAraNa_1	27	-	pl	31:krvn	-	-	-	-
+sakRama_1	29	-	-	-	-	-	-	37:kriyAmUla
+nahIM_1	30	-	-	31:neg	-	-	-	-
+ho_1-0_saka_hE_1	31	-	-	-	-	-	-	37:verbalizer
+[cp_1]	35	-	-	13:rbks	-	-	-	-
+[cp_2]	36	-	-	31:k7	-	-	-	-
+[cp_3]	37	-	-	0:main	-	-	-	-
+[disjunct_1]	38	-	-	19:k2	-	-	-	-
+%affirmative
+</segment_id>

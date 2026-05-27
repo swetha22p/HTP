@@ -1,0 +1,495 @@
+<segment_id=news_headline_5_0001>
+#उनका यह मिशन 14 दिनों का था जिसमें शुभांशु शुक्ला भारत का प्रतिनिधित्व कर रहे थे ।
+#unakA yaha miSana 14 xinoM kA WA jisameM SuBAMSu SuklA BArawa kA prawiniXiwva kara rahe We .
+#This mission of his was for 14 days
+$wyax	1	-	-	3:r6	18:coref	distal	-	-
+$wyax	2	-	-	3:dem	-	proximal	-	-
+miSana_1(mission_1)	3	-	-	7:k1	-	-	-	-
+14	4	numex	-	5:card	-	-	-	-
+xina_1(day_6)	5	-	pl	7:rt	-	-	-	-
+hE_1-past	7	-	-	0:main	-	-	-	-
+$yax	8	-	-	19:k7	-	-	-	-
+SuBAMSu	9	male	-	-	-	-	-	18:begin
+SuklA	10	-	-	-	-	-	-	18:inside
+BArawa	11	-	-	-	-	-	-	20:begin
+prawiniXiwva_1(representation_5)	13	-	-	-	-	-	-	19:kriyAmUla
+kara_1-0_rahA_WA_2	14	-	-	-	-	-	-	19:verbalizer
+[ne_1]	18	per/male	-	19:k1	-	-	-	-
+[cp_1]	19	-	-	3:rcdelim	-	-	-	-
+[ne_2]	20	place	-	19:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0002>
+#वो साल 1984 में राकेश शर्मा के बाद अंतरिक्ष में जाने वाले दूसरे भारतीय बने  ।
+#vo sAla 1984 meM rAkeSa SarmA ke bAxa aMwarikRa meM jAne vAle xUsare BArawIya bane  .
+#He became the second Indian to go to space after Rakesh Sharma in 1984.
+$wyax	1	-	-	-	-	-	-	18:op2
+sAla_1(year_8)	2	-	-	3:rs	-	-	-	-
+1984	3	numex	-	11:k7t	-	-	-	-
+rAkeSa	5	male	-	-	-	-	-	17:begin
+SarmA	6	-	-	-	-	-	-	17:inside
+aMwarikRa_1(space_1)	9	-	-	11:k7p	-	-	-	-
+jA_1(go_1)	11	-	-	14:mod	-	-	-	-
+xUsarA_1(second_1)	13	-	-	14:ord	-	-	-	-
+BArawIya_1(indian_1)	14	-	-	15:k1s	-	-	-	-
+bana_1-e_1	15	-	-	0:main	-	-	-	-
+[ne_1]	17	anim	-	-	-	alAvA	-	18:op1
+[conj_1]	18	-	-	15:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0003a>
+#उनकी वापसी ड्रैगन अंतरिक्ष यान से होगी ।
+#unakI vApasI drEgana aMwarikRa yAna se hogI .
+#Their return will be on the Dragon spacecraft.
+$wyax	1	-	-	2:r6	news_headline_5_0001.18:coref	distal	-	-
+vApasI_1(return_24)	2	-	-	7:k1	-	-	-	-
+drEgana	3	-	-	-	-	-	-	9:begin
+aMwarikRa_1(space_1)	4	-	-	-	-	-	-	10:mod
+yAna_2(vehicle_2)	5	-	-	-	-	-	-	10:head
+ho_1-gA_1	7	-	-	0:main	-	-	-	-
+[ne_1]	9	-	-	7:k3	-	-	-	-
+[nc_1]	10	-	-	-	-	-	-	9:inside
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0003b>
+#जो 14 जुलाई को शाम 4 बजकर 30 मिनट पर ISS से अलग होगा ।
+#jo 14 julAI ko SAma 4 bajakara 30 minata para _ISS_ se alaga hogA .
+#Which will separate from the ISS at 4:30 pm on July 14.
+$yax	1	-	-	14:k1	news_headline_5_0003a.9:coref	-	-	-
+14	2	dom	-	-	-	-	-	19:component1
+julAI	3	moy	-	-	-	-	-	19:component2
+SAma_1	5	-	-	-	-	-	-	20:whole
+4	6	clocktime	-	-	-	-	-	21:component1
+30	8	clocktime	-	-	-	-	-	21:component2
+@AI.esa.esa.	11	-	-	-	-	-	-	22:begin
+alaga_1	13	-	-	14:k1s	-	-	-	-
+ho_1-gA_1	14	-	-	news_headline_5_0003a.9:rcelab	-	-	-	-
+[calendar_1]	19	-	-	20:r6	-	-	-	-
+[temporal_1]	20	-	-	14:k7t	-	-	-	-
+[calendar_1]	21	-	-	-	-	-	-	20:part
+[ne_1]	22	org	-	14:k5	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0003c>
+#और जो 15 जुलाई को दोपहर 3 बजे कैलिफोर्निया तट के पास प्रशांत महासागर में उतरेगा ।
+#Ora jo 15 julAI ko xopahara 3 baje kEliPorniyA wata ke pAsa praSAMwa mahAsAgara meM uwaregA .
+#And which will land in the Pacific Ocean off the California coast at 3 pm on July 15.
+$yax	2	-	-	16:k1	news_headline_5_0003a.9:coref	-	-	-
+15	3	dom	-	-	-	-	-	20:component1
+julAI_1	4	moy	-	-	-	-	-	20:component2
+xopahara_1(midday_2)	6	-	-	-	-	-	-	22:whole
+3	7	clocktime	-	-	-	-	-	22:part
+kEliPorniyA	9	-	-	-	-	-	-	18:begin
+wata_2(coast_1)	10	-	-	12:rdl	-	-	-	-
+pAsa_1(near_17)	12	-	-	19:rs	-	-	-	-
+praSAMwa	13	-	-	-	-	-	-	19:begin
+mahAsAgara	14	-	-	-	-	-	-	19:inside
+uwara_1-gA_1	16	-	-	news_headline_5_0003a.9:rcelab	news_headline_5_0003b.14:samuccaya	-	-	-
+[ne_1]	18	place	-	10:rs	-	-	-	-
+[ne_2]	19	place	-	16:k7p	-	-	-	-
+[calendar_1]	20	-	-	22:r6	-	-	-	-
+[temporal_1]	22	-	-	16:k7t	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0004>
+#भारतीय और उनकी एक्सिओम-4 मिशन की टीम 14 जुलाई, 2025 को अंतरराष्ट्रीय अंतरिक्ष स्टेशन से पृथ्वी पर लौट रही है
+#BArawIya Ora unakI eksioma-4 miSana kI tIma 14 julAI, 2025 ko aMwararARtrIya aMwarikRa steSana se pqWvI para lOta rahI hE
+#The Indian and his Axiom-4 mission team are returning to Earth from the International Space Station on July 14, 2025
+BArawIya_1(indian_1)	1	-	-	-	-	-	-	27:op1
+$wyax	3	-	-	5:r6	1:coref	distal	-	-
+eksioma-4	4	-	-	-	-	-	-	23:begin
+miSana_1(mission_1)	5	-	-	7:r6	-	-	-	-
+tIma_1(team_4)	7	-	-	-	-	-	-	27:op2
+14	8	dom	-	-	-	-	-	26:component1
+julAI_1	9	moy	-	-	-	-	-	26:component2
+2025	11	yoc	-	-	-	-	-	26:component3
+aMwararARtrIya_1(international_2)	13	-	-	25:mod	-	-	-	-
+aMwarikRa_1(space_1)	14	-	-	-	-	-	-	25:mod
+steSana_1(station_3)	15	-	-	-	-	-	-	25:head
+pqWvI_1(earth_9)	17	-	-	19:k7p	-	-	-	-
+lOta_1-0_rahA_hE_1	19	-	-	0:main	-	-	-	-
+[ne_1]	23	ne	-	5:rs	-	-	-	-
+[nc_1]	25	-	-	19:k5	-	-	-	-
+[calendar_1]	26	-	-	19:k7t	-	-	-	-
+[conj_1]	27	-	-	19:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0005>
+#शुभांशु शुक्ला और पूरी टीम यह करेगी . ।
+#SuBAMSu SuklA Ora pUrI tIma yaha karegI . .
+#Shubhanshu Shukla and the entire team will do it.
+SuBAMSu	1	anim	-	-	-	-	-	9:begin
+SuklA	2	-	-	-	-	-	-	9:inside
+pUrA_4(entire_7)	4	-	-	5:quant	-	-	-	-
+^tIma_1	5	-	-	-	-	-	-	11:op2
+kara_1-gA_1	6	-	-	0:main	-	-	-	-
+[ne_1]	9	per/male	-	-	-	-	-	11:op1
+[conj_1]	11	-	-	6:k1	-	-	-	-
+$wyax	12	-	-	6:k2	news_headline_5_0004.5:coref	proximal	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0006a>
+#ये तय किया जाएगा  ।
+#ye waya kiyA jAegA  .
+#It will be ensured.
+$wyax	1	-	-	6:k2	news_headline_5_0006b.11:coref	proximal	-	-
+waya_1(decided_1)	2	-	-	-	-	-	-	6:kriyAmUla
+kara_1-yA_jA_gA_1	3	-	-	-	-	-	-	6:verbalizer
+[cp_1]	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0006b>
+#कि अंतरिक्ष यान और ISS के बीच हवा का रिसाव न हो ।
+#ki aMwarikRa yAna Ora _ISS_ ke bIca havA kA risAva na ho .
+#That there is no air leak between the spacecraft and the ISS.
+yAna_2(vehicle_2)	2	-	-	-	-	-	-	16:head
+@AI.esa.esa.	4	-	-	-	-	-	-	17:begin
+bIca_11(between_1)	6	-	-	11:k7p	-	-	-	-
+havA_1(air_12)	7	-	-	9:r6	-	-	-	-
+risAva_1(leakage_3)	9	-	-	11:k1	-	-	-	-
+na_1(not_2)	10	-	-	11:neg	-	-	-	-
+ho_1	11	-	-	0:main	-	-	-	-
+aMwarikRa_1(space_1)	14	-	-	-	-	-	-	16:mod
+[conj_1]	15	-	-	6:rdl	-	-	-	-
+[nc_1]	16	-	-	-	-	def	-	15:op1
+[ne_1]	17	org	-	-	-	def	-	15:op2
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0006c>
+#जरूरी सामान और व्यक्तिगत सामान समेत 60 से ज्यादा वैज्ञानिक प्रयोगों के नमूने सिक्योर किए जाएंगे  ।
+#jarUrI sAmAna Ora vyakwigawa sAmAna samewa 60 se jyAxA vEjFAnika prayogoM ke namUne sikyora kie jAeMge  .
+#And samples from more than 60 scientific experiments
+jarUrI_2	1	-	-	2:mod	-	-	-	-
+sAmAna_4(stuff_4)	2	-	-	-	-	-	-	19:op1
+vyakwigawa_2(personal_3)	4	-	-	5:mod	-	-	-	-
+sAmAna_4(stuff_4)	5	-	-	-	-	-	-	19:op2
+60	7	numex	-	11:quantmore	-	-	-	-
+vEjFAnika_2(scientific_3)	10	-	-	11:mod	-	-	-	-
+prayoga_1(experiment_2)	11	-	pl	13:r6	-	-	-	-
+namUnA_1(sample_1)	13	-	-	18:k2	-	-	-	-
+^sikyora_1	14	-	-	-	-	-	-	18:kriyAmUla
+kara_1-yA_jA_gA_1	15	-	-	-	-	-	-	18:verbalizer
+[cp_1]	18	-	-	0:main	-	-	-	-
+[conj_1]	19	-	-	18:rask2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0006d>
+#ताकि माइक्रोग्रैविटी में वे इधर-उधर न तैरें ।
+#wAki mAikrogrEvitI meM ve iXara-uXara na wEreM .
+#So that they do not float around in microgravity.
+^mAikrogrEvitI_1	2	-	-	7:k7	-	-	-	-
+$wyax	4	-	-	7:k1	news_headline_5_0005.9:coref	distal	-	-
+iXara+uXara_3	5	-	-	7:k7p	-	-	-	-
+na_1(not_2)	6	-	-	7:neg	-	-	-	-
+wEra_1-e_1	7	-	-	0:main	news_headline_5_0006c.18:kAryaxyowaka	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0007>
+#ये ड्रैगन यान ISS के हार्मनी मॉड्यूल से जुड़ा है  ।
+#ye drEgana yAna _ISS_ ke hArmanI mOYdyUla se judZA hE  .
+#This Dragon spacecraft is connected to the Harmony module of the ISS.
+$wyax	1	-	-	12:dem	-	proximal	-	-
+^drEgana_1	2	-	-	-	-	-	-	12:mod
+yAna_2(vehicle_2)	3	-	-	-	-	-	-	12:head
+@AI.esa.esa.	4	-	-	-	-	-	-	13:begin
+^hArmanI_1	6	-	-	-	-	-	-	14:mod
+^mOYdyUla_1	7	-	-	-	-	-	-	14:head
+judZa_1-yA_hE_1	9	-	-	0:main	-	-	-	-
+[nc_1]	12	-	-	9:k1	-	-	-	-
+[ne_1]	13	org	-	14:r6	-	-	-	-
+[nc_2]	14	-	-	9:k1as	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0008>
+#वापसी से पहले इसकी पूरी जांच होगी . ।
+#vApasI se pahale isakI pUrI jAMca hogI . .
+#It will be thoroughly checked before return.
+vApasI_1(return_24)	1	-	-	3:rkl	-	-	-	-
+pahalA_9(before_1)	3	-	-	7:k7t	-	-	-	-
+$wyax	4	-	-	6:r6	news_headline_5_0007.14:coref	proximal	-	-
+pUrA_8(thorough_1)	5	-	-	6:mod	-	-	-	-
+jAMca_1	6	-	-	7:k1	-	-	-	-
+ho_1-gA_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0009>
+#अमेरिकी अंतरिक्ष यात्री पैगी व्हिटसन के नेतृत्व में यह पूरी टीम करेगी ।
+#amerikI aMwarikRa yAwrI pEgI vhitasana ke newqwva meMOra pUrI tIma karegI . .
+#American astronaut Peggy Whitson and the entire team will lead it.
+amerikI_1(American_3)	1	-	-	14:mod	-	-	-	-
+aMwarikRa_1(space_1)	2	-	-	-	-	-	-	14:mod
+yAwrI_1(traveller_8)	3	-	-	-	-	-	-	14:head
+pEgI	4	anim	-	-	-	-	-	15:begin
+vhitasana	5	-	-	-	-	-	-	15:inside
+newqwva_1(leadership_1)	7	-	-	11:k7	-	-	-	-
+pUrA_4(entire_7)	9	-	-	10:quant	-	-	-	-
+^tIma_1	10	-	-	11:k1	-	def	-	-
+kara_1-gA_1	11	-	-	0:main	-	-	-	-
+[nc_1]	14	-	-	15:rs	-	-	-	-
+[ne_1]	15	per/female	-	7:r6	-	-	-	-
+$wyax	16	-	-	11:k2	news_headline_5_0008.6:coref	proximal	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0010a>
+#400 किलोमीटर की दूरी था।
+#400 kilomItara kI xUrI WA.
+#The distance was 400 kilometers.
+400	1	numex	-	-	-	-	-	7:count
+kilomItara_1(kilometre_1)	2	-	-	-	-	-	-	7:unit
+xUrI_1(distance_2)	4	-	-	5:k1	-	-	-	-
+hE_1-past	5	-	-	0:main	-	-	-	-
+[dist_meas_1]	7	meas	-	4:rmeas	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0010b>
+#फिर उसको 22 घंटे क्यों लगा?
+#Pira usako 22 GaMte kyoM lagA?
+#Then why it took 22 hours?
+$wyax	2	-	-	6:k1	news_headline_5_0009.15:coref	distal	-	-
+22	3	numex	-	-	-	-	-	7:count
+GaMtA_4(hour_1)	4	-	-	-	-	-	-	7:unit
+$kim	5	-	-	6:rh	-	-	-	-
+laga_1-yA_WA_1	6	-	-	0:main	news_headline_5_0010a.5:uwwarkAla	-	-	-
+[time_meas_1]	7	meas	-	6:rmeas	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=news_headline_5_0011a>
+#ड्रैगन यान का ISS से अलग होना स्वचालित होगा   ।
+#drEgana yAna kA _ISS_ kA alaga honA svacAliwa hogA   .
+#The separation of the Dragon spacecraft from the ISS will be automated.
+^drEgana_1	1	-	-	-	-	-	-	11:mod
+yAna_2(vehicle_2)	2	-	-	-	-	-	-	11:head
+@AI.esa.esa.	4	-	-	-	-	-	-	12:begin
+alaga_7(different_4)	6	-	-	-	-	def	-	13:kriyAmUla
+ho_6(be_4)	7	-	-	-	-	-	-	13:verbalizer
+svacAliwa_1(automatic_3)	8	-	-	9:k1s	-	-	-	-
+ho_1-gA_1	9	-	-	0:main	-	-	-	-
+[nc_1]	11	-	-	13:k1	-	-	-	-
+[ne_1]	12	org	-	13:k2	-	def	-	-
+[cp_1]	13	-	-	9:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0011b>
+#लेकिन अंतरिक्ष यात्री इसकी निगरानी करेंगे ।
+#lekina aMwarikRa yAwrI isakI nigarAnI kareMge .
+#But will be monitored by astronauts.
+aMwarikRa_1(space_1)	2	-	-	-	-	-	-	8:mod
+yAwrI_1(traveller_8)	3	-	-	-	-	-	-	8:head
+$wyax	4	-	-	6:k2	news_headline_5_0011a.6:coref	proximal	-	-
+nigarAnI_6(monitor_6)	5	-	-	-	-	-	-	9:kriyAmUla
+kara_1-gA_1	6	-	-	-	-	-	-	9:verbalizer
+[nc_1]	8	-	-	6:k1	-	-	-	-
+[cp_1]	9	-	-	0:main	news_headline_5_0011a.9:viroXI	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0012>
+#मिशन कंट्रोल के साथ गो या नो-गो का अंतिम निर्णय लिया जाएगा . ।
+#miSana kaMtrola ke sAWa go yA no-go kA aMwima nirNaya liyA jAegA . .
+#The final decision on go or no-go will be made with Mission Control.
+^miSana_1	1	-	-	-	-	-	-	15:mod
+^kaMtrola_1	2	-	-	-	-	-	-	15:head
+^no+go_1	7	-	-	-	-	-	-	17:op2
+aMwima_2(final_1)	9	-	-	10:ord	-	-	-	-
+nirNaya_2(decision_1)	10	-	-	-	-	def	-	16:kriyAmUla
+le_1-yA_jA_gA_1	11	-	-	-	-	-	-	16:verbalizer
+[nc_1]	15	-	-	16:k1	-	def	-	-
+[cp_1]	16	-	-	0:main	-	-	-	-
+[disjunct_1]	17	-	-	15:k2	-	-	-	-
+^go_1	18	-	-	-	-	-	-	17:op1
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0013a>
+#पावर और डेटा केबल डिस्कनेक्ट होंगे  ।
+#pAvara Ora detA kebala diskanekta hoMge  .
+#The power and data cables will disconnect.
+^pAvara_1	1	-	-	-	-	-	-	9:op1
+^detA_1	3	-	-	-	-	-	-	8:mod
+^kebala_1	4	-	-	-	-	-	-	8:head
+^diskanekta_1	5	-	-	6:k1s	-	-	-	-
+ho_1-gA_1	6	-	-	0:main	-	-	-	-
+[nc_1]	8	-	-	-	-	-	-	9:op2
+[conj_1]	9	-	-	6:k1	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0013b>
+#और 12 लैच खुलेंगे ।
+#Ora 12 lEca KuleMge .
+#And the 12 latches will open.
+12	2	numex	-	3:card	-	-	-	-
+^lEca_1	3	-	-	4:k2	-	-	-	-
+Kula_1-gA_1	4	-	-	0:main	news_headline_5_0013a.6:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0014a>
+#ड्रैगन के 12 ड्रेको थ्रस्टर बर्न ज़ीरो करेंगे ।
+#drEgana ke 12 dreko Wrastara barna jZIro kareMge .
+#Dragon's 12 Draco thrusters will perform Burn Zero.
+^drEgana_1	1	-	-	11:r6	-	-	-	-
+12	3	numex	-	10:card	-	-	-	-
+^dreko_1	4	-	-	-	-	-	-	10:mod
+^Wrastara_1	5	-	-	-	-	-	-	10:head
+^barna_1	6	-	-	-	-	-	-	11:begin
+^jZIro_1	7	-	-	-	-	-	-	11:inside
+kara_1-gA_1	8	-	-	0:main	-	-	-	-
+[nc _1]	10	-	-	8:k1	-	-	-	-
+[ne_1]	11	ne	-	8:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0014b>
+#इससे यान धीरे-धीरे ISS से दूर जाएगा  ।
+#isase yAna XIre-XIre _ISS_ se xUra jAegA  .
+#It will allow the spacecraft to slowly move away from the ISS.
+yAna_1	2	-	-	9:k1	-	def	-	-
+XIre+XIre_1	3	-	xviwva	9:krvn	-	-	-	-
+@AI.esa.esa.	4	-	-	-	-	-	-	10:begin
+xUra_1	6	-	-	-	-	-	-	9:kriyAmUla
+jA_1-gA_1	7	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	news_headline_5_0014a.8:pariNAma	-	-	-
+[ne_1]	10	org	-	9:k5	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0015>
+#इसके बाद डिपार्चर बर्न वन होगा जो यान को ISS से और दूर ले जाएगा ।
+#isake bAxa dipArcara barna vana hogA jo yAna ko _ISS_ se Ora xUra le jAegA .
+#This will be followed by departure burn one, which will take the spacecraft further away from the ISS.
+^dipArcara_1	3	-	-	-	-	-	-	17:mod
+^barna_1	4	-	-	-	-	-	-	17:head
+^vana_1	5	-	-	6:k1s	-	-	-	-
+ho_1-gA_1	6	-	-	0:main	-	-	-	-
+$yax	7	-	-	14:k1	5:coref	-	-	-
+yAna_2(vehicle_2)	8	-	-	14:k2	-	-	-	-
+@AI.esa.esa.	10	-	-	-	-	-	-	19:begin
+xUra_2(distant_1)	13	-	-	14:k7p	-	Ora_1	-	-
+le_1+jA_1-gA_1	14	-	-	5:rcelab	news_headline_5_0014a.12:uwwarkAla	-	-	-
+[nc_1]	17	-	-	6:k1	-	-	-	-
+[ne_1]	19	-	-	13:rdl	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0016a>
+#अंतरिक्ष से नीचे आने की प्रक्रिया में देरी इसलिए होती है  ।
+#aMwarikRa se nIce Ane kI prakriyA meM xerI isalie howI hE  .
+#This is why there is a delay in the process of coming down from space.
+aMwarikRa_1(space_1)	1	-	-	3:rdl	-	-	-	-
+nIce_5(down_1)	3	-	-	4:rd	-	-	-	-
+A_1(come_1)	4	-	-	6:r6	-	-	-	-
+prakriyA_1(process_3)	6	-	-	10:k7	-	def	-	-
+xera_1(delay_2)	8	-	-	10:k1	-	-	-	-
+isalie_1(hence_33)	9	-	-	10:rh	-	-	-	-
+ho_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0016b>
+#क्योंकि ये कोई सीधी सड़क पर चलने जैसा या आसमान में उड़ने जैसा नहीं होता  ।
+#kyoMki ye koI sIXI sadZaka para calane jEsA yA AsamAna meM udZane jEsA nahIM howA  .
+#Because it is not like walking on a straight road or flying in the sky.
+$wyax	2	-	-	15:k1	-	proximal	-	-
+koI	3	-	-	5:mod	-	-	-	-
+sIXA_1(straight_4)	4	-	-	5:mod	-	-	-	-
+sadZaka_1(road_3)	5	-	-	7:k7p	-	-	-	-
+cala_6(walk_1)	7	-	-	-	-	-	-	16:op1
+AsamAna_1(sky_4)	10	-	-	12:k7p	-	-	-	-
+udZa_5(fly_5)	12	-	-	-	-	-	-	16:op2
+nahIM_1(not_1)	14	-	-	15:neg	-	-	-	-
+ho_1-wA_hE_1	15	-	-	0:main	-	-	-	-
+[disjunct_1]	16	-	-	2:ru	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0017>
+#ISS पृथ्वी के चारों ओर लगभग 28,000  किमी/घंटा की गति से घूमता है
+#_ISS_ pqWvI ke cAroM ora lagaBaga 28
+#The ISS orbits the Earth approximately 28
+@AI.esa.esa	1	-	-	-	-	-	-	19:begin
+pqWvI_1(earth_9)	2	-	-	4:rdl	-	-	-	-
+cAraoM+ora_1	4	-	-	16:k7p	-	-	-	-
+28000	7	numex	-	-	-	-	-	18:count
+kimI_1(kilometre_2)	10	-	-	-	-	-	-	18:unit_value
+GaMtA_4(hour_1)	12	-	-	-	-	-	-	18:unit_every
+gawi_1(motion_1)	14	-	-	16:krvn	-	-	-	-
+GUma_1-wA_hE_1	16	-	-	0:main	-	-	-	-
+1	17	numex	-	-	-	-	-	18:count
+[rate_1]	18	-	-	16:rmeas	-	lagaBaga_1	-	-
+[ne_1]	19	-	-	16:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0018a>
+#इस गति को एकदम से घटाना खतरनाक होगा ।
+#isa gawi ko ekaxama se GatAnA KawaranAka hogA .
+#It would be dangerous to reduce this speed suddenly.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+gawi_3(speed_1)	2	-	-	6:k2	-	-	-	-
+ekaxama_1(suddenly_3)	4	-	-	6:krvn	-	-	-	-
+GatA_1(reduce_1)	6	-	-	8:k1	-	-	-	-
+KawaranAka_1(dangerous_4)	7	-	-	8:k1s	-	-	-	-
+ho_1-gA_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0018b>
+#इसलिए यान को पहले धीरे-धीरे डी-ऑर्बिट किया जाता है ।
+#isalie yAna ko pahale XIre-XIre dI-OYrbita kiyA jAwA hE .
+#So the spacecraft is first slowly de-orbited.
+yAna_2(vehicle_2)	2	-	-	11:k2	-	def	-	-
+pahalA_1(first)	4	-	-	11:ord	-	-	-	-
+XIre+XIre_3(slowly_9)	5	-	xviwva	11:krvn	-	-	-	-
+^dI+OYrbita_1	6	-	-	-	-	-	-	11:kriyAmUla
+kara_1-yA_jA_wA_hE_1	7	-	-	-	-	-	-	11:verbalizer
+[cp_1]	11	-	-	0:main	news_headline_5_0018a.8:pariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0018c>
+#यह समय लेने वाली और बेहद सावधानी भरी प्रक्रिया होती है ।
+#yaha samaya lene vAlI Ora behaxa sAvaXAnI BarI prakriyA howI hE .
+#This is a time-consuming and extremely cautious process.
+$wyax	1	-	-	10:k1	news_headline_5_0018b.6:coref	proximal	-	-
+samaya_1(time_8)	2	-	-	3:k2	-	-	-	-
+le_1(take_1)	3	-	-	-	-	-	-	14:op1
+behaxa_6	6	-	-	7:mod	-	-	-	-
+sAvaXAnI_2(attention_16)	7	-	-	8:mod	-	-	-	-
+Bara_1	8	-	-	-	-	-	-	14:op2
+prakriyA_1(process_3)	9	-	-	10:k1s	-	-	-	-
+ho_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+[conj_1]	14	-	-	9:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0019a>
+#इस दौरान जब पृथ्वी के वायुमंडल में प्रवेश लिया जाता है ।
+#isa xOrAna jaba pqWvI ke vAyumaMdala meM praveSa liyA jAwA hE .
+#During this time, when it enters the Earth's atmosphere.
+$wyax	2	-	-	13:dur	news_headline_5_0018b.6:coref	-	-	-
+pqWvI_1(earth_9)	4	-	-	6:r6	-	def	-	-
+vAyumaMdala_1(atmosphere_2)	6	-	-	13:k7p	-	-	-	-
+praveSa_1(entry_5)	8	-	-	-	-	-	-	13:kriyAmUla
+le_1-yA_jA_wA_hE_1	9	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	news_headline_5_0019b.6:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0019b>
+#तो कोण और गति सटीक होनी चाहिए ।
+#wo koNa Ora gawi satIka honI cAhie .
+#The angle and speed must be accurate.
+koNa_1(angle_1)	2	-	-	-	-	-	-	7:op1
+gawi_3(speed_1)	4	-	-	-	-	-	-	7:op2
+satIka_1	5	-	-	6:k1s	-	-	-	-
+ho_1-nA_cAhie_1	6	-	-	0:main	-	-	-	-
+[conj_1]	7	-	-	6:k1	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0019c>
+#वरना यान जल सकता है ।
+#varanA yAna jala sakawA hE .
+#Otherwise the spacecraft may burn.
+yAna_2(vehicle_2)	2	-	-	3:k1	-	def	-	-
+jala_1-0_sakawA_hE_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_5_0020>
+#इस दौरान गति को नियंत्रित और धीमा रखा जाता है  ।
+#isa xOrAna gawi ko niyaMwriwa Ora XImA raKA jAwA hE  .
+#During this time the speed is kept controlled and slow.
+$wyax	1	-	-	8:dur	news_headline_5_0018b.6:coref	proximal	-	-
+gawi_3(speed_1)	3	-	-	8:k2	-	def	-	-
+niyaMwriwa_1(controlled_1)	5	-	-	-	-	-	-	12:op1
+XImA_1(slow_1)	7	-	-	-	-	-	-	12:op2
+raKa_1-yA_jA_wA_hE_1	8	-	-	0:main	-	-	-	-
+[conj_1]	12	-	-	8:k2s	-	-	-	-
+%affirmative
+</segment_id>

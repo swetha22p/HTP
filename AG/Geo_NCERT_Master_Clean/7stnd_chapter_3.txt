@@ -1,0 +1,2192 @@
+<segment_id=Geo_ncert_7stnd_3ch_0002a>
+#एक रंगीन कागज की छोटी-सी गोली लीजिए।
+#eka raMgIna kAgaja kI CotI-sI golI lIjie.
+#Take a small coloured paper pellet.
+$addressee	1	anim	-	7:k1	-	respect	-	-
+eka_2(a_1)	2	-	-	4:quant	-	-	-	-
+raMgIna_1(coloured_2)	3	-	-	4:mod	-	-	-	-
+kAgaja_1(paper_7)	4	-	-	6:r6	-	-	-	-
+CotA_1(small_6)	5	-	-	6:mod	-	sA_3	-	-
+golI_1	6	-	-	7:k2	-	-	-	-
+le_1-o_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0002b>
+#और इसे जल के आधे भरे बीकर में रख दीजिए।
+#Ora ise jala ke AXe Bare bIkara meM raKa xIjie.
+#And put it in a beaker half filled with water.
+$addressee	1	anim	-	7:k1	-	respect	-	-
+$wyax	2	-	-	7:k2	Geo_ncert_7stnd_3ch_0002a.6:coref	proximal	-	-
+jala_1(water_3)	3	-	-	6:r6	-	-	-	-
+AXA_1(half_1)	4	-	-	5:mod	-	-	-	-
+Bara_1(fill_3)	5	-	-	6:rbks	-	-	-	-
+bIkara_1(beaker_1)	6	-	-	7:k7p	-	-	-	-
+raKa_1-o_1	7	-	-	0:main	Geo_ncert_7stnd_3ch_0002a.7:samuccaya	[shade:xe_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0003>
+#बीकर को तिपाई पर रखकर गर्म करें।
+#bIkara ko wipAI para raKakara garma kareM.
+#Place the beaker on a tripod stand and heat it.
+$addressee	1	anim	-	7:k1	-	respect	-	-
+bIkara_1(beaker_1)	2	-	-	7:k2	-	-	-	-
+wipAI_1(tripod_1)	3	-	-	4:k7p	-	-	-	-
+raKa_1	4	-	-	7:rpk	-	-	-	-
+garma_2(hot_7)	5	-	-	-	-	-	-	7:kriyAmUla
+kara_1-o_1	6	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0004a>
+#जल गर्म होने पर आप यह देखेंगे।
+#jala garma hone para Apa yaha xeKeMge.
+#As the water warms up, you will observe this.
+jala_1(water_3)	1	-	-	3:k1	-	-	-	-
+garma(warm_6)	2	-	-	3:k1s	-	-	-	-
+ho_1	3	-	-	6:rblsk	-	-	-	-
+$addressee	4	anim	-	6:k1	-	respect	-	-
+$wyax	5	-	-	6:k2	Geo_ncert_7stnd_3ch_0004b.7:coref	proximal	-	-
+xeKa_1-gA_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0004b>
+#कि गर्म जल की परतों के साथ कागज की गोली भी ऊपर उठती है।
+#ki garma jala kI parawoM ke sAWa kAgaja kI golI BI Upara uTawI hE.
+#That the paper pellet is moving upward along with the warm layers of water.
+garma_1(warm_6)	1	-	-	2:mod	-	-	-	-
+jala_1(water_3)	2	-	-	3:r6	-	-	-	-
+parawa_1(layer_3)	3	-	pl	7:rask1	-	-	-	-
+kAgaja_1(paper_7)	4	-	-	5:r6	-	-	-	-
+golI_1	5	-	-	7:k1	-	BI_1	-	-
+Upara_4(upward_1)	6	-	-	7:k7p	-	-	-	-
+uTa_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0004c>
+#और ठंडे पानी की परतों के साथ यह गोली नीचे बैठती है।
+#Ora TaMde pAnI kI parawoM ke sAWa yaha golI nIce bETawI hE.
+#And it sinks back along with the cooler layers of water.
+TaMdA_1(cool_2)	1	-	-	2:mod	-	-	-	-
+pAnI_1(water_7)	2	-	-	3:r6	-	-	-	-
+parawa_1(layer_3)	3	-	pl	7:rask1	-	-	-	-
+$wyax	4	-	-	5:dem	-	proximal	-	-
+golI_1	5	-	-	7:k1	-	-	-	-
+nIce_5(down_1)	6	-	-	7:k7p	-	-	-	-
+bETa_1-wA_hE_1	7	-	-	0:main	Geo_ncert_7stnd_3ch_0004b.7:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0005>
+#पृथ्वी के अंदर स्थित पिघला हुआ मैग्मा भी इसी प्रकार गति करता है।
+#pqWvI ke aMxara sWiwa piGalA huA mEgmA BI isI prakAra gawi karawA hE.
+#The molten magma inside the earth moves in a similar manner.
+pqWvI_1(earth_9)	1	-	-	2:rdl	-	-	-	-
+aMxara_2(inside_1)	2	-	-	3:k7p	-	-	-	-
+sWiwa_1(situated_1)	3	-	-	5:mod	-	-	-	-
+piGalA_1(melt_7)	4	-	-	5:rbks	-	-	-	-
+mEgmA_1(magma_1)	5	-	-	10:k1	-	BI_1	-	-
+$wyax	6	-	-	7:dem	-	proximal	-	-
+prakAra_4(manner_5)	7	-	-	10:krvn	-	-	-	-
+gawi_1(motion_1)	8	-	-	-	-	-	-	10:kriyAmUla
+kara_1-wA_hE_1	9	-	-	-	-	-	-	10:verbalizer
+[cp_2]	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0006>
+#स्थलमंडल अनेक प्लेटों में विभाजित है, जिन्हें स्थलमंडलीय प्लेट कहते हैं।
+#sWalamaMdala aneka pletoM meM viBAjiwa hE, jinheM sWalamaMdalIya pleta kahawe hEM.
+#The lithosphere is broken into a number of plates known as the Lithospheric plates.
+sWalamaMdala(lithosphere_1)	1	-	-	5:k1	-	-	-	-
+aneka_1(many_2)	2	-	-	3:quant	-	-	-	-
+pleta_1(plate_6)	3	-	pl	4:k7	-	-	-	-
+viBAjiwa_1(divided_2)	4	-	-	5:k1s	-	-	-	-
+hE_1-pres	5	-	-	0:main	-	-	-	-
+$yax	6	-	-	9:k2	3:coref	-	-	-
+sWalamaMdalIya_1(lithospheric_1)	7	-	-	8:mod	-	-	-	-
+pleta_1(plate_6)	8	-	-	9:k2s	-	-	-	-
+kaha_1-wA_hE_1	9	-	-	3:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0007a>
+#आपको यह जानकर आश्चर्य होगा।
+#Apako yaha jAnakara AScarya hogA.
+#Apako yaha jAnakara AScarya hogA.
+$addressee	1	anim	-	6:k4a	-	respect	-	-
+$wyax	2	-	-	3:k2	Geo_ncert_7stnd_3ch_0007b.7:coref	proximal	-	-
+jAna_10(know_1)	3	-	-	6:rpk	-	-	-	-
+AScarya_2(surprise_3)	4	-	-	-	-	-	-	6:kriyAmUla
+ho_1-gA_1	5	-	-	-	-	-	-	6:verbalizer
+[cp_1]	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0007b>
+#कि ये प्लेट हमेशा धीमी गति से चारों तरफ घूमती रहती हैं - प्रत्येक वर्ष केवल कुछ मिलीमीटर के लगभग।
+#ki ye pleta hameSA XImI gawi se cAroM waraPa GUmawI rahawI hEM - prawyeka varRa kevala kuCa milImItara ke lagaBaga.
+#That these plates move around very slowly – just a few millimetres each year.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+pleta_1(plate_6)	2	-	-	7:k1	-	-	-	-
+hameSA_1(always_7)	3	-	-	7:freq	-	-	-	-
+XImA_1(slow_1)	4	-	-	5:mod	-	-	-	-
+gawi_3(speed_1)	5	-	-	7:krvn	-	-	-	-
+cAroM+waraPa_1(everywhere_39)	6	-	-	7:rd	-	-	-	-
+GUma_1-wA_rahawA_hE_1	7	-	-	0:main	-	-	-	-
+1	8	-	-	-	-	-	-	12:count
+varRa_1(year_4)	9	-	-	-	-	-	-	12:unit_every
+kuCa_2(few_5)	10	-	-	-	-	kevala_1	-	12:count
+milImItara_1(millimetre_1)	11	-	-	-	-	lagaBaga_1	-	12:unit_value
+[rate_1]	12	-	-	5:rs	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0008>
+#पृथ्वी के अंदर पिघले हुए मैग्मा में होने वाली गति के कारण ऐसा होता है।
+#pqWvI ke aMxara piGale hue mEgmA meM hone vAlI gawi ke kAraNa EsA howA hE.
+#This is because of the movement of the molten magma inside the earth.
+pqWvI_1(earth_9)	1	-	-	2:r6	-	-	-	-
+aMxara_2(inside_1)	2	-	-	5:k7p	-	-	-	-
+piGala_1(melt_2)	3	-	-	4:rbks	-	-	-	-
+mEgmA_1(magma_1)	4	-	-	5:k7p	-	-	-	-
+ho_2(exist_7)	5	-	-	6:mod	-	-	-	-
+gawi_2(movement_3)	6	-	-	9:rh	-	-	-	-
+$wyax	7	-	-	8:dem	-	-	-	-
+prakAra_5(way_8)	8	-	-	9:k1	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0009a>
+#पृथ्वी के अंदर पिघला हुआ मैग्मा एक वृत्तीय रूप में घूमता रहता है।
+#pqWvI ke aMxara piGalA huA mEgmA eka vqwwIya rUpa meM GUmawA rahawA hE.
+#The molten magma inside the earth moves in a circular manner.
+pqWvI_1(earth_9)	1	-	-	2:r6	-	-	-	-
+aMxara_2(inside_1)	2	-	-	8:k7p	-	-	-	-
+piGalA_1(melt_7)	3	-	-	4:rbks	-	-	-	-
+mEgmA_1(magma_1)	4	-	-	8:k1	-	-	-	-
+eka_2(a_1)	5	-	-	7:quant	-	-	-	-
+vqwwIya_1(circular_14)	6	-	-	7:mod	-	-	-	-
+rUpa_1	7	-	-	8:krvn	-	-	-	-
+GUma_1-wA_rahawA_hE_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0009b>
+#जैसा कि क्रियाकलाप में दिखाया गया है।
+#jEsA ki kriyAkalApa meM xiKAyA gayA hE.
+#As shown in the activity.
+-	-	-	-	-	-	-	-	-
+%default_type
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0010>
+#प्लेट की इस गति के कारण पृथ्वी की सतह पर परिवर्तन होता है।
+#pleta kI isa gawi ke kAraNa pqWvI kI sawaha para parivarwana howA hE.
+#The movement of these plates causes changes on the surface of the earth.
+pleta_1(plate_6)	1	-	-	3:r6	-	-	-	-
+$wyax	2	-	-	3:dem	-	proximal	-	-
+gawi_2(movement_3)	3	-	-	7:rh	-	-	-	-
+pqWvI_1(earth_9)	4	-	-	5:r6	-	-	-	-
+sawaha_1(surface_3)	5	-	-	7:k7p	-	-	-	-
+parivarwana_1(change_4)	6	-	-	7:k1	-	-	-	-
+ho_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0011>
+#पृथ्वी की गति को उन बलों के आधर पर विभाजित किया गया है जिनके कारण ये गतियाँ उत्पन्न होती हैं।
+#pqWvI kI gawi ko una baloM ke AXara para viBAjiwa kiyA gayA hE jinake kAraNa ye gawiyAz uwpanna howI hEM.
+#The earth movements are divided on the basis of the forces which cause them.
+pqWvI_1(earth_9)	1	-	-	2:r6	-	-	-	-
+gawi_2(movement_3)	2	-	-	7:k2	-	-	-	-
+$wyax	3	-	-	4:dem	-	distal	-	-
+bala_3(force_5)	4	-	pl	7:k7	-	-	-	-
+viBAjiwa_1(divided_2)	5	-	-	-	-	-	-	7:kriyAmUla
+kara_1-yA_jA_yA_hE_1	6	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	0:main	-	-	-	-
+$yax	8	-	-	13:rh	4:coref	-	-	-
+$wyax	9	-	-	10:dem	-	proximal	-	-
+gawi_2(movement_3)	10	-	pl	13:k1	-	-	-	-
+uwpanna_1(produced_1)	11	-	-	-	-	-	-	13:kriyAmUla
+ho_1-wA_hE_1	12	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	4:rcdelim	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0012a>
+#जो बल पृथ्वी के आंतरिक भाग में घटित होते हैं उन्हें अंतर्जनित बल एंडोजेनिक फोर्स कहते हैं।
+#jo bala pqWvI ke AMwarika BAga meM Gatiwa howe hEM unheM aMwarjaniwa bala eMdojenika Porsa kahawe hEM.
+#The forces which act in the interior of the earth are called as Endogenic forces.
+$yax	1	-	-	2:dem	-	-	-	-
+bala_3(force_5)	2	-	-	8:k1	-	-	-	-
+pqWvI_1(earth_9)	3	-	-	5:r6	-	-	-	-
+AMwarika_1(internal_4)	4	-	-	5:mod	-	-	-	-
+BAga_2(part_9)	5	-	-	8:k7p	-	-	-	-
+Gatiwa_1	6	-	-	-	-	-	-	8:kriyAmUla
+ho_1-wA_hE_1	7	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	9:rcdelim	-	-	-	-
+$wyax	9	-	-	16:k2	8:coref	distal	-	-
+aMwarjaniwa_2(endogenic_1)	10	-	-	-	-	-	-	12:mod
+bala_3(force_5)	11	-	-	-	-	-	-	12:head
+[nc_1]	12	-	-	16:k2s	-	-	-	-
+^eMdojenika_1(endogenic_2)	13	-	-	-	-	-	-	15:mod
+Porsa_1(force_17)	14	-	-	-	-	-	-	15:head
+[nc_2]	15	-	-	12:rs	-	-	-	-
+kaha_1-wA_hE_1	16	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0012b>
+#एवं जो बल पृथ्वी की सतह पर उत्पन्न होते हैं उन्हें बहिर्जनिक बल एक्सोजेनिक फोर्स कहते हैं।
+#evaM jo bala pqWvI kI sawaha para uwpanna howe hEM unheM bahirjanika bala eksojenika Porsa kahawe hEM.
+#And the forces that work on the surface of the earth are called as Exogenic forces.
+$yax	1	-	-	2:dem	-	-	-	-
+bala_3(force_5)	2	-	-	6:k1	-	-	-	-
+pqWvI_1(earth_9)	3	-	-	4:r6	-	-	-	-
+sawaha_1(surface_3)	4	-	-	6:k7p	-	-	-	-
+uwpanna_4(create_15)	5	-	-	6:k1s	-	-	-	-
+ho_1-wA_hE_1	6	-	-	7:rcdelim	-	-	-	-
+$wyax	7	-	-	14:k2	6:coref	distal	-	-
+bahirjanika_1(exogenic_1)	8	-	-	-	-	-	-	10:mod
+bala_3(force_5)	9	-	-	-	-	-	-	10:head
+[nc_1]	10	-	-	14:k2s	-	-	-	-
+^eksojenika_1	11	-	-	-	-	-	-	13:mod
+Porsa_1(force_17)	12	-	-	-	-	-	-	13:head
+[nc_2]	13	-	-	10:rs	-	-	-	-
+kaha_1-wA_hE_1	14	-	-	0:main	Geo_ncert_7stnd_3ch_0012a.16:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0013>
+#अंतर्जनित बल कभी आकस्मिक गति उत्पन्न करते हैं तो कभी धीमी गति।
+#aMwarjaniwa bala kaBI Akasmika gawi uwpanna karawe hEM wo kaBI XImI gawi.
+#Endogenic forces sometimes produce sudden movements and at the other times slow movements.
+aMwarjaniwa_2(endogenic_1)	1	-	-	2:mod	-	-	-	-
+bala_3(force_5)	2	-	-	8:k1	-	-	-	-
+kaBI_1(sometime_1)	3	-	-	5:freq	-	-	-	-
+Akasmika_1(sudden_4)	4	-	-	5:mod	-	-	-	-
+gawi_2(movement_3)	5	-	-	-	-	-	-	12:op1
+uwpanna_4(create_15)	6	-	-	-	-	-	-	8:kriyAmUla
+kara_1-wA_hE_1	7	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	0:main	-	-	-	-
+kaBI_1(sometime_1)	9	-	-	11:freq	-	wo_3	-	-
+XImI_1	10	-	-	11:mod	-	-	-	-
+gawi_2(movement_3)	11	-	-	-	-	-	-	12:op2
+[conj_1]	12	-	-	8:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0013b>
+#तो कभी धीमी गति उत्पन्न करते हैं।
+#wo kaBI XImI gawi uwpanna karawe hEM.
+#Endogenic forces sometimes produce sudden movements and at the other times produce slow movements.
+-	-	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0014>
+#भूकंप एवं ज्वालामुखी जैसी आकस्मिक गति के कारण पृथ्वी की सतह पर अत्यधिक हानि होती है।
+#BUkaMpa evaM jvAlAmuKI jEsI Akasmika gawi ke kAraNa pqWvI kI sawaha para awyaXika hAni howI hE.
+#Sudden movements like earthquakes and volcanoes cause mass destruction over the surface of the earth.
+BUkaMpa_1(earthquake_2)	1	-	-	-	-	-	-	3:op1
+jvAlAmuKI_1(volcano_1)	2	-	-	-	-	-	-	3:op2
+[conj_1]	3	-	-	5:re	-	-	-	-
+Akasmika_1(sudden_4)	4	-	-	5:mod	-	-	-	-
+gawi_2(movement_3)	5	-	-	10:rh	-	-	-	-
+pqWvI_1(earth_9)	6	-	-	7:r6	-	-	-	-
+sawaha_1(surface_3)	7	-	-	10:k7p	-	-	-	-
+awyaXika_3(much_11)	8	-	-	9:quant	-	-	-	-
+hAni_4(destruction_27)	9	-	-	10:k1	-	-	-	-
+ho_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0015H>
+#स्थलमंडलीय प्लेट।
+#sWalamaMdalIya pleta.
+#sWalamaMdalIya pleta.
+sWalamaMdalIya_1(lithospheric_1)	1	-	-	2:mod	-	-	-	-
+pleta_1(plate_6)	2	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0016>
+#भू-पर्पटी में अनेक बड़ी एवं कुछ छोटी कठोर, असमान-आकार की प्लेटें होती हैं जिन पर महाद्वीप एवं महासागर की सतहें टिकी हैं।
+#BU-parpatI meM aneka badZI evaM kuCa CotI kaTora, asamAna-AkAra kI pleteM howI hEM jina para mahAxvIpa evaM mahAsAgara kI sawaheM tikI hEM.
+#The earth’s crust consists of several large and some small, rigid, irregularlyshaped plates which carry continents and the ocean floor.
+BU+parpatI_1	1	-	-	14:k7p	-	-	-	-
+aneka_3(several_1)	2	-	-	3:quant	-	-	-	-
+badZA_6(big_11)	3	-	-	-	-	-	-	6:op1
+kuCa_1(some_2)	4	-	-	5:quant	-	-	-	-
+CotA_1(small_6)	5	-	-	-	-	-	-	6:op2
+[conj_1]	6	-	-	7:mod	-	-	-	-
+AkAra_3(size_1)	7	-	-	-	-	-	-	12:op1
+kaTora_7(rigid_2)	8	-	-	9:mod	-	-	-	-
+prakqwi_4(nature_10)	9	-	-	-	-	-	-	12:op2
+asamAna_2(disproportionate_1)	10	-	-	11:mod	-	-	-	-
+Akqwi(shape_2)	11	-	-	-	-	-	-	12:op3
+[conj_2]	12	-	-	13:r6	-	-	-	-
+pleta_1(plate_6)	13	-	pl	14:k1	-	-	-	-
+ho_1-wA_hE_1	14	-	-	0:main	-	-	-	-
+$yax	15	-	-	21:k7p	13:coref	-	-	-
+mahAxvIpa_1(continent_1)	16	-	-	-	-	-	-	18:op1
+mahAsAgara_1(ocean_4)	17	-	-	-	-	-	-	18:op2
+[conj_3]	18	-	-	19:r6	-	-	-	-
+sawaha_4(floor_13)	19	-	pl	21:k1	-	-	-	-
+tika_1	20	-	-	21:k1s	-	-	-	-
+hE_1-pres	21	-	-	13:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0017>
+#ज्वालामुखी भू-पर्पटी पर खुला एक ऐसा छिद्र होता है, जिससे पिघले हुए पदार्थ अचानक निकलते हैं।
+#jvAlAmuKI BU-parpatI para KulA eka EsA Cixra howA hE, jisase piGale hue paxArWa acAnaka nikalawe hEM.
+#A volcano is a vent in the earth’s crust through which molten material erupts suddenly.
+jvAlAmuKI_1(volcano_1)	1	-	-	8:k1	-	-	-	-
+BU+parpatI_1	2	-	-	3:k7p	-	-	-	-
+Kula_1(open_1)	3	-	-	7:rbks	-	-	-	-
+eka_2(a_1)	4	-	-	6:quant	-	-	-	-
+$wyax	5	-	-	6:dem	-	proximal	-	-
+prakAra_7(type_6)	6	-	-	7:r6	-	-	-	-
+Cixra_11(vent_3)	7	-	-	8:k1s	-	-	-	-
+ho_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+$yax	9	-	-	13:k5	-	-	-	-
+piGala_1(melt_2)	10	-	-	11:rbks	-	-	-	-
+paxArWa_10(material_7)	11	-	-	13:k1	-	-	-	-
+acAnaka_1(suddenly_1)	12	-	-	13:krvn	-	-	-	-
+nikala_1-wA_hE_1	13	-	-	1:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0018>
+#इसी प्रकार, स्थलमंडलीय प्लेटों के गति करने पर पृथ्वी की सतह पर कंपन होता है।
+#isI prakAra, sWalamaMdalIya pletoM ke gawi karane para pqWvI kI sawaha para kaMpana howA hE.
+#Similarly, when the Lithospheric plates move, the surface of the earth vibrates.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+prakAra_4(manner_5)	2	-	-	11:vkvn	-	-	-	-
+sWalamaMdalIya_1(lithospheric_1)	3	-	-	4:mod	-	-	-	-
+pleta_1(plate_6)	4	-	pl	7:k1	-	-	-	-
+gawi_2(movement_3)	5	-	-	-	-	-	-	7:kriyAmUla
+kara_17(do_2)	6	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	11:rh	-	-	-	-
+pqWvI_1(earth_9)	8	-	-	9:r6	-	-	-	-
+sawaha_1(surface_3)	9	-	-	11:k7p	-	-	-	-
+kaMpana_5(vibration_1)	10	-	-	11:k1	-	-	-	-
+ho_1-wA_hE_1	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0019>
+#यह कंपन पृथ्वी के चारों ओर गति कर सकता है।
+#yaha kaMpana pqWvI ke cAroM ora gawi kara sakawA hE.
+#The vibrations can travel all round the earth.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+kaMpana_5(vibration_1)	2	-	-	7:k1	-	-	-	-
+pqWvI_1(earth_9)	3	-	-	4:r6	-	-	-	-
+cAroM+ora_2(everywhere_37)	4	-	-	7:k7p	-	-	-	-
+gawi_2(movement_3)	5	-	-	-	-	-	-	7:kriyAmUla
+kara_1-0_sakawA_hE_1	6	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0020>
+#इस कंपन को भूकंप कहते हैं।
+#isa kaMpana ko BUkaMpa kahawe hEM.
+#These vibrations are called earthquakes.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+kaMpana_5(vibration_1)	2	-	-	4:k2	-	-	-	-
+BUkaMpa_1(earthquake_2)	3	-	-	4:k2s	-	-	-	-
+kaha_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0021>
+#भू-पर्पटी के नीचे वह स्थान जहाँ कंपन आरंभ होता है, उद्गम केंद्र कहलाता है।
+#BU-parpatI ke nIce vaha sWAna jahAz kaMpana AraMBa howA hE, uxgama keMxra kahalAwA hE.
+#The place in the crust where the movement starts is called the focus.
+BU+parpatI_1	1	-	-	2:rdl	-	-	-	-
+nIce_2(beneath_2)	2	-	-	9:k7p	-	-	-	-
+$wyax	3	-	-	4:dem	-	distal	-	-
+sWAna_1(place_14)	4	-	-	13:k2	-	-	-	-
+$yax	5	-	-	9:k7p	4:coref	-	-	-
+kaMpana_5(vibration_1)	6	-	-	9:k1	-	-	-	-
+AraMBa_1(start_2)	7	-	-	-	-	-	-	9:kriyAmUla
+ho_1-wA_hE_1	8	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	4:rcloc	-	-	-	-
+uxgama(origin_3)	10	-	-	-	-	-	-	12:mod
+keMxra_1(centre_5)	11	-	-	-	-	-	-	12:head
+[nc_1]	12	-	-	13:k2s	-	-	-	-
+kahalA_1-wA_hE_1	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0022>
+#उद्गम केंद्र के भूसतह पर उसके निकटतम स्थान को अधिकेंद्र कहते हैं।
+#uxgama keMxra ke BUsawaha para usake nikatawama sWAna ko aXikeMxra kahawe hEM.
+#The place on the surface above the focus is called the epicentre.
+uxgama_1(origin_3)	1	-	-	-	-	-	-	3:mod
+keMxra_1(centre_5)	2	-	-	-	-	-	-	3:head
+[nc_1]	3	-	-	4:r6	-	-	-	-
+BU+sawaha_1	4	-	-	9:k7p	-	-	-	-
+$wyax	5	-	-	7:r6	3:coref	distal	-	-
+nikata_1	6	-	superl	7:mod	-	-	-	-
+sWAna_1(place_14)	7	-	-	9:k2	-	-	-	-
+aXikeMxra_2(epicentre_1)	8	-	-	9:k2s	-	-	-	-
+kaha_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0023>
+#अधिकेंद्र से कंपन बाहर की ओर तरंगों के रूप में गमन करती हैं।
+#aXikeMxra se kaMpana bAhara kI ora waraMgoM ke rUpa meM gamana karawI hEM.
+#Vibrations travel outwards from the epicentre as waves.
+aXikeMxra_2(epicentre_1)	1	-	-	8:k5	-	-	-	-
+kaMpana_5(vibration_1)	2	-	-	8:k1	-	-	-	-
+bAhara_2(outside_2)	3	-	-	8:rd	-	-	-	-
+waraMga_1(wave_3)	4	-	pl	5:r6	-	-	-	-
+rUpa_1(form_10)	5	-	-	8:krvn	-	-	-	-
+gamana_2(travel_4)	6	-	-	-	-	-	-	8:kriyAmUla
+kara_1-wA_hE_1	7	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0024a>
+#अधिकेंद्र के निकटतम भाग में सर्वाधिक हानि होती है।
+#aXikeMxra ke nikatawama BAga meM sarvAXika hAni howI hE.
+#Greatest damage is usually closest to the epicentre.
+aXikeMxra_2(epicentre_1)	1	-	-	3:r6	-	-	-	-
+nikata_2(close_5)	2	-	superl	3:mod	-	-	-	-
+BAga_1(portion_7)	3	-	-	6:k7p	-	-	-	-
+aXika_1(more_1)	4	-	superl	5:mod	-	-	-	-
+hAni_3(damage_29)	5	-	-	6:k1	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0024b>
+#एवं अधिकेंद्र से दूरी बढने के साथ भूकंप की तीव्रता धीरे-धीरे कम होती जाती है।
+#evaM aXikeMxra se xUrI baDane ke sAWa BUkaMpa kI wIvrawA XIre-XIre kama howI jAwI hE.
+#And the strength of the earthquake decreases away from the centre.
+aXikeMxra_2(epicentre_1)	1	-	-	3:k5	-	-	-	-
+xUrI_1(distance_2)	2	-	-	3:k2	-	-	-	-
+baDa_4(increase_76)	3	-	-	8:rprop	-	-	-	-
+BUkaMpa_1(earthquake_2)	4	-	-	5:r6	-	-	-	-
+wIvrawA_4(strength_41)	5	-	-	8:k1	-	-	-	-
+XIre_1(slowly_3)	6	-	xviwva	8:krvn	-	-	-	-
+kama_22(decrease_18)	7	-	-	8:k1s	-	-	-	-
+ho_1-wA_hE_1	8	-	-	0:main	Geo_ncert_7stnd_3ch_0024a.6:samuccaya	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0025>
+#आप एक बर्तन लें।
+#Apa eka barwana leM.
+#Take a container.
+$addressee	1	anim	-	4:k1	-	respect	-	-
+eka_2(a_1)	2	-	-	3:quant	-	-	-	-
+barwana_1	3	-	-	4:k2	-	-	-	-
+le_1-o_1	4	-	-	0:main	-	-	-	-
+%imperative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0026a>
+#उसे जल से भरकर ढक्कन से बंद कर दें।
+#use jala se Barakara Dakkana se baMxa kara xeM.
+#Fill it with water and close it with a lid.
+$addressee	1	anim	-	8:k1	-	respect	-	-
+$wyax	2	-	-	8:k2	Geo_ncert_7stnd_3ch_0025.3:coref	distal	-	-
+jala_1(water_3)	3	-	-	4:k3	-	-	-	-
+Bara_1(fill_3)	4	-	-	8:rpk	-	-	-	-
+Dakkana_1(lid_3)	5	-	-	8:k3	-	-	-	-
+baMxa_1(closed_3)	6	-	-	-	-	-	-	8:kriyAmUla
+kara_1-o_1	7	-	-	-	-	[shade:xe_1]	-	8:verbalizer
+[cp_1]	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0026b>
+#तथा जल गर्म करने के लिए रख दें।
+#waWA jala garma karane ke lie raKa xeM.
+#And put the water to boil.
+$addressee	1	anim	-	6:k1	-	respect	-	-
+jala_1(water_3)	2	-	-	5:k2	-	-	-	-
+garma_1(warm_6)	3	-	-	-	-	-	-	5:kriyAmUla
+kara_17(do_2)	4	-	-	-	-	-	-	5:verbalizer
+[cp_1]	5	-	-	6:rt	-	-	-	-
+raKa_1-o_1	6	-	-	0:main	Geo_ncert_7stnd_3ch_0026a.8:samuccaya	[shade:xe_1]	-	-
+%imperative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0027>
+#अब कुछ मटर, चम्मच और मोती ढक्कन के ऊपर रख दें।
+#aba kuCa matara, cammaca Ora mowI Dakkana ke Upara raKa xeM.
+#Now put some peas, spoon and beads on top on the lid.
+aba_1(now_3)	1	-	-	10:k7t	-	-	-	-
+$adressee	2	anim	-	10:k1	-	respect	-	-
+kuCa_1(some_2)	3	-	-	4:quant	-	-	-	-
+matara_1(pea_1)	4	-	-	-	-	-	-	7:op1
+cammaca_1(spoon_1)	5	-	-	-	-	-	-	7:op2
+mowI_1	6	-	-	-	-	-	-	7:op3
+[conj_1]	7	-	-	10:k2	-	-	-	-
+Dakkana_1(lid_3)	8	-	-	9:rdl	-	-	-	-
+Upara_3(above_2)	9	-	-	10:k7p	-	-	-	-
+raKa_1-o_1	10	-	-	0:main	-	[shade:xe_1]	-	-
+%imperative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0028>
+#आप क्या देखते हैं?
+#Apa kyA xeKawe hEM?
+#Apa kyA xeKawe hEM?
+$addressee	1	anim	-	3:k1	-	respect	-	-
+$kim	2	-	-	3:k2	-	-	-	-
+xeKa_1-wA_hE_1	3	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0029a>
+#जैसे ही जल में उबाल आता है।
+#jEse hI jala meM ubAla AwA hE.
+#As the water boils.
+-	-	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0029b>
+#ढक्कन भी हिलने लगता है।
+#Dakkana BI hilane lagawA hE.
+#The lid begins to shake.
+$wyax	1	-	-	3:k7t	-	-	-	-
+Dakkana_1(lid_3)	2	-	-	3:k1	-	BI_1	-	-
+hila_1-nA_lagawA_hE_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0030>
+#जो वस्तुएँ आपने ढक्कन के ऊपर रखी हैं उनमें कंपन होने लगता है।
+#jo vaswuez Apane Dakkana ke Upara raKI hEM unameM kaMpana hone lagawA hE.
+#The things which you have put on the lid also vibrate.
+$yax	1	-	-	2:dem	-	-	-	-
+vaswu_2(thing_3)	2	-	pl	6:k2	-	-	-	-
+$addressee	3	anim	-	6:k1	-	respect	-	-
+Dakkana_1(lid_3)	4	-	-	5:rdl	-	-	-	-
+Upara_3(above_2)	5	-	-	6:k7p	-	-	-	-
+raKa_1-yA_hE_1	6	-	-	7:rcdelim	-	-	-	-
+$wyax	7	-	-	9:k7p	2:coref	distal	-	-
+kaMpana_5(vibration_1)	8	-	-	9:k1	-	-	-	-
+ho_1-nA_lagawA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0031a>
+#दाने नीचे जाते है।
+#xAne nIce jAwe hE.
+#The beads roll down.
+xAnA_5(bead_1)	1	-	pl	3:k1	-	-	-	-
+nIce_5(down_1)	2	-	-	3:k2p	-	-	-	-
+jA_1-wA_hE_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0031b>
+#और चम्मच के कंपन से ध्वनि उत्पन्न होती है।
+#Ora cammaca ke kaMpana se Xvani uwpanna howI hE.
+#And the spoon vibrates to make a sound.
+cammaca_1(spoon_1)	1	-	-	2:r6	-	-	-	-
+kaMpana_5(vibration_1)	2	-	-	6:rh	-	-	-	-
+Xvani_1(sound_9)	3	-	-	6:k1	-	-	-	-
+uwpanna_4(create_15)	4	-	-	-	-	-	-	6:kriyAmUla
+ho_1-wA_hE_1	5	-	-	-	-	-	-	6:verbalizer
+[cp_1]	6	-	-	0:main	Geo_ncert_7stnd_3ch_0031a.3:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0032a>
+#इसी भाँति जब भूकंप आते हैं
+#isI BAzwi jaba BUkaMpa Awe hEM
+#In the same manner, when an earthquake occurs.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+BAzwi_3(manner_6)	2	-	-	5:krvn	-	-	-	-
+BUkaMpa_1(earthquake_2)	4	-	-	5:k1	-	-	-	-
+A_1-wA_hE_1	5	-	-	0:main	Geo_ncert_7stnd_3ch_0032b.10:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0032b>
+#तो पृथ्वी में कंपन उत्पन्न होने लगता है।
+#wo pqWvI meM kaMpana uwpanna hone lagawA hE.
+#Then the earth vibrates
+pqWvI_1(earth_9)	1	-	-	10:k7p	-	-	-	-
+kaMpana_5(vibration_1)	3	-	-	10:k1	-	-	-	-
+uwpanna_1(produced_1)	4	-	-	-	-	-	-	10:kriyAmUla
+ho_1-nA_lagawA_hE_1	5	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0033>
+#भूकंपीय तरंगे तीन प्रकार की होती हैं।
+#BUkaMpIya waraMge wIna prakAra kI howI hEM.
+#There are three types of earthquake waves.
+BUkaMpIya_1	1	-	-	2:mod	-	-	-	-
+waraMga_1(wave_3)	2	-	pl	6:k1	-	-	-	-
+3	3	numex	-	4:card	-	-	-	-
+prakAra_7(type_6)	4	-	-	6:k1s	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0034F>
+#पी तरंगें अथवा अनुदैर्ध्य तरंगें।
+#pI waraMgeM aWavA anuxErXya waraMgeM.
+#pI waraMgeM aWavA anuxErXya waraMgeM.
+@pI	1	-	-	-	-	-	-	9:op1
+waraMga_1(wave_3)	2	-	pl	1:rs	-	-	-	-
+waraMga_1(wave_3)	3	-	pl	-	-	-	-	9:op2
+anuxErXya_1	4	-	-	3:mod	-	-	-	-
+[disjunct_1]	9	-	-	0:main	-	-	-	-
+%fragment
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0035F>
+#एस तरंगें अथवा अनुप्रस्थ तरंगें।
+#esa waraMgeM aWavA anuprasWa waraMgeM.
+#esa waraMgeM aWavA anuprasWa waraMgeM.
+@esa	1	-	-	-	-	-	-	8:op1
+waraMga(wave_3)	2	-	pl	1:rs	-	-	-	-
+anuprasWa_1(transverse_1)	4	-	-	5:mod	-	-	-	-
+waraMga_1(wave_3)	5	-	pl	-	-	-	-	8:op2
+[disjunct_1]	8	-	-	0:main	-	-	-	-
+%fragment
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0036>
+#आप इन तरंगों के गुणधर्म विश्वकोश से ज्ञात करने का प्रयास कीजिए।
+#Apa ina waraMgoM ke guNaXarma viSvakoSa se jFAwa karane kA prayAsa kIjie.
+#You try to find out the properties of these waves from an encyclopedia.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+waraMga_1(wave_3)	2	-	pl	4:r6	-	-	-	-
+guNaXarma_1(property_9)	4	-	-	13:k2	-	-	-	-
+viSvakoSa_1(encyclopaedia_1)	5	-	-	13:k5	-	-	-	-
+jFAwa_1(known_1)	7	-	-	-	-	-	-	13:kriyAmUla
+kara_17(do_2)	8	-	-	-	-	-	-	13:verbalizer
+prayAsa_3(attempt_2)	10	-	-	-	-	-	-	14:kriyAmUla
+kara_1-o_1	11	-	-	-	-	-	-	14:verbalizer
+[cp_1]	13	-	-	14:k2	-	-	-	-
+[cp_2]	14	-	-	0:main	-	-	-	-
+$addressee	15	anim	-	14:k1	-	respect	-	-
+%imperative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0037F>
+#एल तरंगें अथवा पृष्ठीय तरंगें।
+#ela waraMgeM aWavA pqRTIya waraMgeM.
+#ela waraMgeM aWavA pqRTIya waraMgeM.
+@ela	1	-	-	-	-	-	-	8:op1
+waraMga(wave_3)	2	-	pl	1:rs	-	-	-	-
+pqRTIya_1(surface_11)	4	-	-	-	-	-	-	7:mod
+waraMga_1(wave_3)	5	-	pl	-	-	-	-	7:head
+[6-waw_1]	7	-	-	-	-	-	-	8:op2
+[disjunct_1]	8	-	-	0:main	-	-	-	-
+%fragment
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0038a>
+#यद्यपि, भूकंप की भविष्यवाणी संभव नहीं है।
+#yaxyapi, BUkaMpa kI BaviRyavANI saMBava nahIM hE.
+#Although earthquakes cannot be predicted, the impact can certainly be minimised if we are prepared before-hand.
+BUkaMpa_1(earthquake_2)	3	-	-	5:r6	-	-	-	-
+BaviRyavANI_2(prediction_2)	5	-	-	8:k1	-	-	-	-
+saMBava_1(possible_3)	6	-	-	8:k1s	-	-	-	-
+nahIM_1(not_1)	7	-	-	8:neg	-	-	-	-
+hE_1-pres	8	-	-	0:main	Geo_ncert_7stnd_3ch_0038b.6:vyABicAra	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0038b>
+#लेकिन यदि हम पहले से तैयार हों।
+#lekina yaxi hama pahale se wEyAra hoM.
+#Although earthquakes cannot be predicted, the impact can certainly be minimised if we are prepared before-hand.
+$speaker	2	anim	pl	6:k1	-	-	-	-
+pahale(beforehand_1)	3	-	-	6:k7t	-	-	-	-
+wEyAra_1(ready_4)	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	Geo_ncert_7stnd_3ch_0038c.13:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0038c>
+#तो इसके प्रभाव को निश्चित रूप से कम किया जा सकता है।
+#wo isake praBAva ko niSciwa rUpa se kama kiyA jA sakawA hE.
+#Although earthquakes cannot be predicted, the impact can certainly be minimised if we are prepared before-hand.
+$wyax	1	-	-	2:r6	Geo_ncert_7stnd_3ch_0038a.3:coref	proximal	-	-
+praBAva_3(impact_5)	2	-	-	8:k2	-	-	-	-
+niSciwa_2(certain_4)	4	-	-	5:mod	-	-	-	-
+kara_1-yA_jA_sakawA_hE_1	8	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+kama	14	-	-	-	-	-	-	13:kriyAmUla
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0039>
+#स्थानीय लोग कुछ सामान्य तरीकों से भूकंप की संभावना का अनुमान लगाते हैं जैसे जानवरों के व्यवहार का अध्ययन, तालाब में मछलियों की उत्तेजना, साँपों का धरातल पर आना।
+#sWAnIya loga kuCa sAmAnya warIkoM se BUkaMpa kI saMBAvanA kA anumAna lagAwe hEM jEse jAnavaroM ke vyavahAra kA aXyayana, wAlAba meM maCaliyoM kI uwwejanA, sAzpoM kA XarAwala para AnA.
+#Some common earthquake prediction methods adopted locally by people include studying animal behaviour; fish in the ponds get agitated, snakes come to the surface.
+sWAnIya_1(local_6)	1	-	-	2:mod	-	-	-	-
+loga_2(people_5)	2	anim	-	33:k1	-	-	-	-
+kuCa(some_2)	3	-	-	5:quant	-	-	-	-
+sAmAnya_2(common_6)	4	-	-	5:mod	-	-	-	-
+warIkA_5(method_16)	5	-	pl	33:k3	-	-	-	-
+BUkaMpa_1(earthquake_2)	7	-	-	9:r6	-	-	-	-
+saMBAvanA_1(possibility_1)	9	-	-	33:k2	-	-	-	-
+anumAna_1	11	-	-	-	-	-	-	33:kriyAmUla
+lagA_1-wA_hE_1	12	-	-	-	-	-	-	33:verbalizer
+jAnavara_1(animal_2)	15	anim	pl	17:r6	-	-	-	-
+vyavahAra(behaviour_5)	17	-	-	19:r6	-	-	-	-
+aXyayana_1(study_1)	19	-	-	-	-	-	-	34:op1
+wAlAba_3(pond_5)	21	-	-	23:k7p	-	-	-	-
+maCalI_1(fish_2)	23	anim	pl	25:r6	-	-	-	-
+uwwejanA(agitation_25)	25	-	-	-	-	-	-	34:op2
+sAzpa_1(snake_9)	27	anim	pl	31:k1	-	-	-	-
+XarAwala_1(surface_2)	29	-	-	31:k2g	-	-	-	-
+A_1(come_1)	31	-	-	-	-	-	-	34:op3
+[cp_1]	33	-	-	0:main	-	-	-	-
+[conj_1]	34	-	-	5:re	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0040F>
+#26 जनवरी 2001 को भुज शहर में रिक्टर स्केल पर 6.9 की तीव्रता वाला भीषण भूकंप।
+#26 janavarI 2001 ko Buja Sahara meM riktara skela para 6.9 kI wIvrawA vAlA BIRaNa BUkaMpa.
+#A massive earthquake measuring 6.9 on Richter scale hit Bhuj Town on 26th January 2001.
+26	1	dom	-	-	-	-	-	21:component1
+janavarI	2	moy	-	-	-	-	-	21:component2
+2001	3	yoc	-	-	-	-	-	21:component3
+Buja	5	-	-	-	-	-	-	22:begin
+Sahara_2(town_6)	6	-	-	16:k7p	-	-	-	-
+riktara	8	-	-	-	-	-	-	23:begin
+^skela	9	-	-	-	-	-	-	20:head
+6.9	11	numex	-	13:r6	-	-	-	-
+wIvrawA_4(strength_41)	13	-	mawupa	16:mod	-	-	-	-
+BIRaNa_1	15	-	-	16:mod	-	-	-	-
+BUkaMpa_1(earthquake_2)	16	-	-	0:main	-	-	-	-
+[6-wav_1]	20	-	-	16:k7	-	-	-	-
+[calendar_1]	21	-	-	16:k7t	-	-	-	-
+[ne_1]	22	place	-	6:mod	-	-	-	-
+[ne_2]	23	ne	-	-	-	-	-	20:mod
+%fragment
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0041>
+#स्कूलों की इमारतें गिरने से कम से कम 971 छात्रों एवं 31 शिक्षकों की मौत की आशंका है।
+#skUloM kI imAraweM girane se kama se kama 971 CAwroM evaM 31 SikRakoM kI mOwa kI ASaMkA hE.
+#Atleast 971 students and 31 teachers are feared to have lost their lives following the collapse of school buildings.
+^skUla	1	-	pl	3:r6	-	-	-	-
+imArawa_1(building_1)	3	-	pl	4:k2	-	-	-	-
+gira(collapse_1)	4	-	-	18:rh	-	-	-	-
+971	9	numex	-	10:card	-	-	-	-
+CAwra_1(student_2)	10	anim	pl	-	-	-	-	20:op1
+31	12	numex	-	13:card	-	-	-	-
+SikRaka_1(teacher_9)	13	anim	pl	-	-	-	-	20:op2
+mOwa_1(death_16)	15	-	-	17:r6	-	-	-	-
+ASaMkA_3(fear_1)	17	-	-	18:k1	-	-	-	-
+hE_1-pres	18	-	-	0:main	-	-	-	-
+[conj_1]	20	-	-	15:r6	-	kama_se_kama_1	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0042>
+#भूकंप के तीन दिन बाद भी हर व्यक्ति तक भोजन, कंबल दवाएँ आदि न पहुँचने के कारण हालत चिंताजनक है
+#BUkaMpa ke wIna xina bAxa BI hara vyakwi waka Bojana, kaMbala xavAez Axi na pahuzcane ke kAraNa hAlawa ciMwAjanaka hE
+#Three days after the quake, concern rose about food, blankets and medical supplies not reaching everyone.
+BUkaMpa_1(earthquake_2)	1	-	-	22:r6	-	-	-	-
+3	3	numex	-	-	-	-	-	22:count
+xina_1(day_6)	4	-	-	-	-	-	-	22:unit
+bAxa_1(after_8)	5	-	-	16:k7t	-	BI_1	-	-
+hara_2(every_1)	7	-	-	8:quant	-	-	-	-
+vyakwi_1(individual_6)	8	anim	-	16:k2g	-	-	-	-
+Bojana_1(food_5)	10	-	-	-	-	-	-	23:op1
+kaMbala_1(blanket_1)	12	-	-	-	-	-	-	23:op2
+xavA_1(medicine_4)	13	-	pl	-	-	-	-	23:op3
+nA_1	15	-	-	16:neg	-	-	-	-
+pahuzca_1(reach_1)	16	-	-	21:rh	-	-	-	-
+hAlawa_1(condition_13)	19	-	-	21:k1	-	-	-	-
+ciMwAjanaka_1(concern_14)	20	-	-	21:k1s	-	-	-	-
+hE_1-pres	21	-	-	0:main	-	-	-	-
+[time_meas_1]	22	-	-	5:rkl	-	-	-	-
+[conj_1]	23	-	-	16:k2	-	-	-	-
+Axi(etc_2)	24	-	-	-	-	-	-	23:op4
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0043>
+#फोन लाइनें, जल पाइप लाइनें, विद्युत स्टेशन एवं संचार लाइनें सभी अवरोधित हो गये।
+#Pona lAineM, jala pAipa lAineM, vixyuwa steSana evaM saMcAra lAineM saBI avaroXiwa ho gaye.
+#Pona lAineM, jala pAipa lAineM, vixyuwa steSana evaM saMcAra lAineM saBI avaroXiwa ho gaye.
+^Pona_1	1	-	-	-	-	-	-	18:mod
+^lAina_1	2	-	pl	-	-	-	-	18:head
+jala_1	4	-	pl	-	-	-	-	25:mod
+^pAipa_1	5	-	-	-	-	-	-	20:mod
+^lAina_1	6	-	pl	-	-	-	-	20:head
+vixyuwa_5(power_42)	8	-	-	-	-	-	-	21:mod
+^steSana_1	9	-	-	-	-	-	-	21:head
+saMcAra_2(transmission_4)	11	-	-	-	-	-	-	22:mod
+^lAina_1	12	-	pl	-	-	-	-	22:head
+saBI_1(all_1)	13	-	-	24:rs	-	-	-	-
+avaroXiwa_1	14	-	-	-	-	-	-	23:kriyAmUla
+ho_1-yA_hE_2	15	-	-	-	-	[shade:jA_1]	-	23:verbalizer
+[6_waw_1]	18	-	-	-	-	-	-	24:op1
+[6_waw_2]	20	-	-	-	-	-	-	25:head
+[6_waw_4]	21	-	-	-	-	-	-	24:op3
+[6_waw_5]	22	-	-	-	-	-	-	24:op4
+[cp_1]	23	-	-	0:main	-	-	-	-
+[conj_1]	24	-	-	15:k1	-	-	-	-
+[6_waw_3]	25	-	-	-	-	-	-	24:op2
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0044>
+#चारकोल एवं अँगीठियों के पलटने के कारण अनेक स्थानों पर आग लगा।
+#cArakola evaM azgITiyoM ke palatane ke kAraNa aneka sWAnoM para Aga lagA.
+#cArakola evaM azgITiyoM ke palatane ke kAraNa aneka sWAnoM para Aga lagA.
+cArakola_1(charcoal_5)	1	-	-	-	-	-	-	13:op1
+azgITI_3(brazier_2)	3	-	pl	-	-	-	-	13:op2
+palata_3(overturn_2)	5	-	pl	14:rh	-	-	-	-
+aneka_1(many_2)	8	-	-	9:quant	-	-	-	-
+sWAna_1(place_14)	9	-	pl	14:k7p	-	-	-	-
+Aga_1(fire_4)	11	-	-	14:k1	-	-	-	-
+[conj_1]	13	-	-	5:r6	-	-	-	-
+laga_1-yA_hE_2	14	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0045>
+#राष्ट्रपति ने आपातकालीन स्थिति की घोषणा की।
+#rARtrapawi ne ApAwakAlIna sWiwi kI GoRaNA kI.
+#The President declares a state of emergency.
+rARtrapawi_1(President_1)	1	anim	-	7:k1	-	-	-	-
+ApAwakAlIna_1(emergency_5)	3	-	-	-	-	-	-	10:mod
+sWiwi_6(state_10)	4	-	-	-	-	-	-	10:head
+GoRaNA_1(declaration_2)	6	-	-	-	-	-	-	9:kriyAmUla
+kara_1-yA_hE_2	7	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	-	-	-	-
+[6_waw_1]	10	-	-	9:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0046>
+#गुजरात सरकार ने इस संकट का सामना करने के लिए केंद्र से वित्तीय सहायता माँगी है।
+#gujarAwa sarakAra ne isa saMkata kA sAmanA karane ke lie keMxra se viwwIya sahAyawA mAzgI hE.
+#The Chief Minister of Gujarat has launched an appeal for the Centre to deal with the disaster.
+gujarAwa	1	-	-	-	-	-	-	18:begin
+sarakAra(government_3)	2	-	-	-	-	-	-	20:head
+$wyax	4	-	-	5:dem	-	proximal	-	-
+saMkata_1	5	-	-	7:k2	-	-	-	-
+sAmanA_1	7	-	-	-	-	-	-	19:kriyAmUla
+kara_1	8	-	-	-	-	-	-	19:verbalizer
+keMxra_1(centre_5)	11	-	-	15:k5	-	-	-	-
+viwwIya_1_1(financial_1)	13	-	-	14:mod	-	-	-	-
+sahAyawA_4_1(aid_3)	14	-	-	15:k2	-	-	-	-
+mAzga_1-yA_hE_1	15	-	-	0:main	-	-	-	-
+[ne_1]	18	place	-	-	-	-	-	20:mod
+[cp_1]	19	-	-	15:rt	-	-	-	-
+[6-waw_1]	20	-	-	15:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0047>
+#भूकंप का मापन एक यंत्र से किया जाता है, जिसे भूकंपलेखी कहते हैं।
+#BUkaMpa kA mApana eka yaMwra se kiyA jAwA hE, jise BUkaMpaleKI kahawe hEM.
+#An earthquake is measured with a machine called a seismograph.
+BUkaMpa_1(earthquake_2)	1	-	-	16:k2	-	-	-	-
+mApana_3(measurement_4)	3	-	-	-	-	-	-	16:kriyAmUla
+eka_1	4	-	-	5:quant	-	-	-	-
+yaMwra_1(machine_2)	5	-	-	16:k3	-	-	-	-
+kara_1-yA_jA_wA_hE_1	7	-	-	-	-	-	-	16:verbalizer
+$yax	11	-	-	13:k2	Geo_ncert_7stnd_3ch_0047.5:coref	-	-	-
+BUkaMpaleKI_1(seismograph_1)	12	-	-	13:k2s	-	-	-	-
+kaha_1-wA_hE_1	13	-	-	5:rcelab	-	-	-	-
+[cp_1]	16	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0048>
+#भूकंप की तीव्रता रिक्टर स्केल पर मापी जाती है।
+#BUkaMpa kI wIvrawA riktara skela para mApI jAwI hE.
+#The magnitude of the earthquake is measured on the Richter scale.
+BUkaMpa_1(earthquake_2)	1	-	-	3:r6	-	-	-	-
+wIvrawA_4(strength_41)	3	-	-	7:k2	-	-	-	-
+riktara	4	-	-	-	-	-	-	12:begin
+^skela_1	5	-	-	-	-	-	-	11:head
+mApa_1-yA_jA_wA_hE_1	7	-	-	0:main	-	-	-	-
+[6-waw_1]	11	-	-	7:k7p	-	-	-	-
+[ne_1]	12	ne	-	-	-	-	-	11:mod
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0049>
+#जिस भूकंप की तीव्रता 2.0 अथवा उससे कम होती है, उसका प्रभाव नहीं के बराबर होता है।
+#jisa BUkaMpa kI wIvrawA 2.0 aWavA usase kama howI hE, usakA praBAva nahIM ke barAbara howA hE.
+#An earthquake of 2.0 or less can be felt only a little.
+$yax	1	-	-	2:dem	-	-	-	-
+BUkaMpa_1(earthquake_2)	2	-	-	4:r6	-	-	-	-
+wIvrawA_4(strength_41)	4	-	-	9:k1	-	-	-	-
+2.0	5	numex	-	-	-	-	-	25:count
+$wyax	7	-	-	26:rv	Geo_ncert_7stnd_3ch_0049.25:coref	distal	-	-
+ho_1-wA_hE_1	9	-	-	12:rcdelim	-	-	-	-
+$wyax	12	-	-	13:r6	Geo_ncert_7stnd_3ch_0049.9:coref	distal	-	-
+praBAva_2(effect_6)	13	-	-	17:k1	-	-	-	-
+nahIM_1(not_1)	14	-	-	13:ru	-	-	-	-
+ho_1-wA_hE_1	17	-	-	0:main	-	-	-	-
+[disjunct_1]	21	-	-	9:k1s	-	-	-	-
+kama(less_1)	22	-	-	-	-	-	-	26:count
+^mEgnItyUda	23	-	-	-	-	-	-	25:unit
+mEgnItyUda	24	-	-	-	-	-	-	26:unit
+[volume_meas_1]	25	-	-	-	-	-	-	21:op1
+[volume_meas_1]	26	-	-	-	-	-	-	21:op2
+%negative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0050>
+#जिस भूकंप की तीव्रता 5.0 होती है, वह वस्तुओं के गिरने से क्षति पहुँचा सकता है।
+#jisa BUkaMpa kI wIvrawA 5.0 howI hE, vaha vaswuoM ke girane se kRawi pahuzcA sakawA hE.
+#An earthquake over 5.0 can cause damage from things falling.
+$yax	1	-	-	2:dem	-	-	-	-
+BUkaMpa_1(earthquake_2)	2	-	-	4:r6	-	-	-	-
+wIvrawA_4(strength_41)	4	-	-	6:k1	-	-	-	-
+5.0	5	numex	-	6:k1s	-	-	-	-
+ho_1-wA_hE_1	6	-	-	9:rcdelim	-	-	-	-
+$wyax	9	-	-	16:k1	Geo_ncert_7stnd_3ch_0050.6:coref	distal	-	-
+vaswu_2(thing_3)	10	-	pl	12:k1	-	-	-	-
+gira_1(fall_5)	12	-	-	16:rh	-	-	-	-
+kRawi_6(damage_2)	14	-	-	-	-	-	-	16:kriyAmUla
+pahuzcA_1-0_sakawA_hE_1	15	-	-	-	-	-	-	16:verbalizer
+[cp_1]	16	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0051a>
+#जिस भूकंप की तीव्रता 6.0 अथवा उससे अधिक होती है,वह बहुत शक्तिशाली समझा जाता है।
+#jisa BUkaMpa kI wIvrawA 6.0 aWavA usase aXika howI hE,vaha bahuwa SakwiSAlI samaJA jAwA hE.
+#A 6.0 or higher magnitude is considered very strong and 7.0 is classified as a major earthquake.
+$yax	1	-	-	2:dem	-	-	-	-
+BUkaMpa_1	2	-	-	4:r6	-	-	-	-
+wIvrawA_1	4	-	-	15:k1	-	-	-	-
+6.0	5	numex	-	-	-	-	-	19:op1
+$wyax	7	-	-	9:k1	-	distal	-	-
+ho_1	9	-	-	-	-	-	-	19:op2
+$wyax	12	-	-	15:k1	-	distal	-	-
+bahuwa_1	13	-	-	14:intf	-	-	-	-
+SakwiSAlI_1	14	-	-	15:k2s	-	-	-	-
+samaJA_1-wA_hE_1	15	-	-	0:main	-	[shade:ja_1]	-	-
+[disjunct_1]	19	-	-	15:vmod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0051b>
+#और जिसकी तीव्रता 7.0 अथवा अधिक होती है, वह सर्वाधिक शक्तिशाली समझा जाता है।
+#Ora jisakI wIvrawA 7.0 aWavA aXika howI hE, vaha sarvAXika SakwiSAlI samaJA jAwA hE.
+#A 6.0 or higher magnitude is considered very strong and 7.0 is classified as a major earthquake.
+$yax	1	-	-	2:r6	-	-	-	-
+wIvrawA_1	2	-	-	6:k1	-	-	-	-
+7.0	3	-	-	-	-	-	-	16:op1
+ho_1-wA_hE_1	6	-	-	0:main	Geo_ncert_7stnd_3ch_0051a.6:samuccaya	-	-	-
+$wyax	9	-	-	12:k1	-	distal	-	-
+sarvAXika_1	10	-	-	11:intf	-	-	-	-
+SakwiSAlI_1	11	-	-	12:k2s	-	-	-	-
+samaJA_1	12	-	-	6:rc	-	[shade:ja_1]	-	-
+[disjunct_1]	16	-	-	6:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0052H>
+#क्रियाकलाप।
+#kriyAkalApa .
+#kriyAkalApa.
+kriyAkalApa_1(activity_4)	1	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0053>
+#आप भूकंप के पश्चात समाचारपत्रों के मुख्य समाचारों के रूप में दिया गया ‘भूकंप-एक वस्तुस्थिति अध्ययन’ पढें।
+#Apa BUkaMpa ke paScAwa samAcArapawroM ke muKya samAcAroM ke rUpa meM xiyA gayA ‘BUkaMpa-eka vaswusWiwi aXyayana’ paDeM.
+#You read the ‘Earthquake – A case study’ given in the form of headlines that appeared in the newspapers after the quake.
+BUkaMpa_1(earthquake_2)	1	-	-	16:rblak	-	-	-	-
+samAcArapawra_1(newspaper_4)	4	-	pl	7:r6	-	-	-	-
+muKya_18(main_1)	6	-	-	7:mod	-	-	-	-
+samAcAra_1(news_6)	7	-	pl	20:rs	-	-	-	-
+vaswusWiwi	14	-	-	-	-	-	-	20:inside
+aXyayana	15	-	-	-	-	-	-	20:inside
+paDa_1-o_1	16	-	-	0:main	-	-	-	-
+$addressee	17	anim	-	16:k1	-	respect	-	-
+BUkaMpa	18	-	-	-	-	-	-	20:begin
+eka	19	-	-	-	-	-	-	20:inside
+[ne_1]	20	-	-	16:k2	-	-	-	-
+%imperative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0054a>
+#आप कल्पना यह करें।
+#Apa kalpanA yaha kareM.
+#Imagine if a quake suddenly shook in the middle of the school day, where would you go for safety?
+$addressee	1	anim	-	6:k1	-	respect	-	-
+kalpanA_1(imagination_3)	2	-	-	-	-	-	-	6:kriyAmUla
+$wyax	3	-	-	6:k2	Geo_ncert_7stnd_3ch_0054c.7:coref	proximal	-	-
+kara_1-o_1	4	-	-	-	-	-	-	6:verbalizer
+[cp_1]	6	-	-	0:main	-	-	-	-
+%imperative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0054b>
+#कि यदि स्कूल समय के बीच में अचानक भूकंप आ जाए।
+#ki yaxi skUla samaya ke bIca meM acAnaka BUkaMpa A jAe .
+#Imagine if a quake suddenly shook in the middle of the school day, where would you go for safety?
+^skUla_1	2	-	-	-	-	-	-	12:mod
+samaya_1(time_8)	3	-	-	-	-	-	-	12:head
+acAnaka_1(suddenly_1)	7	-	-	9:krvn	-	-	-	-
+BUkaMpa_1(earthquake_2)	8	-	-	9:k1	-	-	-	-
+A_1-yA_hE_2	9	-	-	-	Geo_ncert_7stnd_3ch_0054c.7:AvaSyakawApariNAma	[shade:jA_1]	-	-
+[6-waw_1]	12	-	-	9:dur	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0054c>
+#तो आप अपनी सुरक्षा के लिए क्या करेंगे?
+#wo Apa apanI surakRA ke lie kyA kareMge?
+#Imagine if a quake suddenly shook in the middle of the school day, where would you go for safety?
+$addressee	1	anim	-	7:k1	-	respect	-	-
+apanA	2	-	-	3:r6	-	-	-	-
+surakRA_4(safety_6)	3	-	-	7:rt	-	-	-	-
+$kim	6	-	-	7:k2	-	-	-	-
+kara_1-gA_1	7	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0055H>
+#भूकंप के दौरान कहाँ आश्रय लें।
+#BUkaMpa ke xOrAna kahAz ASraya leM.
+#Where to take shelter during an earthquake.
+BUkaMpa_1(earthquake_2)	1	-	-	8:dur	-	-	-	-
+$kim	4	-	-	8:k7t	-	-	-	-
+ASraya_1(shelter_1)	5	-	-	-	-	-	-	8:kriyAmUla
+le_1-o_1	6	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	0:main	-	-	-	-
+$addressee	9	anim	-	8:k1	-	respect	-	-
+%heading
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0055H>
+#भूकंप से बचाव की तैयारी
+#BUkaMpa se bacAva kI wEyArI
+#BUkaMpa se bacAva kI wEyArI
+-	-	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0056F>
+#सुरिक्षत स्थान-रसोई के काउंटर या मेज के नीचे, दीवार के अंदरूनी कोने में।
+#surikRawa sWAna-rasoI ke kAuMtara yA meja ke nIce, xIvAra ke aMxarUnI kone meM.
+#Safe Spot – Under a kitchen counter, table or desk, against an inside corner or wall.
+surikRawa_1(safe_7)	1	-	-	2:mod	-	-	-	-
+sWAna(spot_4)	2	-	-	0:main	-	-	-	-
+^kAuMtara_1	4	-	-	-	-	-	-	18:op1
+meja_1(table_6)	6	-	-	-	-	-	-	18:op2
+nIca_1	8	-	-	-	-	-	-	16:op1
+xIvAra_1(wall_1)	10	-	-	13:r6	-	-	-	-
+aMxarUnI_3(inward_1)	12	-	-	13:mod	-	-	-	-
+konA_1(corner_2)	13	-	-	-	-	-	-	16:op2
+[disjunct_2]	16	-	-	2:re	-	-	-	-
+rasoI(kitchen_1)	17	-	-	4:r6	-	-	-	-
+[disjunct_1]	18	-	-	8:r6	-	-	-	-
+%fragment
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0057F>
+#इनसे दूर रहें -आग वाले स्थान, चिमनी के आसपास तथा टूट सकने वाली खिडकियों, दर्पण एवं तसवीर फ्रेम से।
+#inase xUra raheM -Aga vAle sWAna, cimanI ke AsapAsa waWA tUta sakane vAlI KidakiyoM, xarpaNa evaM wasavIra Prema se.
+#Stay Away from – Fire places, areas around chimneys, windows that shatter including mirrors and picture frames.
+$wyax	1	-	pl	3:k5	Geo_ncert_7stnd_3ch_0057F.25:coref	proximal	-	-
+xUra_1(away_1)	2	-	-	3:k2	-	-	-	-
+raha_2-o_1	3	-	-	0:main	-	-	-	-
+Aga_1(fire_4)	5	-	mawupa	7:mod	-	-	-	-
+sWAna_1(place_14)	7	-	-	-	-	-	-	25:op1
+^cimanI_1	9	-	-	11:rdl	-	-	-	-
+Asa+pAsa_1(around_3)	11	-	-	-	-	-	-	25:op2
+tUta_1(break_1)	13	-	-	26:mod	-	-	-	-
+KidakI_1(window_4)	16	-	pl	-	-	-	-	26:op1
+xarpaNa_1(mirror_3)	18	-	-	-	-	-	-	26:op2
+wasavIra_1(picture_2)	20	-	-	-	-	-	-	24:mod
+^Prema_1	21	-	-	-	-	-	-	24:head
+[6-waw_1]	24	-	-	-	-	-	-	26:op3
+[conj_1]	25	-	-	1:re	-	-	-	-
+[conj_2]	26	-	-	-	-	-	-	25:op3
+$addressee	28	anim	-	3:k1	-	respect	-	-
+%fragment
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0058a>
+#आप पहले से तैयार रहें।
+#Apa pahale se wEyAra raheM.
+#Apa pahale se wEyAra raheM.
+pahale(before_3)	1	-	-	4:krvn	-	-	-	-
+wEyAra_1(ready_4)	3	-	-	4:k1s	-	-	-	-
+raha_1-o_1	4	-	-	0:main	-	-	-	-
+$addressee	16	anim	-	4:k1	-	respect	-	-
+%imperative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0058b>
+#आप अपने दोस्तों एवं पारिवारिक सदस्यों के बीच जागरूकता फैलाएँ।
+#Apa apane xoswoM evaM pArivArika saxasyoM ke bIca jAgarUkawA PElAez
+#Apa apane xoswoM evaM pArivArika saxasyoM ke bIca jAgarUkawA PElAez.
+-	-	-	-	-	-	-	-	-
+%imperative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0058c>
+#एवं आप आपदा का सामना विश्वास से करें।
+#evaM Apa ApaxA kA sAmanA viSvAsa se kareM.
+#evaM Apa ApaxA kA sAmanA viSvAsa se kareM.
+ApaxA_5(disaster_1)	1	-	-	8:k2	-	-	-	-
+sAmanA_1(confrontation_5)	3	-	-	-	-	-	-	8:kriyAmUla
+viSvAsa_5(confidence_5)	4	-	-	8:krvn	-	-	-	-
+kara_1-o_1	6	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	0:main	Geo_ncert_7stnd_3ch_0058b.8:samuccaya	-	-	-
+$addressee	9	anim	-	8:k1	-	respect	-	-
+%imperative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0059H>
+#मुख्य स्थलाकृतियाँ।
+#muKya sWalAkqwiyAz.
+#muKya sWalAkqwiyAz.
+muKya_1	1	-	-	2:mod	-	-	-	-
+sWalAkqwi_1	2	-	pl	0:main	-	-	-	-
+%heading
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0060>
+#अपक्षय एवं अपरदन नामक दो प्रक्रमों द्वारा दृश्यभूमि लगातार विघटित होती रहती है।
+#apakRaya evaM aparaxana nAmaka xo prakramoM xvArA xqSyaBUmi lagAwAra viGatiwa howI rahawI hE.
+#The landscape is being continuously worn away by two processes – weathering and erosion.
+apakRaya(weathering_1)	1	-	-	-	-	-	-	16:op1
+aparaxana_1(erosion_1)	3	-	-	-	-	-	-	16:op2
+2	5	numex	-	6:card	-	-	-	-
+prakrama_1(process_2)	6	-	pl	16:rs	-	-	-	-
+xqSyaBUmi_1(landscape_4)	8	-	-	15:k1	-	-	-	-
+lagAwAra_3(constantly_11)	9	-	-	15:krvn	-	-	-	-
+viGatiwa_1(wear-away_1)	10	-	-	-	-	-	-	15:kriyAmUla
+ho_1-wA_rahawA_hE_1	11	-	-	-	-	-	-	15:verbalizer
+[cp_1]	15	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	15:k3	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0061>
+#पृथ्वी की सतह पर शैलों के टूटने से अपक्षय की क्रिया होती है।
+#pqWvI kI sawaha para SEloM ke tUtane se apakRaya kI kriyA howI hE.
+#Weathering is the breaking up of the rocks on the earth’s surface.
+pqWvI_1(earth_9)	1	-	-	3:r6	-	-	-	-
+sawaha_1(surface_3)	3	-	-	7:k7p	-	-	-	-
+SEla_1(rock_5)	5	-	pl	7:k1	-	-	-	-
+tUta_1(break_1)	7	-	-	12:rh	-	-	-	-
+apakRaya_2(weathering_1)	9	-	-	11:r6	-	-	-	-
+kriyA_1(action_6)	11	-	-	12:k1	-	-	-	-
+ho_1-wA_hE_1	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0062>
+#भू-दृश्य पर जल, पवन एवं हिम जैसे विभिन्न घटकों के द्वारा होने वाले क्षय को अपरदन कहते हैं।
+#BU-xqSya para jala, pavana evaM hima jEse viBinna GatakoM ke xvArA hone vAle kRaya ko aparaxana kahawe hEM.
+#Erosion is the wearing away of the landscape by different agents like water, wind and ice.
+BU+xqSya	1	-	-	13:k7p	-	-	-	-
+jala_1(water_3)	3	-	-	-	-	-	-	22:op1
+pavana_3(wind_2)	5	-	-	-	-	-	-	22:op2
+hima(ice_3)	7	-	-	-	-	-	-	22:op3
+viBinna(different_13)	9	-	-	10:mod	-	-	-	-
+Gataka_1(factor_4)	10	-	pl	13:k3	-	-	-	-
+ho_7(happen_2)	13	-	-	15:mod	-	-	-	-
+kRaya(decay_1)	15	-	-	18:k2	-	-	-	-
+aparaxana_1(erosion_1)	17	-	-	18:k2s	-	-	-	-
+kaha_1-wA_hE_1	18	-	-	0:main	-	-	-	-
+[conj_1]	22	-	-	10:re	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0063a>
+#वायु, जल आदि अपरदित पदार्थ को एक स्थान से दूसरे स्थान पर ले जाते हैं
+#vAyu, jala Axi aparaxiwa paxArWa ko eka sWAna se xUsare sWAna para le jAwe hEM
+#The eroded material is carried away or transported by water, wind, etc. and eventually deposited.
+aparaxiwa_1(eroded_2)	5	-	-	6:mod	-	-	-	-
+paxArWa_10(material_7)	6	-	-	14:k2	-	def	-	-
+eka_6(one_1)	8	-	-	9:dem	-	-	-	-
+sWAna_2(spot_4)	9	-	-	-	-	-	-	32:start
+xUsarA_3(another_4)	11	-	-	12:dem	-	-	-	-
+sWAna_2(spot_4)	12	-	-	-	-	-	-	32:end
+le_1-wA_hE_1	14	-	-	0:main	-	[shade:jA_1]	-	-
+vAyu_2(wind_5)	28	-	-	-	-	-	-	31:op2
+jala_1(water_3)	29	-	-	-	-	-	-	31:op1
+Axi(etc_2)	30	-	-	-	-	-	-	31:op3
+[conj_1]	31	-	-	14:k1	-	-	-	-
+[span_1]	32	-	-	14:k2p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0063b>
+#और फलस्वरूप एक स्थान पर निक्षेपित करते हैं।
+#ddjd
+#Ora PalasvarUpa eka sWAna para nikRepiwa karawe hEM.
+-	-	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0064>
+#अपरदन एवं निक्षेपण के ये प्रक्रम पृथ्वी के धरातल पर विभिन्न स्थलाकृतियाँ का निर्माण करते हैं।
+#aparaxana evaM nikRepaNa ke ye prakrama pqWvI ke XarAwala para viBinna sWalAkqwiyAz kA nirmANa karawe hEM.
+#This process of erosion and deposition create different landforms on the surface of the earth.
+aparaxana_1(erosion_1)	1	-	-	-	-	-	-	20:op1
+nikRepaNa_1	3	-	-	-	-	-	-	20:op2
+$wyax	5	-	-	6:dem	-	proximal	-	-
+prakrama_1(process_2)	6	-	-	19:k1	-	-	-	-
+pqWvI_1(earth_9)	7	-	-	9:r6	-	-	-	-
+XarAwala_1(surface_2)	9	-	-	19:k7	-	-	-	-
+viBinna_1(different_13)	11	-	-	12:mod	-	-	-	-
+sWalAkqwi_1	12	-	pl	19:k2	-	-	-	-
+nirmANa_2(creation_3)	14	-	-	-	-	-	-	19:kriyAmUla
+kara_1-wA_hE_1	15	-	-	-	-	-	-	19:verbalizer
+[cp_1]	19	-	-	0:main	-	-	-	-
+[conj_1]	20	-	-	6:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0065>
+#विश्व में हजारोंंं छोटे-छोटे जलप्रपात हैं।
+#viSva meM hajAroM Cote-Cote jalaprapAwa hEM.
+#There are thousands of small waterfalls in the world.
+viSva_6(world_20)	1	-	-	6:k7p	-	-	-	-
+1000	3	numex	pl	5:quantmore	-	-	-	-
+CotA_1(small_6)	4	-	xviwva/pl	5:mod	-	-	-	-
+jalaprapAwa_1(waterfall_1)	5	-	-	6:k1	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0066>
+#सबसे ऊँचा जलप्रपात दक्षिण अमेरिका के वेनेजुएला का एंजेल जलप्रपात है।
+#sabase UzcA jalaprapAwa xakRiNa amerikA ke venejuelA kA eMjela jalaprapAwa hE.
+#The highest waterfall is Angel Falls of Venezuela in South America.
+UzcA_1(high_5)	2	-	superl	3:mod	-	-	-	-
+jalaprapAwa_1(waterfall_1)	3	-	-	11:k1	-	-	-	-
+xakRiNa	4	-	-	-	-	-	-	13:begin
+amerikA	5	-	-	-	-	-	-	13:inside
+venejuelA	7	-	-	-	-	-	-	14:begin
+eMjela	9	-	-	-	-	-	-	15:begin
+jalaprapAwa_1(waterfall_1)	10	-	-	11:k1s	-	-	-	-
+hE_1-pres	11	-	-	0:main	-	-	-	-
+[ne_1]	13	place	-	14:r6	-	-	-	-
+[ne_2]	14	place	-	15:r6	-	-	-	-
+[ne_3]	15	place	-	10:rs	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0067a>
+#अन्य जलप्रपात उत्तरी अमेरिका में कनाडा तथा संयुक्त राज्य अमेरिका की सीमा पर स्थित नियाग्रा जलप्रपात है।
+#anya jalaprapAwa uwwarI amerikA meM kanAdA waWA saMyukwa rAjya amerikA kI sImA para sWiwa niyAgrA jalaprapAwa hE.
+#The other waterfalls are Niagara falls located on the border between Canada and USA in North America.
+anya_1(other_1)	1	-	-	2:mod	-	-	-	-
+jalaprapAwa_1(waterfall_1)	2	-	-	17:k1	-	-	-	-
+uwwarI_1	3	-	-	-	-	-	-	22:begin
+amerikA	4	-	-	-	-	-	-	22:inside
+kanAdA	6	-	-	-	-	-	-	23:begin
+saMyukwa	8	-	-	-	-	-	-	24:begin
+rAjya	9	-	-	-	-	-	-	24:inside
+amerikA	10	-	-	-	-	-	-	24:inside
+sImA_1(border_9)	12	-	-	14:k7p	-	-	-	-
+sWiwa_2(located_2)	14	-	kqw	25:mod	-	-	-	-
+niyAgrA	15	-	-	-	-	-	-	25:begin
+jalaprapAwa_1(waterfall_1)	16	-	-	17:k1s	-	-	-	-
+hE_1-pres	17	-	-	0:main	-	-	-	-
+[conj_1]	21	-	-	12:r6	-	-	-	-
+[ne_1]	22	place	-	17:k7p	-	-	-	-
+[ne_2]	23	place	-	-	-	-	-	21:op1
+[ne_3]	24	place	-	-	-	-	-	21:op2
+[ne_4]	25	place	-	16:rs	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0067b>
+#और अफ्रीका में जांबिया एवं जिंबाबवे की सीमा पर स्थित विक्टोरिया जलप्रपात हैं।
+#Ora aPrIkA meM jAMbiyA evaM jiMbAbave kI sImA para sWiwa viktoriyA jalaprapAwa hEM.
+#and the other waterfalls are Victoria Falls on the borders of Zambia and Zimbabwe in Africa.
+aPrIkA	1	-	-	-	-	-	-	16:begin
+jAMbiyA	3	-	-	-	-	-	-	17:begin
+jiMbAbave	5	-	-	-	-	-	-	18:begin
+sImA_1(border_9)	7	-	-	12:k7p	-	-	-	-
+sWiwa_1(situated_1)	9	-	kqw	12:k1s	-	-	-	-
+viktoriyA	10	-	-	-	-	-	-	19:begin
+jalaprapAwa_1(waterfall_1)	11	-	-	12:k1	-	-	-	-
+hE_1-pres	12	-	-	0:main	Geo_ncert_7stnd_3ch_0067a.17:samuccaya	-	-	-
+[conj_1]	15	-	-	7:r6	-	-	-	-
+[ne_1]	16	place	-	12:k7	-	-	-	-
+[ne_2]	17	place	-	-	-	-	-	15:op1
+[ne_3]	18	place	-	-	-	-	-	15:op2
+[ne_4]	19	place	-	11:rs	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0068F>
+#नदी के कार्य।
+#naxI ke kArya.
+#naxI ke kArya.
+naxI_1(river_3)	1	-	-	3:r6	-	-	-	-
+kArya_3(work_7)	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0069>
+#नदी के जल से दृश्य भूमि का अपरदन होता है।
+#naxI ke jala se xqSya BUmi kA aparaxana howA hE.
+#The running water in the river erodes the landscape.
+naxI_1(river_3)	1	-	-	3:r6	-	-	-	-
+jala_1(water_3)	3	-	-	9:k3	-	-	-	-
+xqSya_1	5	-	-	-	-	-	-	12:mod
+BUmi_1	6	-	-	-	-	-	-	12:head
+aparaxana_1(erosion_1)	8	-	-	9:k1	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+[nc_1]	12	-	-	8:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0070a>
+#जब नदी किसी खडे ढाल वाले स्थान से अत्यधिक कठोर शैल या खडे ढाल वाली घाटी में गिरती है।
+#jaba naxI kisI Kade DAla vAle sWAna se awyaXika kaTora SEla yA Kade DAla vAlI GAtI meM girawI hE.
+#When the river tumbles at steep angle over very hard rocks or down a steep valley side
+naxI_1(river_3)	1	-	-	17:k1	-	-	-	-
+koI_1	2	-	-	6:quant	-	-	-	-
+KadA_1	3	-	-	4:mod	-	-	-	-
+DAla_1	4	-	mawupa	6:mod	-	-	-	-
+sWAna_1(place_14)	6	-	-	17:k5	-	-	-	-
+awyaXika_7(very_2)	8	-	-	9:intf	-	-	-	-
+kaTora_1(hard_2)	9	-	-	10:mod	-	-	-	-
+SEla_1(rock_5)	10	-	-	-	-	-	-	20:op1
+KadA_1	12	-	-	13:mod	-	-	-	-
+DAla_1	13	-	mawupa	15:mod	-	-	-	-
+GAtI_1(valley_2)	15	-	-	-	-	-	-	20:op2
+gira_1-wA_hE_1	17	-	-	0:main	-	-	-	-
+[disjunct_1]	20	-	-	17:k7p	-	-	-	-
+$yax	21	-	-	17:k7t	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0070b>
+#तो यह जलप्रपात बनाती है।
+#wo yaha jalaprapAwa banAwI hE.
+#Then it forms a waterfall.
+$wyax	1	-	-	3:k1	Geo_ncert_7stnd_3ch_0070a.1:coref	proximal	-	-
+jalaprapAwa_1(waterfall_1)	2	-	-	3:k2	-	-	-	-
+banA_1-wA_hE_1	3	-	-	0:main	Geo_ncert_7stnd_3ch_0070a.17:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0071a>
+#जब नदी मैदानी क्षेत्र में प्रवेश करती है।
+#jaba naxI mExAnI kRewra meM praveSa karawI hE.
+#As the river enters the plain.
+naxI_1(river_3)	1	-	-	9:k1	-	-	-	-
+mExAnI_1	2	-	-	3:mod	-	-	-	-
+kRewra_5(area_2)	3	-	-	9:k2p	-	-	-	-
+praveSa_1(entry_5)	5	-	-	-	-	-	-	9:kriyAmUla
+kara_1-wA_hE_1	6	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	-	-	-	-
+$yax	10	-	-	9:k7t	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0071b>
+#तो वह मोडदार मार्ग पर बहने लगती है।
+#wo vaha modaxAra mArga para bahane lagawI hE.
+#As the river enters the plain it twists and turns forming large bends known as meanders.
+$wyax	1	-	-	5:k1	Geo_ncert_7stnd_3ch_0071a.1:coref	distal	-	-
+modaxAra_1	2	-	-	3:mod	-	-	-	-
+mArga_1	3	-	-	5:k7p	-	-	-	-
+baha_1-nA_lagawA_hE_1	5	-	-	0:main	Geo_ncert_7stnd_3ch_0071a.9:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0072>
+#इसके बाद विसर्पों के किनारों पर लगातार अपरदन एवं निक्षेपण शुरू हो जाता है।
+#isake bAxa visarpoM ke kinAroM para lagAwAra aparaxana evaM nikRepaNa SurU ho jAwA hE.
+#Due to continuous erosion and deposition along the sides of the meander, the ends of the meander loop come closer and closer.
+visarpa_1	3	-	pl	5:r6	-	-	-	-
+kinArA_6(side_13)	5	-	pl	16:k7p	-	-	-	-
+lagAwAra_4(continuous_12)	7	-	-	16:krvn	-	-	-	-
+aparaxana_1(erosion_1)	8	-	-	-	-	-	-	17:op1
+nikRepaNa_4(depositing_1)	10	-	-	-	-	-	-	17:op2
+SurU_3(start_15)	11	-	-	-	-	-	-	16:kriyAmUla
+ho_1-wA_hE_1	12	-	-	-	-	[shade:jA_1]	-	16:verbalizer
+[cp_1]	16	-	-	0:main	Geo_ncert_7stnd_3ch_0071b.5:uwwarkAla	-	-	-
+[conj_1]	17	-	-	16:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0073>
+#विसर्प लूप के सिरे निकट आते जाते हैं।
+#visarpa lUpa ke sire nikata Awe jAwe hEM.
+#The ends of the wither loop get closer.
+visarpa_1	1	-	-	2:mod	-	-	-	-
+lUpa_1(loop_7)	2	-	-	4:r6	-	-	-	-
+sire_1	4	-	-	6:k1	-	-	-	-
+nikata_2(close_5)	5	-	-	6:k7p	-	-	-	-
+A+jA_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0074a>
+#समय के साथ विसर्प लूप नदी से कट जाते हैं।
+#samaya ke sAWa visarpa lUpa naxI se kata jAwe hEM.
+#In due course of time the meander loop cuts off from the river and forms a cut-off lake, also called an ox-bow lake.
+samaya_1(time_8)	1	-	-	8:rprop	-	-	-	-
+visarpa_1	4	-	-	5:mod	-	-	-	-
+lUpa_1(loop_7)	5	-	-	8:k1	-	-	-	-
+naxI_1(river_3)	6	-	-	8:k5	-	-	-	-
+kata_1-wA_hE_1	8	-	-	0:main	-	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0074b>
+#और एक अलग झील बनाते हैं, जिसे चापझील भी कहते हैं।
+#Ora eka alaga JIla banAwe hEM, jise cApaJIla BI kahawe hEM.
+#In due course of time the meander loop cuts off from the river and forms a cut-off lake, also called an ox-bow lake.
+eka_2(a_1)	1	-	-	3:quant	-	-	-	-
+alaga_1(separate_1)	2	-	-	3:mod	-	-	-	-
+JIla_1(lake_1)	3	-	-	4:k2	-	-	-	-
+banA_1-wA_hE_1	4	-	-	0:main	Geo_ncert_7stnd_3ch_0074a.8:samuccaya	-	-	-
+$yax	7	-	-	10:k2	-	-	-	-
+cApaJIla_1	8	-	-	10:k2s	-	BI_1	-	-
+kaha_1-wA_hE_1	10	-	-	3:rcelab	-	-	-	-
+$wyax	11	-	-	4:k1	Geo_ncert_7stnd_3ch_0074a.5:coref	distal	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0075>
+#कभी-कभी नदी अपने तटों से बाहर बहने लगती है।
+#kaBI-kaBI naxI apane watoM se bAhara bahane lagawI hE.
+#At times the river overflows its banks.
+kaBI_1(sometime_1)	1	-	xviwva	7:freq	-	-	-	-
+naxI_1(river_3)	2	-	-	7:k1	-	-	-	-
+apanA	3	-	-	4:r6	-	-	-	-
+wata_1(bank_6)	4	-	pl	7:rdl	-	-	-	-
+bAhara_2(outside_2)	6	-	-	7:k7p	-	-	-	-
+baha_1-nA_lagawA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0076>
+#फलस्वरूप निकटवर्ती क्षेत्रों में बाढ आ जाती है।
+#PalasvarUpa nikatavarwI kRewroM meM bADa A jAwI hE.
+#This leads to the flooding of the neighbouring areas
+nikatavarwI_1	2	-	-	3:mod	-	-	-	-
+kRewra_1	3	-	pl	6:k7p	-	-	-	-
+bADa_1(flood_6)	5	-	-	6:k1	-	-	-	-
+A_1-wA_hE_1	6	-	-	0:main	Geo_ncert_7stnd_3ch_0075.7:pariNAma	[shade:ja_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0077>
+#बाढ के कारण नदी के तटों के निकटवर्ती क्षेत्रों में महीन मिट्टी एवं अन्य पदार्थों का चापझील निक्षेपण करती है।
+#bADa ke kAraNa naxI ke watoM ke nikatavarwI kRewroM meM mahIna mittI evaM anya paxArWoM kA cApaJIla nikRepaNa karawI hE.
+#bADa ke kAraNa naxI ke watoM ke nikatavarwI kRewroM meM mahIna mittI evaM anya paxArWoM kA cApaJIla nikRepaNa karawI hE.
+bADa_1(flood_6)	1	-	-	22:rh	-	-	-	-
+naxI_1(river_3)	4	-	-	6:r6	-	-	-	-
+wata_1(bank_6)	6	-	pl	8:r6	-	-	-	-
+nikatavarwI_2(adjacent_4)	8	-	-	9:mod	-	-	-	-
+kRewra_5(area_2)	9	-	pl	22:k7p	-	-	-	-
+mahIna_4(fine_16)	11	-	-	12:mod	-	-	-	-
+mittI_2(soil_4)	12	-	-	-	-	-	-	23:op1
+anya_1(other_1)	14	-	-	15:mod	-	-	-	-
+paxArWa_10(material_7)	15	-	pl	-	-	-	-	23:op2
+cApaJIla_1	17	-	-	22:k1	-	-	-	-
+nikRepaNa_4(depositing_1)	18	-	-	-	-	-	-	22:kriyAmUla
+kara_1-wA_hE_1	19	-	-	-	-	-	-	22:verbalizer
+[cp_1]	22	-	-	0:main	-	-	-	-
+[conj_1]	23	-	-	22:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0078>
+#ऐसी मिट्टी एवं पदार्थों को अवसाद कहते हैं।
+#EsI mittI evaM paxArWoM ko avasAxa kahawe hEM.
+#Such soils and materials are called sediments.
+mittI_2(soil_4)	2	-	-	-	-	-	-	10:op1
+paxArWa_10(material_7)	4	-	pl	-	-	-	-	10:op2
+avasAxa_1	6	-	-	7:k2s	-	-	-	-
+kaha_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+[conj_1]	10	-	-	7:k2	-	-	-	-
+prakar_1	11	-	-	10:r6	-	-	-	-
+$wyax	12	-	-	11:dem	-	proximal	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0079>
+#इससे समतल उपजाऊ बाढकृत मैदान का निर्माण होता है।
+#isase samawala upajAU bADakqwa mExAna kA nirmANa howA hE.
+#This leads to the formation of a flat fertile floodplain.
+samawala_3(flat_6)	2	-	-	-	-	-	-	12:op1
+upajAU_1(fertile_1)	3	-	-	-	-	-	-	12:op2
+bADakqwa_1	4	-	-	5:mod	-	-	-	-
+mExAna(plain_5)	5	-	-	11:k1	-	-	-	-
+nirmANa_16(formation_4)	7	-	-	-	-	-	-	11:kriyAmUla
+ho_1-wA_hE_1	8	-	-	-	-	-	-	11:verbalizer
+[cp_1]	11	-	-	0:main	Geo_ncert_7stnd_3ch_0077.22:pariNAma	-	-	-
+[conj_1]	12	-	-	5:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0080>
+#नदी के उत्थित तटों को तटबंध कहते हैं।
+#naxI ke uwWiwa watoM ko watabaMXa kahawe hEM.
+#The raised banks are called levees.
+naxI_1(river_3)	1	-	-	4:r6	-	-	-	-
+uwWiwa_1	3	-	-	4:mod	-	-	-	-
+wata_1(bank_6)	4	-	pl	7:k2	-	-	-	-
+watabaMXa_1(levees_1)	6	-	-	7:k2s	-	-	-	-
+kaha_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0081a>
+#समुद्र तक पहुँचते-पहुँचते नदी का प्रवाह धीमा हो जाता है।
+#samuxra waka pahuzcawe-pahuzcawe naxI kA pravAha XImA ho jAwA hE.
+#As the river approaches the sea, the speed of the flowing water decreases and the river begins to break up into a number of streams called distributaries.
+samuxra_2(sea_12)	1	-	-	-	-	-	-	13:end
+pahuzca_1	3	-	xviwva	8:rblsk	-	-	-	-
+naxI_1(river_3)	4	-	-	6:r6	-	-	-	-
+pravAha_1(flow_4)	6	-	-	8:k1	-	-	-	-
+XImA_1(slow_1)	7	-	-	8:krvn	-	-	-	-
+ho_1-wA_hE_1	8	-	-	0:main	-	[shade:jA_1]	-	-
+[span_1]	13	-	-	3:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0081b>
+#तथा नदी अनेक धाराओं में विभाजित हो जाती है, जिनको वितरिका कहा जाता है।
+#waWA naxI aneka XArAoM meM viBAjiwa ho jAwI hE, jinako viwarikA kahA jAwA hE.
+#As the river approaches the sea, the speed of the flowing water decreases and the river begins to break up into a number of streams called distributaries.
+naxI_1	1	-	-	6:k1	-	-	-	-
+aneka_1	2	-	-	3:quant	-	-	-	-
+XArA_1	3	-	pl	6:k7	-	-	-	-
+viBAjiwa_1	5	-	-	6:k1s	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	[shade:jA_1]	-	-
+$yax	10	-	pl	12:k2	-	-	-	-
+viwarikA_1	11	-	-	12:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	12	-	-	3:rcdelim	Geo_ncert_7stnd_3ch_0081a.8:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0082a>
+#यहाँ नदी इतनी धीमी यह हो जाती है।
+#yahAz naxI iwanI XImI yaha ho jAwI hE.
+#The river becomes so slow that it begins to deposit its load.
+$wyax	1	-	-	6:k7p	-	proximal	-	-
+naxI_1(river_3)	2	-	-	6:k1	-	-	-	-
+iwanA_1	3	-	-	4:quant	-	-	-	-
+XImA_1(slow_1)	4	-	-	6:krvn	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0082b>
+#कि यह अपने साथ लाए मलबे का निक्षेपण करने लगती है।
+#ki yaha apane sAWa lAe malabe kA nikRepaNa karane lagawI hE.
+#The river becomes so slow that it begins to deposit its load.
+$wyax	1	-	-	12:k1	Geo_ncert_7stnd_3ch_0082a.2:coref	proximal	-	-
+apanA	2	-	pl	4:rask1	-	-	-	-
+lA_1-o_1	4	-	-	5:rbks	-	-	-	-
+malabA_1	5	-	pl	12:k2	-	-	-	-
+nikRepaNa_4(depositing_1)	7	-	-	-	-	-	-	12:kriyAmUla
+kara_1-nA_lagawA_hE_1	8	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0083>
+#प्रत्येक वितरिका अपने मुहाने का निर्माण करती है।
+#prawyeka viwarikA apane muhAne kA nirmANa karawI hE.
+#prawyeka viwarikA apane muhAne kA nirmANa karawI hE.
+prawyeka_1(each_1)	1	-	-	2:quant	-	-	-	-
+viwarikA_1(distributary_1)	2	-	-	10:k1	-	-	-	-
+apanA	3	-	pl	4:r6	-	-	-	-
+muhAnA_2(mouth_4)	4	-	pl	10:k2	-	-	-	-
+nirmANa_1	6	-	-	-	-	-	-	10:kriyAmUla
+kara_1-wA_hE_1	7	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0084>
+#सभी मुहानों के अवसादों के संगह्र से डेल्टा का निर्माण होता है।
+#saBI muhAnoM ke avasAxoM ke saMgahra se deltA kA nirmANa howA hE.
+#The collection of sediments from all the mouths forms a delta.
+saBI_1(all_1)	1	-	-	2:quant	-	-	-	-
+muhAnA_2(mouth_4)	2	-	pl	4:r6	-	-	-	-
+avasAxa_1	4	-	pl	6:r6	-	-	-	-
+saMgahra_1(collection_26)	6	-	-	14:k5	-	-	-	-
+deltA_1(delta_1)	8	-	-	14:k1	-	-	-	-
+nirmANa_1	10	-	-	-	-	-	-	14:kriyAmUla
+ho_1-wA_hE_1	11	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0085>
+#विश्व की कुछ नदियों के नाम ढूँढें, जो डेल्टा का निर्माण करती हैं।
+#viSva kI kuCa naxiyoM ke nAma DUzDeM, jo deltA kA nirmANa karawI hEM.
+#Find out the names of a few rivers of the world that form a delta.
+viSva_6(world_20)	1	-	-	4:r6	-	-	-	-
+kuCa_2(few_5)	3	-	-	4:quant	-	-	-	-
+naxI_1(river_3)	4	-	pl	6:r6	-	-	-	-
+nAma_1	6	-	-	7:k1	-	-	-	-
+DUzDa_1-o_1	7	-	-	0:main	-	-	-	-
+$yax	9	-	-	16:k1	-	-	-	-
+deltA_1(delta_1)	10	-	-	16:k2	-	-	-	-
+nirmANa_1	12	-	-	-	-	-	-	16:kriyAmUla
+kara_1-wA_hE_1	13	-	-	-	-	-	-	16:verbalizer
+[cp_1]	16	-	-	6:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0086>
+#समुद्री तरंग के अपरदन एवं निक्षेपण तटीय स्थलाकृतियाँ बनाते हैं।
+#samuxrI waraMga ke aparaxana evaM nikRepaNa watIya sWalAkqwiyAz banAwe hEM.
+#The erosion and deposition of the sea waves gives rise to coastal landforms.
+samuxrI_5(sea_72)	5	-	-	6:mod	-	-	-	-
+waraMga_1(wave_3)	6	-	pl	16:r6	-	-	-	-
+aparaxana_1(erosion_1)	8	-	-	-	-	-	-	16:op1
+nikRepaNa_4(depositing_1)	10	-	-	-	-	-	-	16:op2
+watIya_1(coastal_3)	11	-	-	12:mod	-	-	-	-
+sWalAkqwiya_1	12	-	pl	13:k2	-	-	-	-
+banA_1-wA_hE_1	13	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	13:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0086F>
+#समुद्री तरंगें के कार्य
+#samuxrI waraMgeM ke kAryA
+#samuxrI waraMgeM ke kArya
+samuxrI_5(sea_72)	1	-	-	3:mod	-	-	-	-
+kAryA_1	2	-	-	0:main	-	-	-	-
+waraMga_1(wave_3)	3	-	pl	2:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0087a>
+#समुद्री तरंगें लगातार शैलों से टकराती रहती हैं।
+#samuxrI waraMgeM lagAwAra SEloM se takarAwI rahawI hEM.
+#Seawaves continuously strike at the rocks. Cracks develop.
+samuxrI(sea_72)	1	-	-	2:mod	-	-	-	-
+waraMga_1(wave_3)	2	-	pl	6:k1	-	-	-	-
+lagAwAra_1(continuously_2)	3	-	-	6:krvn	-	-	-	-
+SEla_1(rock_5)	4	-	pl	6:k2	-	-	-	-
+takarA_1-wA_rahawA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0087b>
+#इससे	दरार	विकसित	होती	है।
+#isse xarAr bikasiwa howI hE.
+#isase	xarAra	vikasiwa	howI	hE.
+xarAr_1	1	-	-	2:k1	-	-	-	-
+ho_1-wA_hE_1	2	-	-	0:main	Geo_ncert_7stnd_3ch_0087a.6:AvaSyakawApariNAma	-	-	-
+bikasiwa_1	3	-	-	2:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0088>
+#समय के साथ ये बड़ी और चौडी होती जाती हैं।
+#samaya ke sAWa ye badI Ora cOdI howI jAwI hEM.
+#samaya ke sAWa ye badZI Ora cOdI howI jAwI hEM.
+samaya_1(time_8)	1	-	-	8:rprop	-	-	-	-
+$wyax	4	-	pl	8:k1	-	proximal	-	-
+badZA_1	5	-	-	-	-	-	-	15:op1
+cOdA_1	7	-	-	-	-	-	-	15:op2
+ho_1-wA_hE_1	8	-	-	0:main	-	[shade:jA_1]	-	-
+[conj_1]	15	-	-	8:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0089>
+#इनको समुद्री गुफा कहते हैं।
+#inako samuxrI guPA kahawe hEM.
+#They are called sea caves.
+$wyax	1	-	-	4:k2	-	proximal	-	-
+samuxrI_5(sea_72)	2	-	-	3:mod	-	-	-	-
+guPA_1(cave_5)	3	-	-	4:k2s	-	-	-	-
+kaha_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0090a>
+#इन गुफाओं के बड़े होते जाने पर इनमें केवल छत ही बचती है।
+#ina guPAoM ke badZe howe jAne para inameM kevala Cawa hI bacawI hE.
+#As these cavities become bigger and bigger only the roof of the caves remain, thus forming sea arches.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+guPA_1(cave_5)	2	-	pl	8:k1	-	-	-	-
+badZA_6(big_11)	4	-	-	-	-	-	-	8:kriyAmUla
+ho_1-wA_nA_1	5	-	-	-	-	[shade:jA_1]	-	8:verbalizer
+[cp_1]	8	-	-	11:rvks	-	-	-	-
+$wyax	9	-	-	11:k7p	Geo_ncert_7stnd_3ch_0090a.2:coref	-	-	-
+Cawa_1(roof_1)	10	-	-	11:k1	-	kevala_1	-	-
+baca_1-wA_hE_1	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0090b>
+#इससे तटीय मेहराब बनते हैं।
+#isase watIya meharAba banawe hEM.
+#isase watIya meharAba banawe hEM.
+watIya_1	9	-	-	10:mod	-	-	-	-
+meharAba_1(arch_4)	10	-	-	11:k1	-	-	-	-
+bana_1-wA-hE_1	11	-	-	0:main	Geo_ncert_7stnd_3ch_0090a.11:pariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0091a>
+#लगातार अपरदन छत को भी तोड देता है।
+#lagAwAra aparaxana Cawa ko BI woda xewA hE.
+#Further, erosion breaks the roof and only walls are left.
+lagAwAra_1	1	-	-	6:krvn	-	-	-	-
+aparaxana_1(erosion_1)	2	-	-	6:k1	-	-	-	-
+Cawa_1(roof_1)	3	-	-	6:k2	-	BI_1	-	-
+woda_1-wA_hE_1	6	-	-	0:main	-	[shade:xe_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0091b>
+#और केवल दीवारें बचती हैं।
+#Ora kevala xIvAreM bacawI hEM.
+#Further, erosion breaks the roof and only walls are left.
+xIvAra_1(wall_1)	2	-	pl	3:k1	-	kevala_1	-	-
+baca_1-wA_hE_1	3	-	-	0:main	Geo_ncert_7stnd_3ch_0091a.6:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0092>
+#दीवार जैसी इन आकृतियों को स्टैक कहते हैं।
+#xIvAra jEsI ina AkqwiyoM ko stEka kahawe hEM.
+#These wall like features are called stacks.
+xIvAra_1(wall_1)	1	-	-	4:ru	-	-	-	-
+$wyax	3	-	-	4:dem	Geo_ncert_7stnd_3ch_0091b.2:coref	proximal	-	-
+Akqwi_6(features_1)	4	-	pl	7:k2	-	-	-	-
+stEka_1(stack_2)	6	-	-	7:k2s	-	-	-	-
+kaha_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0093>
+#समुद्री जल के ऊपर लगभग ऊर्ध्वाधर उठे हुए ऊँचे शैलीय तटों को समुद्र भृगु कहते हैं।
+#samuxrI jala ke Upara lagaBaga UrXvAXara uTe hue Uzce SElIya watoM ko samuxra Bqgu kahawe hEM.
+#The steep rocky coast rising almost vertically above sea water is called sea cliff.
+samuxrI_5(sea_72)	1	-	-	2:mod	-	-	-	-
+jala_1(water_3)	2	-	-	4:rdl	-	-	-	-
+Upara_3(above_2)	4	-	-	7:k7p	-	-	-	-
+UrXvAXara_1(vertical_2)	6	-	-	7:krvn	-	lagaBaga_1	-	-
+uTa_3(rise_17)	7	-	-	11:rvks	-	-	-	-
+UzcA_1(high_5)	9	-	-	11:mod	-	-	-	-
+SElIya_1(rocky_7)	10	-	pl	11:mod	-	-	-	-
+wata_2(coast_1)	11	-	pl	15:k2	-	-	-	-
+samuxra(sea_12)	13	-	-	-	-	-	-	16:mod
+Bqgu(cliff_4)	14	-	-	-	-	-	-	16:head
+kaha_1-wA_hE_1	15	-	-	0:main	-	-	-	-
+[compound_1]	16	-	-	15:k2s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0094>
+#समुद्री तरंगें किनारों पर अवसाद जमा कर समुद्री पुलिन का निर्माण करती हैं।
+#samuxrI waraMgeM kinAroM para avasAxa jamA kara samuxrI pulina kA nirmANa karawI hEM.
+#The sea waves deposit sediments along the shores forming beaches.
+samuxrI_5(sea_72)	1	-	-	2:mod	-	-	-	-
+waraMga_1(wave_3)	2	-	pl	16:k1	-	-	-	-
+kinArA_2(shore_1)	3	-	pl	16:k7p	-	-	-	-
+avasAxa_1	5	-	-	15:k2	-	-	-	-
+jamA_6(deposit_7)	6	-	-	-	-	-	-	15:kriyAmUla
+kara_1	7	-	-	-	-	-	-	15:verbalizer
+samuxrI_5(sea_72)	8	-	-	9:mod	-	-	-	-
+pulina	9	-	-	16:k2	-	-	-	-
+nirmANa_1	11	-	-	-	-	-	-	16:kriyAmUla
+kara_1-wA_hE_1	12	-	-	-	-	-	-	16:verbalizer
+[cp_1]	15	-	-	16:krvn	-	-	-	-
+[cp_2]	16	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0095F>
+#हिमनद के कार्य।
+#himanaxa ke kArya.
+#himanaxa ke kArya.
+himanaxa_1(glacier_4)	1	-	-	3:r6	-	-	-	-
+kArya_3(work_7)	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0096>
+#हिमनद अथवा हिमानी बर्फ की नदियाँ होती हैं।
+#himanaxa aWavA himAnI barPa kI naxiyAz howI hEM.
+#Glaciers are “rivers of ice”
+himanaxa_1(glacier_4)	1	-	-	-	-	-	-	11:op1
+himAnI_1(glacier_1)	3	-	-	-	-	-	-	11:op2
+barPa_2(ice_7)	4	-	-	6:r6	-	-	-	-
+naxI_1(river_3)	6	-	pl	7:k1s	-	-	-	-
+ho_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+[disjunct_1]	11	-	-	7:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0097a>
+#हिमनद अपने नीचे की कठोर चट्टानों से गोलाश्मी मिट्टी और पत्थरों को अपरदित कर देती है।
+#himanaxa apane nIce kI kaTora cattAnoM se golASmI mittI Ora pawWaroM ko aparaxiwa kara xewI hE.
+#“rivers of ice” which too erode the landscape by bulldozing soil and stones to expose the solid rock below.
+himanaxa_1(glacier_4)	1	-	-	18:k1	-	-	-	-
+apanA	2	-	-	6:r6	-	-	-	-
+nIcA_1	3	-	-	6:r6	-	-	-	-
+kaTora_1	5	-	-	6:mod	-	-	-	-
+cattAna_1(rock_1)	6	-	pl	18:k5	-	-	-	-
+golASmI_1	8	-	-	19:mod	-	-	-	-
+mittI_2(soil_4)	9	-	-	-	-	-	-	19:op1
+pawWara_1(stone_1)	11	-	pl	-	-	-	-	19:op2
+aparaxiwa_1(eroded_2)	13	-	-	-	-	-	-	18:kriyAmUla
+kara_1-wA_hE_1	14	-	-	-	-	[shade:xe_1]	-	18:verbalizer
+[cp_1]	18	-	-	0:main	-	-	-	-
+[conj_1]	19	-	-	18:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0097b>
+#और गोलाश्मी मिट्टी एवं पत्थरों से भूदृश्य का अपरदन करती है।
+#Ora golASmI mittI evaM pawWaroM se BUxqSya kA aparaxana karawI hE.
+#“rivers of ice” which too erode the landscape by bulldozing soil and stones to expose the solid rock below.
+golASmI_1	1	-	-	13:mod	-	-	-	-
+mittI_2(soil_4)	2	-	-	-	-	-	-	13:op1
+pawWara_5(rock_16)	4	-	pl	-	-	-	-	13:op2
+BUxqSya_1(landscape_7)	6	-	-	12:k2	-	-	-	-
+aparaxana_1(erosion_1)	8	-	-	-	-	-	-	12:kriyAmUla
+kara_1-wA_hE_1	9	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	Geo_ncert_7stnd_3ch_0097a.18:samuccaya	-	-	-
+[conj_1]	13	-	-	12:rh	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0098>
+#हिमनद गहरे गर्तों का निर्माण करते हैं।
+#himanaxa gahare garwoM kA nirmANa karawe hEM.
+#himanaxa gahare garwoM kA nirmANa karawe hEM.
+himanaxa_1(glacier_4)	1	-	-	9:k1	-	-	-	-
+gaharA_1(deep_5)	2	-	-	3:mod	-	-	-	-
+garwa_1	3	-	pl	9:k2	-	-	-	-
+nirmANa_1	5	-	-	-	-	-	-	9:kriyAmUla
+kara_1-wA_hE_1	6	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0099a>
+#पर्वतीय क्षेत्र में बर्फ पिघलने से उन गर्तों में जल भर जाता है।
+#parvawIya kRewra meM barPa piGalane se una garwoM meM jala Bara jAwA hE.
+#As the ice melts they get filled up with water and become beautiful lakes in the mountains.
+parvawIya_1(hilly_1)	1	-	-	2:mod	-	-	-	-
+kRewra_5(area_2)	2	-	-	5:k7p	-	-	-	-
+barPa_2(ice_7)	4	-	-	5:k1	-	-	-	-
+piGala_1(melt_2)	5	-	-	11:rh	-	-	-	-
+$wyax	7	-	-	8:dem	-	distal	-	-
+garwa_1	8	-	pl	11:k7p	-	-	-	-
+jala_1(water_3)	10	-	-	11:k1	-	-	-	-
+Bara_1-wA_hE_1	11	-	-	0:main	-	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0099b>
+#और वे सुंदर झील बन जाते हैं।
+#Ora ve suMxara JIla bana jAwe hEM.
+#As the ice melts they get filled up with water and become beautiful lakes in the mountains.
+$wyax	1	-	-	4:k1	Geo_ncert_7stnd_3ch_0099a.10:coref	distal	-	-
+suMxara_1(beautiful_24)	2	-	-	3:mod	-	-	-	-
+JIla_1(lake_1)	3	-	-	4:k2	-	-	-	-
+bana_1-wA_hE_1	4	-	-	0:main	Geo_ncert_7stnd_3ch_0099a.11:samuccaya	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0100>
+#हिमनद के द्वारा लाए गए पदार्थ, जैसे छोटे बड़े शैल, रेत एवं तलछट मिट्टी निक्षेपित होते हैं।
+#himanaxa ke xvArA lAe gae paxArWa, jEse Cote badZe SEla, rewa evaM walaCata mittI nikRepiwa howe hEM.
+#The material carried by the glacier such as rocks big and small, sand and silt gets deposited.
+himanaxa_1(glacier_4)	1	-	-	4:k1	-	-	-	-
+lA(bring_1)	4	-	-	6:rbks	-	-	-	-
+paxArWa_10(material_7)	6	-	-	21:k1	-	-	-	-
+CotA_1(small_6)	9	-	-	-	-	-	-	23:op1
+badZA_6(big_11)	10	-	-	-	-	-	-	23:op2
+SEla_1(rock_5)	11	-	-	-	-	-	-	22:op1
+rewa_1(sand_4)	13	-	-	-	-	-	-	22:op2
+walaCata_1(dregs_3)	15	-	-	16:mod	-	-	-	-
+mittI_2(soil_4)	16	-	-	-	-	-	-	22:op3
+nikRepiwa_1(deposit_14)	17	-	-	-	-	-	-	21:kriyAmUla
+ho_1-wA_hE_1	18	-	-	-	-	-	-	21:verbalizer
+[cp_1]	21	-	-	0:main	-	-	-	-
+[conj_1]	22	-	-	6:re	-	-	-	-
+[conj_1]	23	-	-	11:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0101>
+#ये निक्षेप हिमनद हिमोढ का निर्माण करते हैं।
+#ye nikRepa himanaxa himoDa kA nirmANa karawe hEM.
+#ye nikRepa himanaxa himoDa kA nirmANa karawe hEM.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+nikRepa_3(deposit_3)	2	-	-	11:k1	-	-	-	-
+himanaxa_1(glacier_4)	3	-	-	-	-	-	-	10:mod
+himoDa_1	4	-	-	-	-	-	-	10:head
+nirmANa_16(formation_4)	6	-	-	-	-	-	-	11:kriyAmUla
+kara_1-wA_hE_1	7	-	-	-	-	-	-	11:verbalizer
+[nc_1]	10	-	-	11:k2	-	-	-	-
+[cp_1]	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0102H>
+#पवन के कार्य।
+#pavana ke kArya.
+#pavana ke kArya.
+pavana_3(wind_2)	1	-	-	3:r6	-	-	-	-
+kArya_3(work_7)	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0103>
+#क्या आपने कभी रेगिस्तान देखा है?
+#kyA Apane kaBI regiswAna xeKA hE?
+#Have you ever visited a desert?
+$addressee	2	anim	-	5:k1	-	respect	-	-
+kaBI_1(ever_2)	3	-	-	5:k7t	-	-	-	-
+regiswAna_1(desert_2)	4	-	-	5:k2	-	-	-	-
+xeKa_1-yA_hE_1	5	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0104>
+#बालू टिब्बे के कुछ चित्र एकत्र करने का प्रयास कीजिए।
+#bAlU tibbe ke kuCa ciwra ekawra karane kA prayAsa kIjie.
+#bAlU tibbe ke kuCa ciwra ekawra karane kA prayAsa kIjie.
+bAlU_1(sand_2)	1	-	-	-	-	-	-	12:mod
+tibbe_1	2	-	pl	-	-	-	-	12:head
+kuCa_1(some_2)	4	-	-	5:quant	-	-	-	-
+ciwra_1(picture_1)	5	-	-	13:k2	-	-	-	-
+ekawra_2(collected_2)	6	-	-	-	-	-	-	13:kriyAmUla
+kara_17(do_2)	7	-	-	-	-	-	-	13:verbalizer
+prayAsa_1	9	-	-	-	-	-	-	14:kriyAmUla
+kara_17-o_1	10	-	-	-	-	-	-	14:verbalizer
+[nc_1]	12	-	-	5:r6	-	-	-	-
+[cp_1]	13	-	-	14:rt	-	-	-	-
+[cp_2]	14	-	-	0:main	-	-	-	-
+$address	15	anim	-	14:k1	-	respect	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0105>
+#रेगिस्तान में पवन, अपरदन एवं निक्षेपण का प्रमुख कारक है।
+#regiswAna meM pavana, aparaxana evaM nikRepaNa kA pramuKa kAraka hE.
+#An active agent of erosion and deposition in the deserts is wind.
+regiswAna_1(desert_2)	1	-	-	11:k7p	-	-	-	-
+pavana_3(wind_2)	3	-	-	11:k1	-	-	-	-
+aparaxana_1(erosion_1)	5	-	-	-	-	-	-	13:op1
+nikRepaNa_3(depositional_2)	7	-	-	-	-	-	-	13:op2
+pramuKa_1	9	-	-	10:mod	-	-	-	-
+kAraka_1	10	-	-	11:k1s	-	-	-	-
+hE_1-pres	11	-	-	0:main	-	-	-	-
+[conj_1]	13	-	-	10:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0106>
+#रेगिस्तान में आप छत्रक के आकार के शैल देख सकते है, जिन्हें सामान्यतः छत्रक शैल कहते हैं।
+#regiswAna meM Apa Cawraka ke AkAra ke SEla xeKa sakawe hE, jinheM sAmAnyawaH Cawraka SEla kahawe hEM.
+#In deserts you can see rocks in the shape of a mushroom, commonly called mushroom rocks.
+regiswAna_1(desert_2)	1	-	-	9:k7p	-	-	-	-
+$addressee	3	anim	-	9:k1	-	respect	-	-
+Cawraka_1(mushroom_2)	4	-	-	6:r6	-	-	-	-
+AkAra_2(shape_1)	6	-	-	8:r6	-	-	-	-
+SEla_1(rock_5)	8	-	-	9:k2	-	-	-	-
+xeKa_1-0_sakawA_hE_1	9	-	-	0:main	-	-	-	-
+$yax	13	-	-	17:k2	-	-	-	-
+sAmAnyawaH_1	14	-	-	17:vkvn	-	-	-	-
+Cawraka_1(mushroom_2)	15	-	-	16:mod	-	-	-	-
+SEla_1(rock_5)	16	-	-	17:k2s	-	-	-	-
+kaha_1-wA_hE_1	17	-	-	8:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0107>
+#पवन शैल के ऊपरी भाग की अपेक्षा निचले भाग को आसानी से काटती है।
+#pavana SEla ke UparI BAga kI apekRA nicale BAga ko AsAnI se kAtawI hE.
+#Winds erode the lower section of the rock more than the upper part.
+pavana_3(wind_2)	1	-	-	13:k1	-	-	-	-
+SEla_1(rock_5)	2	-	-	9:r6	-	-	-	-
+Upara_1	4	-	-	5:mod	-	-	-	-
+BAga_2(part_9)	5	-	-	9:rv	-	-	-	-
+nicalA_1(lower_2)	8	-	-	9:mod	-	-	-	-
+BAga_2(part_9)	9	-	-	13:k2	-	-	-	-
+AsAnI_3(ease_4)	11	-	-	13:krvn	-	-	-	-
+kAta_1-wA_hE_1	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0108a>
+#इसलिए ऐसी शैल के आधार संकीर्ण होते हैं।
+#islie Esi SEla ke AXAr saMkIrN howe hEM
+#isalie EsI SEla ke AXAra saMkIrNa howe hEM.
+$wyax	1	-	-	-	-	-	-	-
+SEla_1(rock_5)	2	-	-	-	-	-	-	-
+AXAra_1(base_3)	3	-	-	-	-	-	-	-
+saMkIrN_1	4	-	-	-	-	-	-	-
+ho_1-wA_hE_1	5	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0108b>
+#और ऐसी शैल के शीर्ष विस्तृत होते हैं।
+#Ora EsI SEla ke SIrRa viswqwa howe hEM.
+#Ora EsI SEla ke SIrRa viswqwa howe hEM.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+SEla_1(rock_5)	2	-	-	7:r6	-	-	-	-
+SIrRa_1(top_3)	7	-	-	9:k1	-	-	-	-
+viswqwa_16(wide_8)	8	-	-	9:k1s	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0109>
+#पवन चलने पर, यह अपने साथ रेत को एक स्थान से दूसरे स्थान पर पहुँचाती है।
+#pavana calane para, yaha apane sAWa rewa ko eka sWAna se xUsare sWAna para pahuzcAwI hE.
+#When the wind blows, it lifts and transports sand from one place to another.
+pavana_3(wind_2)	1	-	-	2:k1	-	-	-	-
+cala_10(flow_1)	2	-	-	16:rblsk	-	-	-	-
+$wyax	5	-	-	16:k1	Geo_ncert_7stnd_3ch_0108b.2:coref	proximal	-	-
+apanA	6	-	-	16:rask1	-	-	-	-
+rewa_1(sand_4)	8	-	-	16:k4	-	-	-	-
+eka_6(one_1)	10	-	-	11:quant	-	-	-	-
+sWAna_1(place_14)	11	-	-	16:k5	-	-	-	-
+xUsarA_3(another_4)	13	-	-	14:ord	-	-	-	-
+sWAna_1(place_14)	14	-	-	16:k7p	-	-	-	-
+pahuzcA_1-wA_hE_1	16	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0110a>
+#जब पवन का बहाव रुकता है।
+#jaba pavana kA bahAva rukawA hE.
+#When it stops blowing the sand falls and gets deposited in low hill – like structures.
+pavana_3(wind_2)	1	-	-	3:r6	-	-	-	-
+bahAva_1(flow_6)	3	-	-	4:k1	-	-	-	-
+ruka_1-wA_hE_1	4	-	-	0:main	Geo_ncert_7stnd_3ch_0110b.6:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0110b>
+#तो यह रेत गिरकर छोटी पहाड़ी बनाती है।
+#wo yaha rewa girakara CotI pahAdZI banAwI hE.
+#When it stops blowing the sand falls and gets deposited in low hill – like structures.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+rewa_1(sand_4)	2	-	-	6:k1	-	-	-	-
+gira_1(fall_5)	3	-	-	6:rpk	-	-	-	-
+CotI_1	4	-	-	5:mod	-	-	-	-
+pahAdZA_1	5	-	-	6:k2	-	-	-	-
+banA_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0111>
+#इनको बालू टिब्बा कहते हैं।
+#inako bAlU tibbA kahawe hEM.
+#These are called sand dunes.
+$wyax	1	-	-	4:k2	Geo_ncert_7stnd_3ch_0110b.5:coref	proximal	-	-
+bAlU_1(sand_2)	2	-	-	-	-	-	-	5:mod
+tibbA_1	3	-	-	-	-	-	-	5:head
+kaha_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+[nc_1]	5	-	-	4:k2s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0112a>
+#जब बालू कण महीन एवं हल्के होते हैं।
+#jaba bAlU kaNa mahIna evaM halke howe hEM.
+#When the grains of sand are very fine and light, the wind can carry it over very long distances.
+bAlU_1(sand_2)	1	-	-	-	-	-	-	12:mod
+kaNa_4(grain_2)	2	-	-	-	-	-	-	12:head
+mahIna_4(fine_16)	3	-	-	-	-	-	-	11:op1
+halkA_1(light_18)	5	-	-	-	-	-	-	11:op2
+ho_1-wA_hE_1	6	-	-	0:main	Geo_ncert_7stnd_3ch_0112b.6:AvaSyakawApariNAma	-	-	-
+[conj_1]	11	-	-	6:k1s	-	-	-	-
+[nc_1]	12	-	-	6:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0112b>
+#तो वायु उनको उठाकर अत्यधिक दूर ले जा सकती है।
+#wo vAyu unako uTAkara awyaXika xUra le jA sakawI hE.
+#When the grains of sand are very fine and light, the wind can carry it over very long distances.
+vAyu_2(wind_5)	1	-	-	6:k1	-	-	-	-
+$wyax	2	-	-	3:k2	Geo_ncert_7stnd_3ch_0112a.2:coref	distal	-	-
+uTA_5(carry_3)	3	-	-	6:rpk	-	-	-	-
+awyaXika_7(very_2)	4	-	-	5:intf	-	-	-	-
+xUra_2(distant_1)	5	-	-	6:k2	-	-	-	-
+le_1-0_sakawA_hE_1	6	-	-	0:main	-	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0113a>
+#जब ये बालू कण विस्तृत क्षेत्र में निक्षेपित हो जाते है।
+#jaba ye bAlU kaNa viswqwa kRewra meM nikRepiwa ho jAwe hE.
+#When such sand is deposited in large areas, it is called loess.
+$wyax	1	-	-	3:dem	-	proximal	-	-
+bAlU_1(sand_2)	2	-	-	-	-	-	-	14:mod
+kaNa_4(grain_2)	3	-	-	-	-	-	-	14:head
+viswqwa_5(detailed_5)	4	-	-	5:mod	-	-	-	-
+kRewra_5(area_2)	5	-	-	13:k7p	-	-	-	-
+nikRepiwa_1(deposit_14)	7	-	-	-	-	-	-	13:kriyAmUla
+ho_1-wA_hE_1	8	-	-	-	-	[shade:jA_1]	-	13:verbalizer
+[cp_1]	13	-	-	0:main	Geo_ncert_7stnd_3ch_0113b.3:AvaSyakawApariNAma	-	-	-
+[nc_1]	14	-	-	13:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0113b>
+#तो इसे लोएस कहते हैं।
+#wo ise loesa kahawe hEM.
+#When such sand is deposited in large areas, it is called loess.
+$wyax	1	-	-	3:k2	Geo_ncert_7stnd_3ch_0113a.3:coref	proximal	-	-
+loesa(loess_1)	2	-	-	3:k2s	-	-	-	-
+kaha_1-wA_hE_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0114>
+#चीन में विशाल लोएस निक्षेप पाए जाते हैं।
+#cIna meM viSAla loesa nikRepa pAe jAwe hEM.
+#Large deposits of loess is found in China.
+cIna	1	-	-	-	-	-	-	7:begin
+viSAla_2(large_8)	3	-	-	4:mod	-	-	-	-
+loesa_1(loess_1)	4	-	-	5:r6	-	-	-	-
+nikRepa_3(deposit_3)	5	-	-	6:k2	-	-	-	-
+pA_1-yA_jA_wA_hE_1	6	-	-	0:main	-	-	-	-
+[ne_1]	7	place	-	6:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0115>
+#आप निम्न प्रश्नों के उत्तर दीजिए।
+#Apa nimna praSnoM ke uwwara xIjie.
+#Answer the following questions.
+nimna_5(following_6)	1	-	-	2:mod	-	-	-	-
+praSna_1(question_3)	2	-	pl	4:r6	-	-	-	-
+uwwara_1(answer_1)	4	-	-	5:k2	-	-	-	-
+xe_1-o_1	5	-	-	0:main	-	-	-	-
+$address	6	anim	-	5:k1	-	respect	-	-
+%imperative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0116>
+#प्लेटें क्यों घूमती हैं?
+#pleteM kyoM GUmawI hEM?
+#Why do the plates move?
+pleta_1(plate_6)	1	-	pl	3:k1	-	-	-	-
+$kim	2	-	-	3:rh	-	-	-	-
+GUma_1-wA_hE_1	3	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0117>
+#बहिर्जनिक एवं अंतर्जनित बल क्या हैं?
+#bahirjanika evaM aMwarjaniwa bala kyA hEM?
+#What are exogenic and endogenic forces?
+bahirjanika_1(exogenic_1)	1	-	-	-	-	-	-	8:op1
+aMwarjaniwa_2(endogenic_1)	3	-	-	-	-	-	-	8:op2
+bala_3(force_5)	4	-	-	6:k1	-	-	-	-
+$kim	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+[conj_1]	8	-	-	4:mod	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0118>
+#अपरदन क्या है?
+#aparaxana kyA hE?
+#What is erosion?
+aparaxana_1(erosion_1)	1	-	-	3:k1	-	-	-	-
+$kim	2	-	-	3:k1s	-	-	-	-
+hE_1-pres	3	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0119>
+#बाढकृत मैदान का निर्माण कैसे होता है?
+#bADakqwa mExAna kA nirmANa kEse howA hE?
+#How are flood plains formed?
+bADakqwa_1	1	-	-	2:mod	-	-	-	-
+mExAna_5(plain_5)	2	-	-	9:k2	-	-	-	-
+nirmANa_16(formation_4)	4	-	-	-	-	-	-	9:kriyAmUla
+$kim	5	-	-	9:krvn	-	-	-	-
+ho_1-wA_hE_1	6	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0120>
+#बालू टिब्बा क्या है?
+#bAlU tibbA kyA hE?
+#What are sand dunes?
+bAlU_1	1	-	-	-	-	-	-	5:mod
+tibbA_1	2	-	-	-	-	-	-	5:head
+$kim	3	-	-	4:k1s	-	-	-	-
+hE_1-pres	4	-	-	0:main	-	-	-	-
+[nc_1]	5	-	-	4:k1	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0121>
+#समुद्री पुलिन का निर्माण कैसे होता है?
+#samuxrI pulina kA nirmANa kEse howA hE?
+#How are beaches formed?
+samuxrI_1(oceanic_1)	1	-	-	2:mod	-	-	-	-
+pulina_1(bank_9)	2	-	-	7:k2	-	-	-	-
+nirmANa_16(formation_4)	4	-	-	-	-	-	-	7:kriyAmUla
+$kim	5	-	-	7:krvn	-	-	-	-
+ho_1-wA_hE_1	6	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0122>
+#चापझील क्या है?
+#cApaJIla kyA hE?
+#What are ox bow lakes?
+cApaJIla_1	1	-	-	3:k1	-	-	-	-
+$kim	2	-	-	3:k1s	-	-	-	-
+hE_1-pres	3	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0123>
+#आप सही उत्तर चिन्हिंत कीजिए।
+#Apa sahI uwwara cinhiMwa kIjie.
+#Tick the correct answer.
+$addressee	1	anim	-	7:k1	-	respect	-	-
+sahI_11(correct_11)	2	-	-	3:mod	-	-	-	-
+uwwara_1(answer_1)	3	-	-	7:k2	-	-	-	-
+cinhiMwa_1(tick_2)	4	-	-	-	-	-	-	7:kriyAmUla
+kara_1-o_1	5	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0124>
+#इनमें से कौन-सी समुद्री तरंग की विशेषता नहीं है।
+#inameM se kOna-sI samuxrI waraMga kI viSeRawA nahIM hE.
+#Which is not an erosional feature of sea waves?
+$wyax	1	-	-	7:rn	-	proximal	-	-
+$kim	3	-	-	9:k1	-	sA_1	-	-
+samuxrI_1	4	-	-	5:mod	-	-	-	-
+waraMga_1(wave_3)	5	-	-	7:r6	-	-	-	-
+viSeRawA_1	7	-	-	9:k1s	-	-	-	-
+nahIM_1(not_1)	8	-	-	9:neg	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0125>
+#हिमनद की निक्षेपण विशेषता है।
+#himanaxa kI nikRepaNa viSeRawA hE.
+#The depositional feature of a glacier is.
+himanaxa_1(glacier_4)	1	-	-	4:r6	-	-	-	-
+nikRepaNa_3(depositional_2)	3	-	-	4:mod	-	-	-	-
+viSeRawA_1	4	-	-	5:k1	-	-	-	-
+hE_1-pres	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0126>
+#पृथ्वी की आकस्मिक गतियों के कारण कौन-सी घटना होती है?
+#pqWvI kI Akasmika gawiyoM ke kAraNa kOna-sI GatanA howI hE?
+#Which is caused by the sudden movements of the earth?
+pqWvI_1(earth_9)	1	-	-	4:r6	-	-	-	-
+Akasmika_1(sudden_4)	3	-	-	4:mod	-	-	-	-
+gawI_1	4	-	pl	9:rh	-	-	-	-
+$kim	7	-	-	8:mod	-	sA_1	-	-
+GatanA_1	8	-	-	9:k1	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0127>
+#छत्रक शैलें पाई जाती है।
+#Cawraka SEleM pAI jAwI hE.
+#Mushroom rocks are found in.
+Cawraka_1(mushroom_2)	1	-	-	-	-	-	-	4:mod
+SEla_1(rock_5)	2	-	pl	-	-	-	-	4:head
+pA_1-yA_jA_wA_hE_1	3	-	-	0:main	-	-	-	-
+[nc_1]	4	-	-	4:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_3ch_0128>
+#चापझील यहाँ पाई जाती हैं।
+#cApaJIla yahAz pAI jAwI hEM.
+#Ox bow lakes are found in.
+cApaJIla_1	1	-	-	3:k1	-	-	-	-
+$wyak	2	-	-	3:k7p	-	proximal	-	-
+pA_1-yA_jA_wA_hE_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>

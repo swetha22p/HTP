@@ -1,0 +1,2098 @@
+<segment_id=Geo_ncert_7stnd_6ch_0001>
+#सलीमा अपने ग्रीष्म शिविर से बहुत उत्साहित थी।
+#salImA apane grIRma Sivira se bahuwa uwsAhiwa WI.
+#Salima was very excited about her summer camp.
+salImA	1	female	-	-	-	-	-	10:begin
+apanA	2	-	-	11:r6	1:coref	-	-	-
+grIRma_1	3	-	-	-	-	-	-	11:mod
+Sivira_1	4	-	-	-	-	-	-	11:head
+bahuwa_1	6	-	-	7:intf	-	-	-	-
+uwsAhiwa_1	7	-	-	8:k1s	-	-	-	-
+hE_1-past	8	-	-	0:main	-	-	-	-
+[ne_1]	10	per	-	8:k1	-	-	-	-
+[nc_1]	11	-	-	8:rh	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0002>
+#अपने सहपाठियों के साथ वह हिमाचल प्रदेश में मनाली देखने गई थी।
+#apane sahapATiyoM ke sAWa vaha himAcala praxeSa meM manAlI xeKane gaI WI.
+#She went to see Manali in Himachal Pradesh with her classmates.
+apanA	1	-	-	2:r6	-	-	-	-
+sahapATI_1	2	anim	pl	16:rask1	-	-	-	-
+$wyax	5	-	-	16:k1	Geo_ncert_7stnd_6ch_0001.10:coref	distal	-	-
+himAcala	6	-	-	-	-	-	-	14:begin
+praxeSa	7	-	-	-	-	-	-	17:whole
+manAlI	9	-	-	-	-	-	-	15:begin
+xeKa_1	10	-	-	16:rt	-	-	-	-
+[ne_1]	14	place	-	7:rs	-	-	-	-
+[ne_2]	15	place	-	-	-	-	-	17:part
+jA_1-yA_WA_1	16	-	-	0:main	-	-	-	-
+[spatial_1]	17	-	-	16:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0003a>
+#उसे सब स्मरण यह था।
+#use saba smaraNa yaha WA.
+#All she remembered was how amazed she was to see the changing forms of the topography and natural vegetation as the bus went uphill.
+$wyax	1	-	-	5:k4a	Geo_ncert_7stnd_6ch_0001.10:coref	distal	-	-
+saba	2	-	-	3:mod	-	-	-	-
+smaraNa_1	3	-	-	5:k1	-	-	-	-
+$wyax	4	-	-	5:k2	Geo_ncert_7stnd_6ch_0003b.5:coref	proximal	-	-
+hE_1-past	5	-	-	0:main	Geo_ncert_7stnd_6ch_0003c.13:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0003b>
+#कि बस जैसे-जैसे चढाई पर जा रही थी।
+#ki basa jEse-jEse caDAI para jA rahI WI .
+#All she remembered was how amazed she was to see the changing forms of the topography and natural vegetation as the bus went uphill.
+basa_1	1	-	-	5:k1	-	-	-	-
+jEse_1	2	-	xviwva	5:rcprop	-	-	-	-
+caDAI_1	3	-	-	5:k7p	-	-	-	-
+jA_1-0_rahA_WA_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0003c>
+#तो वह स्थलाकृति एवं प्राकृतिक वनस्पति के बदलते रूपों को देखकर कितनी हैरान हो रही थी।
+#wo vaha sWalAkqwi evaM prAkqwika vanaspawi ke baxalawe rUpoM ko xeKakara kiwanI hErAna ho rahI WI.
+#All she remembered was how amazed she was to see the changing forms of the topography and natural vegetation as the bus went uphill.
+$wyax	1	-	-	13:k1	Geo_ncert_7stnd_6ch_0001.10:coref	distal	-	-
+sWalAkqwi_1	2	-	-	-	-	-	-	17:op1
+prAkqwika_1	4	-	-	5:mod	-	-	-	-
+vanaspawi_1	5	-	-	-	-	-	-	17:op2
+baxala_1	7	-	pl	8:rvks	-	-	-	-
+rUpA_1	8	-	pl	10:k2	-	-	-	-
+xeKa_1	10	-	-	13:rpk	-	-	-	-
+$kim	11	-	-	12:quant	-	-	-	-
+hErAna_1	12	-	-	13:k1s	-	-	-	-
+ho_1-0_rahA_WA_1	13	-	-	0:main	-	-	-	-
+[conj_1]	17	-	-	7:k7	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0004a>
+#गिरिपाद में स्थित साल एवं सागवान के घने वन धीरे-धीरे अदृश्य हो गए।
+#giripAxa meM sWiwa sAla evaM sAgavAna ke Gane vana XIre-XIre axqSya ho gae .
+#The dense forests of Sal and Teak in Giripad gradually disappeared and tall trees with slender pointed leaves and conical canopy appeared on the slopes of the mountain.
+giripAxa_1	1	-	-	3:k7p	-	-	-	-
+sWiwa_1	3	-	-	4:mod	-	-	-	-
+sAla_1	4	-	-	-	-	-	-	17:begin
+sAgavAna_1	6	-	-	-	-	-	-	18:begin
+GanA_1	8	-	-	9:mod	-	-	-	-
+vana	9	-	-	12:k1	-	-	-	-
+XIre_1	10	-	xviwva	12:krvn	-	-	-	-
+axqSya_1	11	-	-	12:k1s	-	-	-	-
+ho_1-yA_hE_1	12	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	9:r6	-	-	-	-
+[ne_1]	17	-	-	-	-	-	-	16:op1
+[ne_2]	18	-	-	-	-	-	-	16:op2
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0004b>
+#तथा पर्वत की ढलानों पर पतली नुकीली पत्तियों तथा शंक्वाकार वितान लंबे वृक्ष दिखने लगे।
+#waWA parvawa kI DalAnoM para pawalI nukIlI pawwiyoM waWA SaMkvAkAra viwAna laMbe vqkRa xiKane lage.
+#The dense forests of Sal and Teak in Giripad gradually disappeared and tall trees with slender pointed leaves and conical canopy appeared on the slopes of the mountain.
+parvawa_1	1	-	-	3:r6	-	-	-	-
+DalAna_1	3	-	-	13:k7p	-	-	-	-
+pawalA_1	5	-	-	7:mod	-	-	-	-
+nukIlA_1	6	-	-	7:mod	-	-	-	-
+pawwI_1	7	-	pl	-	-	-	-	16:op1
+SaMkvAkAra_1	9	-	-	12:mod	-	-	-	-
+viwAna_1	10	-	-	12:mod	-	-	-	-
+laMbA_1	11	-	pl	12:mod	-	-	-	-
+vqkRa_1	12	-	-	-	-	-	-	16:op2
+xiKa_1-nA_lagA_1	13	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	13:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0005a>
+#उसे पता यह चला।
+#use pawA yaha calA.
+#He learned that they were coniferous trees.
+$wyax	1	-	-	5:k4a	Geo_ncert_7stnd_6ch_0001.10:coref	distal	-	-
+pawA_1	2	-	-	-	-	-	-	5:kriyAmUla
+$wyax	3	-	-	5:k2	Geo_ncert_7stnd_6ch_0005b.4:coref	proximal	-	-
+cala_1-yA_hE_1	4	-	-	-	-	-	-	5:verbalizer
+[cp_1]	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0005b>
+#कि वे शंकुधारी वृक्ष थे।
+#ki ve SaMkuXArI vqkRa We.
+#He learned that they were coniferous trees.
+$wyax	1	-	pl	4:k1	Geo_ncert_7stnd_6ch_0004a.16:coref	distal	-	-
+SaMkuXArI_1	2	-	-	3:mod	-	-	-	-
+vqkRa_1	3	-	-	4:k1s	-	-	-	-
+hE_1-past	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0006>
+#लंबे वृक्षों पर खिले लाल-लाल फूलों पर उसका ध्यान गया।
+#laMbe vqkRoM para Kile lAla-lAla PUloM para usakA XyAna gayA.
+#His attention was drawn to the red-red flowers blooming on tall trees.
+laMbA_1	1	-	-	2:mod	-	-	-	-
+vqkRa_1	2	-	pl	4:k7p	-	-	-	-
+Kila_1	4	-	-	6:rvks	-	-	-	-
+lAla_1	5	-	xviwva	6:mod	-	-	-	-
+PUla_1	6	-	pl	12:k7p	-	-	-	-
+$wyax	8	-	-	9:k2	Geo_ncert_7stnd_6ch_0001.10:coref	distal	-	-
+XyAna_1	9	-	-	-	-	-	-	12:kriyAmUla
+jA_1-yA_hE_1	10	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0007>
+#वे रोडोडेंड्रॉन के फूल थे।
+#ve rododeMdroYna ke PUla We.
+#They were rhododendron flowers.
+$wyax	1	-	-	5:k1	Geo_ncert_7stnd_6ch_0006.6:coref	distal	-	-
+rododeMdrOYna_1	2	-	-	-	-	-	-	6:begin
+PUla_1	4	-	-	5:k1s	-	-	-	-
+hE_1-past	5	-	-	0:main	-	-	-	-
+[ne_1]	6	-	-	4:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0008a>
+#मनाली से आगे रोहतांग दर्रे तक के रास्ते में उसने यह देखा।
+#manAlI se Age rohawAMga xarre waka ke rAswe meM usane yaha xeKA.
+#On his way from Manali to the Rohtang Pass, he noticed that the land was covered with small grass and snow at some places.
+manAlI	1	-	-	-	-	-	-	15:begin
+AgA_1	3	-	pl	-	-	-	-	17:start
+rohawAMga	4	-	-	-	-	-	-	16:begin
+xarrA_1	5	-	pl	-	-	-	-	14:part
+rAswA_1	8	-	pl	12:k7p	-	-	-	-
+$wyax	10	-	-	12:k1	Geo_ncert_7stnd_6ch_0001.10:coref	distal	-	-
+$wyax	11	-	-	12:k2	-	proximal	-	-
+xeKa_1-yA_hE_1	12	-	-	0:main	-	-	-	-
+[spatial_1]	14	-	-	-	-	-	-	17:end
+[ne_1]	15	-	-	-	-	-	-	14:whole
+[ne_2]	16	-	-	5:rs	-	-	-	-
+[span_1]	17	-	-	12:rmeas	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0008b>
+#कि भूमि छोटी-छोटी घास एवं कुछ स्थानों पर बर्फ से ढँकी थी।
+#ki BUmi CotI-CotI GAsa evaM kuCa sWAnoM para barPa se DazkI WI.
+#On his way from Manali to the Rohtang Pass, he noticed that the land was covered with small grass and snow at some places.
+BUmi_1	1	-	-	14:k1	-	-	-	-
+CotI_1	2	-	xviwva	3:mod	-	-	-	-
+GAsa_1	3	-	-	-	-	-	-	13:op1
+kuCa_1	5	-	-	6:quant	-	-	-	-
+sWAna_1	6	-	pl	-	-	-	-	13:op2
+barPa_1	8	-	-	14:k3	-	-	-	-
+Dazka_1	10	-	-	14:k1s	-	-	-	-
+[conj_1]	13	-	-	14:k7p	-	-	-	-
+hE_1-past	14	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0009a>
+#सलीमा के अवलोकन से हम अनुमान यह लगा सकते हैं।
+#salImA ke avalokana se hama anumAna yaha lagA sakawe hEM.
+#From Salima's observation, we can infer that the height and vegetation characteristics of the site are related to each other.
+salImA	1	-	-	-	-	-	-	12:begin
+avalokana_1	3	-	-	13:k3	-	-	-	-
+$speaker	5	-	pl	13:k1	-	-	-	-
+anumAna_1	6	-	-	-	-	-	-	13:kriyAmUla
+$wyax	7	-	-	13:k2	Geo_ncert_7stnd_6ch_0009b.11:coref	proximal	-	-
+lagA_1-0_sakawA_hE_1	8	-	-	-	-	-	-	13:verbalizer
+[ne_1]	12	per	-	3:r6	-	-	-	-
+[cp_1]	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0009b>
+#कि स्थल की ऊँचाई एवं वनस्पति की विशेषताएँ एक-दूसरे से सम्बंधित है।
+#ki sWala kI ucAI evaM vanaspawi kI viSeRawAez eka-xUsare se sambaMXiwa hE.
+#From Salima's observation, we can infer that the height and vegetation characteristics of the site are related to each other.
+sWala_1	1	-	-	3:r6	-	-	-	-
+ucAI_1	3	-	-	-	-	-	-	13:op1
+vanaspawi_1	5	-	-	7:r6	-	-	-	-
+viSeRawA_1	7	-	pl	-	-	-	-	13:op2
+eka+xUsarA	8	-	-	11:k2	-	-	-	-
+sambaMXiwa_1	10	-	-	11:k1s	-	-	-	-
+hE_1-pres	11	-	-	0:main	-	-	-	-
+[conj_1]	13	-	-	11:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0010a>
+#उँचाई में परिवर्तन के साथ जलवायु में परिवर्तन होता है।
+#uzcAI meM parivarwana ke sAWa jalavAyu meM parivarwana howA hE .
+#Climate changes with the change in altitude and due to this the natural vegetation also changes.
+uzcAI_1	1	-	-	9:k7	-	-	-	-
+parivarwana_1	3	-	-	9:rask7	-	-	-	-
+jalavAyu_1	6	-	-	9:k7	-	-	-	-
+parivarwana_1	8	-	-	9:k1	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0010b>
+#तथा इसके कारण प्राकृतिक वनस्पति में भी बदलाव आता है।
+#waWA isake kAraNa prAkqwika vanaspawi meM BI baxalAva AwA hE.
+#Climate changes with the change in altitude and due to this the natural vegetation also changes.
+$wyax	1	-	-	8:rh	Geo_ncert_7stnd_6ch_0010a.8:coref	proximal	-	-
+prAkqwika_1	3	-	-	4:mod	-	-	-	-
+vanaspawi_1	4	-	-	8:k7	-	BI_1	-	-
+baxalAva_1	7	-	-	8:k1	-	-	-	-
+A_1-wA_hE_1	8	-	-	0:main	Geo_ncert_7stnd_6ch_0010a.9:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0011>
+#वनस्पति की वृद्धि तापमान एवं नमी पर निर्भर करती है।
+#vanaspawi kI vqxXi wApamAna evaM namI para nirBara karawI hE.
+#The growth of vegetation depends on temperature and moisture.
+vanaspawi_1	1	-	-	3:r6	-	-	-	-
+vqxXi_1	3	-	-	12:k1	-	-	-	-
+wApamAna_1	4	-	-	-	-	-	-	13:op1
+namI_1	6	-	-	-	-	-	-	13:op2
+nirBara_1	8	-	-	-	-	-	-	12:kriyAmUla
+kara_1-wA_hE_1	9	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	-	-	-	-
+[conj_1]	13	-	-	12:k7	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0012>
+#इसके अलावा यह ढाल एवं मिट्टी की परत की मोटाई जैसे कारकों पर भी निर्भर करती है।
+#isake alAvA yaha DAla evaM mittI kI parawa kI motAI jEse kArakoM para BI nirBara karawI hE.
+#Apart from this, it also depends on factors like slope and thickness of soil layer.
+$wyax	3	-	-	4:dem	-	proximal	-	-
+DAla_1	4	-	-	-	-	-	-	20:op1
+mittI_1	6	-	-	8:r6	-	-	-	-
+parawa_1	8	-	-	10:r6	-	-	-	-
+motAI_1	10	-	-	-	-	-	-	20:op2
+kAraka_1	12	-	pl	19:k7	-	BI	-	-
+nirBara_1	15	-	-	-	-	-	-	19:kriyAmUla
+kara_1-wA_hE_1	16	-	-	-	-	-	-	19:verbalizer
+[cp_1]	19	-	-	0:main	Geo_ncert_7stnd_6ch_0011.12:samuccaya.alAvA	-	-	-
+[conj_1]	20	-	-	12:ru	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0013>
+#इन घटकों में अंतर के कारण किसी स्थान की प्राकृतिक वनस्पति की सघनता एवं प्रकार में भी परिवर्तन होता है।
+#ina GatakoM meM aMwara ke kAraNa kisI sWAna kI prAkqwika vanaspawi kI saGanawA evaM prakAra meM BI parivarwana howA hE.
+#Due to the difference in these components, the density and type of natural vegetation of a place also changes.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+Gataka_1	2	-	pl	22:k7p	-	-	-	-
+aMwara_1	4	-	-	19:rh	-	-	-	-
+koI_1	7	-	-	8:mod	-	-	-	-
+sWAna_1	8	-	-	11:r6	-	-	-	-
+prAkqwika_1	10	-	-	11:mod	-	-	-	-
+vanaspawi_1	11	-	-	13:r6	-	-	-	-
+saGanawA_1	13	-	-	-	-	-	-	23:op1
+prakAra_1	15	-	-	-	-	BI_1	-	23:op2
+parivarwana_1	18	-	-	-	-	-	-	22:kriyAmUla
+ho_1-wA_hE_1	19	-	-	-	-	-	-	22:verbalizer
+[cp_1]	22	-	-	0:main	-	-	-	-
+[conj_1]	23	-	-	22:k7	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0014>
+#आमतौर पर प्राकृतिक वनस्पति को निम्न तीन मुख्य श्रेणियों में वर्गीकृत किया जाता है:।
+#AmawOra para prAkqwika vanaspawi ko nimna wIna muKya SreNiyoM meM vargIkqwa kiyA jAwA hE: .
+#Natural vegetation is generally classified into the following three main categories:
+AmawOra+para_1	1	-	-	17:vkvn	-	-	-	-
+prAkqwika_1	3	-	-	4:mod	-	-	-	-
+vanaspawi_1	4	-	-	17:k2	-	-	-	-
+nimna_1	6	-	-	9:mod	-	-	-	-
+3	7	numex	-	9:card	-	-	-	-
+muKya_1	8	-	-	9:mod	-	-	-	-
+SreNI_1	9	-	pl	17:k7	-	-	-	-
+vargIkqwa_1	11	-	-	-	-	-	-	17:kriyAmUla
+kara_1-yA_jA_wA_hE_1	12	-	-	-	-	-	-	17:verbalizer
+[cp_1]	17	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0015F>
+#जो वृक्षों के लिए उपयुक्त तापमान एवं परिपूर्ण वर्षा वाले क्षेत्रों में उगते हैं।
+#jo vqkRoM ke lie upayukwa wApamAna evaM paripUrNa varRA vAle kRewroM meM ugawe hEM.
+#Forests: Which grow in areas with suitable temperature and full rainfall for trees.
+$yax	1	-	-	13:k1	Geo_ncert_7stnd_6ch_0015T.1:coref	-	-	-
+vqkRa_1	2	-	pl	13:rt	-	-	-	-
+upayukwa_1	5	-	-	6:mod	-	-	-	-
+wApamAna_1	6	-	-	-	-	-	-	16:op1
+paripUrNa_1	8	-	-	9:mod	-	-	-	-
+varRA_1	9	-	mawupa	11:mod	-	-	-	16:op2
+kRewra_1	11	-	pl	13:k7p	-	-	-	-
+uga_1-wA_hE_1	13	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	9:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0015T>
+#वन:
+#vana:
+#Forests: Which grow in areas with suitable temperature and full rainfall for trees.
+vana	1	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0016>
+#इन कारकों के आधर पर सघन एवं खुले वन विकसित होते हैं।
+#ina kArakoM ke AXara para saGana evaM Kule vana vikasiwa howe hEM.
+#On the basis of these factors, dense and open forests develop.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+kAraka_1	2	-	pl	14:k7	-	-	-	-
+saGana_1	6	-	-	-	-	-	-	15:op1
+KulA_1	8	-	pl	-	-	-	-	15:op2
+vana	9	male	-	14:k1	-	-	-	-
+vikasiwa_1	10	-	-	-	-	-	-	14:kriyAmUla
+ho_1-wA_hE_1	11	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	9:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0017F>
+#जो मध्यम वर्षा वाले क्षेत्र में विकसित होते है।
+#jo maXyama varRA vAle kRewra meM vikasiwa howe hE.
+#Grasslands: Which grow in the area with moderate rainfall.
+$yax	1	-	-	11:k1	Geo_ncert_7stnd_6ch_0017T.1:coref	-	-	-
+maXyama_1	2	-	-	3:mod	-	-	-	-
+varRA_1	3	-	mawupa	5:mod	-	-	-	-
+kRewra_1	5	-	-	8:k7p	-	-	-	-
+vikasiwa_1	7	-	-	-	-	-	-	11:kriyAmUla
+ho_1-wA_hE_1	8	-	-	-	-	-	-	11:verbalizer
+[cp_1]	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0017T>
+#घासस्थल:
+#GAsasWala:
+#Grasslands: Which grow in the area with moderate rainfall.
+GAsasWala	1	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0018>
+#काटेदार झाड एवं झाडियाँ केवल शुष्क क्षेत्रों में पैदा होते है।
+#kAtexAra JAda evaM JAdiyAz kevala SuRka kRewroM meM pExA howe hE.
+#Prickly shrubs: Prickly shrubs and shrubs are born in dry areas.
+kAtexAra	1	-	-	2:mod	-	-	-	-
+JAda_1	2	-	-	-	-	-	-	15:op1
+JAdI_1	4	-	pl	-	-	kevala	-	15:op2
+SuRka_1	6	-	-	7:mod	-	-	-	-
+kRewra_1	7	-	pl	14:k7p	-	-	-	-
+pExA_1	9	-	-	-	-	-	-	14:kriyAmUla
+ho_1-wA_hE_1	10	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	14:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0018T>
+#काटेदार झाडियाँ:
+#kAtexAra JAdiyAz:
+#Prickly shrubs: Prickly shrubs and shrubs are born in dry areas.
+kAtexAra	1	-	-	2:mod	-	-	-	-
+JAdI_1	2	-	pl	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0019>
+#सलीमा हिमालय की यात्रा का अपना यह अनुभव अपने पिता को बता रही थी।
+#salImA himAlaya kI yAwrA kA apanA yaha anuBava apane piwA ko bawA rahI WI.
+#Salima was narrating this experience of her journey to the Himalayas to her father.
+salImA	1	female	-	-	-	-	-	16:begin
+himAlaya	2	place	-	4:r6	-	-	-	-
+yAwrA_1	4	-	-	8:k2	-	-	-	-
+apanA	6	-	-	8:r6	1:coref	-	-	-
+$wyax	7	-	-	8:dem	-	proximal	-	-
+anuBava_1	8	-	-	12:k2g	-	-	-	-
+apanA	9	-	pl	10:r6	1:coref	-	-	-
+piwA_1	10	anim	-	12:k2	-	-	-	-
+bawA_1-0_rahA_WA_1	12	-	-	0:main	-	-	-	-
+[ne_1]	16	per	-	12:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0020>
+#उसके पिता विश्व के विभिन्न स्थानों पर जा चुके थे।
+#usake piwA viSva ke viBinna sWAnoM para jA cuke We.
+#His father had gone to different places of the world.
+$wyax	1	-	-	2:r6	Geo_ncert_7stnd_6ch_0019.16:coref	distal	-	-
+piwA_1	2	anim	-	8:k1	-	-	-	-
+viSva_1	3	-	-	6:r6	-	-	-	-
+viBinna_1	5	-	-	6:mod	-	-	-	-
+sWAna_1	6	-	pl	8:k7p	-	-	-	-
+jA_1-cukA_WA_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0021>
+#उन्होंने सलीमा को विभिन्न महाद्वीपों के विभिन्न भागों में पाई जाने वाली विविध् प्रकार की वनस्पतियों के बारे में बताया।
+#unhoMne salImA ko viBinna mahAxvIpoM ke viBinna BAgoM meM pAI jAne vAlI viviX prakAra kI vanaspawiyoM ke bAre meM bawAyA.
+#He told Salima about the different types of vegetation found in different parts of different continents.
+$wyax	1	-	-	20:k1	Geo_ncert_7stnd_6ch_0020.2:coref	distal	-	-
+salImA	2	female	-	-	-	-	-	22:begin
+viBinna_1	4	-	-	5:mod	-	-	-	-
+mahAxvIpa_1	5	-	pl	8:r6	-	-	-	-
+viBinna_1	7	-	-	8:mod	-	-	-	-
+BAga_1	8	-	pl	10:k7p	-	-	-	-
+pA_1	10	-	wacCIla	14:mod	-	-	-	-
+viviXa_1	13	-	-	14:mod	-	-	-	-
+prakAra_1	14	-	-	16:r6	-	-	-	-
+vanaspawi_1	16	-	pl	20:k7p	-	-	-	-
+bawA_1-yA_hE_1	20	-	-	0:main	-	-	-	-
+[ne_1]	22	per	-	10:k4	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0022>
+#उन्होंने उपध्रुवीय प्रदेशों में शंकुधारी वन, रेगिस्तानों में काँटेदार झाडियों, आर्द्र प्रदेशों में घने उष्णकटिबंधीय दृढ काष्ठ वनों के बारे में कई अन्य जानकारियाँ दी।
+#unhoMne upaXruvIya praxeSoM meM SaMkuXArI vana, regiswAnoM meM kAztexAra JAdiyoM, Arxra praxeSoM meM Gane uRNakatibaMXIya xqDa kARTa vanoM ke bAre meM kaI anya jAnakAriyAz xI.
+#He gave many other information about coniferous forests in the subpolar regions, thorny bushes in the deserts, dense tropical hardwood forests in the wetlands.
+$wyax	1	-	-	33:k1	Geo_ncert_7stnd_6ch_0020.2:coref	distal	-	-
+upaXruvIya_1	2	-	-	3:mod	-	-	-	-
+praxeSa_1	3	-	pl	33:k7p	-	-	-	-
+SaMkuXArI	5	-	-	-	-	-	-	29:begin
+vana	6	-	-	-	-	-	-	30:op1
+regiswAna_1	8	-	-	11:k7p	-	-	-	-
+kAztexAra_1	10	-	-	11:mod	-	-	-	-
+JAdI_1	11	-	pl	-	-	-	-	30:op2
+Arxra_1	13	-	-	14:mod	-	-	-	-
+praxeSa_1	14	-	pl	32:k7p	-	-	-	-
+Gane_1	16	-	-	32:intf	-	-	-	-
+uRNakatibaMXIya_1	17	-	-	32:mod	-	-	-	-
+xqDa_1	18	-	-	-	-	-	-	31:mod
+kARTa_1	19	-	-	-	-	-	-	31:head
+vana_1	20	-	pl	-	-	-	-	32:head
+kaI_1	24	-	-	25:quant	-	-	-	-
+anya_1	25	-	-	26:mod	-	-	-	-
+jAnakArI_1	26	-	-	-	-	-	-	33:kriyAmUla
+xe_1-yA_hE_1	27	-	-	-	-	-	-	33:verbalizer
+[ne_1]	29	-	-	6:mod	-	-	-	-
+[conj_1]	30	-	-	33:k2	-	-	-	-
+[karmaXAraya_1]	31	-	-	-	-	-	-	32:mod
+[6-waw_1]	32	-	-	-	-	-	-	30:op3
+[cp_1]	33	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0023a>
+#सलीमा यह समझ गई।
+#salImA yaha samaJa gaI.
+#Salima understood that almost all types of vegetation are found in the Himalayan regions, which are found on moving from the equator to the pole.
+salImA	1	female	-	-	Geo_ncert_7stnd_6ch_0023b.10:coref	-	-	6:begin
+$wyax	2	-	-	3:k2	-	proximal	-	-
+samaJa_1-yA_hE_1	3	-	-	0:main	-	[shade:jA_1]	-	-
+[ne_1]	6	per	-	3:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0023b>
+#कि हिमालय के क्षेत्रों में लगभग सभी प्रकार की वनस्पतियाँ पाई जाती हैं, जो भूमध्य रेखा से ध्रुव की ओर जाने पर मिलती हैं।
+#ki himAlaya ke kRewroM meM lagaBaga saBI prakAra kI vanaspawiyAz pAI jAwI hEM, jo BUmaXya reKA se Xruva kI ora jAne para milawI hEM.
+#Salima understood that almost all types of vegetation are found in the Himalayan regions, which are found on moving from the equator to the pole.
+himAlaya	1	place	-	3:r6	-	-	-	-
+kRewra_1	3	-	pl	10:k7p	-	-	-	-
+saBI_1	6	-	-	7:quant	-	lagaBaga	-	-
+prakAra_1	7	-	-	9:r6	-	-	-	-
+vanaspawi_1	9	-	pl	10:k2	-	-	-	-
+pA_1-yA_jA_wA_hE_1	10	-	-	0:main	-	-	-	-
+$yax	14	-	-	23:k1	9:coref	-	-	-
+BUmaXya_1	15	-	-	16:mod	-	-	-	-
+reKA_1	16	-	-	23:k5	-	-	-	-
+Xruva	18	-	-	21:rd	-	-	-	-
+jA_1	21	-	-	23:rblak	-	-	-	-
+mila_1-wA_hE_1	23	-	-	9:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0024>
+#प्राकृतिक वनस्पतियों के प्रकार में बदलाव का मुख्य कारण जलवायु का बदलाव है।
+#prAkqwika vanaspawiyoM ke prakAra meM baxalAva kA muKya kAraNa jalavAyu kA baxalAva hE.
+#The main reason for the change in the type of natural vegetation is the change of climate.
+prAkqwika_1	1	-	-	2:mod	-	-	-	-
+vanaspawi_1	2	-	pl	13:k7	-	-	-	-
+baxalAva_1	6	-	-	9:r6	-	-	-	-
+muKya_1	8	-	-	9:mod	-	-	-	-
+kAraNa_1	9	-	-	13:k1	-	-	-	-
+jalavAyu_1	10	-	-	12:r6	-	-	-	-
+baxalAva_1	12	-	-	13:k1s	-	-	-	-
+hE_1-pres	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0025a>
+#आइए हम विश्व की विभिन्न प्रकार की प्राकृतिक वनस्पतियो , उनके गुण एवं वहाँ प्रवास करने वाले वन्य जीवों की जानकारी प्राप्त करे।
+#Aie hama viSva kI viBinna prakAra kI prAkqwika vanaspawiyo , unake guNa evaM vahAz pravAsa karane vAle vanya jIvoM kI jAnakArI prApwa kare.
+#Let us get information about the different types of natural flora of the world, their properties and the wild animals living there.
+$speaker	2	-	pl	26:k1	-	-	-	-
+viSva_1	3	-	-	6:r6	-	-	-	-
+viBinna_1	5	-	-	6:mod	-	-	-	-
+prakAra_1	6	-	-	9:r6	-	-	-	-
+prAkqwika_1	8	-	-	9:mod	-	-	-	-
+vanaspawi_1	9	-	-	-	-	-	-	27:op1
+$wyax	11	-	pl	12:r6	9:coref	distal	-	-
+guNa_1	12	-	-	-	-	-	-	27:op2
+$wyax	14	-	-	26:k7p	9:coref	-	-	-
+pravAsa_1	15	-	-	-	-	-	-	25:kriyAmUla
+kara_1	16	-	-	-	-	-	-	25:verbalizer
+vanya_1	18	-	-	19:mod	-	-	-	-
+jIva_1	19	-	pl	-	-	-	-	27:op3
+jAnakArI_1	21	-	-	26:k2	-	-	-	-
+prApwa_1	22	-	-	-	-	-	-	26:kriyAmUla
+kara_1-o_1	23	-	-	-	-	-	-	26:verbalizer
+[cp_1]	25	-	-	19:mod	-	-	-	-
+[cp_2]	26	-	-	0:main	-	-	-	-
+[conj_1]	27	-	-	21:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0025b>
+#आप आइए।
+#Apa Aie
+#Let us come
+-	-	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0026a>
+#इन वनों को उष्णकटिबंधीय वर्षा वन भी कहते हैं (चित्र 6.3)।
+#vana uRNakatibaMXIya saxAbahAra vana ina vanoM ko uRNakatibaMXIya varRA vana BI kahawe hEM (ciwra 6.3).
+#Forests Tropical evergreen forests These forests are also called tropical rain forests (Figure 6.3).
+$wyax	5	-	-	6:dem	-	proximal	-	-
+vana_1	6	-	pl	12:k2	-	-	-	-
+uRNakatibaMXIya_1	8	-	-	9:mod	-	-	-	-
+varRA_1	9	-	-	10:mod	-	-	-	-
+vana	10	-	-	12:k2s	-	BI_1	-	-
+kaha_1-wA_hE_1	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0026b>
+#आप चित्र 6.3 कहते है।
+#Apa ciwra 6.3 kahawe hE.
+#you called figer 6.3 .
+-	-	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0026H>
+#वन।
+#vana
+#Forest
+-	-	-	-	-	-	-	-	-
+%heading
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0026T>
+#उष्णकटिबंधीय सदाबहार वन।
+#uRNakatibaMXIya saxAbahAra vana
+#Forests Tropical evergreen forests These forests are also called tropical rain forests (Figure 6.3).
+-	-	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0027>
+#ये घने वन भूमध्य रेखा एवं उष्णकटिबंधीय के पास पाए जाते हैं।
+#ye Gane vana BUmaXya reKA evaM uRNakatibaMXIya ke pAsa pAe jAwe hEM.
+#These dense forests are found near the equator and the tropics.
+$wyax	1	-	-	3:dem	-	proximal	-	-
+Gane_1	2	-	-	3:mod	-	-	-	-
+vana	3	-	-	10:k2	-	-	-	-
+BUmaXya	4	-	-	5:mod	-	-	-	-
+reKA_1	5	-	-	-	-	-	-	15:op1
+uRNakatibaMXIya_1	7	-	-	-	-	-	-	15:op2
+pAsa_1	9	-	-	10:k7p	-	-	-	-
+pA_1-yA_jA_wA_hE_1	10	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	9:rdl	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0028a>
+#ये क्षेत्र गर्म होते हैं।
+#ye kRewra garma howe hEM .
+#These regions are hot and receive heavy rainfall throughout the year.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+kRewra_1	2	-	-	4:k1	-	-	-	-
+garma_1	3	-	-	4:k1s	-	-	-	-
+ho_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0028b>
+#एवं पूरे वर्ष यहाँ अत्यधिक वर्षा होती है।
+#evaM pUre varRa yahAz awyaXki varRA howI hE.
+#These regions are hot and receive heavy rainfall throughout the year.
+pUrA_1	1	-	-	2:mod	-	-	-	-
+varRa_1	2	-	-	6:k7t	-	-	-	-
+$wyax	3	-	-	6:k7p	-	-	-	-
+awyaXika_1	4	-	-	5:mod	-	-	-	-
+varRA_1	5	-	-	6:k1	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	Geo_ncert_7stnd_6ch_0028a.4:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0029a>
+#चूँकि यहाँ का मौसम कभी शुष्क नहीं होता।
+#cUzki yahAz kA mOsama kaBI SuRka nahIM howA .
+#Since the weather here is never dry, the leaves of the trees here do not shed completely.
+$wyax	1	-	-	3:r6	Geo_ncert_7stnd_6ch_0026a.6:coref	-	-	-
+mOsama_1	3	-	-	7:k1	-	-	-	-
+kaBI	4	-	-	7:k7t	-	-	-	-
+SuRka_1	5	-	-	7:k1s	-	-	-	-
+nahIM_1	6	-	-	7:neg	-	-	-	-
+ho_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0029b>
+#इसलिए यहाँ के पेड़ों की पत्तियाँ पूरी तरह नहीं झडती।
+#isalie yahAz ke pedoM kI pawwiyAz pUrI waraha nahIM JadawI.
+#Since the weather here is never dry, the leaves of the trees here do not shed completely.
+$wyax	1	-	-	3:r6	Geo_ncert_7stnd_6ch_0026a.6:coref	-	-	-
+peda_1	3	-	pl	5:r6	-	-	-	-
+pawwI_1	5	-	pl	9:k1	-	-	-	-
+pUrA_1	6	-	-	7:mod	-	-	-	-
+waraha_1	7	-	-	9:krvn	-	-	-	-
+nahIM_1	8	-	-	9:neg	-	-	-	-
+Jada_1-wA_hE_1	9	-	-	0:main	Geo_ncert_7stnd_6ch_0029a.7:pariNAma	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0030>
+#इसलिए इन्हें सदाबहार कहते हैं।
+#isalie inheM saxAbahAra kahawe hEM.
+#That's why they are called evergreens.
+$wyax	1	-	-	3:k2	-	proximal	-	-
+saxAbahAra_1	2	-	-	3:k2s	-	-	-	-
+kaha_1-wA_hE_1	3	-	-	0:main	Geo_ncert_7stnd_6ch_0029a.7:pariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0031>
+#काफी घने वृक्षों की मोटी वितान के कारण दिन के समय भी सूर्य का प्रकाश वन के अंदर तक नहीं पहुँच पाता है।
+#kAPI Gane vqkRoM kI motI viwAna ke kAraNa xina ke samaya BI sUrya kA prakASa vana ke aMxara waka nahIM pahuzca pAwA hE.
+#Due to the thick canopy of very dense trees, even during the day, sunlight does not reach inside the forest.
+kAPI_1	1	-	-	3:quant	-	-	-	-
+GanA_1	2	-	-	3:mod	-	-	-	-
+vqkRa_1	3	-	pl	6:r6	-	-	-	-
+motA_1	5	-	-	6:mod	-	-	-	-
+viwAna_1	6	-	-	21:rh	-	-	-	-
+xina_1	9	-	-	21:k7t	-	-	-	-
+sUrya_1	13	-	-	15:r6	-	-	-	-
+prakASa_1	15	-	-	21:k1	-	-	-	-
+vana	16	-	-	22:rdl	-	-	-	-
+aMxara_1	18	-	-	-	-	-	-	22:end
+nahIM_1	20	-	-	21:neg	-	-	-	-
+pahuzca_1-wA_hE_1	21	-	-	0:main	-	[shade:pA_1]	-	-
+[span_1]	22	-	-	21:dur	-	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0032>
+#आमतौर पर यहाँ दृढ काष्ठ वृक्ष जैसे रोजवुड, आबनूस, महोगनी आदि पाए जाते हैं।
+#AmawOra para yahAz xqDa kARTa vqkRa jEse rojavuda, AbanUsa, mahoganI Axi pAe jAwe hEM.
+#Generally hardwood trees like rosewood, ebony, mahogany etc. are found here.
+AmawOra_1	1	-	-	14:krvn	-	-	-	-
+$wyax	3	-	-	14:k7p	Geo_ncert_7stnd_6ch_0031>22:coref	-	-	-
+xqDa_1	4	-	-	5:mod	-	-	-	-
+kARTa_1	5	-	-	-	-	-	-	18:mod
+vqkRa_1	6	-	-	-	-	-	-	18:head
+rojavuda_1	8	-	-	-	-	-	-	20:op1
+AbanUsa_1	10	-	-	-	-	-	-	20:op2
+mahoganI_1	12	-	-	-	-	-	-	20:op3
+pA_1-yA_jA_wA_hE_1	14	-	-	0:main	-	-	-	-
+[nc_1]	18	-	-	20:ru	-	-	-	-
+Axi_1	19	-	-	-	-	-	-	20:op4
+[conj_1]	20	-	-	14:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0033a>
+#उष्णकटिबंधीय पर्णपाती वन मानसूनी वन होते हैं जो भारत, उत्तरी ऑस्ट्रेलिया एवं मध्य अमेरिका के बड़े हिस्सों में पाए जाते हैं।
+#uRNakatibaMXIya parNapAwI vana mAnasUnI vana howe hEM jo BArawa, uwwarI oYstreliyA evaM maXya amerikA ke bade hissoM meM pAe jAwe hEM (ciwra 6.4).
+#Tropical deciduous forests are monsoon forests found in large parts of India, northern Australia and Central America (Figure 6.4).
+uRNakatibaMXIya_1	1	-	-	5:mod	-	-	-	-
+parNapAwI	2	-	-	-	-	-	-	28:begin
+vana	3	-	-	6:k1	-	-	-	-
+mAnasUnI_1	4	-	-	5:mod	-	-	-	-
+vana	5	-	-	6:k1s	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+$yax	8	-	-	20:k1	3:coref	-	-	-
+BArawa	9	place	-	-	-	-	-	33:begin
+uwwarI_1	11	-	-	12:mod	-	-	-	-
+OYstreliyA	12	place	-	-	-	-	-	32:begin
+maXya	14	-	-	-	-	-	-	30:begin
+amerikA	15	place	-	-	-	-	-	30:inside
+badA_1	17	-	-	18:mod	-	-	-	-
+hissA_1	18	-	pl	20:k7p	-	-	-	-
+pA_1-yA_jA_wA_hE_1	20	-	-	3:rcelab	-	-	-	-
+[ne_1]	28	-	-	3:mod	-	-	-	-
+[ne_3]	30	-	-	-	-	-	-	31:op3
+[conj_1]	31	-	-	18:r6	-	-	-	-
+[ne_2]	32	-	-	-	-	-	-	31:op2
+[ne_4]	33	-	-	-	-	-	-	31:op1
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0033b>
+#ये चित्र 6.4 में पाए जाते हैं।
+#ye ciwra 6.4 meM pAE jAwe hEM.
+#These figer 6.4.
+-	-	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0034>
+#इन क्षेत्रों में मौसमी परिवर्तन होते रहते हैं।
+#ina kRewroM meM mOsamI parivarwana howe rahawe hEM.
+#There are seasonal changes in these areas.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+kRewra_1	2	-	pl	6:k7p	-	-	-	-
+mOsamI_1	4	-	-	5:mod	-	-	-	-
+parivarwana_1	5	-	-	6:k1	-	-	-	-
+ho_1-wA_rahawA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0035>
+#जल संरक्षित रखने के लिए शुष्क मौसम में यहाँ के वृक्ष पत्तियाँ झाड देते हैं।
+#jala saMrakRiwa raKane ke lie SuRka mOsama meM yahAz ke vqkRa pawwiyAz JAda xewe hEM.
+#To conserve water, the trees here shed their leaves in the dry season.
+jala	1	-	-	18:k2	-	-	-	-
+saMrakRiwa_1	2	-	-	-	-	-	-	18:kriyAmUla
+raKa_1	3	-	-	-	-	-	-	18:verbalizer
+SuRka_1	6	-	-	7:mod	-	-	-	-
+mOsama_1	7	-	-	13:k7p	-	-	-	-
+$wyax	9	-	-	11:r6	Geo_ncert_7stnd_chapter_6ch_33.3:coref	-	-	-
+vqkRa_1	11	-	-	13:k1	-	-	-	-
+pawwI_1	12	-	pl	13:k2	-	-	-	-
+JAda_1-wA_hE_1	13	-	-	0:main	-	[shade:xe_1]	-	-
+[cp_1]	18	-	-	13:rt	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0036>
+#इन वनों में पाए जाने वाले दृढ काष्ठ वृक्षों में साल, सागवान,नीम तथा शीशम हैं।
+#ina vanoM meM pAe jAne vAle xqDa kARTa vqkRoM meM sAla, sAgavAna,nIma waWA SISama hEM.
+#The hardwood trees found in these forests are Sal, Teak, Neem and Shisham.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+vana_1	2	-	pl	4:k7p	-	-	-	-
+pA_1	4	-	wacCIla	9:mod	-	-	-	-
+xqDa_1	7	-	-	8:mod	-	-	-	-
+kARTa_1	8	-	-	-	-	-	-	25:mod
+vqkRa_1	9	-	pl	-	-	-	-	25:head
+sAla_1	11	-	-	-	-	-	-	21:begin
+sAgavAna_1	13	-	-	-	-	-	-	22:begin
+nIma_1	15	-	-	-	-	-	-	23:begin
+SISama_1	17	-	-	-	-	-	-	24:begin
+hE_1-pres	18	-	-	0:main	-	-	-	-
+[conj_1]	20	-	-	18:k1	-	-	-	-
+[ne_1]	21	-	-	-	-	-	-	20:op1
+[ne_2]	22	-	-	-	-	-	-	20:op2
+[ne_3]	23	-	-	-	-	-	-	20:op3
+[ne_4]	24	-	-	-	-	-	-	20:op4
+[6-waw_1]	25	-	-	20:rn	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0037>
+#दृढ काष्ठ वृक्ष, फर्नीचर, यातायात एवं निर्माण सामग्री बनाने के लिए बहुत उपयोगी होते हैं।
+#xqDa kARTa vqkRa, ParnIcara, yAwAyAwa evaM nirmANa sAmagrI banAne ke lie bahuwa upayogI howe hEM.
+#Hardwood trees are very useful for making furniture, transport and building materials.
+xqDa_1	1	-	-	2:mod	-	-	-	-
+kARTa	2	-	-	-	-	-	-	19:mod
+vqkRa_1	3	-	-	-	-	-	-	19:head
+ParnIcara_1	5	-	-	-	-	-	-	22:op1
+yAwAyAwa_1	7	-	-	-	-	-	-	22:op2
+nirmANa_1	9	-	-	-	-	-	-	20:mod
+sAmagrI_1	10	-	-	-	-	-	-	20:head
+banA_1	11	-	-	16:rt	-	-	-	-
+bahuwa_1	14	-	-	15:intf	-	-	-	-
+upayogI_1	15	-	-	16:k1s	-	-	-	-
+ho_1-wA_hE_1	16	-	-	0:main	-	-	-	-
+[6-waw_1]	19	-	-	16:k1	-	-	-	-
+[6-waw_21]	20	-	-	-	-	-	-	22:op3
+[conj_1]	22	-	-	11:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0038>
+#इन प्रदेशों में आमतौर पर पाए जाने वाले जानवर हैं-बाघ, शेर, हाथी, गोल्डन लंगूर एवं बंदर आदि (चित्र 6.5, 6.6 एवं 6.8)।
+#ina praxeSoM meM AmawOra para pAe jAne vAle jAnavara hEM-bAGa, Sera, hAWI, goldana laMgUra evaM baMxara Axi (ciwra 6.5, 6.6 evaM 6.8).
+#Commonly found animals in these regions are tigers, lions, elephants, golden langurs and monkeys (Fig. 6.5, 6.6 and 6.8).
+$wyax	1	-	-	2:dem	-	proximal	-	-
+praxeSa_1	2	-	pl	32:k7p	-	-	-	-
+AmawOra+para_1	4	-	-	32:krvn	-	-	-	-
+pA_1	6	-	wacCIla	9:mod	-	-	-	-
+jAnavara_1	9	-	-	32:k1	-	-	-	-
+bAGa_1	10	-	-	-	-	-	-	31:op1
+Sera_1	12	-	-	-	-	-	-	31:op2
+hAWI_1	14	-	-	-	-	-	-	31:op3
+goldana	16	-	-	-	-	-	-	30:begin
+laMgUra_1	17	-	-	-	-	-	-	30:inside
+baMxara_1	19	-	-	-	-	-	-	31:op5
+[ne_1]	30	-	-	-	-	-	-	31:op4
+[conj_1]	31	-	-	32:k1s	-	-	-	-
+hE_1-pres	32	-	-	0:main	-	-	-	-
+Axi_1	33	-	-	-	-	-	-	31:op6
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0039>
+#शीतोष्ण सदाबहार वन मध्य अक्षांश के तटीय प्रदेशों में स्थित हैं।
+#SIwoRNa saxAbahAra vana maXya akRAMSa ke watIya praxeSoM meM sWiwa hEM.
+#Temperate evergreen forests are located in mid-latitude coastal regions .
+SIwoRNa_1	1	-	-	3:mod	-	-	-	-
+saxAbahAra	2	-	-	3:mod	-	-	-	-
+vana	3	-	-	11:k1	-	-	-	-
+maXya	4	-	-	5:mod	-	-	-	-
+akRAMSa_1	5	-	-	8:r6	-	-	-	-
+watIya_1	7	-	-	8:mod	-	-	-	-
+praxeSa_1	8	-	pl	11:k7p	-	-	-	-
+sWiwa_1	10	-	-	11:k1s	-	-	-	-
+hE_1-pres	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0040>
+#ये सामान्यतः महाद्वीपों के पूर्वी किनारों पर पाए जाते हैं- जैसे दक्षिण-पूर्व अमेरिका, दक्षिण चीन एवं दक्षिण-पूर्वी ब्राजील।
+#ye sAmAnyawaH mahAxvIpoM ke pUrvI kinAroM para pAe jAwe hEM- jEse xakRiNa-pUrva amerikA, xakRiNa cIna evaM xakRiNa-pUrvI brAjIla.
+#They are commonly found on the eastern sides of continents such as southeast America, south China and southeast Brazil.
+$wyax	1	-	-	8:k1	Geo_ncert_7stnd_6ch_0039.3:coref	proximal	-	-
+sAmAnyawaH_1	2	-	-	8:krvn	-	-	-	-
+mahAxvIpa_1	3	-	-	6:r6	-	-	-	-
+pUrvI_1	5	-	-	6:mod	-	-	-	-
+kinArA_1	6	-	pl	8:k7p	-	-	-	-
+pA_1-yA_jA_wA_hE_1	8	-	-	0:main	-	-	-	-
+xakRiNa+pUrva	13	-	-	-	-	-	-	22:begin
+amerikA	14	-	-	-	-	-	-	22:inside
+xakRiNa	16	-	-	-	-	-	-	23:begin
+cIna	17	-	-	-	-	-	-	23:inside
+xakRiNa+pUrvI	19	-	-	-	-	-	-	25:begin
+brAjIla	20	-	-	-	-	-	-	25:inside
+[ne_1]	22	-	-	-	-	-	-	24:op1
+[ne_2]	23	-	-	-	-	-	-	24:op2
+[conj_1]	24	-	-	1:re	-	-	-	-
+[ne_3]	25	-	-	-	-	-	-	24:op3
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0041>
+#यहाँ बांज, चीड एवं युकलिप्टुस जैसे दृढ एवं मुलायम दोनों प्रकार के पेड़ पाए जाते हैं।
+#yahAz bAMja, cIda evaM yukaliptusa jEse xqDa evaM mulAyama xonoM prakAra ke peda pAe jAwe hEM.
+#Both hard and soft trees like oak, pine and eucalyptus are found here.
+$wyax	1	-	-	15:k7p	Geo_ncert_7stnd_6ch_00406:coref	-	-	-
+bAMja_1	2	-	-	-	-	-	-	19:op1
+cIda_1	4	-	-	-	-	-	-	19:op2
+yukaliptusa_1	6	-	-	-	-	-	-	19:op3
+xqDa_1	8	-	-	-	-	-	-	20:op1
+mulAyama	10	-	-	-	-	-	-	20:op2
+xonoM_1	11	numex	pl	12:card	-	-	-	-
+prakAra_1	12	-	-	14:r6	-	-	-	-
+peda_1	14	-	-	15:k2	-	-	-	-
+pA_1-yA_jA_wA_hE_1	15	-	-	0:main	-	-	-	-
+[conj_1]	19	-	-	14:ru	-	-	-	-
+[conj_2]	20	-	-	14:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0042>
+#शीतोष्ण पर्णपाती वन उच्च अक्षांश की ओर बढने पर अधिक शीतोष्ण पर्णपाती वन मिलते हैं।
+#SIwoRNa parNapAwI vana ucca akRAMSa kI ora baDane para aXika SIwoRNa parNapAwI vana milawe hEM.
+#Temperate deciduous forests progressing towards higher latitudes yield more temperate deciduous forests.
+SIwoRNa	1	-	-	3:mod	-	-	-	-
+parNapAwI	2	-	-	3:mod	-	-	-	-
+vana	3	-	-	14:k1	-	-	-	-
+ucca_1	4	-	-	5:mod	-	-	-	-
+akRAMSa_1	5	-	-	14:rd	-	-	-	-
+baDa_1	8	-	-	14:rblsk	-	-	-	-
+SIwoRNa_1	11	-	compermore	13:mod	-	-	-	-
+parNapAwI	12	-	-	13:mod	-	-	-	-
+vana	13	-	-	14:k2	-	-	-	-
+mila_1-wA_hE_1	14	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0043>
+#ये उत्तर-पूर्वी अमेरिका, चीन, न्यूजीलैंड , चिली एवं पश्चिमी यूरोप के तटीय प्रदेशों में पाए जाते हैं।
+#ye uwwara-pUrvI amerikA, cIna, nyUjIlEMda , cilI evaM paScimI yUropa ke watIya praxeSoM meM pAe jAwe hEM.
+#They are found in the coastal regions of North-East America, China, New Zealand, Chile and Western Europe.
+$wyax	1	-	-	17:k2	Geo_ncert_7stnd_6ch_0042.3:coref	proximal	-	-
+uwwara+pUrvI	2	-	-	-	-	-	-	22:begin
+amerikA	3	-	-	-	-	-	-	22:inside
+cIna	5	-	-	-	-	-	-	23:begin
+nyUjIlEMda	7	-	-	-	-	-	-	24:begin
+paScimI	11	-	-	-	-	-	-	27:begin
+yUropa	12	-	-	-	-	-	-	27:inside
+watIya_1	14	-	-	15:mod	-	-	-	-
+praxeSa_1	15	-	pl	17:k7p	-	-	-	-
+pA_1-yA_jA_wA_hE_1	17	-	-	0:main	-	-	-	-
+[conj_1]	21	-	-	15:r6	-	-	-	-
+[ne_1]	22	-	-	-	-	-	-	21:op1
+[ne_2]	23	-	-	-	-	-	-	21:op2
+[ne_3]	24	-	-	-	-	-	-	21:op3
+cilI	25	-	-	-	-	-	-	26:begin
+[ne_4]	26	-	-	-	-	-	-	21:op4
+[ne_5]	27	-	-	-	-	-	-	21:op5
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0044>
+#ये अपनी पत्तियाँ शुष्क मौसम में झाड देते हैं।
+#ye apanI pawwiyAz SuRka mOsama meM JAda xewe hEM.
+#They shed their leaves in dry weather.
+$wyax	1	-	-	7:k1	Geo_ncert_7stnd_6ch_0042.3:coref	proximal	-	-
+apanA	2	-	-	3:r6	-	-	-	-
+pawwI_1	3	-	pl	7:k2	-	-	-	-
+SuRka_1	4	-	-	5:mod	-	-	-	-
+mOsama_1	5	-	-	7:k7	-	-	-	-
+JAda_1-wA_hE_1	7	-	-	0:main	-	[shade:xe_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0045>
+#यहाँ पाए जाने वाले पेड़ हैं-बांज, ऐश, बीच, आदि।
+#yahAz pAe jAne vAle peda hEM-bAMja, ESa, bIca, Axi.
+#The trees found here are oak, ash, beech, etc.
+$wyax	1	-	-	2:k7p	Geo_ncert_7stnd_6ch_0042.3:coref	-	-	-
+pA_1	2	-	wacCIla	5:mod	-	[shade:jA_1]	-	-
+peda_1	5	-	-	6:k1	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+ESa	8	-	-	-	-	-	-	14:begin
+bIca	10	-	-	-	-	-	-	15:begin
+Axi_1	11	-	-	-	-	-	-	16:op4
+bAMja	12	-	-	-	-	-	-	13:begin
+[ne_1]	13	-	-	-	-	-	-	16:op1
+[ne_2]	14	-	-	-	-	-	-	16:op2
+[ne_3]	15	-	-	-	-	-	-	16:op3
+[conj_1]	16	-	-	6:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0046>
+#हिरण, लोमडी, भेडिये, यहाँ के आम जानवर हैं।
+#hiraNa, lomadI, Bediye, yahAz ke Ama jAnavara hEM.
+#Deer, fox, wolves are the common animals here.
+hiraNa_1	1	anim	-	-	-	-	-	12:op1
+lomadI_1	3	anim	-	-	-	-	-	12:op2
+BediyA_1	5	anim	pl	-	-	-	-	12:op3
+$wyax	7	-	-	10:r6	Geo_ncert_7stnd_6ch_0042.3:coref	-	-	-
+Ama_1	9	-	-	10:mod	-	-	-	-
+jAnavara_1	10	anim	-	11:k1s	-	-	-	-
+hE_1-pres	11	-	-	0:main	-	-	-	-
+[conj_1]	12	-	-	11:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0047>
+#तथा मोनाल जैसे पक्षी भी यहाँ पाए जाते हैं।
+#waWA monAla jEse pakRI BI yahAz pAe jAwe hEM.
+#And birds like Monal are also found here.
+monAla	1	-	-	-	-	-	-	7:begin
+pakRI_1	3	-	-	6:k2	-	BI_1	-	-
+$wyax	5	-	-	6:k7p	Geo_ncert_7stnd_6ch_0042.3:coref	-	-	-
+pA_1-yA_jA_wA_hE_1	6	-	-	0:main	Geo_ncert_7stnd_6ch_0046.11:samuccaya	-	-	-
+[ne_1]	7	-	-	3:ru	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0048a>
+#आप यह जान चुके हैं।
+#Apa yaha jAna cuke hEM.
+#You have learned that most of the eastern and north-eastern sides of the continents are covered with temperate evergreen and deciduous trees.
+$addressee	1	anim	-	3:k1	-	respect	-	-
+$wyax	2	-	-	3:k2	Geo_ncert_7stnd_6ch_0048b.20:coref	proximal	-	-
+jAna_1-0_cukA_hE_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0048b>
+#कि महाद्वीपों के पूर्व एवं उत्तर-पूर्वी किनारों के अधिकांश भाग शीतोष्ण सदाबहार एवं पर्णपाती पेड़ों से ढ़ँके हैं।
+#ki mahAxvIpoM ke pUrva evaM uwwara-pUrvI kinAroM ke aXikAMSa BAga SIwoRNa saxAbahAra evaM parNapAwI pedoM se DZazke hEM.
+#You have learned that most of the eastern and north-eastern sides of the continents are covered with temperate evergreen and deciduous trees.
+mahAxvIpa_1	1	-	-	6:r6	-	-	-	-
+pUrva_1	3	-	-	-	-	-	-	19:op1
+uwwara+pUrvI_1	5	-	-	-	-	-	-	19:op2
+kinArA_1	6	-	pl	9:r6	-	-	-	-
+aXikAMSa_1	8	-	-	9:mod	-	-	-	-
+BAga_1	9	-	-	20:k1	-	-	-	-
+SIwoRNa_1	10	-	-	11:mod	-	-	-	-
+saxAbahAra_1	11	-	-	-	-	-	-	21:op1
+parNapAwI_1	13	-	-	14:mod	-	-	-	-
+peda_1	14	-	pl	-	-	-	-	21:op2
+DZzka_1	16	-	-	20:k1s	-	-	-	-
+[conj_1]	19	-	-	6:mod	-	-	-	-
+hE_1-pres	20	-	-	0:main	-	-	-	-
+[conj_2]	21	-	-	20:k3	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0049>
+#महाद्वीपों के पश्चिमी एवं दक्षिण-पश्चिमी किनारे भिन्न हैं।
+#mahAxvIpoM ke paScimI evaM xakRiNa-paScimI kinAre Binna hEM.
+#The western and south-western sides of the continents are different.
+mahAxvIpa_1	1	-	pl	6:r6	-	-	-	-
+paScimI_1	3	-	-	-	-	-	-	12:begin
+xakRiNa+paScimI	5	-	-	-	-	-	-	10:begin
+kinArA_1	6	-	pl	8:k1	-	-	-	-
+Binna_1	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+[ne_2]	10	-	-	-	-	-	-	11:op2
+[conj_1]	11	-	-	6:mod	-	-	-	-
+[ne_1]	12	-	-	-	-	-	-	11:op1
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0050>
+#यहाँ भूमध्यसागरीय वनस्पतियाँ पाई जाती हैं।
+#yahAz BUmaXyasAgarIya vanaspawiyAz pAI jAwI hEM.
+#Mediterranean flora is found here.
+$wyax	1	-	-	4:k7p	Geo_ncert_7stnd_6ch_0047.6:coref	-	-	-
+BUmaXyasAgarIya_1	2	-	-	3:mod	-	-	-	-
+vanaspawi_1	3	-	pl	4:k2	-	-	-	-
+pA_1-yA_jA_wA_hE_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0051>
+#यह अधिकतर यूरोप, अप़्रफीका एवं एशिया के भूमध्यसागर के समीप वाले प्रदेशों में पाई जाती हैं।
+#yaha aXikawara yUropa, apZraPIkA evaM eSiyA ke BUmaXyasAgara ke samIpa vAle praxeSoM meM pAI jAwI hEM.
+#It is mostly found in the regions near the Mediterranean Sea of ​​Europe, Africa and Asia.
+$wyax	1	-	-	15:k2	Geo_ncert_7stnd_6ch_0050.3:coref	proximal	-	-
+aXikawara_1	2	-	-	15:krvn	-	-	-	-
+yUropa	3	-	-	-	-	-	-	20:begin
+apZraPIkA	5	-	-	-	-	-	-	21:begin
+eSiyA	7	-	-	9:r6	-	-	-	-
+BUmaXyasAgara	9	-	-	11:r6	-	-	-	-
+samIpa_1	11	-	mawup	13:r6	-	-	-	-
+praxeSa_1	13	-	pl	-	-	-	-	19:op3
+pA_1-yA_jA_wA_hE_1	15	-	-	0:main	-	-	-	-
+[conj_1]	19	-	-	15:k7p	-	-	-	-
+[ne_1]	20	place	-	-	-	-	-	19:op1
+[ne_2]	21	place	-	-	-	-	-	19:op2
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0052>
+#इसलिए इसका यह नाम पडा।
+#isalie isakA yaha nAma padA.
+#Hence it got its name.
+$wyax	1	-	-	3:r6	Geo_ncert_7stnd_6ch_0051.19:coref	proximal	-	-
+$wyax	2	-	-	3:dem	1:coref	proximal	-	-
+nAma_1	3	-	-	4:k1	-	-	-	-
+pada_1-yA_hE_11	4	-	-	0:main	Geo_ncert_7stnd_6ch_0051.15:pariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0053>
+#ये वनस्पतियाँ भूमध्यसागर के बाहरी प्रदेशों जैसे-संयुक्त राज्य अमेरिका के केलिफोर्निया, दक्षिण-पश्चिमी अफ्रीका, दक्षिण-पश्चिमी दक्षिण अमेरिका एवं दक्षिण-पश्चिमी आस्ट्रेलिया में भी पाई जाती हं।
+#ye vanaspawiyAz BUmaXyasAgara ke bAharI praxeSoM jEse-saMyukwa rAjya amerikA ke keliPorniyA, xakRiNa-paScimI aPrIkA, xakRiNa-paScimI xakRiNa amerikA evaM xakRiNa-paScimI AstreliyA meM BI pAI jAwI haM.
+#These plants are also found in the outer regions of the Mediterranean such as California, South-West Africa, South-Western South America and South-West Australia in the United States.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+vanaspawi_1	2	-	pl	24:k2	-	-	-	-
+BUmaXyasAgara	3	-	-	6:r6	-	-	-	-
+bAharI_1	5	-	-	6:mod	-	-	-	-
+praxeSa_1	6	-	pl	24:k7p	-	-	-	-
+saMyukwa	7	-	-	-	-	-	-	31:begin
+rAjya_1	8	-	-	-	-	-	-	31:inside
+amerikA	9	-	-	-	-	-	-	31:inside
+keliPorniyA	11	-	-	-	-	-	-	32:begin
+xakRiNa+paScimI	13	-	-	-	-	-	-	28:begin
+aPrIkA	14	-	-	-	-	-	-	28:inside
+xakRiNa+paScimI	16	-	-	-	-	-	-	29:begin
+xakRiNa	17	-	-	-	-	-	-	29:inside
+amerikA	18	-	-	-	-	-	-	29:inside
+xakRiNa+paScimI	20	-	-	-	-	-	-	33:begin
+AstreliyA	21	-	-	-	-	BI_1	-	33:inside
+pA_1-yA_jA_wA_hE_1	24	-	-	0:main	-	-	-	-
+[ne_3]	28	place	-	-	-	-	-	30:op3
+[ne_4]	29	place	-	-	-	-	-	30:op4
+[conj_1]	30	-	-	6:re	-	-	-	-
+[ne_1]	31	place	-	-	-	-	-	30:op1
+[ne_2]	32	place	-	-	-	-	-	30:op2
+[ne_5]	33	place	-	-	-	-	-	30:op5
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0054>
+#इन प्रदेशों में गर्म-शुष्क ग्रीष्म एवं वर्षा वाली मृदु शीत ऋतुओं होती है।
+#ina praxeSoM meM garma-SuRka grIRma evaM varRA vAlI mqxu SIwa qwuoM howI hE.
+#These regions have hot-dry summers and mild winters with rainfall.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+praxeSa_1	2	-	pl	12:k7p	-	-	-	-
+garma+SuRka_1	4	-	-	16:mod	-	-	-	-
+grIRma	5	-	-	-	-	-	-	16:begin
+varRA_1	7	-	mawup	11:mod	-	-	-	-
+mqxu_1	9	-	-	11:mod	-	-	-	-
+SIwa_1	10	-	-	-	-	-	-	17:begin
+qwu_1	11	-	pl	12:k1	-	-	-	-
+ho_1-wA_hE_1	12	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	11:mod	-	-	-	-
+[ne_1]	16	season	-	-	-	-	-	15:op1
+[ne_2]	17	season	-	-	-	-	-	15:op2
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0055a>
+#इन क्षेत्रों में आमतौर पर संतरा, अंजीर, जैतून एवं अंगूर जैसे अंगूर वंश (सिट्रस) के फल पैदा किए जाते है।
+#ina kRewroM meM AmawOra para saMwarA, aMjIra, jEwUna evaM aMgUra jEse aMgUra vaMSa ke Pala pExA kie jAwe hE .
+#The fruits of the grape genus such as oranges, figs, olives and grapes are usually grown in these areas, because people have removed the natural vegetation here to do agriculture, according to their wish.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+kRewra_1	2	-	pl	27:k7p	-	-	-	-
+AmawOra+para_1	4	-	-	27:krvn	-	-	-	-
+saMwarA_1	6	-	-	-	-	-	-	28:op1
+aMjIra_1	8	-	-	-	-	-	-	28:op2
+jEwUna_1	10	-	-	-	-	-	-	28:op3
+aMgUra_1	12	-	-	-	-	-	-	28:op4
+aMgUra	14	-	-	-	-	-	-	26:mod
+vaMSa_1	15	-	-	-	-	-	-	26:head
+sitrasa_1	17	-	-	20:rs	-	-	-	-
+Pala_1	20	-	-	27:k2	-	-	-	-
+pExA_1	21	-	-	-	-	-	-	27:kriyAmUla
+kara_1-yA_jA_wA_hE_1	22	-	-	-	-	-	-	27:verbalizer
+[nc_1]	26	-	-	20:r6	-	-	-	-
+[cp_1]	27	-	-	0:main	-	-	-	-
+[conj_1]	28	-	-	20:ru	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0055b>
+#क्योंकि लोगों ने अपनी इच्छानुसार कृषि करने के लिए यहाँ की प्राकृतिक वनस्पति को हटा दिया है।
+#kyoMki logoM ne apanI icCAnusAra kqRi karane ke lie yahAz kI prAkqwika vanaspawi ko hatA xiyA hE.
+#The fruits of the grape genus such as oranges, figs, olives and grapes are usually grown in these areas, because people have removed the natural vegetation here to do agriculture, according to their wish.
+loga_1	1	anim	pl	14:k1	-	-	-	-
+apanA	3	-	-	4:r6	-	-	-	-
+icCAnusAra_1	4	-	-	18:k2	-	-	-	-
+kqRi_1	5	-	-	-	-	-	-	18:kriyAmUla
+kara_1	6	-	-	-	-	-	-	18:verbalizer
+$wyax	9	-	-	12:r6	Geo_ncert_7stnd_6ch_0053.30:coref	-	-	-
+prAkqwika_1	11	-	-	12:mod	-	-	-	-
+vanaspawi_1	12	-	-	14:k2	-	def	-	-
+hatA_1-yA_hE_1	14	-	-	0:main	Geo_ncert_7stnd_6ch_0055a.27:kAryakAraNa	[shade:xe_1]	-	-
+[cp_1]	18	-	-	14:rt	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0056>
+#यहाँ वन्य जीवन कम है।
+#yahAz vanya jIvana kama hE.
+#There is little wildlife here.
+$wyax	1	-	-	5:k7p	Geo_ncert_7stnd_6ch_0053.30:coref	-	-	-
+vanya_1	2	-	-	3:mod	-	-	-	-
+jIvana_1	3	-	-	5:k1	-	-	-	-
+hE_1-pres	5	-	-	0:main	-	-	-	-
+kama_1	6	-	-	5:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0057>
+#इन्हें ‘टैगा’ भी कहते हैं।
+#SaMkuXArI vana inheM tEgA BI kahawe hEM.
+#Coniferous forests are also called 'taiga'.
+$wyax	3	-	-	6:k2	Geo_ncert_7stnd_6ch_0057.3:coref	proximal	-	-
+tEgA_1	4	-	-	6:k2s	-	BI_1	-	-
+kaha_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0057H>
+#शंकुधारी वन
+#SaMkuXArI vana
+#Coniferous forests
+-	-	-	-	-	-	-	-	-
+%default_type
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0058>
+#ये वन अधिक उँचाइयों पर भी पाए जाते हैं।
+#ye vana aXika uzcAiyoM para BI pAe jAwe hEM.
+#These forests are also found at higher altitudes.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+vana_1	2	-	-	7:k2	-	-	-	-
+uzcAI_1	4	-	compermore	7:k7p	-	BI_1	-	-
+pA_1-yA_jA_wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0059>
+#इन्हीं वृक्षों को सलीमा ने हिमालय में प्रचुर मात्रा में देखा था।
+#inhIM vqkRoM ko salImA ne himAlaya meM pracura mAwrA meM xeKA WA.
+#Salima had seen these trees in abundance in the Himalayas.
+$wyax	1	-	-	2:dem	-	-	-	-
+vqkRa_1	2	-	pl	11:k2	-	-	-	-
+salImA	4	female	-	-	-	-	-	12:begin
+himAlaya_1	6	-	-	11:k7p	-	def	-	-
+pracura_1	8	-	-	9:mod	-	-	-	-
+mAwrA_1	9	-	-	11:krvn	-	-	-	-
+xeKa_1-yA_WA_1	11	-	-	0:main	-	-	-	-
+[ne_1]	12	per	-	11:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0060>
+#ये लंबे, नरम काष्ठ वाले सदाबहार वृक्ष होते हैं।
+#ye laMbe, narama kARTa vAle saxAbahAra vqkRa howe hEM.
+#These are tall, soft woody evergreen trees.
+$wyax	1	-	-	9:k1	-	proximal	-	-
+laMbA_1	2	-	pl	-	-	-	-	10:op1
+narama_1	4	-	-	-	-	-	-	10:op2
+kARTa_1	5	-	mawupa	8:mod	-	-	-	-
+saxAbahAra_1	7	-	-	8:mod	-	-	-	-
+vqkRa_1	8	-	-	9:k1s	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+[conj_1]	10	-	-	5:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0061>
+#इन वृक्षों के काष्ठ का उपयोग लुगदी बनाने के लिए किया जाता है, जो सामान्य तथा अखबारी कागज बनाने के काम आती है।
+#ina vqkRoM ke kARTa kA upayoga lugaxI banAne ke lie kiyA jAwA hE, jo sAmAnya waWA aKabArI kAgaja banAne ke kAma AwI hE.
+#The wood of these trees is used to make pulp, which is used to make general and newsprint.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+vqkRa_1	2	-	pl	4:r6	-	-	-	-
+kARTa_1	4	-	-	26:k2	-	-	-	-
+upayoga_1	6	-	-	-	-	-	-	26:kriyAmUla
+lugaxA_1	7	-	-	8:k2	-	-	-	-
+banA_1	8	-	pl	26:rt	-	-	-	-
+kara_1-yA_jA_wA_hE_1	11	-	-	-	-	-	-	26:verbalizer
+$yax	15	-	-	28:k1	4:coref	-	-	-
+sAmAnya_1	16	-	-	-	-	-	-	27:op1
+aKabArI_1	18	-	-	-	-	-	-	27:op2
+kAgaja_1	19	-	-	20:k2	-	-	-	-
+banA_1	20	-	pl	28:rt	-	-	-	-
+kAma_1	22	-	-	-	-	-	-	28:kriyAmUla
+A_1-wA_hE_1	23	-	-	-	-	-	-	28:verbalizer
+[cp_1]	26	-	-	0:main	-	-	-	-
+[conj_1]	27	-	-	19:mod	-	-	-	-
+[cp_2]	28	-	-	4:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0062>
+#नरम काष्ठ का उपयोग माचिस एवं पैकिंग के लिए बक्से बनाने के लिए भी किया जाता है।
+#narama kARTa kA upayoga mAcisa evaM pEkiMga ke lie bakse banAne ke lie BI kiyA jAwA hE.
+#Soft wood is also used for making matches and boxes for packing.
+narama_1	1	-	-	2:mod	-	-	-	-
+kARTa_1	2	-	-	19:k2	-	-	-	-
+upayoga_1	4	-	-	-	-	-	-	19:kriyAmUla
+mAcisa_1	5	-	-	-	-	-	-	20:op1
+pEkiMga_1	7	-	-	10:rt	-	-	-	-
+bakse_1	10	-	-	-	-	-	-	20:op2
+banA_1	11	-	pl	19:rt	-	BI_1	-	-
+kara_1-yA_jA_wA_hE_1	15	-	-	-	-	-	-	19:verbalizer
+[cp_1]	19	-	-	0:main	-	-	-	-
+[conj_1]	20	-	-	11:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0063>
+#चीड, देवदार आदि इन वनों के मुख्य पेड़ हैं।
+#cIda, xevaxAra Axi ina vanoM ke muKya peda hEM.
+#Pine, deodar etc. are the main trees of these forests.
+cIda_1	1	-	-	-	-	-	-	11:begin
+xevaxAra_1	3	-	-	-	-	-	-	12:begin
+$wyax	5	-	-	6:dem	-	proximal	-	-
+vana_1	6	-	pl	9:r6	-	-	-	-
+muKya_1	8	-	-	9:mod	-	-	-	-
+peda_1	9	-	-	10:k1s	-	-	-	-
+hE_1-pres	10	-	-	0:main	-	-	-	-
+[ne_1]	11	-	-	-	-	-	-	14:op1
+[ne_2]	12	-	-	-	-	-	-	14:op2
+Axi_1	13	-	-	-	-	-	-	14:op3
+[conj_1]	14	-	-	10:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0064>
+#यहाँ सामान्यतः रजत लोमडी, मिंक,ध्रुवीय भालू जैसे जानवर पाए जाते हैं।
+#-
+#yahAz sAmAnyawaH
+$wyax	1	-	-	12:k7p	Geo_ncert_7stnd_6ch_0063.14:coref	-	-	-
+sAmAnyawaH_1	2	-	-	12:krvn	-	-	-	-
+rajawa	3	-	-	-	-	-	-	16:begin
+lomadI	4	-	-	-	-	-	-	16:inside
+miMka	6	anim	-	-	-	-	-	18:op2
+XruvIya_1	8	-	-	-	-	-	-	17:begin
+BAlU_1	9	-	-	-	-	-	-	17:inside
+jAnavara_1	11	-	-	12:k2	-	-	-	-
+pA_1-yA_jA_wA_hE_1	12	-	-	0:main	-	-	-	-
+[ne_1]	16	anim	-	-	-	-	-	18:op1
+[ne_2]	17	anim	-	-	-	-	-	18:op3
+[conj_1]	18	-	-	11:ru	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0065a>
+#ये वन भूमध्य रेखा के किसी भी तरफ उग जाते हैं।
+#ye vana BUmaXya reKA ke kisI BI waraPa uga jAwe hEM Ora BUmaXya reKA ke xonoM ora se uRNakatibaMX kRewroM waka PEle hEM (ciwra 6.14).
+#Tropical grasslands: These forests grow on either side of the equator and extend from both sides of the equator to the tropical regions (Fig. 6.14).
+$wyax	1	-	-	2:dem	-	proximal	-	-
+vana	2	-	-	9:k1	-	-	-	-
+BUmaXya_1	3	-	-	-	-	-	-	29:begin
+reKA	4	-	-	-	-	-	-	29:inside
+koI	6	-	-	8:mod	-	BI_1	-	-
+waraPa_1	8	-	-	9:k7p	-	-	-	-
+uga_1-wA_hE_1	9	-	-	0:main	-	[shade:A_1]	-	-
+[ne_1]	29	-	-	8:rdl	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0065b>
+#और
+#Ora
+#and
+-	-	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0065b>
+#और भूमध्य रेखा के दोनों ओर से उष्णकटिबंध् क्षेत्रों तक फैले हैं (चित्र 6.14)।
+#Ora BUmaXya reKA ke xonoM ora se uRNakatibaMX kRewroM waka PEle hEM (ciwra 6.14).
+#and extend from both sides of the equator to the tropical regions (Fig. 6.14).
+-	-	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0065T>
+#उष्णकटिबंधीय घासस्थल:
+#uRNakatibaMXIya GAsasWala:
+#Tropical grasslands: These forests grow on either side of the equator and extend from both sides of the equator to the tropical regions (Fig. 6.14).
+uRNakatibaMXIya_1	1	-	-	2:mod	-	-	-	-
+GAsasWala	2	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0066>
+#यहाँ वनस्पति निम्न से मध्य वर्षा वाले क्षेत्रों में पैदा होती है।
+#yahAz vanaspawi nimna se maXya varRA vAle kRewroM meM pExA howI hE.
+#Here vegetation grows in areas with low to moderate rainfall.
+$wyax	1	-	-	16:k7p	Geo_ncert_7stnd_6ch_0065T.2:coref	-	-	-
+vanaspawi_1	2	-	-	16:k1	-	-	-	-
+nimna	3	-	-	-	-	-	-	14:start
+maXya_1	5	-	-	-	-	-	-	15:mod
+varRA_1	6	-	-	-	-	-	-	15:head
+kRewra_1	8	-	pl	11:k7p	-	-	-	-
+pExA_1	10	-	-	-	-	-	-	16:kriyAmUla
+ho_1-wA_hE_1	11	-	-	-	-	-	-	16:verbalizer
+[span_1]	14	-	-	16:dur	-	-	-	-
+[nc_2]	15	-	-	8:mod	-	-	-	-
+[cp_1]	16	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0067>
+#यह घास काफी उँची लगभग 3 से 4 मीटर की उँचाई तक बढ सकती है।
+#yaha GAsa kAPI uzcI lagaBaga 3 se 4 mItara kI uzcAI waka baDa sakawI hE.
+#This grass can grow very tall, about 3 to 4 meters in height.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+GAsa_1	2	-	-	13:k1	-	-	-	-
+kAPI_1	3	-	-	4:quant	-	-	-	-
+uzcI_1	4	-	-	11:mod	-	lagaBaga_1	-	-
+3	6	numex	-	-	-	-	-	19:count
+4	8	numex	-	-	-	-	-	17:count
+mItara_1	9	-	-	-	-	-	-	17:unit
+uzcAI_1	11	-	-	13:k2	-	-	-	-
+baDa_1-0_sakawA_hE_1	13	-	-	0:main	-	-	-	-
+[leanth_meas_2]	17	-	-	-	-	-	-	20:end
+mItara_1	18	-	-	-	-	-	-	19:unit
+[leanth_meas_1]	19	-	-	-	-	-	-	20:start
+[span_1]	20	-	-	13:rmeas	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0068>
+#अफ्रीका का सवाना घासस्थल इसी प्रकार का है।
+#aPrIkA kA savAnA GAsasWala isI prakAra kA hE.
+#The savanna grassland of Africa is of this type.
+aPrIkA	1	-	-	-	-	-	-	9:begin
+savAnA	3	-	-	-	-	-	-	10:mod
+GAsasWala	4	-	-	-	-	-	-	10:head
+$wyax	5	-	-	6:dem	-	-	-	-
+prakAra_1	6	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+[ne_1]	9	-	-	10:r6	-	-	-	-
+[6-waw_1]	10	-	-	8:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0069>
+#सामान्य रूप से उष्णकटिबंधीय घासस्थल में हाथी, जेबरा, जिराफ, हिरण, तेंदुआ आदि जानवर पाए जाते हैं।
+#sAmAnya rUpa se uRNakatibaMXIya GAsasWala meM hAWI, jebarA, jirAPa, hiraNa, weMxuA Axi jAnavara pAe jAwe hEM.
+#Animals like elephant, zebra, giraffe, deer, leopard etc. are commonly found in tropical grasslands .
+sAmAnya_1	1	-	-	2:mod	-	-	-	-
+rUpa_1	2	-	-	18:krvn	-	-	-	-
+uRNakatibaMXIya_1	4	-	-	5:mod	-	-	-	-
+GAsasWala_1	5	-	-	18:k7p	-	-	-	-
+hAWI_1	7	anim	-	-	-	-	-	20:op1
+jebarA_1	9	anim	-	-	-	-	-	20:op2
+jirAPa_1	11	anim	-	-	-	-	-	20:op3
+hiraNa_1	13	anim	-	-	-	-	-	20:op4
+weMxuA_1	15	anim	-	-	-	-	-	20:op5
+jAnavara_1	17	-	-	18:k2s	-	-	-	-
+pA_1-yA_jA_wA_hE_1	18	-	-	0:main	-	-	-	-
+Axi_1	19	-	-	-	-	-	-	20:op6
+[conj_1]	20	-	-	18:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0070>
+#यहाँ की घास आमतौर पर छोटी एवं पौष्टिक होती है।
+#yahAz kI GAsa AmawOra para CotI evaM pORtika howI hE.
+#The grass here is generally short and nutritious.
+$wyax	1	-	-	3:r6	Geo_ncert_7stnd_6ch_0069.5:coref	-	-	-
+GAsa_1	3	-	-	9:k1	-	-	-	-
+AmawOra+para_1	4	-	-	9:krvn	-	-	-	-
+CotA_1	6	-	-	-	-	-	-	12:op1
+pORtika_1	8	-	-	-	-	-	-	12:op2
+ho_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+[conj_1]	12	-	-	9:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0071>
+#शीतोष्ण प्रदेशों में सामान्यतः जंगली भैंस, बाइसन, एंटीलोप पाए जाते हैं।
+#SIwoRNa praxeSoM meM sAmAnyawaH jaMgalI BEMsa, bAisana, eMtIlopa pAe jAwe hEM.
+#Wild buffalo, bison, antelope are commonly found in temperate regions.
+SIwoRNa_1	1	-	-	2:mod	-	-	-	-
+praxeSa_1	2	-	pl	11:k7p	-	-	-	-
+sAmAnyawaH_1	4	-	-	11:krvn	-	-	-	-
+jaMgalI_1	5	-	-	-	-	-	-	12:begin
+BEMsa_1	6	-	-	-	-	-	-	12:inside
+bAisana_1	8	-	-	-	-	-	-	13:begin
+eMtIlopa	10	-	-	-	-	-	-	14:begin
+pA_1-yA_jA_wA_hE_1	11	-	-	0:main	-	-	-	-
+[ne_1]	12	anim	-	-	-	-	-	15:op1
+[ne_2]	13	anim	-	-	-	-	-	15:op2
+[ne_3]	14	anim	-	-	-	-	-	15:op3
+[conj_1]	15	-	-	11:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0072>
+#शुष्क रेगिस्तान जैसे प्रदेशों में पाई जाती हैं।
+#SuRka regiswAna jEse praxeSoM meM pAI jAwI hEM.
+#Leafy shrubs: Found in dry desert-like regions.
+SuRka_1	1	-	-	2:mod	-	-	-	-
+regiswAna_1	2	-	-	4:ru	-	-	-	-
+praxeSa_1	4	-	pl	6:k7p	-	-	-	-
+pA_1-yA_jA_wA_hE_1	6	-	-	0:main	-	-	-	-
+$wyax	7	-	-	6:k2	Geo_ncert_7stnd_6ch_0072T.2:coref	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0072T>
+#कंटीली झाडियाँ:
+#kaMtIlI JAdiyAz:
+#Leafy shrubs: Found in dry desert-like regions.
+kaMtIlI_1	1	-	-	2:mod	-	-	-	-
+JAdI_1	2	-	pl	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0073>
+#उष्णकटिबंधीय रेगिस्तान, महाद्वीपों के पश्चिमी किनारों पर पाए जाते हैं।
+#uRNakatibaMXIya regiswAna, mahAxvIpoM ke paScimI kinAroM para pAe jAwe hEM.
+#Tropical deserts are found on the western sides of continents.
+uRNakatibaMXIya_1	1	-	-	2:mod	-	-	-	-
+regiswAna_1	2	-	-	9:k2	-	-	-	-
+mahAxvIpa_1	4	-	-	7:r6	-	-	-	-
+paScimI_1	6	-	-	7:mod	-	-	-	-
+kinArA_1	7	-	pl	9:k7p	-	-	-	-
+pA_1-yA_jA_wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0074>
+#तीव्र गर्मी एवं बहुत कम वर्षा के कारण यहाँ वनस्पतियों की कमी रहती है।
+#wIvra garmI evaM bahuwa kama varRA ke kAraNa yahAz vanaspawiyoM kI kamI rahawI hE.
+#Due to intense heat and very little rainfall, there is a lack of vegetation here.
+wIvra_1	1	-	-	2:mod	-	-	-	-
+garmI_1	2	-	-	-	-	-	-	16:op1
+bahuwa_1	4	-	-	5:intf	-	-	-	-
+kama_1	5	-	-	6:quant	-	-	-	-
+varRA_1	6	-	-	-	-	-	-	16:op2
+$wyax	9	-	-	13:k7p	Geo_ncert_7stnd_6ch_0072.2:coref	-	-	-
+vanaspawi_1	10	-	pl	12:r6	-	-	-	-
+kamI_1	12	-	-	13:k1	-	-	-	-
+raha_1-wA_hE_1	13	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	13:rh	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0075>
+#आप विश्व के मानचित्र पर रेगिस्तानी प्रदेश को चिंतित करें।
+#Apa viSva ke mAnaciwra para regiswAnI praxeSa ko ciMwiwa kareM.
+#Concern the desert region on the map of the world.
+$addressee	1	anim	-	12:k1	-	respect	-	-
+viSva_1	2	-	-	4:r6	-	-	-	-
+mAnaciwra_1	4	-	-	12:k7p	-	def	-	-
+regiswAnI_1	6	-	-	7:mod	-	-	-	-
+praxeSa_1	7	-	-	12:k2	-	def	-	-
+cihniwa_1	9	-	-	-	-	-	-	12:kriyAmUla
+kara_1-o_1	10	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0076>
+#क्या आप भारत के बड़े रेगिस्तान का नाम बता सकते हैं?
+#kyA Apa BArawa ke bade regiswAna kA nAma bawA sakawe hEM?
+#Can you name the largest desert of India?
+$addressee	2	anim	-	9:k1	-	respect	-	-
+BArawa	3	-	-	-	-	-	-	10:begin
+badA_1	5	-	pl	6:mod	-	-	-	-
+regiswAna_1	6	-	-	8:r6	-	-	-	-
+nAma_1	8	-	-	9:k2	-	-	-	-
+bawA_1-0_sakawA_hE_1	9	-	-	0:main	-	-	-	-
+[ne_1]	10	place	-	6:r6	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0077>
+#रेगिस्तान के कुछ जानवरों के नाम बताएँ, जिन्हें आप पहले जान चुके हैं।
+#regiswAna ke kuCa jAnavaroM ke nAma bawAez, jinheM Apa pahale jAna cuke hEM.
+#Name some animals of the desert, which you have come to know earlier.
+regiswAna_1	1	-	-	4:r6	-	-	-	-
+kuCa_1	3	-	-	4:quant	-	-	-	-
+jAnavara_1	4	anim	pl	6:r6	-	-	-	-
+nAma_1	6	-	-	7:k2	-	-	-	-
+bawA_1-e_1	7	-	-	0:main	-	-	-	-
+$yax	9	-	-	12:k2	-	-	-	-
+$addressee	10	anim	-	12:k1	-	respect	-	-
+pahalA_1	11	-	-	12:k7t	-	-	-	-
+jAna_1-cukA_hE_1	12	-	-	4:rcelab	-	-	-	-
+$addressee	13	anim	-	7:k1	-	respect	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0078a>
+#यदि आप ध्रुवीय प्रदेश में जाएँगे।
+#yaxi Apa XruvIya praxeSa meM jAezge .
+#If you go to the polar region, you will find that place very cold.
+$addressee	1	anim	-	5:k1	-	respect	-	-
+XruvIya_1	2	-	-	3:mod	-	def	-	-
+praxeSa	3	-	-	5:k7p	-	-	-	-
+jA_1-gA_1	5	-	-	0:main	Geo_ncert_7stnd_6ch_0078b.6:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0078b>
+#तो वह स्थान आपको अत्यधिक ठंडा मिलेगा।
+#wo vaha sWAna Apako awyaXki TaMdA milegA.
+#If you go to the polar region, you will find that place very cold.
+$wyax	1	-	-	2:dem	-	distal	-	-
+sWAna_1	2	-	-	6:k1	-	-	-	-
+$addressee	3	-	-	6:k4	-	respect	-	-
+awyaXika_1	4	-	-	5:mod	-	-	-	-
+TaMdA_1	5	-	-	6:k1s	-	-	-	-
+mila_1-gA_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0079>
+#यहाँ बहुत ही सीमित प्राकृतिक वनस्पति मिलती है।
+#yahAz bahuwa hI sImiwa prAkqwika vanaspawi milawI hE.
+#Very limited natural vegetation is found here.
+$wyax	1	-	-	7:k7p	Geo_ncert_7stnd_6ch_0078a.3:coref	-	-	-
+bahuwa_1	2	-	-	4:intf	-	hI_1	-	-
+sImiwa_1	4	-	-	6:mod	-	-	-	-
+prAkqwika_1	5	-	-	6:mod	-	-	-	-
+vanaspawi_1	6	-	-	7:k1	-	-	-	-
+mila_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0080>
+#यहाँ केवल काई, लाइकेन एवं छोटी झाडियाँ पाई जाती हैं।
+#yahAz kevala kAI, lAikena evaM CotI JAdiyAz pAI jAwI hEM.
+#Only mosses, lichens and small shrubs are found here.
+$wyax	1	-	-	9:k7p	-	proximal	-	-
+kAI_1(moss_1)	3	-	-	-	-	-	-	13:op1
+lAikena_1(Lichens_1)	5	-	-	-	-	-	-	13:op2
+CotA_1(small_6)	7	-	-	8:mod	-	-	-	-
+JAdI_1	8	-	pl	-	-	-	-	13:op3
+pA_1-yA_jA_wA_hE_1	9	-	-	0:main	-	-	-	-
+[conj_1]	13	-	-	9:k1	-	kevala_1	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0081>
+#ये अल्पकालिक ग्रीष्म ऋतु के दौरान विकसित होती है।
+#ye alpakAlika grIRma qwu ke xOrAna vikasiwa howI hE.
+#It develops during the short-lived summer season.
+$wyax	1	-	-	12:k1	Geo_ncert_7stnd_6ch_0080.13:coref	proximal	-	-
+alpakAlika_1(short-lived_1)	2	-	-	11:mod	-	-	-	-
+grIRma_1(summer_2)	3	-	-	-	-	-	-	11:mod
+qwu_1(season_1)	4	-	-	-	-	-	-	11:head
+xOrAna_1	6	-	-	12:k7t	-	-	-	-
+vikasiwa_4(developed_2)	7	-	-	-	-	-	-	12:kriyAmUla
+ho_1-wA_hE_1	8	-	-	-	-	-	-	12:verbalizer
+[nc_1]	11	-	-	6:rkl	-	-	-	-
+[cp_1]	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0082>
+#इसे टुण्ड्रा प्रकार की वनस्पति कहा जाता है।
+#ise tuNdrA prakAra kI vanaspawi kahA jAwA hE.
+#It is called tundra type of vegetation.
+$wyax	1	-	-	6:k2	Geo_ncert_7stnd_6ch_0080.13:coref	proximal	-	-
+tuNdrA_1(tundra_1)	2	-	-	3:mod	-	-	-	-
+prakAra_7(type_6)	3	-	-	5:r6	-	-	-	-
+vanaspawi_2(vegetation_3)	5	-	-	6:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0083>
+#ये वनस्पतियाँ यूरोप, एशिया एवं उत्तरी अमेरिका के ध्रुवीय प्रदेशों में पाई जाती हैं।
+#ye vanaspawiyAz yUropa, eSiyA evaM uwwarI amerikA ke XruvIya praxeSoM meM pAI jAwI hEM.
+#These plants are found in the polar regions of Europe, Asia and North America.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+vanaspawi_2(vegetation_3)	2	-	pl	13:k1	-	-	-	-
+yUropa	3	-	-	-	-	-	-	18:begin
+eSiyA	5	-	-	-	-	-	-	19:begin
+uwwarI_1(northern_2)	7	-	-	8:mod	-	-	-	-
+amerikA	8	-	-	-	-	-	-	20:begin
+XruvIya_1(polar_1)	10	-	-	11:mod	-	-	-	-
+praxeSa_1(region_6)	11	-	pl	13:k7p	-	-	-	-
+pA_1-yA_jA_wA_hE_1	13	-	-	0:main	-	-	-	-
+[conj_1]	17	-	-	11:r6	-	-	-	-
+[ne_1]	18	place	-	-	-	-	-	17:op1
+[ne_2]	19	place	-	-	-	-	-	17:op2
+[ne_3]	20	-	-	-	-	-	-	17:op3
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0084>
+#यहाँ के जानवरों के शरीर पर मोटा फ़र एवं मोटी चमडी होती है, जो उन्हें ठंडी जलवायु में सुरक्षित रखते हैं।
+#yahAz ke jAnavaroM ke SarIra PZara motA pZara evaM motI camadI howI hE, jo unheM TaMdI jalavAyu meM surakRiwa raKawe hEM.
+#The animals here have thick plumage and thick skin on their body, which keeps them safe in cold climates.
+$wyax	1	-	-	3:r6	Geo_ncert_7stnd_6ch_0083.13:coref	proximal	-	-
+jAnavara_1(animal_2)	3	-	pl	5:r6	-	-	-	-
+SarIra_1(body_11)	5	-	-	12:k7p	-	-	-	-
+motA_4(thick_8)	7	-	-	8:mod	-	-	-	-
+PZara_1	8	-	-	-	-	-	-	26:op1
+motA_4(thick_8)	10	-	-	11:mod	-	-	-	-
+camadA_1	11	-	-	-	-	-	-	26:op2
+ho_1-wA_hE_1	12	-	-	0:main	-	-	-	-
+$yax	15	-	-	25:k1	-	-	-	-
+$wyax	16	-	-	25:k2	Geo_ncert_7stnd_6ch_0084.3:coref	distal	-	-
+TaMdA_2(cold_4)	17	-	-	18:mod	-	-	-	-
+jalavAyu_1(climate_2)	18	-	-	25:k7	-	-	-	-
+surakRiwa_6(safe_4)	20	-	-	-	-	-	-	25:kriyAmUla
+raKa_1-wA_hE_1	21	-	-	-	-	-	-	25:verbalizer
+[cp_2]	25	-	-	26:rcelab	-	-	-	-
+[conj_1]	26	-	-	12:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0085>
+#यहाँ पाए जाने वाले कुछ जानवर हैं - सील, वालरस, कस्तूरी-बैल, ध्रुवीय उल्लू, ध्रुवीय भालू और बर्फीली लोमडी (चित्र 6.16)।
+#yahAz pAe jAne vAle kuCa jAnavara hEM - sIla, vAlarasa, kaswUrI-bEla, XruvIya ullU, XruvIya BAlU Ora barPIlI lomadI (ciwra 6.16).
+#Some of the animals found here are seal, walrus, musk-ox, polar owl, polar bear and snow fox (Fig. 6.16).
+$wyax	1	-	-	2:k7p	Geo_ncert_7stnd_6ch_0083.17:coref	proximal	-	-
+pA_13(find_4)	2	-	mawup	6:mod	-	-	-	-
+kuCa_1(some_2)	5	-	-	6:quant	-	-	-	-
+jAnavara_1(animal_2)	6	-	-	7:k1	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+sIla_2(seal_4)	9	-	-	-	-	-	-	28:op1
+vAlarasa_(walrus_2)	11	-	-	-	-	-	-	28:op2
+kaswUrI+bEla_1	13	-	-	-	-	-	-	28:op3
+XruvIya_1(polar_1)	15	-	-	16:mod	-	-	-	-
+ullU_1(owl_1)	16	-	-	-	-	-	-	28:op4
+XruvIya_1(polar_1)	18	-	-	19:mod	-	-	-	-
+BAlU_1(bear_4)	19	-	-	-	-	-	-	28:op5
+barPIlA_1	21	-	-	22:mod	-	-	-	-
+lomadI_1	22	-	-	-	-	-	-	28:op6
+ciwra_4(figure_3)	24	-	-	-	-	-	-	-
+6.16	25	-	-	-	-	-	-	-
+[conj_1]	28	-	-	7:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0086>
+#सलीमा के पिता ने उसे कुछ घने वनों के चित्र दिखाए।
+#salImA ke piwA ne use kuCa Gane vanoM ke ciwra xiKAe.
+#Salima's father showed her pictures of some dense forests.
+salImA	1	female	-	-	-	-	-	12:begin
+piwA_1(father_5)	3	per/male	-	11:k1	-	-	-	-
+$wyax	5	-	-	11:k4	Geo_ncert_7stnd_6ch_0086.12:coref	distal	-	-
+kuCa_1(some_2)	6	-	-	8:quant	-	-	-	-
+Gane_1	7	-	-	8:mod	-	-	-	-
+vana_2(forest_4)	8	-	pl	10:r6	-	-	-	-
+ciwra_1(picture_1)	10	-	-	11:k2	-	-	-	-
+xiKa_1-yA_WA_1	11	-	-	0:main	-	-	-	-
+[ne_1]	12	per	-	3:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0087a>
+#कुछ चित्रों में सलीमा ने यह देखा।
+#kuCa ciwroM meM salImA ne yaha xeKA.
+#In some of the pictures, Salima saw people clearing the forests by cutting down trees.
+kuCa_1(some_2)	1	-	-	2:quant	-	-	-	-
+ciwra_1(picture_1)	2	-	pl	7:k7	-	-	-	-
+salImA	4	female	-	-	-	-	-	8:begin
+$wyax	6	-	-	7:k2	Geo_ncert_7stnd_6ch_0087b.12:coref	proximal	-	-
+xeKa_1-yA_WA_1	7	-	-	0:main	-	-	-	-
+[ne_1]	8	per	-	7:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0087b>
+#कि लोग वृक्षों को काटकर वनों को साफ कर रहे हैं।
+#ki loga vqkRoM ko kAtakara vanoM ko sAPa kara rahe hEM.
+#In some of the pictures, Salima saw people clearing the forests by cutting down trees.
+loga_2(people_5)	1	-	-	12:k1	-	-	-	-
+vqkRa_1(tree_8)	2	-	pl	4:k2	-	-	-	-
+kAta_1(cut_3)	4	-	-	12:rpk	-	-	-	-
+vana_2(forest_4)	5	-	pl	12:k2	-	-	-	-
+sAPa_2(clear_16)	7	-	-	-	-	-	-	12:kriyAmUla
+kara_1-0_rahA_hE_1	8	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0088a>
+#उसके पिता ने यह बताया।
+#usake piwA ne yaha bawAyA.
+#His father told that the local people wanted a place for agriculture and housing.
+$wyax	1	-	-	2:r6	-	distal	-	-
+piwA_1	2	per/male	-	5:k1	-	-	-	-
+$wyax	4	-	-	5:k2	Geo_ncert_7stnd_6ch_0088b.9:coref	proximal	-	-
+bawA_1-yA_WA_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0088b>
+#कि स्थानीय लोग कृषि एवं आवास के लिए स्थान चाहते थे।
+#ki sWAnIya loga kqRi evaM AvAsa ke lie sWAna cAhawe We.
+#His father told that the local people wanted a place for agriculture and housing.
+sWAnIya_1(local_6)	1	-	-	2:mod	-	-	-	-
+loga_2(people_5)	2	-	-	9:k1	-	-	-	-
+kqRi_1(agriculture_1)	3	-	-	-	-	-	-	12:op1
+AvAsa_3(housing_1)	5	-	-	-	-	-	-	12:op2
+sWAna_1(place_14)	8	-	-	9:k2	-	-	-	-
+cAha_1-wA_WA_1	9	-	-	0:main	-	-	-	-
+[conj_1]	12	-	-	9:rt	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0089>
+#इसलिए उन्होंने वनों को साफ कर दिया।
+#isalie unhoMne vanoM ko sAPa kara xiyA.
+#So he cleared the forests.
+$wyax	1	anim	-	5:k1	Geo_ncert_7stnd_6ch_0088b.2:coref	distal	-	-
+vana_2(forest_4)	2	-	pl	5:k2	-	-	-	-
+sAPa_2(clear_16)	4	-	-	-	-	-	-	8:kriyAmUla
+kara_1-yA_WA_1	5	-	-	-	-	[shade:xe_1]	-	8:verbalizer
+[cp_1]	8	-	-	0:main	Geo_ncert_7stnd_6ch_0088b.9:pariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0090a>
+#सलीमा यह सोचने लगी।
+#salImA yaha socane lagI.
+#Salima started thinking that if the forests are cleared, then where will the wildlife go?
+salImA	1	female	-	-	-	-	-	4:begin
+$wyax	2	-	-	3:k2	Geo_ncert_7stnd_6ch_0090c.4:coref	proximal	-	-
+soca_1-nA_lagA_WA_1	3	-	-	0:main	-	-	-	-
+[ne_1]	4	per	-	3:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0090b>
+#कि अगर वनों को साफ कर दिया जाता है।
+#ki agara vanoM ko sAPa kara xiyA jAwA hE .
+#Salima started thinking that if the forests are cleared, then where will the wildlife go?
+vana_2(forest_4)	2	-	pl	10:k2	-	-	-	-
+sAPa_2(clear_16)	4	-	-	-	-	-	-	10:kriyAmUla
+kara_1-yA_jA_wA_hE_1	5	-	-	-	-	[shade:xe_1]	-	10:verbalizer
+[cp_1]	10	-	-	0:main	Geo_ncert_7stnd_6ch_0090c.4:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0090c>
+#तो वन्य जीव कहाँ जाएँगें?
+#wo vanya jIva kahAz jAezgeM?
+#Salima started thinking that if the forests are cleared, then where will the wildlife go?
+vanya_1(wild_6)	1	-	-	2:mod	-	-	-	-
+jIva_2(life_6)	2	-	-	4:k1	-	-	-	-
+$kim	3	-	-	4:k7p	-	-	-	-
+jA_1-gA_1	4	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0091>
+#क्या ये वन पुनः वैसे ही बन पाएँगें?
+#kyA ye vana punaH vEse hI bana pAezgeM?
+#Will these forests be able to become like that again?
+$wyax	2	-	-	3:dem	-	proximal	-	-
+vana_2(forest_4)	3	-	-	7:k1	-	-	-	-
+punaH_1	4	-	-	7:freq	-	-	-	-
+$wyak	5	-	-	8:dem	-	distal	-	-
+bana_1-0_pAezgA_1	7	-	-	0:main	-	-	-	-
+prakAra_1(kind_8)	8	-	-	7:krvn	-	hI_2	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0092a>
+#अगर लोग इसी प्रकार पेड़ों को काटते रहे।
+#agara loga isI prakAra pedoM ko kAtawe rahe .
+#If people keep cutting trees like this, then in future there will be enough oxygen, water vapor, wood, fruits, nuts etc.?
+loga_2(people_5)	1	-	-	6:k1	-	-	-	-
+$wyak	2	-	-	3:dem	-	proximal	-	-
+prakAra_4(manner_5)	3	-	-	6:krvn	-	-	-	-
+peda_1(tree_10)	4	-	pl	6:k2	-	-	-	-
+kAta_1-wA_raha_hE_1	6	-	-	0:main	Geo_ncert_7stnd_6ch_0092b.14:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0092b>
+#तो भविष्य में पर्याप्त ऑक्सीजन, जलवाष्प, लकडी, फल, मेवे आदि मिल पाएँगे?
+#wo BaviRya meM paryApwa oYksIjana, jalavARpa, lakadI, Pala, meve Axi mila pAezge?
+#If people keep cutting trees like this, then in future there will be enough oxygen, water vapor, wood, fruits, nuts etc.?
+BaviRya_2(future_6)	1	-	-	14:k7t	-	-	-	-
+paryApwa_1(enough_2)	3	-	-	16:mod	-	-	-	-
+OYksIjana_1(oxygen_2)	4	-	-	-	-	-	-	16:op1
+jalavARpa_1(water-vapour_1)	6	-	-	-	-	-	-	16:op2
+lakadI_2(wood_8)	8	-	-	-	-	-	-	16:op3
+Pala_1(fruit_1)	10	-	-	-	-	-	-	16:op4
+mevA_1	12	-	pl	-	-	-	-	16:op5
+mila_1-0_pAezgA_1	14	-	-	0:main	-	-	-	-
+Axi_15(etc_2)	15	-	-	-	-	-	-	16:op6
+[conj_1]	16	-	-	14:k1	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0093>
+#क्या आप सलीमा से सहमत है?
+#kyA Apa salImA se sahamawa hE?
+#Do you agree with Salima?
+$addressee	2	anim	-	6:k1	-	respect	-	-
+salImA	3	female	-	-	-	-	-	7:begin
+sahamawa_1	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+[ne_1]	7	per	-	6:k7	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0094>
+#आप अपने दोस्तों के साथ वनस्पति एवं प्राणी जगत् की विविधता में हो रही कमी पर चर्चा करे।
+#Apa apane xoswoM ke sAWa vanaspawi evaM prANI jagaw kI viviXawA meM ho rahI kamI para carcA kare.
+#Discuss with your friends the decline in the diversity of flora and fauna.
+$addressee	1	anim	-	23:k1	-	respect	-	-
+apanA	2	-	-	5:r6	-	-	-	-
+xoswa_1(friend_1)	5	-	pl	23:rask1	-	-	-	-
+vanaspawi_3(flora_1)	8	-	-	-	-	-	-	24:op1
+prANI_2(animal_4)	10	-	-	-	-	-	-	25:op1
+jagaw_1(world_4)	11	-	-	-	-	-	-	25:op2
+viviXawA_2(diversity_4)	13	-	-	15:k7	-	-	-	-
+ho_2(exist_7)	15	-	-	17:rvks	-	-	-	-
+kamI_13(decline_7)	17	-	-	23:k7	-	-	-	-
+carcA_2(discussion_2)	19	-	-	-	-	-	-	23:kriyAmUla
+kara_1-o_1	20	-	-	-	-	-	-	23:verbalizer
+[cp_1]	23	-	-	0:main	-	-	-	-
+[conj_1]	24	-	-	13:r6	-	-	-	-
+[nc_1]	25	-	-	-	-	-	-	24:op2
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0095>
+#आप इनके संरक्षण के बारे में कुछ सुझाव दें।
+#Apa inake saMrakRaNa ke bAre meM kuCa suJAva xeM.
+#Give some suggestions about their conservation.
+$addressee	1	anim	-	9:k1	-	respect	-	-
+$wyax	2	-	-	3:r6	Geo_ncert_7stnd_6ch_0094.24:coref	proximal	-	-
+saMrakRaNa_4(conservation_1)	3	-	-	9:k7	-	-	-	-
+kuCa_1(some_2)	7	-	-	8:quant	-	-	-	-
+suJAva_1(suggestion_5)	8	-	-	9:k2	-	-	-	-
+xe_1-o_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0096>
+#आप निम्न प्रश्नों के उत्तर दीजिए।
+#Apa nimna praSnoM ke uwwara xIjie.
+#Answer the following questions.
+$addressee	1	anim	-	6:k1	-	respect	-	-
+nimna_5(following_6)	2	-	-	3:mod	-	-	-	-
+praSna_1(question_3)	3	-	pl	5:r6	-	-	-	-
+uwwara_1(answer_1)	5	-	-	6:k2	-	-	-	-
+xe_1-o_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0097>
+#वनस्पतियों का विकास किन दो कारकों पर अधिकतर निर्भर करता है?
+#vanaspawiyoM kA vikAsa kina xo kArakoM para aXikawara nirBara karawA hE?
+#Which are the two factors on which the growth of vegetation mostly depends?
+vanaspawi_2(vegetation_3)	1	-	pl	3:r6	-	-	-	-
+vikAsa_3(growth_3)	3	-	-	13:k1	-	-	-	-
+$kim	4	-	-	6:dem	-	-	-	-
+2	5	numex	-	6:card	-	-	-	-
+kAraka_1(factor_2)	6	-	pl	13:k7	-	-	-	-
+aXikawara_1	8	-	-	13:intf	-	-	-	-
+nirBara_1(dependent_4)	9	-	-	-	-	-	-	13:kriyAmUla
+kara_1-wA_hE_1	10	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0098>
+#प्राकृतिक वनस्पतियों की तीन मुख्य श्रेणियां कौन सी है?
+#prAkqwika vanaspawiyoM kI wIna muKya SreNiyAM kOna sI hE?
+#Which are the three broad categories of natural vegetation?
+prAkqwika_1(natural_7)	1	-	-	2:mod	-	-	-	-
+vanaspawi_2(vegetation_3)	2	-	pl	6:r6	-	-	-	-
+3	4	numex	-	6:card	-	-	-	-
+muKya_1	5	-	-	6:mod	-	-	-	-
+SreNI_2(category_5)	6	-	pl	9:k1	-	-	-	-
+$kim	7	-	-	9:k1s	-	sA_1	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0099>
+#आप उष्णकटिबंधीय सदाबहार वन के दो दृढ काष्ठ वाले पेड़ों के नाम बताएं।
+#Apa uRNakatibaMXIya saxAbahAra vana ke xo xqDa kARTa vAle pedoM ke nAma bawAeM.
+#Name the two hardwood trees commonly found in tropical evergreen forest.
+$addressee	1	anim	-	13:k1	-	respect	-	-
+uRNakatibaMXIya_1(tropical_3)	2	-	-	4:mod	-	-	-	-
+saxAbahAra_1	3	-	-	4:mod	-	-	-	-
+vana_2(forest_4)	4	-	-	10:r6	-	-	-	-
+2	6	numex	-	8:card	-	-	-	-
+xqDa_1	7	-	-	8:mod	-	-	-	-
+kARTa_1(wood_2)	8	-	mawup	10:mod	-	-	-	-
+peda_1(tree_10)	10	-	pl	12:r6	-	-	-	-
+nAma_1(name_3)	12	-	-	13:k2	-	-	-	-
+bawA_1-o_1	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0100>
+#विश्व के किस भाग में उष्णकटिबंधीय पर्णपाती वन पाए जाते हैं?
+#viSva ke kisa BAga meM uRNakatibaMXIya parNapAwI vana pAe jAwe hEM?
+#In which part of the world are tropical deciduous forest found?
+viSva_6(world_20)	1	-	-	4:r6	-	-	-	-
+$kim	3	-	-	4:mod	-	-	-	-
+BAga_2(part_9)	4	-	-	9:k7p	-	-	-	-
+uRNakatibaMXIya_1(tropical_3)	6	-	-	8:mod	-	-	-	-
+parNapAwI_1(deciduous_1)	7	-	-	8:mod	-	-	-	-
+vana_2(forest_4)	8	-	-	9:k1	-	-	-	-
+pA_1-yA_jA_wA_hE_1	9	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0101>
+#नींबू-वंश (सिट्रस)के फल किस जलवायु में उगाए जाते हैं?
+#nIMbU-vaMSa ke Pala kisa jalavAyu meM ugAe jAwe hEM?
+#In which climatic conditions are citrus fruits cultivated?
+nIMbU+vaMSa_1	1	-	-	6:r6	-	-	-	-
+^citrus_1	3	-	-	1:rs	-	-	-	-
+Pala_1(fruit_1)	6	-	-	10:k2	-	-	-	-
+$kim	7	-	-	8:mod	-	-	-	-
+jalavAyu_1(climate_2)	8	-	-	10:k7	-	-	-	-
+ugA_1-yA_jA_wA_hE_1	10	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0102>
+#आप शंकुधारी वन के कोई चार उपयोग बताएं।
+#Apa SaMkuXArI vana ke koI cAra upayoga bawAeM.
+#Mention the uses of coniferous forest.
+$addressee	1	anim	-	8:k1	-	respect	-	-
+SaMkuXArI_1(coniferous_1)	2	-	-	3:mod	-	-	-	-
+vana_2(forest_4)	3	-	-	7:r6	-	-	-	-
+koI_1(any_1)	5	-	-	7:mod	-	-	-	-
+4	6	numex	-	7:card	-	-	-	-
+upayoga_1(use_2)	7	-	-	8:k2	-	-	-	-
+bawA_1-o_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0103>
+#विश्व के किन भागों में मौसमी घासस्थल पाए जाते हैं?
+#viSva ke kina BAgoM meM mOsamI GAsasWala pAe jAwe hEM?
+#In which part of the world is seasonal grassland found?
+viSva_6(world_20)	1	-	-	4:r6	-	-	-	-
+$kim	3	-	-	4:mod	-	-	-	-
+BAga_2(part_9)	4	-	pl	8:k7p	-	-	-	-
+mOsamI_1(seasonal_3)	6	-	-	7:mod	-	-	-	-
+GAsasWala_1(grassland_1)	7	-	-	8:k2	-	-	-	-
+pA_1-yA_jA_wA_hE_1	8	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0104>
+#आप सही उत्तर चिन्हित कीजिए।
+#Apa sahI uwwara cinhiwa kIjie.
+#Tick the correct answer.
+$addressee	1	anim	-	7:k1	-	respect	-	-
+sahI_11(correct_11)	2	-	-	3:mod	-	-	-	-
+uwwara_1(answer_1)	3	-	-	7:k2	-	-	-	-
+cinhiwa_1	4	-	-	-	-	-	-	7:kriyAmUla
+kara_1-o_1	5	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0105>
+#टुंड्रा वनस्पति में काई एवं लाइकेन पाए जाते हैं।
+#tuMdrA vanaspawi meM kAI evaM lAikena pAe jAwe hEM.
+#Mosses and Lichens are found in tundra vegetation
+tuMdrA_1	1	-	-	2:mod	-	-	-	-
+vanaspawi_2(vegetation_3)	2	-	-	7:k7p	-	-	-	-
+kAI_1(moss_1)	4	-	-	-	-	-	-	11:op1
+lAikena_1(Lichens_1)	6	-	-	-	-	-	-	11:op2
+pA_1-yA_jA_wA_hE_1	7	-	-	0:main	-	-	-	-
+[conj_1]	11	-	-	7:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0106>
+#गर्म एवं शुष्क रेगिस्तानि जलवायु में कांटेदार झाडियों मिलती है।
+#garma evaM SuRka regiswAni jalavAyu meM kAMtexAra JAdiyoM milawI hE.
+#Thorny bushes are found in hot and dry desert climate.
+garma_2(hot_7)	1	-	-	-	-	-	-	12:op1
+SuRka_2(dry_8)	3	-	-	-	-	-	-	12:op2
+regiswAni_1	4	-	-	5:mod	-	-	-	-
+jalavAyu_1(climate_2)	5	-	-	9:k7p	-	-	-	-
+kAMtexAra_1(thorny_2)	7	-	-	8:mod	-	-	-	-
+JAdI_1	8	-	pl	9:k1	-	-	-	-
+mila_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+[conj_1]	12	-	-	5:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0107>
+#बन्दर उष्णकटिबंधीय सदाबहार वन का एक सामान्य जानवर है।
+#banxara uRNakatibaMXIya saxAbahAra vana kA eka sAmAnya jAnavara hE.
+#In tropical evergreen forest, one of the common animals is monkey.
+banxara_1(monkey_3)	1	-	-	9:k1	-	-	-	-
+uRNakatibaMXIya_1(tropical_3)	2	-	-	4:mod	-	-	-	-
+saxAbahAra_1	3	-	-	4:mod	-	-	-	-
+vana_2(forest_4)	4	-	-	8:r6	-	-	-	-
+eka_6(one_1)	6	-	-	8:quant	-	-	-	-
+sAmAnya_2(common_6)	7	-	-	8:mod	-	-	-	-
+jAnavara_1(animal_2)	8	-	-	9:k1s	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0108>
+#चीड शंकुधारी वन की एक महत्वपूर्ण वृक्ष प्रजाति है।
+#cIda SaMkuXArI vana kI eka mahawvapUrNa vqkRa prajAwi hE.
+#One important variety of coniferous forest is pine.
+cIda_1	1	-	-	9:k1	-	-	-	-
+SaMkuXArI_1(coniferous_1)	2	-	-	3:mod	-	-	-	-
+vana_2(forest_4)	3	-	-	10:r6	-	-	-	-
+eka_6(one_1)	5	-	-	10:quant	-	-	-	-
+mahawvapUrNa_1(important_6)	6	-	-	10:mod	-	-	-	-
+vqkRa_1(tree_8)	7	-	-	-	-	-	-	10:mod
+prajAwi_1	8	-	-	-	-	-	-	10:head
+hE_1-pres	9	-	-	0:main	-	-	-	-
+[nc_1]	10	-	-	9:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0109>
+#स्टेपी घासस्थल पाए जाते है।
+#stepI GAsasWala pAe jAwe hE.
+#Steppe grassland is found in.
+stepI_1	1	-	-	2:mod	-	-	-	-
+GAsasWala_1(grassland_1)	2	-	-	3:k1	-	-	-	-
+pA_1-yA_jA_wA_hE_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0110>
+#ध्रुवीय प्रदेशों में रहने वाले जानवरों की फ़र एवं त्वचा मोटी होती है।
+#XruvIya praxeSoM meM rahane vAle jAnavaroM kI PZara evaM wvacA motI howI hE.
+#The animals in polar region have thick fur and thick skin.
+XruvIya_1(polar_1)	1	-	-	2:mod	-	-	-	-
+praxeSa_1(region_6)	2	-	pl	4:k7p	-	-	-	-
+raha_1(live_3)	4	-	mawup	6:mod	-	-	-	-
+jAnavara_1(animal_2)	6	-	pl	15:r6	-	-	-	-
+PZara_1(fur_1)	8	-	-	-	-	-	-	15:op1
+wvacA_1(skin_18)	10	-	-	-	-	-	-	15:op2
+motA_4(thick_8)	11	-	-	12:k1s	-	-	-	-
+ho_1-wA_hE_1	12	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	12:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0111>
+#उष्णकटिबंधीय पर्णपाती वन शुष्क मौसम में अपनी पत्तियां गिरा देते हैं।
+#uRNakatibaMXIya parNapAwI vana SuRka mOsama meM apanI pawwiyAM girA xewe hEM.
+#Tropical deciduous trees shed their leaves in the dry season
+uRNakatibaMXIya_1(tropical_3)	1	-	-	3:mod	-	-	-	-
+parNapAwI_1(deciduous_1)	2	-	-	3:mod	-	-	-	-
+vana_2(forest_4)	3	-	-	9:k1	-	-	-	-
+SuRka_2(dry_8)	4	-	-	5:mod	-	-	-	-
+mOsama_1(season_5)	5	-	-	9:k7t	-	-	-	-
+apanA	7	-	-	8:r6	-	-	-	-
+pawwA_1(leaf_2)	8	-	pl	9:k2	-	-	-	-
+gira_1-wA_hE_1	9	-	-	0:main	-	[shade:xe_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0112>
+#वनस्पति के प्रकार एवं सघनता एक स्थान से दूसरे स्थान पर बदलती रहती है।
+#vanaspawi ke prakAra evaM saGanawA eka sWAna se xUsare sWAna para baxalawI rahawI hE.
+#The type and thickness of vegetation changes from place to place.
+vanaspawi_2(vegetation_3)	1	-	-	16:r6	-	-	-	-
+prakAra_7(type_6)	3	-	-	-	-	-	-	16:op1
+saGanawA_1	5	-	-	-	-	-	-	16:op2
+eka_2(a_1)	6	-	-	7:quant	-	-	-	-
+sWAna_1(place_14)	7	-	-	12:k5	-	-	-	-
+xUsarA_3(another_4)	9	-	-	10:ord	-	-	-	-
+sWAna_1(place_14)	10	-	-	12:k7	-	-	-	-
+baxala_1-wA_rahawA_hE_1	12	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	12:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0113>
+#आप विश्व के विभिन्न भागों के वनों एवं घासस्थालों के चित्र एकत्र करें।
+#Apa viSva ke viBinna BAgoM ke vanoM evaM GAsasWaloM ke ciwra ekawra kareM.
+#Collect pictures and photographs of forests and grasslands of different parts of world.
+$addressee	1	anim	-	16:k1	-	respect	-	-
+viSva_6(world_20)	2	-	-	5:r6	-	-	-	-
+viBinna_1(different_13)	4	-	-	5:mod	-	-	-	-
+BAga_2(part_9)	5	-	pl	17:r6	-	-	-	-
+vana_2(forest_4)	7	-	pl	-	-	-	-	17:op1
+GasasWala_1	10	-	pl	-	-	-	-	17:op2
+ciwra_1(picture_1)	12	-	-	16:k2	-	-	-	-
+ekawra_1	13	-	-	-	-	-	-	16:kriyAmUla
+kara_1-o_1	14	-	-	-	-	-	-	16:verbalizer
+[cp_1]	16	-	-	0:main	-	-	-	-
+[conj_1]	17	-	-	12:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0114>
+#आप प्रत्येक चित्र के नीचे इससे संबंधित एक वाक्य लिखें।
+#Apa prawyeka ciwra ke nIce isase saMbaMXiwa eka vAkya liKeM.
+#Write one sentence below each picture.
+$addressee	1	anim	-	10:k1	-	respect	-	-
+prawyeka_1(each_1)	2	-	-	3:quant	-	-	-	-
+ciwra_1(picture_1)	3	-	-	5:rdl	-	-	-	-
+nIce_1(below_3)	5	-	-	10:k7p	-	-	-	-
+$wyax	6	-	-	10:k2as	Geo_ncert_7stnd_6ch_0114.3:coref	proximal	-	-
+1	8	numex	-	9:card	-	-	-	-
+vAkya_1(sentence_3)	9	-	-	10:k2	-	-	-	-
+liKa_1-o_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0115>
+#आप वर्षावन, घासस्थल एवं शंकुधारी वन का एक कोलाज बनाएं।
+#Apa varRAvana, GAsasWala evaM SaMkuXArI vana kA eka kolAja banAeM.
+#Make a collage of rainforest, grassland and coniferous forests.
+$addressee	1	anim	-	11:k1	-	respect	-	-
+varRAvana_1(rainforest_1)	2	-	-	-	-	-	-	14:op1
+GAsasWala_1(grassland_1)	4	-	-	-	-	-	-	14:op2
+SaMkuXArI_1(coniferous_1)	6	-	-	-	-	-	-	15:mod
+vana_2(forest_4)	7	-	-	-	-	-	-	15:head
+1	9	numex	-	10:card	-	-	-	-
+^collage_1	10	-	-	11:k2	-	-	-	-
+banA_1-o_1	11	-	-	0:main	-	-	-	-
+[conj_1]	14	-	-	10:r6	-	-	-	-
+[nc_1]	15	-	-	-	-	-	-	14:op3
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0116>
+#नीचे दी गई वर्ग पहेली में शब्द छिपे है।
+#nIce xI gaI varga pahelI meM Sabxa Cipe hE.
+#In the crossword table given below, some words are hidden.
+nIce_1(below_3)	1	-	-	2:k7t	-	-	-	-
+xe_1(give_1)	2	-	-	10:rbks	-	-	-	-
+varga_1	4	-	-	-	-	-	-	10:mod
+pahelI_2(puzzle_1)	5	-	-	-	-	-	-	10:head
+Sabxa_4(word_8)	7	-	-	9:k1	-	-	-	-
+Cipa_4(hide_8)	8	-	-	9:k2	-	-	-	-
+hE_1(state_copula_1)	9	-	-	0:main	-	-	-	-
+[nc_1]	10	-	-	9:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_6ch_0117>
+#यह सब पहेली वनस्पतियों एवं वन्यजीवों से संबंधित है।
+#yaha saba pahelI vanaspawiyoM evaM vanyajIvoM se saMbaMXiwa hE.
+#These puzzle are all about vegetation and wildllife.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+saba_1(all_9)	2	-	-	11:quant	-	-	-	-
+vanaspawi_2(vegetation_3)	3	-	pl	-	-	-	-	10:op1
+vanyajIva_1(wildlife_1)	5	-	pl	-	-	-	-	10:op2
+hE_1-pres	8	-	-	0:main	-	-	-	-
+[conj_1]	10	-	-	8:k1as	-	-	-	-
+pahelI_2(puzzle_1)	11	-	-	8:k1	-	-	-	-
+%affirmative
+</segment_id>

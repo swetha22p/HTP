@@ -1,0 +1,20 @@
+# ERROR TYPE: Index Collisions & Graph Collapse
+# DESCRIPTION: The model assigned the exact same Index ID to multiple different concepts. This breaks the dependency tree.
+# HOW TO FIX: 
+#   1. Re-number the indices sequentially (Column 2).
+#   2. Check the connections. You MUST update the Head Index (Column 5) of the children so they point to the new, correct Parent IDs.
+# ==================================================
+Ecommerce_FAQ_053
+Ecommerce_FAQ_113
+Ecommerce_FAQ_114
+Ecommerce_FAQ_115
+Ecommerce_FAQ_120
+Ecommerce_FAQ_124
+Ecommerce_FAQ_125
+Ecommerce_FAQ_126a
+Ecommerce_FAQ_126b
+Geo_ncert_7stnd_7ch_0031
+Geo_ncert_8stnd_3ch_0142a
+Geo_ncert_8stnd_3ch_0144a
+P1Information_sheet_and_consent_anu_hin_target_013
+sept-7-2022ICF-HD_source_hin_004

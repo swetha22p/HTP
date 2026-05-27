@@ -1,0 +1,2083 @@
+<segment_id=Geo_ncert_6stnd_1ch_0001>
+#सूर्यास्त के बाद आकाश को देखना कितना अच्छा लगता है।
+#sUryAswa ke bAxa AkASa ko xeKanA kiwanA acCA lagawA hE.
+#How wonderful it is to watch the sky after sunset
+sUryAswa_1(sunset_2)	1	-	-	3:rkl	-	-	-	-
+bAxa_1(after_8)	3	-	-	13:k7t	-	-	-	-
+AkASa_1(sky_3)	4	-	-	6:k2	-	def	-	-
+xeKa_3(watch_3)	6	-	-	13:k1	-	-	-	-
+$kim	7	-	-	13:krvn	-	-	-	-
+acCA_18(wonderful_5)	8	-	-	-	-	-	-	13:kriyAmUla
+laga_2(appear_1)-wA_hE_1(es_1)	9	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0002a>
+#आसमान में पहले एक या दो चमकते बिंदु ही दिखते हैं ।
+#AsamAna meM pahale eka yA xo camakawe biMxu hI xiKawe hEM .
+#One would first notice one or two bright dots shining in the sky. Soon you would see the number increasing.
+AsamAna_1(sky_4)	1	-	-	7:k7p	-	def	-	-
+pahale_5(first_28)	2	-	-	7:k7t	-	-	-	-
+1	3	numex	-	-	-	-	-	8:op1
+2	4	numex	-	10:k1	-	-	-	8:op2
+camaka_4(shine_1)	5	-	-	6:rvks	-	-	-	-
+biMxu_2(dot_3)	6	-	-	7:k1	-	hI_1	-	-
+xiKa_2(notice_10)-wA_hE_1(es_1)	7	-	-	0:main	-	-	-	-
+[disjunct_1]	8	-	-	6:card	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0002b>
+#लेकिन बाद में इनकी संख्या बढती जाती है।
+#lekina bAxa meM inakI saMKyA baDawI jAwI hE.
+#One would first notice one or two bright dots shining in the sky. Soon you would see the number increasing.
+bAxa_18(later_26)	1	-	-	5:k7t	-	-	-	-
+$wyax	3	-	-	4:r6	Geo_ncert_6stnd_1ch_0002a.6:coref	proximal	-	-
+saMKyA_1(number_8)	4	-	-	5:k1	-	-	-	-
+baDa_4(increase_76)-wA_jAwA_hE_1	5	-	-	0:main	Geo_ncert_6stnd_1ch_0002a.7:viroXI	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0003>
+#आप उनकी गणना नहीं कर सकते।
+#Apa unakI gaNanA nahIM kara sakawe.
+#You cannot count them any more.
+$addressee	1	anim	-	8:k1	-	respect	-	-
+$wyax	2	-	-	8:k2	Geo_ncert_6stnd_1ch_0002a.6:coref	distal	-	-
+gaNanA_7	3	-	-	-	-	-	-	8:kriyAmUla
+nahIM_1(not_1)	4	-	-	8:neg	-	-	-	-
+kara_17(do_2)-0_sakawA_hE_1(0_can_1)	5	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	0:main	-	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0004>
+#संपूर्ण आकाश छोटी-छोटी चमकदार वस्तुओं से भर जाता है, जिनमें से कुछ चमकीले होते हैं एवं कुछ धुँधले।
+#saMpUrNa AkASa CotI-CotI camakaxAra vaswuoM se Bara jAwA hE, jinameM se kuCa camakIle howe hEM evaM kuCa XuzXale.
+#The whole sky is filled with tiny shining objects – some are bright, others dim.
+saMpUrNa_1(whole_7)	1	-	-	2:mod	-	-	-	-
+AkASa_1(sky_3)	2	-	-	7:k1	-	def	-	-
+CotI_1	3	-	xviwva	5:mod	-	-	-	-
+camakaxAra_1(shining_10)	4	-	-	5:mod	-	-	-	-
+vaswu_3(object_7)	5	-	pl	7:rh	-	-	-	-
+Bara_1(fill_3)-wA_hE_1(es_1)	7	-	-	0:main	-	[shade:jA_1]	-	-
+$yax	11	-	-	15:rn	-	-	-	-
+kuCa_1(some_2)	13	-	-	14:quant	-	-	-	-
+camakIlA_5(bright_5)	14	-	-	-	-	-	-	23:op1
+ho_2(exist_7)-wA_hE_1(es_1)	15	-	-	5:rcelab	-	-	-	-
+kuCa_1(some_2)	18	-	-	19:quant	-	-	-	-
+XuzXalA_2(dim_2)	19	-	-	-	-	-	-	23:op2
+[conj_1]	23	-	-	15:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0005a>
+#आप यह मानो ।
+#Apa yaha mAno .
+#It seems as if the sky is studded with diamonds.
+$addressee	1	anim	-	3:k1	-	respect	-	-
+$wyax	2	-	-	3:k2	Geo_ncert_6stnd_1ch_0005b.6:coref	proximal	-	-
+mAna_1(consider_10)-o_1(o_1)	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0005b>
+#कि हमें ऐसा प्रतीत होता है।
+#ki EsA prawIwa howA hE.
+#It seems as if the sky is studded with diamonds.
+$wyax	1	-	-	5:dem	Geo_ncert_6stnd_1ch_0005c.4:coref	proximal	-	-
+prawIwa_14	2	-	-	-	-	-	-	6:kriyAmUla
+$speaker	3	-	-	6:k1	-	-	-	-
+ho_6(be_4)-wA_hE_1(es_1)	4	-	-	-	-	-	-	6:verbalizer
+prakAra_5(way_8)	5	-	-	6:krvn	-	-	-	-
+[cp_1]	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0005c>
+#कि आकाश में हीरे जडे हों।
+#ki AkASa meM hIre jade hoM.
+#It seems as if the sky is studded with diamonds.
+AkASa_1(sky_3)	1	-	-	4:k7p	-	def	-	-
+hIrA_1(diamond_3)	2	-	pl	4:k1	-	-	-	-
+jada_2	3	-	kqw	4:k1s	-	-	-	-
+ho_6(be_4)-e_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0006>
+#इनमें से कुछ टिमटिमाते प्रतीत होते हैं।
+#inameM se kuCa timatimAwe prawIwa howe hEM.
+#They all appear to be twinkling
+$wyax	1	-	-	3:rn	Geo_ncert_6stnd_1ch_0004.5:coref	proximal	-	-
+kuCa_1(some_2)	3	-	-	9:k1	-	-	-	-
+timatimA_1(twinkle_7)	4	-	-	9:krvn	-	-	-	-
+prawIwa_1(appear_1)	5	-	-	-	-	-	-	9:kriyAmUla
+ho_6(be_4)-wA_hE_1(0)	6	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0007a>
+#लेकिन अगर आप उनको ध्यान से देखेंगे ।
+#lekina agara Apa unako XyAna se xeKeMge .
+#But if you look at them carefully you will notice that some of them do not twinkle as others do.
+$addressee	2	anim	-	6:k1	-	respect	-	-
+$wyax	3	-	-	6:k2	Geo_ncert_6stnd_1ch_0004.5:coref	distal	-	-
+XyAna_11(carefully_1)	4	-	-	6:krvn	-	-	-	-
+xeKa_2(look_1)-gA_1	6	-	-	0:main	Geo_ncert_6stnd_1ch_0007b.3:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0007b>
+#तो आप यह पाएँगे।
+#wo Apa yaha pAezge.
+#But if you look at them carefully you will notice that some of them do not twinkle as others do.
+$addressee	1	anim	-	3:k1	-	respect	-	-
+$wyax	2	-	-	3:k2	Geo_ncert_6stnd_1ch_0007c.6:coref	proximal	-	-
+pA_13(find_4)-gA_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0007c>
+#कि इनमें से कुछ की टिमटिमाहट अन्य से अलग है।
+#ki inameM se kuCa kI timatimAhata anya se alaga hE.
+#But if you look at them carefully you will notice that some of them do not twinkle as others do.
+$wyax	1	-	-	2:rn	Geo_ncert_6stnd_1ch_0004.5:coref	proximal	-	-
+kuCa_1(some_2)	2	-	-	3:r6	-	-	-	-
+timatimAhata_1(twinkle_9)	3	-	-	6:k1	-	-	-	-
+anya_1(other_1)	4	-	-	-	-	-	-	-
+alaga_7(different_4)	5	-	-	6:k1s	-	-	-	-
+hE_1(state_copula_1)	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0008>
+#ये बिना किसी टिमटिमाहट के चंद्रमा के समान चमकते हैं।
+#ye binA kisI timatimAhata ke caMxramA ke samAna camakawe hEM.
+#They simply glow without any flicker just as the moon shines.
+$wyax	1	-	-	9:k1	Geo_ncert_6stnd_1ch_0004.5:coref	proximal	-	-
+koI_1(any_1)	3	-	-	4:mod	-	-	-	-
+timatimAhata_3(flickering_1)	4	-	-	9:rasnegk1	-	-	-	-
+caMxramA_1(moon_3)	6	-	-	1:ru	-	-	-	-
+camaka_8(shine_2)-wA_hE_1(0)	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0009>
+#इन चमकीली वस्तुओं के साथ आप लगभग प्रतिदिन चंद्रमा को भी देखते हैं।
+#ina camakIlI vaswuoM ke sAWa Apa lagaBaga prawixina caMxramA ko BI xeKawe hEM.
+#Along with these bright objects, you may also see the moon on most of the days
+$wyax	1	-	-	3:dem	-	proximal	-	-
+camakIlA_5(bright_5)	2	-	-	3:mod	-	-	-	-
+vaswu_3(object_7)	3	-	pl	12:rask2	-	-	-	-
+$addressee	6	anim	-	12:k1	-	respect	-	-
+prawixina_4(everyday_2)	8	-	-	12:k7t	-	lagaBaga_1	-	-
+caMxramA_1(moon_3)	9	-	-	12:k2	-	BI_1	-	-
+xeKa_1(see_1)-wA_hE_1(0)	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0010>
+#यह अलग-अलग समय पर अलग आकार तथा अलग स्थितियों में दिखाई पडता है।
+#yaha alaga-alaga samaya para alaga AkAra waWA alaga sWiwiyoM meM xiKAI padawA hE.
+#It may, however, appear at different times, in different shapes and at different positions
+$wyax	1	-	-	8:k1	Geo_ncert_6stnd_1ch_0009.9:coref	proximal	-	-
+alaga_7(different_4)	2	-	xviwva	3:mod	-	-	-	-
+samaya_1(time_8)	3	-	-	9:k7	-	-	-	-
+alaga_7(different_4)	4	-	-	5:mod	-	-	-	-
+AkAra_2(shape_1)	5	-	-	-	-	-	-	9:op1
+alaga_7(different_4)	6	-	-	7:mod	-	-	-	-
+sWiwi_1(position_3)	7	-	pl	-	-	-	-	9:op2
+xiKA_4	8	-	-	0:main	-	-	-	-
+[conj_1]	9	-	-	8:krvn	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0011>
+#आप पूर्ण चंद्र को लगभग एक महीने में एक बार देख सकते हैं।
+#Apa pUrNa caMxra ko lagaBaga eka mahIne meM eka bAra xeKa sakawe hEM.
+#You can see the full moon only once in about a month’s time.
+$addressee	1	anim	-	11:k1	-	respect	-	-
+pUrNa_4(full_3)	2	-	-	3:mod	-	-	-	-
+caMxra_2(moon_2)	3	-	-	11:k2	-	-	-	-
+1	6	numex	-	7:card	-	-	-	-
+mahInA_1(month_1)	7	-	-	11:k7t	-	lagaBaga_1	-	-
+1	9	numex	-	10:card	-	-	-	-
+bAra_15(time_42)	10	-	-	11:freq	-	-	-	-
+xeKa_1(see_1)-0_sakawA_hE_1	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0012>
+#यह पूर्ण चंद्रमा वाली रात या पूर्णिमा होती है।
+#yaha pUrNa caMxramA vAlI rAwa yA pUrNimA howI hE.
+#It is Full moon night or Poornima.
+$wyax	1	-	-	8:k1	-	proximal	-	-
+pUrNa_4(full_3)	2	-	-	3:mod	-	-	-	-
+caMxramA_1(moon_3)	3	-	mawupa	5:mod	-	-	-	-
+rAwa_1(night_7)	5	-	-	-	-	-	-	11:op1
+pUrNimA_1	7	-	-	-	-	-	-	11:op2
+ho_6(be_4)-wA_hE_1	8	-	-	0:main	-	-	-	-
+[disjunct_1]	11	-	-	8:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0013>
+#पंद्रह दिन के बाद आप इसे नहीं देख सकते है ।
+#paMxraha xina ke bAxa Apa ise nahIM xeKa sakawe hE .
+#A fortnight later, you cannot see it at all.
+15	1	numex	-	-	-	-	-	8:count
+xina_1(day_6)	2	-	-	-	-	-	-	8:unit
+bAxa_18(later_26)	3	-	-	7:k7t	-	-	-	-
+$addressee	4	anim	-	7:k1	-	respect	-	-
+$wyax	5	-	-	7:k2	Geo_ncert_6stnd_1ch_0012.3:coref	proximal	-	-
+nahIM_1(not_1)	6	-	-	7:neg	-	-	-	-
+xeKa_1(see_1)-0_sakawA_hE_1	7	-	-	0:main	-	-	-	-
+[time_meas_1]	8	-	-	3:rkl	-	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0014>
+#यह नये चंद्रमा की रात्रि या अमावस्या होती है।
+#yaha naye caMxramA kI rAwri yA amAvasyA howI hE.
+#It is a New moon night or Amavasya
+$wyax	1	-	-	8:k1	-	proximal	-	-
+nayA_1(new_5)	2	-	-	3:mod	-	-	-	-
+caMxramA_1(moon_3)	3	-	-	5:r6	-	-	-	-
+rAwri_1(night_8)	5	-	-	-	-	-	-	11:op1
+amAvasyA_1(Amavasya_1)	7	-	-	-	-	-	-	11:op2
+ho_6(be_4)-wA_hE_1	8	-	-	0:main	-	-	-	-
+[disjunct_1]	11	-	-	8:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0015a>
+#ऐसी रात में अगर आसमान साफ है ।
+#EsI rAwa meM agara AsamAna sAPa hE .
+#On this day, you can watch the night sky best, provided it is a clear night.
+$wyax	1	-	-	8:dem	-	-	-	-
+rAwa_1(night_7)	2	-	-	7:k7t	-	-	-	-
+AsamAna_1(sky_4)	5	-	-	7:k1	-	def	-	-
+sAPa_2(clear_16)	6	-	-	7:k1s	-	-	-	-
+hE_1(state_copula_1)	7	-	-	0:main	Geo_ncert_6stnd_1ch_0015b.12:AvaSyakawApariNAma	-	-	-
+prakAra_1(kind_8)	8	-	-	7:krvn	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0015b>
+#तो आप आसमान का अवलोकन अच्छी तरह से कर सकते हैं।
+#wo Apa AsamAna kA avalokana acCI waraha se kara sakawe hEM.
+#On this day, you can watch the night sky best, provided it is a clear night.
+$addressee	1	anim	-	12:k1	-	respect	-	-
+AsamAna_1(sky_4)	2	-	-	12:k2	-	def	-	-
+avalokana_3	4	-	-	-	-	-	-	12:kriyAmUla
+acCA_1(good_1)	5	-	-	6:mod	-	-	-	-
+waraha_11(way_59)	6	-	-	12:krvn	-	-	-	-
+kara_17(do_2)-0_sakawA_hE_1	8	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0016a>
+#क्या आपको इस बात पर आश्चर्य नहीं होता है।
+#kyA Apako isa bAwa para AScarya nahIM howA hE.
+#Do you wonder why can’t we see the moon and all those bright tiny objects during day time?
+$addressee	2	anim	-	8:k4a	-	respect	-	-
+$wyax	3	-	-	4:dem	Geo_ncert_6stnd_1ch_0016b.15:coref	proximal	-	-
+bAwa_3(fact_2)	4	-	-	8:k7	-	-	-	-
+AScarya_1(wonder_4)	6	-	-	8:k1	-	-	-	-
+nahIM_1(not_1)	7	-	-	8:neg	-	-	-	-
+ho_6(be_4)-wA_hE_1(0)	8	-	-	0:main	-	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0016b>
+#कि हम दिन के समय चंद्रमा एवं इन सभी छोटी चमकीली वस्तुओं को क्यों नहीं देख पाते हैं ।
+#ki hama xina ke samaya caMxramA evaM ina saBI CotI camakIlI vaswuoM ko kyoM nahIM xeKa pAwe hEM .
+#Do you wonder why can’t we see the moon and all those bright tiny objects during day time?
+$speaker	1	anim	pl	15:k1	-	-	-	-
+xina_1(day_6)	2	-	-	15:k7t	-	-	-	-
+caMxramA_1(moon_3)	5	-	-	-	-	-	-	19:op1
+$wyax	7	-	-	11:dem	-	proximal	-	-
+saBI_1(all_1)	8	-	-	11:quant	-	-	-	-
+CotA_13	9	-	-	11:mod	-	-	-	-
+camakIlA_5(bright_5)	10	-	-	11:mod	-	-	-	-
+vaswu_3(object_7)	11	-	pl	-	-	-	-	19:op2
+$kim	13	-	-	15:krvn	-	-	-	-
+nahIM_1(not_1)	14	-	-	15:neg	-	-	-	-
+xeKa_1(see_1)-0_pAwA_hE_1	15	-	-	0:main	-	-	-	-
+[conj_1]	19	-	-	15:k2	-	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0017a>
+#ऐसा इसलिए है ।
+#EsA isalie hE .
+#It is because the very bright light of the sun does not allow us to see all these bright objects of the night sky.
+$wyax	1	-	-	3:k1	-	-	-	-
+prakAra_1	2	-	-	-	-	-	-	-
+isalie_1	3	-	-	-	-	-	-	-
+hE_1-pres	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0017b>
+#क्योंकि सूर्य के अत्यधिक तेज प्रकाश के कारण रात के समय चमकने वाली वस्तुओं को हम दिन में नहीं देख पाते हैं।
+#kyoMki sUrya ke awyaXika weja prakASa ke kAraNa rAwa ke samaya camakane vAlI vaswuoM ko hama xina meM nahIM xeKa pAwe hEM.
+#It is because the very bright light of the sun does not allow us to see all these bright objects of the night sky.
+sUrya_1(sun_5)	1	-	-	5:r6	-	-	-	-
+awyaXika_6(intense_1)	3	-	-	4:intf	-	-	-	-
+weja_15(sharp_19)	4	-	-	5:mod	-	-	-	-
+prakASa_1(light_8)	5	-	-	19:rh	-	-	-	-
+rAwa_1(night_7)	8	-	-	11:k7t	-	-	-	-
+camaka_8(shine_2)	11	-	mawup	13:mod	-	-	-	-
+vaswu_3(object_7)	13	-	pl	19:k2	-	-	-	-
+$speaker	15	anim	pl	19:k1	-	-	-	-
+xina_1(day_6)	16	-	-	19:k7t	-	-	-	-
+nahIM_1(not_1)	18	-	-	19:neg	-	-	-	-
+xeKa_1(see_1)-0_pAwA_hE_1	19	-	-	0:main	Geo_ncert_6stnd_1ch_0017a.3:kAryakAraNa	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0018>
+#सूर्य, चंद्रमा तथा वे सभी वस्तुएँ जो रात के समय आसमान में चमकती हैं, खगोलीय पिंड कहलाती हैं।
+#sUrya, caMxramA waWA ve saBI vaswuez jo rAwa ke samaya AsamAna meM camakawI hEM, KagolIya piMda kahalAwI hEM.
+#The sun, the moon and all those objects shining in the night sky are called celestial bodies.
+sUrya_1(sun_5)	1	-	-	-	-	def	-	22:op1
+caMxramA_1(moon_3)	3	-	-	-	-	def	-	22:op2
+$wyax	5	-	-	7:dem	-	distal	-	-
+saBI_1(all_1)	6	-	-	7:quant	-	-	-	-
+vaswu_3(object_7)	7	-	pl	-	-	-	-	22:op3
+$yax	8	-	-	14:k1	-	-	-	-
+rAwa_1(night_7)	9	-	-	14:k7t	-	-	-	-
+AsamAna_1(sky_4)	12	-	-	14:k7p	-	def	-	-
+camaka_8(shine_2)-wA_hE_1(0)	14	-	-	22:rcelab	-	-	-	-
+KagolIya_1(celestial_7)	17	-	-	18:mod	-	-	-	-
+piMda_3(body_13)	18	-	-	19:k1s	-	-	-	-
+kahalA_2(called_1)-wA_hE_1(0)	19	-	-	0:main	-	-	-	-
+[conj_1]	22	-	-	19:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0019>
+#कुछ खगोलीय पिंड बडे आकार वाले तथा गर्म होते हैं।
+#kuCa KagolIya piMda bade AkAra vAle waWA garma howe hEM.
+#Some celestial bodies are very big and hot.
+kuCa_1(some_2)	1	-	-	3:quant	-	-	-	-
+KagolIya_1(celestial_7)	2	-	-	3:mod	-	-	-	-
+piMda_3(body_13)	3	-	-	9:k1	-	-	-	-
+badA_6(big_11)	4	-	-	5:mod	-	-	-	-
+AkAra_2(shape_1)	5	-	mawupa	-	-	-	-	15:op1
+garma_2(hot_7)	8	-	-	-	-	-	-	15:op2
+ho_8(be_2)-wA_hE_1(0)	9	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	9:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0020>
+#ये गैसों से बने होते हैं।
+#ye gEsoM se bane howe hEM.
+#They are made up of gases.
+$wyax	1	-	-	5:k1	Geo_ncert_6stnd_1ch_0019.3:coref	proximal	-	-
+gEsa_1(gas_1)	2	-	pl	5:k3	-	-	-	-
+bana_15(made_12)	4	-	-	5:k1s	-	-	-	-
+ho_8(be_2)-wA_hE_1(0)	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0021>
+#इनके पास अपनी ऊष्मा तथा प्रकाश होता है, जिसे वे बहुत बडी मात्रा में उत्सर्जित करते हैं।
+#inake pAsa apanI URmA waWA prakASa howA hE, jise ve bahuwa badI mAwrA meM uwsarjiwa karawe hEM.
+#They have their own heat and light, which they emit in large amounts.
+$wyax	1	-	-	21:rsm	-	proximal	-	-
+apanA	3	-	-	21:r6	-	-	-	-
+URmA_1(heat_1)	4	-	-	-	-	-	-	21:op1
+prakASa_1(light_8)	6	-	-	-	-	-	-	21:op2
+ho_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+$yax	10	-	-	20:k2	-	-	-	-
+$wyax	11	-	-	20:k1	-	distal	-	-
+bahuwa_7(very_1)	12	-	-	13:intf	-	-	-	-
+badA_8(large_25)	13	-	-	14:mod	-	-	-	-
+mAwrA_9(amount_10)	14	-	-	20:k7	-	-	-	-
+uwsarjiwa_1(emit_2)	16	-	-	-	-	-	-	20:kriyAmUla
+kara_1-wA_hE_1	17	-	-	-	-	-	-	20:verbalizer
+[cp_1]	20	-	-	7:rcdelim	-	-	-	-
+[conj_1]	21	-	-	7:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0022>
+#इन खगोलीय पिंडों को तारा कहते हैं।
+#ina KagolIya piMdoM ko wArA kahawe hEM.
+#These celestial bodies are called stars.
+$wyax	1	-	-	3:dem	-	proximal	-	-
+KagolIya_1(celestial_7)	2	-	-	3:mod	-	-	-	-
+piMda_6(body_9)	3	-	pl	6:k2	-	-	-	-
+wArA_1(star_4)	5	-	-	6:k2s	-	-	-	-
+kaha_1(call_20)-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0023>
+#सूर्य भी एक तारा है।
+#sUrya BI eka wArA hE.
+#The sun is a star.
+sUrya_1(sun_5)	1	-	-	5:k1	-	BI_1/def	-	-
+eka_2(a_1)	3	-	-	4:quant	-	-	-	-
+wArA_1(star_4)	4	-	-	5:k1s	-	-	-	-
+hE_5(state_copula_1)	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0024>
+#रात के समय चमकते हुए अनगिनत तारे सूर्य के समान ही हैं।
+#rAwa ke samaya camakawe hue anaginawa wAre sUrya ke samAna hI hEM.
+#Countless twinkling stars in the night sky are similar to the sun
+rAwa_1(night_7)	1	-	-	4:k7t	-	-	-	-
+camaka_1	4	-	-	12:rsk	-	-	-	-
+anaginawa_1	6	-	-	7:quant	-	-	-	-
+wArA_1(star_4)	7	-	pl	12:k1	-	-	-	-
+sUrya_1(sun_5)	8	-	-	7:ru	-	hI_1/def	-	-
+hE_1-pres	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0025a>
+#लेकिन हमसे बहुत अधिक दूर होने के कारण हम लोग उनकी ऊष्मा या प्रकाश को महसूस नहीं करते हैं ।
+#lekina hamase bahuwa aXika xUra hone ke kAraNa hama loga unakI URmA yA prakASa ko mahasUsa nahIM karawe hEM .
+#But we do not feel their heat or light, and they look so tiny because they are very very far from us.
+$speaker	1	anim	pl	5:k5	-	-	-	-
+bahuwa_7(very_1)	2	-	-	4:intf	-	-	-	-
+aXika_2(much_2)	3	-	-	4:intf	-	-	-	-
+xUra_1(away_1)	4	-	-	5:k7p	-	-	-	-
+ho_2(exist_7)	5	-	-	13:rh	-	-	-	-
+$speaker	6	-	pl	13:k1	-	loga_1	-	-
+$wyax	7	-	-	14:r6	Geo_ncert_6stnd_1ch_0024.7:coref	distal	-	-
+URmA_1(heat_1)	8	-	-	-	-	-	-	14:op1
+prakASa_1(light_8)	9	-	-	-	-	-	-	14:op2
+mahasUsa_2(felt_2)	10	-	-	-	-	-	-	13:kriyAmUla
+nahIM_1(not_1)	11	-	-	13:neg	-	-	-	-
+kara_17(do_2)-wA_hE_1	12	-	-	-	-	-	-	13:verbalizer
+[cp_2]	13	-	-	0:main	Geo_ncert_6stnd_1ch_0024.12:viroXI	-	-	-
+[disjunct_1]	14	-	-	13:k2	-	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0025b>
+#तथा वे अत्यंत छोटे दिखाई पडते हैं।
+#waWA ve awyaMwa Cote xiKAI padawe hEM.
+#But we do not feel their heat or light, and they look so tiny because they are very very far from us.
+$wyax	1	-	-	4:k1	Geo_ncert_6stnd_1ch_0024.7:coref	distal	-	-
+awyaMwa_1(much_1)	2	-	-	3:intf	-	-	-	-
+CotA_1	3	-	-	4:k1s	-	-	-	-
+xiKa_1-AI_padawA_hE_1	4	-	-	0:main	Geo_ncert_6stnd_1ch_0025a.13:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0026a>
+#आपने अवश्य यह ध्यान  दिया होगा।
+#Apane avaSya yaha XyAna  xiyA hogA.
+#You must have noticed that all objects look smaller when seen from a distance
+$addressee	1	anim	-	5:k1	-	respect	-	-
+avaSya_5(must_1)	2	-	-	5:vkvn	-	-	-	-
+$wyax	3	-	-	5:k7	Geo_ncert_6stnd_1ch_0026b.9:coref	proximal	-	-
+XyAna_1(attention_3)	4	-	-	-	-	-	-	6:kriyAmUla
+xe_1(give_1)-yA_hoga_1	5	-	-	-	-	-	-	6:verbalizer
+[cp_1]	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0026b>
+#कि कुछ दूरी से देखने पर सभी वस्तुएँ छोटी दिखाई पडती हैं।
+#ki kuCa xUrI se xeKane para saBI vaswuez CotI xiKAI padawI hEM.
+#You must have noticed that all objects look smaller when seen from a distance
+kuCa_1(some_2)	1	-	-	2:quant	-	-	-	-
+xUrI_1(distance_2)	2	-	-	4:k7p	-	-	-	-
+xeKa_1(see_1)	4	-	-	9:rblsk	-	-	-	-
+saBI_1(all_1)	6	-	-	7:quant	-	-	-	-
+vaswu_3(object_7)	7	-	pl	9:k1	-	-	-	-
+CotA_1(small_6)	8	-	-	9:k1s	-	-	-	-
+xiKa_1-yA_padawA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0027>
+#अत्यधिक ऊँचाई पर उड रहा हवाई जहाज कितना छोटा दिखाई देता है !
+#awyaXika UzcAI para uda rahA havAI jahAja kiwanA CotA xiKAI xewA hE !
+#How small an aeroplane looks when it is flying at a great height!
+awyaXika_2(excessive_2)	1	-	-	2:mod	-	-	-	-
+UzcAI_1(height_1)	2	-	-	4:k7p	-	-	-	-
+uda_1	4	-	-	14:rvks	-	-	-	-
+havAI_4(air_13)	6	-	-	-	-	-	-	14:mod
+jahAja_1	7	-	-	-	-	-	-	14:head
+$kim	8	-	-	10:krvn	-	-	-	-
+CotA_1(small_6)	9	-	-	10:k1s	-	-	-	-
+xiKa_1-AI_xewA_hE_1	10	-	-	0:main	-	-	-	-
+[nc_1]	14	-	-	10:k1	-	-	-	-
+%imperative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0028>
+#रात्रि में आसमान की ओर देखते समय आप तारों के विभिन्न समूहों द्वारा बनाई गई विविध आकृतियों देख सकते हैं।
+#rAwri meM AsamAna kI ora xeKawe samaya Apa wAroM ke viBinna samUhoM xvArA banAI gaI viviXa AkqwiyoM xeKa sakawe hEM.
+#While watching the night sky, you may notice various patterns formed by different groups of stars.
+rAwri_1(night_8)	1	-	-	6:k7p	-	-	-	-
+AsamAna_1(sky_4)	3	-	-	6:rd	-	-	-	-
+xeKa_3(watch_3)	6	-	-	14:rblsk	-	-	-	-
+$addressee	8	anim	-	18:k1	-	respect	-	-
+wArA_1(star_4)	9	-	pl	12:r6	-	-	-	-
+viBinna_1(different_13)	11	-	-	12:mod	-	-	-	-
+samUha_1(group_11)	12	-	pl	14:k3	-	-	-	-
+banA_7(form_19)	14	-	-	17:rbks	-	-	-	-
+viviXa(various_3)	16	-	-	17:mod	-	-	-	-
+Akqwi_7	17	-	pl	18:k2	-	-	-	-
+xeKa_5(observe_1)-0_sakawA_hE_1(0_can_1)	18	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0029>
+#ये नक्षत्रमंडल कहलाते हैं।
+#ye nakRawramaMdala kahalAwe hEM.
+#These are called constellations.
+$wyax	1	-	-	3:k2	Geo_ncert_6stnd_1ch_0028.17:coref	proximal	-	-
+nakRawramaMdala_1(constellations_1)	2	-	-	3:k2s	-	-	-	-
+kahalA_1-wA_hE_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0030>
+#अर्सा मेजर या बिग बीयर इसी प्रकार का एक नक्षत्रमंडल है।
+#arsA mejara yA biga bIyara isI prakAra kA eka nakRawramaMdala hE.
+#Ursa Major or Big Bear is one such constellation.
+arsA	1	-	-	-	-	-	-	3:begin
+mejara	2	-	-	-	-	-	-	3:inside
+[ne_1]	3	ne	-	-	-	-	-	12:op1
+biga	4	-	-	-	-	-	-	5:begin
+[ne_1]	5	ne	-	-	-	-	-	12:op2
+bIyara	6	-	-	-	-	-	-	5:inside
+$wyax	7	-	-	8:dem	-	proximal	-	-
+prakAra_1(kind_8)	8	-	-	10:r6	-	-	-	-
+eka(one_1)	9	-	-	10:quant	-	-	-	-
+nakRawramaMdala_1(constellations_1)	10	-	-	11:k1s	-	-	-	-
+hE_1(state_copula_1)-pres	11	-	-	0:main	-	-	-	-
+[disjunct_1]	12	-	-	11:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0031>
+#बहुत आसानी से पहचान में आने वाला नक्षत्रमंडल है सप्तऋषि।
+#bahuwa AsAnI se pahacAna meM Ane vAlA nakRawramaMdala hE sapwaqRi.
+#One of the most easily recognisable constellation
+bahuwa(very_1)	1	-	-	2:mod	-	-	-	-
+AsAnI_3(ease_4)	2	-	-	6:krvn	-	-	-	-
+pahacAna_6(recognize_1)	3	-	-	6:k7	-	-	-	-
+A_3(appear_2)	4	-	mawup	5:mod	-	-	-	-
+nakRawramaMdala_1(constellations_1)	5	-	-	6:k1	-	-	-	-
+hE_1(state_copula_1)-pres	6	-	-	0:main	-	-	-	-
+sapwaqRi	7	-	-	-	-	-	-	8:begin
+[ne_1]	8	ne	-	6:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0032>
+#यह सात तारों का समूह है, जो कि नक्षत्रमंडल अर्सा मेजर का भाग है।
+#yaha sAwa wAroM kA samUha hE, jo ki nakRawramaMdala arsA mejara kA BAga hE.
+#it is a group of seven stars  that forms a part ofUrsa Major Constellation
+$wyax	1	-	-	5:k1	Geo_ncert_6stnd_1ch_0031.8:coref	proximal	-	-
+7	2	numex	-	3:card	-	-	-	-
+wArA_1(star_4)	3	-	pl	4:r6	-	-	-	-
+samUha_1(group_11)	4	-	-	5:k1s	-	-	-	-
+hE_5(state_copula_1)-pres	5	-	-	0:main	-	-	-	-
+$yax	6	-	-	12:k1	-	-	-	-
+nakRawramaMdala_1(constellations_1)	7	-	-	10:rs	-	-	-	-
+arsA	8	-	-	-	-	-	-	10:begin
+mejara	9	-	-	-	-	-	-	10:inside
+[ne_1]	10	ne	-	11:r6	-	-	-	-
+BAga_2(part_9)	11	-	-	12:k1s	-	-	-	-
+hE_5(state_copula_1)-pres	12	-	-	4:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0033a>
+#अपने परिवार या पडोस में किसी बडे व्यक्ति से यह कहिए।
+#apane parivAra yA padosa meM kisI bade vyakwi se yaha kahie.
+#Ask someone elder in your family or neighbourhood to show you more stars, planets and constellations in the sky.
+apanA	1	-	-	10:r6	-	-	-	-
+$addressee	2	anim	-	9:k1	-	respect	-	-
+parivAra_1(family_8)	3	-	-	-	-	-	-	10:op1
+padosa_1	4	-	-	-	-	-	-	10:op2
+kisI_1(any_1)	5	-	-	7:mod	-	-	-	-
+badA_1(elder_3)	6	-	-	7:mod	-	-	-	-
+vyakwi_2(person_6)	7	-	-	9:k2g	-	-	-	-
+$wyax	8	-	-	9:k2	Geo_ncert_6stnd_1ch_0033b.12:coref	proximal	-	-
+kaha_3(tell_1)-o_1	9	-	-	0:main	-	-	-	-
+[disjunct_1]	10	-	-	9:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0033b>
+#कि वह आपको आसमान में और अधिक तारों ग्रहों तथा नक्षत्रमंडलों को दिखाएँ।
+#ki vaha Apako AsamAna meM Ora aXika wAroM grahoM waWA nakRawramaMdaloM ko xiKAez.
+#Ask someone elder in your family or neighbourhood to show you more stars, planets and constellations in the sky.
+$wyax	1	-	-	12:k1	Geo_ncert_6stnd_1ch_0033a.10:coref	distal	-	-
+$addressee	2	anim	-	12:k4	-	respect	-	-
+AsamAna_1(sky_4)	3	-	-	12:k7p	-	-	-	-
+aXika_1(more_1)	6	-	-	14:quant	-	Ora_1	-	-
+wArA_1(star_4)	7	-	pl	-	-	-	-	14:op1
+graha_1(planet_2)	8	-	pl	-	-	-	-	14:op2
+nakRawramaMdala_1(constellations_1)	10	-	pl	-	-	-	-	14:op3
+xiKA_1-o_1	12	-	-	0:main	-	-	-	-
+[conj_1]	14	-	-	12:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0034>
+#प्राचीन समय में, लोग रात्रि में दिशा का निर्धारण तारों की सहायता से करते थे।
+#prAcIna samaya meM, loga rAwri meM xiSA kA nirXAraNa wAroM kI sahAyawA se karawe We.
+#In ancient times, people used to determine directions during the night with the help of stars.
+prAcIna_1(ancient_5)	1	-	-	2:mod	-	-	-	-
+samaya_1(time_8)	2	-	-	18:k7t	-	-	-	-
+loga_2(people_5)	5	anim	-	18:k1	-	-	-	-
+rAwri_1(night_8)	6	-	-	18:k7t	-	def	-	-
+xiSA_1(direction_6)	8	-	-	18:k2	-	-	-	-
+nirXAraNa_5(determination_5)	10	-	-	-	-	-	-	18:kriyAmUla
+wArA_1(star_4)	11	-	pl	13:r6	-	def	-	-
+sahAyawA_1(help_3)	13	-	-	18:k3	-	-	-	-
+kara_17(do_2)-wA_WA_1	15	-	-	-	-	-	-	18:verbalizer
+[cp_1]	18	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0035>
+#उत्तरी तारा उत्तर दिशा को बताता है।
+#uwwarI wArA uwwara xiSA ko bawAwA hE.
+#The North star indicates the north direction.
+uwwarI_1(northern_2)	1	-	-	2:mod	-	-	-	-
+wArA_1(star_4)	2	-	-	6:k1	-	def	-	-
+uwwara_3(north_1)	3	-	-	4:rs	-	-	-	-
+xiSA_1(direction_6)	4	-	-	6:k1s	-	def	-	-
+bawA_1(indicate_1)-wA_hE_1(es_1)	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0036>
+#इसे ध्रुव तारा भी कहा जाता है।
+#ise Xruva wArA BI kahA jAwA hE.
+#It is also called the Pole Star.
+$wyax	1	-	-	5:k2	Geo_ncert_6stnd_1ch_0035.2:coref	proximal	-	-
+Xruva_1(pole_2)	2	-	-	-	-	-	-	6:begin
+wArA_1(star_4)	3	-	-	-	-	-	-	6:inside
+kaha_1(call_20)-yA_jA_wA_hE_1(en_is)	5	-	-	0:main	-	-	-	-
+[ne_1]	6	-	-	5:k2s	-	BI_1/def	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0037>
+#यह आसमान में हमेशा एक ही स्थान पर रहता है।
+#yaha AsamAna meM hameSA eka hI sWAna para rahawA hE.
+#It always remains in the same position in the sky
+$wyax	1	-	-	9:k1	Geo_ncert_6stnd_1ch_0036.6:coref	proximal	-	-
+AsamAna_1(sky_4)	2	-	-	-	-	def	-	12:whole
+hameSA_1(always_7)	4	-	-	9:freq	-	-	-	-
+eka_7(same_1)	5	-	-	7:mod	-	hI_1	-	-
+sWAna_8(position_2)	7	-	-	-	-	def	-	12:part
+raha_4(remain_1)-wA_hE_1(es_1)	9	-	-	0:main	-	-	-	-
+[spatial_1]	12	-	-	9:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0038>
+#हम सप्तऋषि की सहायता से ध्रुव तारे की स्थिति को जान सकते हैं।
+#hama sapwaqRi kI sahAyawA se Xruva wAre kI sWiwi ko jAna sakawe hEM.
+#We can locate the position of the Pole Star with the help of the Saptarishi
+$speaker	1	anim	pl	11:k1	-	-	-	-
+sapwaqRi	2	-	-	-	-	-	-	4:begin
+[ne_1]	4	-	-	11:k3	-	def	-	-
+Xruva_1(pole_2)	6	-	-	-	-	-	-	12:begin
+wArA_1(star_4)	7	-	-	-	-	-	-	12:inside
+sWiwi_1(position_3)	9	-	-	11:k2	-	def	-	-
+jAna_10(know_1)-0_sakawA_hE_1(0_can_1)	11	-	-	0:main	-	-	-	-
+[ne_2]	12	-	-	9:r6	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0039a>
+#चित्र में आप यह देखेंगे।
+#ciwra meM Apa yaha xeKeMge.
+#Look at Figure  You will notice that, if an imaginary line is drawn joining the pointer stars and extended further, it will point to the Pole Star.
+ciwra_4(figure_3)	1	-	-	5:k7	-	-	-	-
+$addressee	3	anim	-	5:k1	-	respect	-	-
+$wyax	4	-	-	5:k2	Geo_ncert_6stnd_1ch_0039b.15:coref	proximal	-	-
+xeKa_1(see_1)-gA_1(0_will_1)	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0039b>
+#कि यदि सप्तऋषि मंडल के संकेतक तारों को आपस में मिलाते हुए एक काल्पनिक रेखा खींची जाए ।
+#ki yaxi sapwaqRi maMdala ke saMkewaka wAroM ko Apasa meM milAwe hue eka kAlpanika reKA KIMcI jAe .
+#Look at Figure  You will notice that, if an imaginary line is drawn joining the pointer stars and extended further, it will point to the Pole Star.
+sapwaqRi	2	-	-	-	-	-	-	20:begin
+maMdala	3	-	-	-	-	-	-	20:inside
+saMkewaka_1(pointer_1)	5	-	-	-	-	-	-	19:mod
+wArA_1(star_4)	6	-	pl	-	-	-	-	19:head
+Apasa	8	-	-	10:k7p	-	-	-	-
+milA_11(join_3)	10	-	-	15:rsk	-	-	-	-
+1	12	numex	-	14:card	-	-	-	-
+kAlpanika_1(imaginary_3)	13	-	-	14:mod	-	-	-	-
+reKA_1(line_12)	14	-	-	15:k2	-	-	-	-
+KIMca_4(expand_1)-yA_jA_yA_1(en_was)	15	-	-	0:main	Geo_ncert_6stnd_1ch_0039d.7:AvaSyakawApariNAma	-	-	-
+[nc_1]	19	-	-	10:k2	-	def	-	-
+[ne_1]	20	-	-	19:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0039c>
+#एवं उसे आगे की ओर बढाया जाए ।
+#evaM use Age kI ora baDAyA jAe .
+#Look at Figure  You will notice that, if an imaginary line is drawn joining the pointer stars and extended further, it will point to the Pole Star.
+$wyax	1	-	-	5:k2	Geo_ncert_6stnd_1ch_0039b.14:coref	distal	-	-
+Age_5(further_3)	2	-	-	5:rd	-	-	-	-
+baDA_1(add_3)-yA_jA_yA_1(en_was)	5	-	-	0:main	Geo_ncert_6stnd_1ch_0039b.15:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0039d>
+#तो यह ध्रुव तारे की ओर इंगित करेगी।
+#wo yaha Xruva wAre kI ora iMgiwa karegI.
+#Look at Figure  You will notice that, if an imaginary line is drawn joining the pointer stars and extended further, it will point to the Pole Star.
+$wyax	1	-	-	7:k1	Geo_ncert_6stnd_1ch_0039b.14:coref	proximal	-	-
+Xruva_1(pole_2)	2	-	-	-	-	-	-	5:begin
+wArA_1(star_4)	3	-	-	-	-	-	-	5:inside
+[ne_1]	4	ne	-	7:rd	-	def	-	-
+iMgiwa_1	5	-	-	7:k2	-	-	-	-
+kara_17(do_2)-gA_1(0_will_1)	6	-	-	0:main	-	-	-	-
+[cp_1]	7	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0040>
+#कुछ खगोलीय पिंडों में अपना प्रकाश एवं ऊष्मा नहीं होती है।
+#kuCa KagolIya piMdoM meM apanA prakASa evaM URmA nahIM howI hE.
+#Some celestial bodies do not have their own heat and light.
+kuCa_1(some_2)	1	-	-	3:quant	-	-	-	-
+KagolIya_1(celestial_7)	2	-	-	3:mod	-	-	-	-
+piMda_3(body_13)	3	-	pl	10:k7	-	-	-	-
+apanA	5	-	-	13:r6	-	-	-	-
+prakASa_1(light_8)	6	-	-	-	-	-	-	13:op1
+URmA_1(heat_1)	8	-	-	-	-	-	-	13:op2
+nahIM_1(not_1)	9	-	-	10:neg	-	-	-	-
+ho_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+[conj_1]	13	-	-	10:k1	-	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0041>
+#वे तारों के प्रकाश से प्रकाशित होते हैं।
+#ve wAroM ke prakASa se prakASiwa howe hEM.
+#They are lit by the light of the stars.
+$wyax	1	-	-	7:k1	Geo_ncert_6stnd_1ch_0040.3:coref	distal	-	-
+wArA_1(star_4)	2	-	pl	4:r6	-	-	-	-
+prakASa_1(light_8)	4	-	-	7:k3	-	-	-	-
+prakASiwa_10(lit_1)	6	-	-	7:k1s	-	-	-	-
+ho_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0042>
+#ऐसे पिंड ग्रह कहलाते हैं।
+#Ese piMda graha kahalAwe hEM.
+#Such bodies are called planets.
+$wyax	1	-	-	5:dem	-	proximal	-	-
+piMda_3(body_13)	2	-	-	4:k2	-	-	-	-
+graha_1(planet_2)	3	-	-	4:k2s	-	-	-	-
+kahalA_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+prakAr_1	5	-	-	2:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0043>
+#ग्रह जिसे अंग्रेजी में प्लेनेट कहते हैं ग्रीक भाषा के प्लेनेटाइ शब्द से बना है जिसका अर्थ होता है परिभ्रमक अर्थात् चारों ओर घूमने वाले।
+#graha jise aMgrejI meM pleneta kahawe hEM grIka BARA ke plenetAi Sabxa se banA hE jisakA arWa howA hE pariBramaka arWAw cAroM ora GUmane vAle.
+#The word ‘planet’ comes from the Greek word “Planetai” which means ‘wanderers’.
+graha_1(planet_2)	1	-	-	14:k1	-	-	-	-
+$yax	2	-	-	6:k2	-	-	-	-
+aMgrejI_1	3	-	-	6:k7	-	-	-	-
+^pleneta_1	5	-	-	6:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	6	-	-	1:rcelab	-	-	-	-
+grIka_1(greek_1)	8	-	-	9:mod	-	-	-	-
+BARA_1(language_2)	9	-	-	12:r6	-	-	-	-
+^plenetAi_1	11	-	-	12:rs	-	-	-	-
+Sabxa_1(word_5)	12	-	-	14:k5	-	-	-	-
+banA_1-0_hE_1	14	-	-	0:main	-	-	-	-
+$yax	16	-	-	17:r6	-	-	-	-
+arWa_1(meaning_1)	17	-	-	18:k1	-	-	-	-
+ho_1-wA_hE_1	18	-	-	11:rcelab	-	-	-	-
+pariBramaka_1(wanderers_1)	20	-	-	-	-	-	-	25:op1
+cAroM+Ora_4	22	-	-	24:k7p	-	-	-	-
+GUma_1	24	-	-	-	-	-	-	25:op2
+[conj_1]	25	-	-	18:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0044>
+#पृथ्वी, जिस पर हम रहते हैं, एक ग्रह है।
+#pqWvI, jisa para hama rahawe hEM, eka graha hE.
+#The earth on which we live is a planet.
+pqWvI_1	1	-	-	11:k1	-	-	-	-
+$yax	3	-	-	6:k7	-	-	-	-
+$speaker	5	anim	pl	6:k1	-	-	-	-
+raha_1-wA_hE_1	6	-	-	1:rcelab	-	-	-	-
+eka_1	9	-	-	10:quant	-	-	-	-
+graha_1(planet_2)	10	-	-	11:k1s	-	-	-	-
+hE_1-pres	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0045>
+#यह अपना संपूर्ण प्रकाश एवं ऊष्मा सूर्य से प्राप्त करती है, जो पृथ्वी के सबसे नजदीक का तारा है।
+#yaha apanA saMpUrNa prakASa evaM URmA sUrya se prApwa karawI hE, jo pqWvI ke sabase najaxIka kA wArA hE.
+#It gets all its heat and light from the sun, which is our nearest star.
+$wyax	1	-	-	10:k1	Geo_ncert_6stnd_1ch_0044.1:coref	proximal	-	-
+apanA	2	-	-	23:r6	-	-	-	-
+saMpUrNa_8(all_3)	3	-	-	23:mod	-	-	-	-
+prakASa_1(light_8)	4	-	-	-	-	-	-	23:op1
+URmA_1(heat_1)	6	-	-	-	-	-	-	23:op2
+sUrya_1(sun_5)	7	-	-	9:k5	-	def	-	-
+prApwa_1	9	-	-	10:k1s	-	-	-	-
+kara_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+$yax	13	-	-	20:k1	-	-	-	-
+pqWvI_1(earth_9)	14	-	-	19:r6	-	-	-	-
+najaxIka_1(nearest_3)	17	-	superl	19:mod	-	-	-	-
+wArA_1(star_4)	19	-	-	20:k1s	-	-	-	-
+hE_1	20	-	-	7:rcelab	-	-	-	-
+[conj_1]	23	-	-	9:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0046>
+#पृथ्वी को बहुत अधिक दूरी से, जैसे चंद्रमा से देखने पर, यह चंद्रमा की तरह चमकती हुई प्रतीत होगी।
+#pqWvI ko bahuwa aXika xUrI se, jEse caMxramA se xeKane para, yaha caMxramA kI waraha camakawI huI prawIwa hogI.
+#If we look at the earth from a great distance, say the moon, it will appear to be shining just as the moon.
+pqWvI_1(earth_9)	1	-	-	11:k2	-	def	-	-
+bahuwa_7(very_1)	3	-	-	4:intf	-	-	-	-
+aXika_1	4	-	-	5:quant	-	-	-	-
+xUrI_1(distance_2)	5	-	-	11:k5	-	-	-	-
+caMxramA_1(moon_3)	9	-	-	5:re	-	def	-	-
+xeKa_1	11	-	-	23:rblsk	-	-	-	-
+$wyax	14	-	-	23:k1	Geo_ncert_6stnd_1ch_0046.1:coref	proximal	-	-
+caMxramA_1(moon_3)	15	-	-	18:ru	-	def	-	-
+camaka_4(shine_1)	18	-	-	23:rsk	-	-	-	-
+prawIwa_1(appear_1)	20	-	-	-	-	-	-	23:kriyAmUla
+ho_1-gA_1	21	-	-	-	-	-	-	23:verbalizer
+[cp_1]	23	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0047>
+#आसमान में दिखने वाला चंद्रमा एक उपग्रह है।
+#AsamAna meM xiKane vAlA caMxramA eka upagraha hE.
+#The moon that we see in the sky is a satellite
+AsamAna_1(sky_4)	1	-	-	3:k7p	-	def	-	-
+xiKa_1(see_115)	3	-	-	5:mod	-	-	-	-
+caMxramA_1(moon_3)	5	-	-	8:k1	-	def	-	-
+eka_2(a_1)	6	-	-	7:quant	-	-	-	-
+upagraha_1(satellite_1)	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0048a>
+#यह हमारी पृथ्वी का सहचर है ।
+#yaha hamArI pqWvI kA sahacara hE .
+#It is a companion of our earth and moves round it.
+$wyax	1	-	-	6:k1	Geo_ncert_6stnd_1ch_0047.5:coref	proximal	-	-
+$speaker	2	anim	pl	3:r6	-	-	-	-
+pqWvI_1(earth_9)	3	-	-	5:r6	-	-	-	-
+sahacara_4(companion_12)	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0048b>
+#तथा इसके चारों ओर चक्कर लगाता है।
+#waWA isake cAroM ora cakkara lagAwA hE.
+#It is a companion of our earth and moves round it.
+$wyax	1	-	-	2:r6	Geo_ncert_6stnd_1ch_0048a.3:coref	proximal	-	-
+cAroM+Ora_1	2	-	-	8:k7p	-	-	-	-
+cakkara_1	4	-	-	-	-	-	-	8:kriyAmUla
+lagA_1-wA_hE_1	5	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	0:main	Geo_ncert_6stnd_1ch_0048a.6:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0049>
+#हमारी पृथ्वी के समान, सात अन्य ग्रह हैं जो सूर्य से प्रकाश एवं ऊष्मा प्राप्त करते हैं।
+#hamArI pqWvI ke samAna, sAwa anya graha hEM jo sUrya se prakASa evaM URmA prApwa karawe hEM.
+#Like our earth, there are seven other planets that get heat and light from the sun.
+$speaker	1	anim	pl	2:r6	-	-	-	-
+pqWvI_1(earth_9)	2	-	-	8:ru	-	-	-	-
+7	6	numex	-	8:card	-	-	-	-
+anya_1(other_1)	7	-	-	8:mod	-	-	-	-
+graha_1(planet_2)	8	-	-	9:k1	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+$yax	10	-	-	20:k1	-	-	-	-
+sUrya_1(sun_5)	11	-	-	20:k5	-	def	-	-
+prakASa_1(light_8)	13	-	-	-	-	-	-	21:op1
+URmA_1(heat_1)	15	-	-	-	-	-	-	21:op2
+prApwa_1	16	-	-	-	-	-	-	20:kriyAmUla
+kara_1-wA_hE_1	17	-	-	-	-	-	-	20:verbalizer
+[cp_1]	20	-	-	8:rcelab	-	-	-	-
+[conj_1]	21	-	-	20:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0050>
+#उनमें से कुछ के पास अपने चंद्रमा भी हैं।
+#unameM se kuCa ke pAsa apane caMxramA BI hEM.
+#Some of them have their moons too.
+$wyax	1	-	-	3:rn	Geo_ncert_6stnd_1ch_0049.8:coref	distal	-	-
+kuCa_1(some_2)	3	-	-	7:rsm	-	-	-	-
+apanA	6	-	-	7:r6	-	-	-	-
+caMxramA_1(moon_3)	7	-	-	9:k1	-	BI_1	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0051>
+#सूर्य, आठ ग्रह, उपग्रह तथा कुछ अन्य खगोलीय पिंड, जैसे क्षुद्र ग्रह एवं उल्कापिंड मिलकर सौरमंडल का निर्माण करते हैं।
+#sUrya, ATa graha, upagraha waWA kuCa anya KagolIya piMda, jEse kRuxra graha evaM ulkApiMda milakara sOramaMdala kA nirmANa karawe hEM.
+#The sun, eight planets, satellites and some other celestial bodies known as asteroids and meteoroids form the solar system
+sUrya_1(sun_5)	1	-	-	-	-	def	-	26:op1
+8	3	numex	-	4:card	-	-	-	-
+graha_1(planet_2)	4	-	-	-	-	-	-	26:op2
+upagraha_1(satellite_1)	6	-	-	-	-	-	-	26:op3
+kuCa_1(some_2)	8	-	-	11:quant	-	-	-	-
+anya_1(other_1)	9	-	-	11:mod	-	-	-	-
+KagolIya_1(celestial_7)	10	-	-	11:mod	-	-	-	-
+piMda_3(body_13)	11	-	-	-	-	-	-	26:op4
+kRuxra_3(asteroid_1)	14	-	-	15:mod	-	-	-	-
+graha_1(planet_2)	15	-	-	-	-	-	-	27:op1
+ulkApiMda_2(meteroids_1)	17	-	-	-	-	-	-	27:op2
+mila_1	18	-	-	25:rpk	-	-	-	-
+sOramaMdala_1(solar-system_1)	19	-	-	25:k2	-	def	-	-
+nirmANa_1	21	-	-	-	-	-	-	25:kriyAmUla
+kara_1-wA_hE_1	22	-	-	-	-	-	-	25:verbalizer
+[cp_1]	25	-	-	0:main	-	-	-	-
+[conj_1]	26	-	-	18:k1	-	-	-	-
+[conj_2]	27	-	-	11:re	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0052>
+#उसे हम सौरपरिवार का नाम देते हैं, जिसका मुखिया सूर्य है।
+#use hama sOraparivAra kA nAma xewe hEM, jisakA muKiyA sUrya hE.
+#We often call it a solar family, with the sun as its Head.
+$wyax	1	-	-	6:k2g	Geo_ncert_6stnd_1ch_0051.19:coref	distal	-	-
+$speaker	2	anim	pl	6:k1	-	-	-	-
+sOraparivAra_1	3	-	-	5:r6	-	-	-	-
+nAma_1	5	-	-	6:k2	-	-	-	-
+xe_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+$yax	9	-	-	10:r6	-	-	-	-
+muKiyA_2(head_6)	10	-	-	12:k1	-	-	-	-
+sUrya(sun_5)	11	-	-	12:k1s	-	def	-	-
+hE_1-pres	12	-	-	3:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0053>
+#सूर्य सौरमंडल के केन्द्र में स्थित है।
+#sUrya sOramaMdala ke kenxra meM sWiwa hE.
+#The sun is in the centre of the solar system
+sUrya_1(sun_5)	1	-	-	7:k1	-	def	-	-
+sOramaMdala_1(solar-system_1)	2	-	-	4:r6	-	def	-	-
+kenxra_2(centre_5)	4	-	-	7:k7p	-	-	-	-
+sWiwa_1	6	-	-	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0054a>
+#यह बहुत बडा है ।
+#yaha bahuwa badA hE .
+#It is huge and made up of extremely hot gases.
+$wyax	1	-	-	4:k1	Geo_ncert_6stnd_1ch_0053.1:coref	proximal	-	-
+bahuwa_6(too_1)	2	-	-	3:intf	-	-	-	-
+badA_2(huge_11)	3	-	-	4:k1s	-	-	-	-
+hE_1-pres	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0054b>
+#एवं यह अत्यधिक गर्म गैसों से बना है।
+#evaM yaha awyaXika garma gEsoM se banA hE.
+#It is huge and made up of extremely hot gases.
+awyaXika_2(excessive_2)	1	-	-	2:intf	-	-	-	-
+garma_2(hot_7)	2	-	-	3:mod	-	-	-	-
+gEsa_1(gas_1)	3	-	pl	5:k5prk	-	-	-	-
+banA_1-0_hE_1	5	-	-	0:main	Geo_ncert_6stnd_1ch_0054a.4:samuccaya	-	-	-
+$wyax	6	-	-	5:k1	Geo_ncert_6stnd_1ch_0053.1:coref	proximal	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0055>
+#इसका खिंचाव बल इससे सौरमंडल को बाँधे रखता है।
+#isakA KiMcAva bala isase sOramaMdala ko bAzXe raKawA hE.
+#It provides the pulling force that binds the solar system.
+$wyax	1	-	-	3:r6	Geo_ncert_6stnd_1ch_0053.1:coref	proximal	-	-
+KiMcAva_1	2	-	-	3:mod	-	-	-	-
+bala_3(force_5)	3	-	-	8:k1	-	-	-	-
+$wyax	4	-	-	8:k2as	-	proximal	-	-
+sOramaMdala_1(solar-system_1)	5	-	-	8:k2	-	-	-	-
+bAzXa_9(bind_3)	7	-	-	8:vmod	-	-	-	-
+raKa_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0056>
+#सूर्य, सौरमंडल के लिए प्रकाश एवं ऊष्मा का एकमात्र स्रोत है।
+#sUrya, sOramaMdala ke lie prakASa evaM URmA kA ekamAwra srowa hE.
+#The sun is the ultimate source of heat and light for the solar system.
+sUrya_1(sun_5)	1	-	-	12:k1	-	def	-	-
+sOramaMdala_1(solar-system_1)	3	-	-	12:rt	-	def	-	-
+prakASa_1(light_8)	6	-	-	-	-	-	-	14:op1
+URmA_1(heat_1)	8	-	-	-	-	-	-	14:op2
+ekamAwra_1	10	-	-	11:mod	-	-	-	-
+srowa_1(source_10)	11	-	-	12:k1s	-	def	-	-
+hE_1-pres	12	-	-	0:main	-	-	-	-
+[conj_1]	14	-	-	11:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0057a>
+#लेकिन हम इसकी अत्यधिक तेज ऊष्मा को महसूस नहीं करते हैं ।
+#lekina hama isakI awyaXika weja URmA ko mahasUsa nahIM karawe hEM .
+#But that tremendous heat is not felt so much by us because despite being our nearest star, it is far away from us.
+$speaker	1	anim	pl	12:k1	-	-	-	-
+$wyax	2	-	-	5:r6	Geo_ncert_6stnd_1ch_0056.1:coref	proximal	-	-
+awyaXika_1	3	-	-	5:intf	-	-	-	-
+weja_20(heat_50)	4	-	-	5:mod	-	-	-	-
+URmA_1(heat_1)	5	-	-	12:k2	-	-	-	-
+mahasUsa_2(felt_2)	7	-	-	-	-	-	-	12:kriyAmUla
+nahIM_1	8	-	-	12:neg	-	-	-	-
+kara_1-wA_hE_1	9	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	Geo_ncert_6stnd_1ch_0056.12:viroXI	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0057b>
+#क्योंकि सबसे नजदीक का तारा होने के बावजूद यह हमसे बहुत दूर है।
+#kyoMki sabase najaxIka kA wArA hone ke bAvajUxa yaha hamase bahuwa xUra hE.
+#But that tremendous heat is not felt so much by us because despite being our nearest star, it is far away from us.
+najaxIka_1(nearest_3)	2	-	superl	4:r6	-	-	-	-
+wArA_1(star_4)	4	-	-	5:k1	-	-	-	-
+ho_1	5	-	-	12:vmod	-	-	-	-
+$wyax	8	-	-	12:k1	Geo_ncert_6stnd_1ch_0056.1:coref	proximal	-	-
+$speaker	9	anim	pl	12:k5	-	-	-	-
+bahuwa_7(very_1)	10	-	-	11:quant	-	-	-	-
+xUra_1	11	-	-	12:k7p	-	-	-	-
+hE_1-pres	12	-	-	0:main	Geo_ncert_6stnd_1ch_0057a.12:kAryakAraNa	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0058>
+#सूर्य पृथ्वी से लगभग 15 करोड किलोमीटर दूर है।
+#sUrya pqWvI se lagaBaga 15 karoda kilomItara xUra hE.
+#The sun is about 150 million km away from the earth.
+sUrya_1(sun_5)	1	-	-	9:k1	-	def	-	-
+pqWvI_1(earth_9)	2	-	-	9:k5	-	def	-	-
+150000000	5	numex	-	-	-	-	-	11:count
+kilomItara_1(kilometre_1)	7	-	-	-	-	-	-	11:unit
+xUra_1(away_1)	8	-	-	9:k7p	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+[dist_meas_1]	11	-	-	8:rmeas	-	lagaBaga_1	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0059>
+#हमारे सौरमंडल में आठ ग्रह हैं।
+#hamAre sOramaMdala meM ATa graha hEM.
+#There are eight planets in our solar system
+$speaker	1	anim	pl	2:r6	-	-	-	-
+sOramaMdala_1(solar-system_1)	2	-	-	6:k7p	-	-	-	-
+8	4	numex	-	5:card	-	-	-	-
+graha_1(planet_2)	5	-	-	6:k1	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0060>
+#सूर्य से दूरी के अनुसार, वे हैं बुध, शुक्र, पृथ्वी, मंगल, बृहस्पति, शनि, यूरेनस तथा नेप्च्यून।
+#sUrya se xUrI ke anusAra, ve hEM buXa, Sukra, pqWvI, maMgala, bqhaspawi, Sani, yUrenasa waWA nepcyUna.
+#In order of their distance from the sun, they are: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune.
+sUrya_1(sun_5)	1	-	-	3:rdl	-	def	-	-
+xUrI_1(distance_2)	3	-	-	8:k7a	-	-	-	-
+$wyax	7	-	-	8:k1	Geo_ncert_6stnd_1ch_0059.5:coref	distal	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+buXa	9	-	-	-	-	-	-	26:begin
+Sukra	11	-	-	-	-	-	-	27:begin
+pqWvI	13	-	-	-	-	-	-	28:begin
+maMgala	15	-	-	-	-	-	-	29:begin
+bqhaspawi	17	-	-	-	-	-	-	30:begin
+Sani	19	-	-	-	-	-	-	31:begin
+yUrenasa	21	-	-	-	-	-	-	32:begin
+nepcyUna	23	-	-	-	-	-	-	33:begin
+[conj_1]	25	-	-	8:k1s	-	-	-	-
+[ne_1]	26	-	-	-	-	-	-	25:op1
+[ne_2]	27	-	-	-	-	-	-	25:op2
+[ne_3]	28	-	-	-	-	-	-	25:op3
+[ne_4]	29	-	-	-	-	-	-	25:op4
+[ne_5]	30	-	-	-	-	-	-	25:op5
+[ne_6]	31	-	-	-	-	-	-	25:op6
+[ne_7]	32	-	-	-	-	-	-	25:op7
+[ne_8]	33	-	-	-	-	-	-	25:op8
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0061>
+#सौरमंडल के सभी आठ ग्रह एक निश्चित पथ पर सूर्य का चक्कर लगाते हैं।
+#sOramaMdala ke saBI ATa graha eka niSciwa paWa para sUrya kA cakkara lagAwe hEM.
+#All the eight planets of the solar system move around the sun in fixed paths.
+sOramaMdala_1(solar-system_1)	1	-	-	5:r6	-	def	-	-
+saBI_1(all_1)	3	-	-	5:quant	-	-	-	-
+8	4	numex	-	5:card	-	-	-	-
+graha_1(planet_2)	5	-	-	13:k1	-	def	-	-
+eka_3(single_1)	6	-	-	8:quant	-	-	-	-
+niSciwa_8(fixed_9)	7	-	-	8:mod	-	-	-	-
+paWa_1(path_4)	8	-	-	13:k7	-	-	-	-
+sUrya_1(sun_5)	10	-	-	12:r6	-	def	-	-
+cakkara_7(round_3)	12	-	-	13:k2	-	-	-	-
+lagA_1-wA_hE_1	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0062>
+#ये रास्ते दीर्घवृत्ताकार में फेले हुए हैं ।
+#ye rAswe xIrGavqwwAkAra meM Pele hue hEM .
+#These paths are elongated.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+rAswA_1	2	-	pl	5:k1	-	-	-	-
+xIrGavqwwAkAra_1	3	-	-	5:k7p	-	-	-	-
+ho_1-yA_hE_1	5	-	-	0:main	-	-	-	-
+PelA_1	6	-	-	5:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0063>
+#ये कक्षा कहलाते हैं।
+#ye kakRA kahalAwe hEM.
+#They are called orbits.
+$wyax	1	-	-	3:k2	Geo_ncert_6stnd_1ch_0062.2:coref	proximal	-	-
+kakRA_6(orbit_5)	2	-	-	3:k2s	-	-	-	-
+kahalA_1-wA_hE_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0064>
+#बुध सूर्य के सबसे नजदीक है।
+#buXa sUrya ke sabase najaxIka hE.
+#Mercury is nearest to the sun.
+buXa	1	-	-	-	-	-	-	8:begin
+sUrya_1	2	-	-	5:rdl	-	def	-	-
+najaxIka_1	5	-	superl	6:k7p	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+[ne_1]	8	-	-	6:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0065>
+#अपनी कक्षा में सूर्य के चारों ओर एक चक्कर लगाने में इसे केवल 88 दिन लगते हैं।
+#apanI kakRA meM sUrya ke cAroM ora eka cakkara lagAne meM ise kevala 88 xina lagawe hEM.
+#takes only about 88 days to complete one round along its orbit
+apanA	1	-	-	2:r6	-	-	-	-
+kakRA_6(orbit_5)	2	-	-	11:k7p	-	-	-	-
+sUrya_1(sun_5)	4	-	-	7:r6	-	-	-	-
+cAroM+Ora_1	7	-	-	11:k7p	-	-	-	-
+1	9	numex	-	10:card	-	-	-	-
+cakkara_7(round_3)	10	-	-	11:k1	-	-	-	-
+lagA_1	11	-	-	17:k7	-	-	-	-
+$wyax	13	-	-	17:k2	Geo_ncert_6stnd_1ch_0064.8:coref	proximal	-	-
+88	15	numex	-	-	-	-	-	20:count
+xina_1(day_6)	16	-	-	-	-	-	-	20:unit
+laga_1-wA_hE_1	17	-	-	0:main	-	-	-	-
+[time_meas_1]	20	-	-	17:k7t	-	kevala_1	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0066a>
+#शुक्र को पृथ्वी का जुडवाँ ग्रह माना जाता है ।
+#Sukra ko pqWvI kA judavAz graha mAnA jAwA hE .
+#Venus is considered as Earth’s-twin’ because its size and shape are very much similar to that of the earth.
+Sukra	1	-	-	7:k2	-	-	-	-
+pqWvI(earth_9)	3	-	-	8:r6	-	-	-	-
+judZavAz_1(twin_2)	5	-	-	-	-	-	-	8:mod
+graha_1(planet_2)	6	-	-	-	-	-	-	8:head
+mAna_1-yA_jA_wA_hE_1	7	-	-	0:main	-	-	-	-
+[nc_1]	8	-	-	7:k2s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0066b>
+#क्योंकि इसका आकार एवं आकृति लगभग पृथ्वी के ही समान है।
+#kyoMki isakA AkAra evaM Akqwi lagaBaga pqWvI ke hI samAna hE.
+#Venus is considered as Earth’s-twin’ because its size and shape are very much similar to that of the earth.
+$wyax	1	-	-	12:r6	Geo_ncert_6stnd_1ch_0066a.1:coref	proximal	-	-
+AkAra(size_1)	2	-	-	-	-	-	-	12:op1
+Akqwi_1(shape_2)	4	-	-	-	-	-	-	12:op2
+pqWvI_1(earth_9)	6	-	-	12:rv	-	lagaBaga_1/hI_1	-	-
+samAna_3(similar_5)	9	-	-	10:k1s	-	-	-	-
+hE_1-pres	10	-	-	0:main	Geo_ncert_6stnd_1ch_0066a.7:kAryakAraNa	-	-	-
+[conj_1]	12	-	-	10:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0067>
+#अभी तक प्लूटो भी एक ग्रह माना जाता था।
+#aBI waka plUto BI eka graha mAnA jAwA WA.
+#Till recently  Pluto was also considered a planet
+aBI(now_9)	1	-	-	-	-	-	-	8:end
+plUto	3	-	-	7:k2	-	BI_1	-	-
+eka_2(a_1)	5	-	-	6:quant	-	-	-	-
+graha_1(planet_2)	6	-	-	7:k2s	-	-	-	-
+mAna_1-yA_jA_wA_WA_1	7	-	-	0:main	-	-	-	-
+[span_1]	8	-	-	7:k7t	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0068a>
+#परन्तु अंतर्राष्ट्रीय खगोलीय संगठन ने अपनी बैठक ;अगस्त 2006 में यह निर्णय लिया।
+#paranwu aMwarrARtrIya KagolIya saMgaTana ne apanI bETaka ;agaswa 2006 meM yaha nirNaya liyA.
+#However, in a meeting of the International Astronomical Union, a decision was taken that Pluto like other celestial objects Ceres, 2003 discovered in recent past may be called "dwarf planets.”
+aMwarrARtrIya	1	male	-	-	-	-	-	15:begin
+KagolIya_1	2	-	-	3:mod	-	-	-	-
+saMgaTana_1	3	-	-	-	-	-	-	15:inside
+apanA	5	-	-	6:r6	-	-	-	-
+bETaka_1	6	-	-	13:k2	-	-	-	-
+agaswa	8	moy	-	-	-	-	-	16:begin
+2006	9	numex	-	-	-	-	-	16:inside
+$wyax	11	-	-	12:dem	-	proximal	-	-
+nirNaya_1	12	-	-	13:k2	-	-	-	-
+le_1-yA_1	13	-	-	0:main	-	-	-	-
+[ne_1]	15	-	-	13:k1	-	-	-	-
+[ne_2]	16	-	-	13:k7t	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0068b>
+#कि कुछ समय पहले खोजे गए अन्य खगोलीय पिण्ड 2003 सिरस तथा प्लूटो ‘बौने ग्रह’ कहे जा सकते हैं।
+#ki kuCa samaya pahale Koje gae anya KagolIya piNda 2003 sirasa waWA plUto bOne graha kahe jA sakawe hEM.
+#However, in a meeting of the International Astronomical Union, a decision was taken that Pluto like other celestial objects Ceres, 2003 discovered in recent past may be called "dwarf planets.”
+kuCa_1	1	-	-	2:quant	-	-	-	-
+samaya_1	2	-	-	4:k7t	-	-	-	-
+pahalA_1	3	-	pl	2:k7p	-	-	-	-
+Koja_1	4	-	-	8:rbks	-	-	-	-
+anya_1	6	-	-	8:mod	-	-	-	-
+KagolIya_1	7	-	-	6:mod	-	-	-	-
+piNda_1	8	-	-	15:k2	-	-	-	-
+2003	9	numex	-	10:mod	-	-	-	-
+sirasa	10	male	-	-	-	-	-	21:op1
+plUto	12	-	-	-	-	-	-	21:op2
+‘bOne	13	-	-	-	-	-	-	20:begin
+graha’	14	-	-	-	-	-	-	20:inside
+kaha_1-0_saka_1	15	-	-	0:main	-	-	-	-
+[ne_1]	20	-	-	15:k2	-	-	-	-
+[conj_1]	21	-	-	14:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0069>
+#सूर्य से दूरी के हिसाब से पृथ्वी तीसरा ग्रह है।
+#sUrya se xUrI ke hisAba se pqWvI wIsarA graha hE.
+#The earth is the third nearest planet to the sun.
+sUrya_1(sun_5)	1	-	-	3:k5	-	-	-	-
+xUrI_1(distance_2)	3	-	-	10:k7a	-	-	-	-
+pqWvI_1(earth_9)	7	-	-	10:k1	-	-	-	-
+wIsarA_1(third_13)	8	-	-	9:ord	-	-	-	-
+graha_1(planet_2)	9	-	-	10:k1s	-	-	-	-
+hE_1-pres	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0070>
+#आकार में, यह पाँचवाँ सबसे बडा ग्रह है।
+#AkAra meM, yaha pAzcavAz sabase badA graha hE.
+#In size, it is the fifth largest planet.
+AkAra_3(size_1)	1	-	-	9:k7a	-	-	-	-
+$wyax	4	-	-	9:k1	Geo_ncert_6stnd_1ch_0069.7:coref	proximal	-	-
+pAzcavAz_1(fifth_2)	5	-	-	8:ord	-	-	-	-
+badA_8(large_25)	7	-	superl	8:mod	-	-	-	-
+graha_1(planet_2)	8	-	-	9:k1s	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0071>
+#यह ध्रुवों के पास थोडी चपटी है।
+#yaha XruvoM ke pAsa WodI capatI hE.
+#it is slightly flattened at the poles
+$wyax	1	-	-	7:k1	Geo_ncert_6stnd_1ch_0069.7:coref	proximal	-	-
+Xruva_1(pole_2)	2	-	pl	4:rdl	-	-	-	-
+pAsa_1(near_17)	4	-	-	7:k7p	-	-	-	-
+WodA_1	5	-	-	6:quant	-	-	-	-
+capatA_1(flat_1)	6	-	-	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0072a>
+#यही कारण यह है।
+#yahI kAraNa yaha hE.
+#That is why, its shape is described as a Geoid.
+$wyax	1	-	-	4:k1	Geo_ncert_6stnd_1ch_0072b.5:coref	-	-	-
+hE_1-pres	4	-	-	0:main	Geo_ncert_6stnd_1ch_0071.7:pariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0072b>
+#कि इसके आकार को भू-आभ कहा जाता है।
+#ki isake AkAra ko BU-ABa kahA jAwA hE.
+#That is why, its shape is described as a Geoid.
+$wyax	1	-	-	2:r6	-	proximal	-	-
+AkAra_2(shape_1)	2	-	-	5:k2	-	-	-	-
+BU+ABa	4	-	-	5:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0073>
+#भू-आभ का अर्थ है, पृथ्वी के समान आकार।
+#BU-ABa kA arWa hE, pqWvI ke samAna AkAra.
+#Geoid means an earth-like shape
+BU+ABa	1	-	-	3:r6	-	-	-	-
+arWa_1(meaning_1)	3	-	-	4:k1	-	-	-	-
+hE_1-pres	4	-	-	0:main	-	-	-	-
+pqWvI(earth_9)	6	-	-	9:ru	-	-	-	-
+AkAra_2(shape_1)	9	-	-	4:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0074>
+#जीवन के लिए अनुकूल परिस्थितियाँ संभवतः केवल पृथ्वी पर ही पाई जाती हैं।
+#jIvana ke lie anukUla parisWiwiyAz saMBavawaH kevala pqWvI para hI pAI jAwI hEM.
+#Conditions favourable to support life are probably found only on the earth.
+jIvana_1(life_7)	1	-	-	11:rt	-	-	-	-
+anukUla_1(favourable_1)	4	-	-	5:mod	-	-	-	-
+parisWiwi_4(condition_1)	5	-	pl	11:k2	-	-	-	-
+saMBavawaH_1	6	-	-	11:krvn	-	-	-	-
+pqWvI_1(earth_9)	8	-	-	11:k7p	-	kevala_1/hI_1	-	-
+pA_1-yA_jA_wA_hE_1	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0075a>
+#पृथ्वी न तो अधिक गर्म है ।
+#pqWvI na wo aXika garma hE .
+#The earth is neither too hot nor too cold.
+pqWvI_1(earth_9)	1	-	-	6:k1	-	-	-	-
+na_1(not_2)	2	-	-	6:neg	-	wo_3	-	-
+garma_2(hot_7)	5	-	compermore	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0075b>
+#और  यह न ही अधिक ठंडी  है।
+#Ora  yaha na hI aXika TaMdI  hE.
+#The earth is neither too hot nor too cold.
+$wyax	1	-	-	6:k1	Geo_ncert_6stnd_1ch_0075a.1:coref	proximal	-	-
+na_1(not_2)	2	-	-	6:neg	-	hI_2	-	-
+TaMdA_2(cold_4)	5	-	compermore	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	Geo_ncert_6stnd_1ch_0075a.6:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0076>
+#यहाँ पानी एवं वायु उपस्थित है, जो हमारे जीवन के लिए आवश्यक है।
+#yahAz pAnI evaM vAyu upasWiwa hE, jo hamAre jIvana ke lie AvaSyaka hE.
+#It has water and air, which are very essential for our survival.
+$wyax	1	-	-	6:k7p	Geo_ncert_6stnd_1ch_0075a.1:coref	-	-	-
+pAnI_1(water_7)	2	-	-	-	-	-	-	16:op1
+vAyu_1(air_8)	4	-	-	-	-	-	-	16:op2
+upasWiwa_1(present_2)	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+$yax	8	-	-	14:k1	-	-	-	-
+$speaker	9	anim	pl	10:r6	-	-	-	-
+jIvana_1	10	-	-	14:rt	-	-	-	-
+AvaSyaka_2(essential_2)	13	-	-	14:k1s	-	-	-	-
+hE_1	14	-	-	16:rcelab	-	-	-	-
+[conj_1]	16	-	-	6:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0077>
+#वायु में जीवन के लिए आवश्यक गैसें, जैसे ऑक्सीजन मौजूद है।
+#vAyu meM jIvana ke lie AvaSyaka gEseM, jEse oYksIjana mOjUxa hE.
+#The air has life-supporting gases like oxygen.
+vAyu_1(air_8)	1	-	-	12:k7p	-	-	-	-
+jIvana_1(life_7)	3	-	-	6:rt	-	-	-	-
+AvaSyaka_2(essential_2)	6	-	-	7:mod	-	-	-	-
+^gEsa_1	7	-	-	12:k1	-	-	-	-
+OYksIjana_1(oxygen_2)	10	-	-	7:re	-	-	-	-
+mOjUxa_1(present_10)	11	-	-	12:k1s	-	-	-	-
+hE_1-pres	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0078>
+#इन्हीं कारणों से, पृथ्वी सौरमंडल का सबसे अद्भुत ग्रह है।
+#inhIM kAraNoM se, pqWvI sOramaMdala kA sabase axBuwa graha hE.
+#Because of these reasons, the earth is a unique planet in the solar system.
+pqWvI	5	-	-	11:k1	-	-	-	-
+sOramaMdala	6	-	-	10:r6	-	-	-	-
+axBuwa_1	9	-	superl	10:mod	-	-	-	-
+graha_1(planet_2)	10	-	-	11:k1s	-	-	-	-
+hE_1-pres	11	-	-	0:main	Geo_ncert_6stnd_1ch_0077.12:pariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0079a>
+#अंतरिक्ष से देखने पर पृथ्वी नीले रंग की दिखाई पडती है ।
+#aMwarikRa se xeKane para pqWvI nIle raMga kI xiKAI padawI hE .
+#From the outer space, the earth appears blue.
+aMwarikRa_1(space_1)	1	-	-	3:k5	-	-	-	-
+xeKa_1(see_1)	3	-	-	7:rh	-	-	-	-
+pqWvI_1(earth_9)	4	-	-	7:k1	-	-	-	-
+nIla_1(blue_1)	5	-	-	6:mod	-	-	-	-
+raMga_1(colour_1)	6	-	-	7:k2	-	-	-	-
+xeKa_1-AI_padawA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0079b>
+#क्योंकि इसकी दो-तिहाई सतह पानी से ढकी हुई है।
+#kyoMki isakI xo-wihAI sawaha pAnI se DakI huI hE.
+#Because its two-thirds surface is covered by water.
+$wyax	1	-	-	3:r6	Geo_ncert_6stnd_1ch_0079a.4:coref	proximal	-	-
+sawaha_1(surface_3)	3	-	-	11:k1	-	-	-	-
+pAnI_1(water_7)	4	-	-	6:k3	-	-	-	-
+Daka_1	6	-	kqw	11:k1s	Geo_ncert_6stnd_1ch_0079a.7:kAryakAraNa	-	-	-
+3	7	-	-	8:card	-	-	-	-
+BAga_1(part_9)	8	-	-	10:rn	-	-	-	-
+2	9	-	-	10:card	-	-	-	-
+BAga_1(part_9)	10	-	-	3:rmeas	-	-	-	-
+ho_1-wA_hE_1	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0079b>
+#पर पृथ्वी नीले रंग की दिखाई पडती है ।
+#para pqWvI nIle raMga kI xiKAI padawI hE .
+#From the outer space, the earth appears blue because its two-thirds surface is covered by water.
+pqWvI_1	1	-	-	-	-	-	-	9:begin
+nIlA_1	2	-	pl	3:mod	-	-	-	-
+raMga_1	3	-	-	5:rhh	-	-	-	-
+xiKA_1-yA_pada_hE_1	5	-	-	0:main	-	-	-	-
+[ne_1]	9	place	-	5:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0080>
+#इसलिए इसे, नीला ग्रह कहा जाता है।
+#isalie ise, nIlA graha kahA jAwA hE.
+#therefore, called a blue planet.
+$wyax	1	-	-	5:k2	Geo_ncert_6stnd_1ch_0079a.4:coref	proximal	-	-
+nIlA(blue_1)	3	-	-	4:mod	-	-	-	-
+graha_1(planet_2)	4	-	-	5:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	5	-	-	0:main	Geo_ncert_6stnd_1ch_0079b.11:pariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0081>
+#हमारी पृथ्वी के पास केवल एक उपग्रह है, चंद्रमा।
+#hamArI pqWvI ke pAsa kevala eka upagraha hE, caMxramA.
+#Our earth has only one satellite, that is, the moon.
+$speaker	1	anim	pl	2:r6	-	-	-	-
+pqWvI_1(earth_9)	2	-	-	7:rsm	-	-	-	-
+1	6	numex	-	7:card	-	kevala_1	-	-
+upagraha_1(satellite_1)	7	-	-	8:k1	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+caMxramA(moon_3)	10	-	-	8:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0082>
+#इसका व्यास पृथ्वी के व्यास का केवल एक-चैथाई है।
+#isakA vyAsa pqWvI ke vyAsa kA kevala eka-cEWAI hE.
+#Its diametre is only one-quarter that of the earth.
+$wyax	1	-	-	2:r6	Geo_ncert_6stnd_1ch_0081.10:coref	proximal	-	-
+vyAsa_1(diameter_1)	2	-	-	9:k1	-	-	-	-
+pqWvI(earth_9)	3	-	-	5:r6	-	-	-	-
+vyAsa_1(diameter_1)	5	-	-	12:r6	-	-	-	-
+4	8	numex	-	10:card	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+BAga_2(part_9)	10	-	-	12:rn	-	-	-	-
+1	11	numex	-	12:card	-	-	-	-
+BAga_2(part_9)	12	-	-	9:k1s	-	kevala_1	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0083a>
+#यह इतना बडा इसलिए प्रतीत होता है ।
+#yaha iwanA badA isalie prawIwa howA hE .
+#It appears so big because it is nearer to our planet than other celestial bodies.
+$wyax	1	-	-	9:k1	Geo_ncert_6stnd_1ch_0081.10:coref	proximal	-	-
+iwanA_2(so_9)	2	-	-	3:quant	-	-	-	-
+badA_6(big_11)	3	-	-	9:k1s	-	-	-	-
+prawIwa_1(appear_1)	5	-	-	-	-	-	-	9:kriyAmUla
+ho_1-wA_hE_1	6	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0083b>
+#क्योंकि यह हमारे ग्रह से अन्य खगोलीयपिंडों की अपेक्षा नजदीक है।
+#kyoMki yaha hamAre graha se anya KagolIyapiMdoM kI apekRA najaxIka hE.
+#It appears so big because it is nearer to our planet than other celestial bodies.
+$wyax	1	-	-	10:k1	Geo_ncert_6stnd_1ch_0081.10:coref	proximal	-	-
+$speaker	2	anim	pl	3:r6	-	-	-	-
+graha_1(planet_2)	3	-	-	9:rdl	-	-	-	-
+anya_1(other_1)	5	-	-	6:mod	-	-	-	-
+KagolIyapiMda_1	6	-	-	3:rv	-	-	-	-
+najaxIka_1	9	-	-	10:k1s	-	-	-	-
+hE_1-pres	10	-	-	0:main	Geo_ncert_6stnd_1ch_0083a.9:pariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0084>
+#यह हमसे लगभग 3,84,400 किलोमीटर दूर है।
+#yaha hamase lagaBaga 3,84,400 kilomItara xUra hE.
+#It is about 3,84,400 km away from us.
+$wyax	1	-	-	11:k1	Geo_ncert_6stnd_1ch_0081.10:coref	proximal	-	-
+$speaker	2	-	pl	10:k5	-	-	-	-
+384400	4	numex	-	-	-	-	-	13:count
+kilomItara_1(kilometre_1)	9	-	-	-	-	-	-	13:unit
+xUra_2(distant_1)	10	-	-	11:k1s	-	-	-	-
+hE_1-pres	11	-	-	0:main	-	-	-	-
+[dist_meas_1]	13	-	-	10:rmeas	-	lagaBaga_1	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0085>
+#चंद्रमा पृथ्वी का एक चक्कर लगभग 27 दिन में पूरा करता है।
+#caMxramA pqWvI kA eka cakkara lagaBaga 27 xina meM pUrA karawA hE.
+#The moon moves around the earth in about 27 days.
+caMxramA_1(moon_3)	1	-	-	15:k1	-	-	-	-
+pqWvI_1(earth_9)	2	-	-	5:r6	-	-	-	-
+1	4	numex	-	5:card	-	-	-	-
+cakkara_8(revolution_4)	5	-	-	15:k2	-	-	-	-
+27	7	numex	-	-	-	-	-	16:count
+xina_1(day_6)	8	-	-	-	-	-	-	16:unit
+pUrA_1(complete_9)	10	-	-	-	-	-	-	15:kriyAmUla
+kara_1-wA_hE_1	11	-	-	-	-	-	-	15:verbalizer
+[cp_1]	15	-	-	0:main	-	-	-	-
+[time_meas_1]	16	-	-	15:dur	-	lagaBaga_1	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0086>
+#लगभग इतने ही समय में यह अपने अक्ष पर एक चक्कर भी पूरा करता है।
+#lagaBaga iwane hI samaya meM yaha apane akRa para eka cakkara BI pUrA karawA hE.
+#It takes exactly the same time to complete one spin
+$wyax	2	-	pl	4:quant	Geo_ncert_6stnd_1ch_0085.16:coref	proximal	-	-
+samaya_1(time_8)	4	-	-	17:dur	-	-	-	-
+$wyax	6	-	-	17:k1	Geo_ncert_6stnd_1ch_0085.1:coref	proximal	-	-
+apanA	7	-	pl	8:r6	-	-	-	-
+akRa_1(axis_1)	8	-	-	17:k7p	-	-	-	-
+1	10	numex	-	11:card	-	-	-	-
+cakkara(spin_4)	11	-	-	17:k2	-	-	-	-
+pUrA_1(complete_9)	13	-	-	-	-	-	-	17:kriyAmUla
+kara_1-wA_hE_1	14	-	-	-	-	-	-	17:verbalizer
+[cp_1]	17	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0087>
+#इसके परिणामस्वरूप पृथ्वी से हमें चंद्रमा का केवल एक ही भाग दिखाई पडता है।
+#isake pariNAmasvarUpa pqWvI se hameM caMxramA kA kevala eka hI BAga xiKAI padawA hE.
+#As a result, only one side of the moon is visible to us on the earth.
+pqWvI_1(earth_9)	3	-	-	12:k5	-	-	-	-
+$speaker	5	anim	pl	12:k4a	-	-	-	-
+caMxramA(moon_3)	6	-	-	11:r6	-	-	-	-
+1	9	numex	-	11:card	-	kevala_1/hI_1	-	-
+BAga_22(side_1)	11	-	-	12:k1	-	-	-	-
+xeKa_1-AI_padawA_hE_1	12	-	-	0:main	Geo_ncert_6stnd_1ch_0086.17:pariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0088>
+#अब आप पृथ्वी से सूर्य एवं चंद्रमा की दूरियों की तुलना कर सकते हैं।
+#aba Apa pqWvI se sUrya evaM caMxramA kI xUriyoM kI wulanA kara sakawe hEM.
+#Now you can compare the distance of the earth from the sun and that from the moon.
+aba(now_3)	1	-	-	17:k7t	-	-	-	-
+$addressee	2	anim	-	17:k1	-	respect	-	-
+pqWvI_1(earth_9)	3	-	-	9:k5	-	-	-	-
+sUrya_1(sun_5)	5	-	-	-	-	-	-	18:op1
+caMxramA_1(moon_3)	7	-	-	-	-	-	-	18:op2
+xUrI_1(distance_2)	9	-	pl	17:k2	-	-	-	-
+wulanA_1(comparison_2)	11	-	-	-	-	-	-	17:kriyAmUla
+kara_1-0_sakawA_hE_1	12	-	-	-	-	-	-	17:verbalizer
+[cp_1]	17	-	-	0:main	-	-	-	-
+[conj_1]	18	-	-	9:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0089>
+#चंद्रमा की परिस्थितियाँ जीवन के लिए अनुकूल नहीं हैं।
+#caMxramA kI parisWiwiyAz jIvana ke lie anukUla nahIM hEM.
+#The moon does not have conditions favourable for life.
+caMxramA_1(moon_3)	1	-	-	3:r6	-	-	-	-
+parisWiwi_4(condition_1)	3	-	pl	9:k1	-	-	-	-
+jIvana_1(life_7)	4	-	-	9:rt	-	-	-	-
+anukUla_1(favourable_1)	7	-	-	9:k1s	-	-	-	-
+nahIM_1(not_1)	8	-	-	9:neg	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0090>
+#इसकी सतह पर पर्वत, मैदान एवं गड्ढे हैं जो चंद्रमा की सतह पर छाया बनाते हैं।
+#isakI sawaha para parvawa, mExAna evaM gadDe hEM jo caMxramA kI sawaha para CAyA banAwe hEM.
+#It has mountains, plains and depressions on its surface These cast shadows on the moon’s surface.
+$wyax	1	-	-	2:r6	Geo_ncert_6stnd_1ch_0089.1:coref	proximal	-	-
+sawaha_1(surface_3)	2	-	-	9:k7p	-	-	-	-
+parvawa(mountain_3)	4	-	-	-	-	-	-	20:op1
+mExAna_5(plain_5)	6	-	-	-	-	-	-	20:op2
+gadDA_1	8	-	pl	-	-	-	-	20:op3
+hE_1-pres	9	-	-	0:main	-	-	-	-
+$yax	10	-	-	16:k1	Geo_ncert_6stnd_1ch_0090.20:coref	-	-	-
+caMxramA_1(moon_3)	11	-	-	13:r6	-	-	-	-
+sawaha_1(surface_3)	13	-	-	16:k7p	-	-	-	-
+CAyA_1(shadow_5)	15	-	-	16:k2	-	-	-	-
+banA_1-wA_hE_1	16	-	-	20:rcelab	-	-	-	-
+[conj_1]	20	-	-	9:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0091>
+#पूर्णिमा के दिन चंद्रमा पर इनकी छाया को देखा जा सकता है।
+#pUrNimA ke xina caMxramA para inakI CAyA ko xeKA jA sakawA hE.
+#Look at the full moon and observe these shadows.
+pUrNimA	1	-	-	3:r6	-	-	-	-
+xina_1(day_6)	3	-	-	9:k7t	-	-	-	-
+caMxramA_1(moon_3)	4	-	-	9:k7p	-	-	-	-
+$wyax	6	-	-	7:r6	Geo_ncert_6stnd_1ch_0090.20:coref	proximal	-	-
+CAyA_1(shadow_5)	7	-	-	9:k2	-	-	-	-
+xeKa_1-yA_jA_sakawA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0092>
+#तारों, ग्रहों एवं उपग्रहों के अतिरिक्त, असंख्य छोटे पिंड भी सूर्य के चारों ओर चक्कर लगाते हैं।
+#wAroM, grahoM evaM upagrahoM ke awirikwa, asaMKya Cote piMda BI sUrya ke cAroM ora cakkara lagAwe hEM.
+#Apart from the stars, planets and satellites, there are numerous tiny bodies which also move around the sun.
+wArA_1(star_4)	1	-	pl	-	-	-	-	22:op1
+graha_1(planet_2)	3	-	pl	-	-	-	-	22:op2
+upagraha_1(satellite_1)	5	-	pl	-	-	-	-	22:op3
+asaMKya_1(innumerable_3)	9	-	-	11:mod	-	-	-	-
+CotA_1(small_6)	10	-	-	11:mod	-	-	-	-
+piMda_3(body_13)	11	-	-	-	-	BI_1	-	22:op4
+sUrya_1(sun_5)	13	-	-	15:rdl	-	-	-	-
+cAroM+ora_3(around_16)	15	-	-	21:k7p	-	-	-	-
+cakkara_7(round_3)	17	-	-	-	-	-	-	21:kriyAmUla
+lagA_1-wA_hE_1	18	-	-	-	-	-	-	21:verbalizer
+[cp_1]	21	-	-	0:main	-	-	-	-
+[conj_1]	22	-	-	21:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0093>
+#इन पिंडों को क्षुद्र ग्रह कहते हैं।
+#ina piMdoM ko kRuxra graha kahawe hEM.
+#These bodies are called asteroids.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+piMda_3(body_13)	2	-	pl	6:k2	-	-	-	-
+kRuxra_1(small_4)	4	-	-	5:mod	-	-	-	-
+graha_1(planet_2)	5	-	-	6:k2s	-	-	-	-
+kaha_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0094>
+#ये मंगल एवं बृहस्पति की कक्षाओं के बीच पाए जाते हैं।
+#ye maMgala evaM bqhaspawi kI kakRAoM ke bIca pAe jAwe hEM.
+#They are found between the orbits of Mars and Jupiter .
+$wyax	1	-	-	9:k1	Geo_ncert_6stnd_1ch_0093.5:coref	proximal	-	-
+maMgala	2	-	-	-	-	-	-	14:begin
+bqhaspawi	4	-	-	-	-	-	-	15:begin
+kakRA_6(orbit_5)	6	-	pl	8:rdl	-	-	-	-
+bIca_2(middle_12)	8	-	-	9:k7p	-	-	-	-
+pA_1-yA_jA_wA_hE_1	9	-	-	0:main	-	-	-	-
+[conj_1]	13	-	-	6:r6	-	-	-	-
+[ne_1]	14	-	-	-	-	-	-	13:op1
+[ne_2]	15	-	-	-	-	-	-	13:op2
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0095>
+#वैज्ञानिकों के अनुसार क्षुद्र ग्रह, ग्रह के ही भाग होते हैं, जो कि बहुत वर्ष पहले विस्पफोट के बाद ग्रहों से टूटकर अलग हो गए।
+#vEjFAnikoM ke anusAra kRuxra graha, graha ke hI BAga howe hEM, jo ki bahuwa varRa pahale vispaPota ke bAxa grahoM se tUtakara alaga ho gae.
+#Scientists are of the view that asteroids are parts of a planet which exploded many years back.
+vEjFAnika_1(scientist_1)	1	-	pl	11:k7a	-	-	-	-
+kRuxra_1(small_4)	4	-	-	5:mod	-	-	-	-
+graha_1(planet_2)	5	-	-	11:k1	-	-	-	-
+graha_1(planet_2)	7	-	-	10:r6	-	hI_1	-	-
+BAga_2(part_9)	10	-	-	11:k1s	-	-	-	-
+ho_1-wA_hE_1	11	-	-	0:main	-	-	-	-
+$yax	14	-	-	29:k1	Geo_ncert_6stnd_1ch_0095.5:coref	-	-	-
+bahuwa_2(many_5)	16	-	-	17:quant	-	-	-	-
+varRa_1(year_4)	17	-	-	18:rkl	-	-	-	-
+pahalA_9(before_1)	18	-	-	29:k7p	-	-	-	-
+vispaPota	19	-	-	21:rkl	-	-	-	-
+bAxa_1(after_8)	21	-	-	29:k7t	-	-	-	-
+graha_1(planet_2)	22	-	pl	24:k5	-	-	-	-
+tUta_1(break_1)	24	-	-	29:rpk	-	-	-	-
+alaga(separate_1)	25	-	-	-	-	-	-	29:kriyAmUla
+ho_1-yA_hE_2	26	-	pl	-	-	[shade:jA_1]	-	29:verbalizer
+[cp_1]	29	-	-	5:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0096>
+#सूर्य के चारों ओर चक्कर लगाने वाले पत्थरों के छोटे-छोटे टुकडों को उल्कापिंड कहते हैं।
+#sUrya ke cAroM ora cakkara lagAne vAle pawWaroM ke Cote-Cote tukadoM ko ulkApiMda kahawe hEM.
+#The small pieces of rocks which move around the sun are called meteoroids.
+sUrya_1(sun_5)	1	-	-	3:rdl	-	-	-	-
+cAroM+ora_1	3	-	-	17:k7p	-	-	-	-
+cakkara_7(round_3)	5	-	-	-	-	-	-	17:kriyAmUla
+lagA_17(form_30)	6	-	-	-	-	-	-	17:verbalizer
+pawWara(rock_16)	8	-	pl	11:r6	-	-	-	-
+CotA_1(small_6)	10	-	xviwva	11:mod	-	-	-	-
+tukadA_1(piece_16)	11	-	pl	14:k2	-	-	-	-
+ulkApiMda_2(meteroids_1)	13	-	-	14:k2s	-	-	-	-
+kaha_1-wA_hE_1	14	-	-	0:main	-	-	-	-
+[cp_1]	17	-	-	8:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0097a>
+#कभी-कभी ये उल्कापिंड पृथ्वी के इतने नजदीक आ जाते हैं।
+#kaBI-kaBI ye ulkApiMda pqWvI ke iwane najaxIka A jAwe hEM.
+#Sometimes these meteoroids come near the earth and tend to drop upon it.
+kaBI_1	1	-	xviwva	8:k1	-	-	-	-
+$wyax	2	-	pl	3:dem	-	proximal	-	-
+ulkApiMda_1	3	-	-	8:k1	-	-	-	-
+pqWvI_1	4	-	-	-	-	-	-	12:begin
+iwanA_1	6	-	pl	7:quant	-	-	-	-
+najaxIka_1	7	-	-	4:k7p	-	-	-	-
+A_1-wA_hE_1	8	-	-	0:main	-	[shade:ja_1]	-	-
+[ne_1]	12	place	-	8:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0097b>
+#कि इनकी प्रवृत्ति पृथ्वी पर गिरने की होती है।
+#ki inakI pravqwwi pqWvI para girane kI howI hE.
+#Sometimes these meteoroids come near the earth and tend to drop upon it.
+$wyax	1	-	pl	2:r6	-	proximal	-	-
+pravqwwi_1	2	-	-	5:k1	-	-	-	-
+pqWvI_1	3	-	-	-	-	-	-	10:begin
+gira_1	5	-	pl	7:rhh	-	-	-	-
+ho_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+[ne_1]	10	place	-	5:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0098>
+#इस प्रक्रिया के दौरान वायु के साथ घर्षण होने के कारण ये गर्म होकर जल जाते हैं।
+#isa prakriyA ke xOrAna vAyu ke sAWa GarRaNa hone ke kAraNa ye garma hokara jala jAwe hEM.
+#During this process due to friction with the air they get heated up and burn.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+prakriyA_1	2	-	-	-	-	-	-	-
+vAyu_1	5	-	-	-	-	-	-	-
+GarRaNa_1	8	-	-	-	-	-	-	-
+ho_1	9	-	-	-	-	-	-	-
+$wyax	12	-	-	-	-	proximal	-	-
+garma_1	13	-	-	-	-	-	-	-
+ho_1	14	-	-	-	-	-	-	-
+jala_1-wA_hE_1	15	-	-	0:main	-	[shade:ja_1]	-	-
+[cp_1]	19	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0099>
+#फलस्वरूप, चमकदार प्रकाश उत्पन्न होता है।
+#PalasvarUpa, camakaxAra prakASa uwpanna howA hE.
+#It causes a flash of light
+camakaxAra_5(bright_22)	1	-	-	2:mod	-	-	-	-
+prakASa_1(light_8)	2	-	-	5:k1	-	-	-	-
+uwpanna(produced_1)	3	-	-	-	-	-	-	5:kriyAmUla
+ho_1-wA_hE_1	4	-	-	-	-	-	-	5:verbalizer
+[cp_1]	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0100a>
+#कभी-कभी कोई उल्का पूरी तरह जले बिना पृथ्वी पर गिरती है।
+#kaBI-kaBI koI ulkA pUrI waraha jale binA pqWvI para girawI hE.
+#Sometimes, a meteor without being completely burnt, falls on the earth.
+kaBI_1(sometime_1)	1	-	xviwva	7:freq	-	-	-	-
+koI_4(some_1)	2	-	-	3:quant	-	-	-	-
+ulkA_1(meteor_1)	3	-	-	7:k1	-	-	-	-
+pUrA(complete_9)	4	-	-	5:krvn	-	-	-	-
+jala_3(burn_2)	5	-	-	7:krvnneg	-	-	-	-
+pqWvI_1(earth_9)	6	-	-	7:k7p	-	-	-	-
+gira_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0100b>
+#जिससे धरातल पर गड्ढे बन जाते हैं।
+#jisase XarAwala para gadDe bana jAwe hEM.
+#This creates a hollow.
+-	-	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0101>
+#क्या आपने तारों वाले, खुले आकाश में, एक ओर से दूसरी ओर तक फली चैडी सफेद पट्टी की तरह, एक चमकदार रास्ते को देखा है?
+#kyA Apane wAroM vAle, Kule AkASa meM, eka ora se xUsarI ora waka PalI cEdI saPexa pattI kI waraha, eka camakaxAra rAswe ko xeKA hE?
+#Do you see a whitish broad band, like a white glowing path across the sky on a clear starry night?
+$addressee	1	anim	-	17:k1	-	respect	-	-
+wArA_1(star_4)	2	-	mawup/pl	4:mod	-	-	-	-
+KulA_11(clear_27)	3	-	-	4:mod	-	-	-	-
+AkASa_1(sky_3)	4	-	-	17:k7p	-	-	-	-
+1	5	numex	-	6:card	-	-	-	-
+ora_2(direction_1)	6	-	-	-	-	-	-	9:start
+xUsarA_3(another_4)	7	-	-	8:quant	-	-	-	-
+ora_2(direction_1)	8	-	-	-	-	-	-	9:end
+[span_1]	9	-	-	10:rmeas	-	-	-	-
+PEla_3(extend_1)	10	-	-	13:rbks	-	-	-	-
+cOdZA_4(broad_1)	11	-	-	13:mod	-	-	-	-
+saPexa_1(white_15)	12	-	-	13:mod	-	-	-	-
+pattI_2(band_5)	13	-	-	16:ru	-	-	-	-
+eka_2(a_1)	14	-	-	16:quant	-	-	-	-
+camakaxAra_2(glowing_1)	15	-	-	16:mod	-	-	-	-
+rAswA_2(path_9)	16	-	-	17:k2	-	-	-	-
+xeKa_1-yA_hE_1	17	-	-	0:main	-	-	-	-
+%yn_interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0102>
+#यह लाखों तारों का समूह है।
+#yaha lAKoM wAroM kA samUha hE.
+#It is a cluster of millions of stars.
+$wyax	1	-	-	5:k1	Geo_ncert_6stnd_1ch_0101.16:coref	proximal	-	-
+100000	2	numex	pl	3:card	-	-	-	-
+wArA_1(star_4)	3	-	pl	4:r6	-	-	-	-
+samUha_1	4	-	-	5:k1s	-	-	-	-
+hE_1-pres	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0103>
+#यह पट्टी आकाशगंगा मिल्की वे है।
+#yaha pattI AkASagaMgA milkI ve hE.
+#This band is the Milky
+$wyax	1	-	-	2:dem	-	proximal	-	-
+pattI_2(band_5)	2	-	-	7:k1	-	-	-	-
+AkASagaMgA_1(galaxy_3)	3	-	-	6:rs	-	-	-	-
+milkI	4	-	-	-	-	-	-	6:begin
+ve	5	-	-	-	-	-	-	6:inside
+[ne_1]	6	-	-	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0104>
+#हमारा सौरमंडल इस आकाशगंगा का एक भाग है।
+#hamArA sOramaMdala isa AkASagaMgA kA eka BAga hE.
+#Our solar system is a part of this galaxy.
+$speaker	1	anim	pl	2:r6	-	-	-	-
+sOramaMdala_1(solar-system_1)	2	-	-	7:k1	-	-	-	-
+$wyax	3	-	-	4:dem	-	proximal	-	-
+AkASagaMgA_1(galaxy_3)	4	-	-	6:r6	-	-	-	-
+eka_2(a_1)	5	-	-	6:quant	-	-	-	-
+BAga_2(part_9)	6	-	-	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0105>
+#प्राचीन भारत में इसकी कल्पना आकाश में प्रकाश की एक बहती नदी से की गई थी।
+#prAcIna BArawa meM isakI kalpanA AkASa meM prakASa kI eka bahawI naxI se kI gaI WI.
+#In ancient India, it was imagined to be a river of light flowing in the sky.
+prAcIna_1(ancient_5)	1	-	-	3:mod	-	-	-	-
+BArawa	2	-	-	-	-	-	-	3:begin
+[ne_1]	3	-	-	13:k7p	-	-	-	-
+$wyax	4	-	-	13:k2	Geo_ncert_6stnd_1ch_0103.2:coref	proximal	-	-
+kalpanA_1(imagination_3)	5	-	-	-	-	-	-	13:kriyAmUla
+AkASa_1(sky_3)	6	-	-	-	-	-	-	11:whole
+prakASa_1(light_8)	7	-	-	10:r6	-	-	-	-
+eka_2(a_1)	8	-	-	10:quant	-	-	-	-
+baha_1(flow_5)	9	-	-	10:rvks	-	-	-	-
+naxI_1(river_3)	10	-	-	-	-	-	-	11:part
+[spatial_1]	11	-	-	13:k2as	-	-	-	-
+kara_1-yA_jA_yA_WA_1	12	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0106>
+#इस प्रकार इसका नाम आकाशगंगा पडा था।
+#isa prakAra isakA nAma AkASagaMgA padA WA.
+#Thus, it was named Akash Ganga.
+$wyax	1	-	-	2:r6	Geo_ncert_6stnd_1ch_0103.2:coref	proximal	-	-
+nAma_1(name_3)	2	-	-	5:k1	-	-	-	-
+AkASagaMgA	3	-	-	-	-	-	-	4:begin
+[ne_1]	4	ne	-	5:k2	-	-	-	-
+padZa_1-yA_WA_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0107>
+#आकाशगंगा करोडों तारों, बादलों तथा गैसों की एक प्रणाली है।
+#AkASagaMgA karodoM wAroM, bAxaloM waWA gEsoM kI eka praNAlI hE.
+#A galaxy is a huge system of billions of stars, and clouds of dust and gases.
+AkASagaMgA_1(galaxy_3)	1	-	-	9:k1	-	-	-	-
+10000000	2	numex	pl	6:card	-	-	-	-
+wArA_1(star_4)	3	-	pl	-	-	-	-	6:op1
+bAxala_1(cloud_3)	4	-	pl	-	-	-	-	6:op2
+gEsa_1(gas_1)	5	-	pl	-	-	-	-	6:op3
+[conj_1]	6	-	-	8:r6	-	-	-	-
+eka_2(a_1)	7	-	-	8:quant	-	-	-	-
+praNAlI_1(system_6)	8	-	-	9:k1s	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0108>
+#इस प्रकार की लाखों आकाशगंगाएँ मिलकर ब्रह्मांड का निर्माण करती हैं।
+#isa prakAra kI lAKoM AkASagaMgAez milakara brahmAMda kA nirmANa karawI hEM.
+#There are millions of such galaxies that make the Universe.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+prakAra_1(kind_8)	2	-	-	4:r6	-	-	-	-
+100000	3	numex	pl	4:card	-	-	-	-
+AkASagaMgA_1(galaxy_3)	4	-	pl	9:k1	-	-	-	-
+mila_1(meet_2)	5	-	-	9:krvn	-	-	-	-
+brahmAMda_3(universe_7)	6	-	-	9:k2	-	-	-	-
+nirmANa(creation_3)	7	-	-	-	-	-	-	9:kriyAmUla
+kara_1-wA_hE_1	8	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0109>
+#ब्रह्मांड की विशालता की कल्पना करना अत्यधिक कठिन है।
+#brahmAMda kI viSAlawA kI kalpanA karanA awyaXika kaTina hE.
+#It is difficult to imagine how big the universe is.
+brahmAMda_3(universe_7)	1	-	-	2:r6	-	-	-	-
+viSAlawA_1(vastness_5)	2	-	-	5:k2	-	-	-	-
+kalpanA_1(imagination_3)	3	-	-	-	-	-	-	5:kriyAmUla
+kara_17(do_2)	4	-	-	-	-	-	-	5:verbalizer
+[cp_1]	5	-	-	8:k1	-	-	-	-
+awyaXika_7(very_2)	6	-	-	7:intf	-	-	-	-
+kaTina_1(difficult_1)	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0110>
+#वैज्ञानिक अभी भी इसके बारे में अधिक से अधिक जानकारी एकत्र करने में जुटे हैं।
+#vEjFAnika aBI BI isake bAre meM aXika se aXika jAnakArI ekawra karane meM jute hEM.
+#Scientists are still tryingto find out more and more about it.
+vEjFAnika_1(scientist_1)	1	-	-	10:k1	-	-	-	-
+aBI_4(now_9)	2	-	-	10:k7t	-	BI_5	-	-
+$wyax	3	-	-	8:k7	Geo_ncert_6stnd_1ch_0109.2:coref	proximal	-	-
+aXika+se+aXika_1(maximum_4)	4	-	-	5:quant	-	-	-	-
+jAnakArI_3(information_14)	5	-	-	8:k2	-	-	-	-
+ekawra_2(collected_2)	6	-	-	-	-	-	-	8:kriyAmUla
+kara_17(do_2)	7	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	9:rt	-	-	-	-
+juta_3(unite_1)	9	-	-	10:k1s	-	-	-	-
+hE_1-pres	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0111a>
+#इसके आकार के संबंध में हमें कोई जानकारी नहीं है ।
+#isake AkAra ke saMbaMXa meM hameM koI jAnakArI nahIM hE .
+#We are not certain about its size but we know that all of us – you and I belong to this universe.
+$wyax	1	-	-	2:r6	Geo_ncert_6stnd_1ch_0109.1:coref	proximal	-	-
+AkAra_3(size_1)	2	-	-	5:k7	-	-	-	-
+$speaker	3	anim	pl	5:rsm	-	-	-	-
+koI(any_1)	4	-	-	5:quant	-	-	-	-
+jAnakArI_3(information_14)	5	-	-	7:k1	-	-	-	-
+nahIM_1(not_1)	6	-	-	7:neg	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0111b>
+#लेकिन फिर भी हम यह जानते हैं।
+#lekina Pira BI hama yaha jAnawe hEM.
+#We are not certain about its size but we know that all of us – you and I belong to this universe.
+$speaker	1	anim	pl	3:k1	-	-	-	-
+$wyax	2	-	-	3:k2	Geo_ncert_6stnd_1ch_0111c.6:coref	proximal	-	-
+jAna_1-wA_hE_1	3	-	-	0:main	Geo_ncert_6stnd_1ch_0111a.7:viroXI	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0111c>
+#कि हम सभी इसी ब्रह्मांड का हिस्सा हैं।
+#ki hama saBI isI brahmAMda kA hissA hEM.
+#We are not certain about its size but we know that all of us – you and I belong to this universe.
+$speaker	1	anim	pl	6:k1	-	-	-	-
+saBI_1(all_1)	2	-	-	1:rs	-	-	-	-
+$wyax	3	-	-	4:dem	-	proximal	-	-
+brahmAMda_3(universe_7)	4	-	-	5:r6	-	-	-	-
+hissA_1(part_13)	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0112>
+#ग्रह और तारे में क्या अंतर है?
+#graha Ora wAre meM kyA aMwara hE?
+#How does a planet differ from a star?
+graha_1(planet_2)	1	-	-	-	-	-	-	3:op1
+wArA_1(star_4)	2	-	-	-	-	-	-	3:op2
+[conj_1]	3	-	-	6:k7	-	-	-	-
+$kim	4	-	-	5:r6	-	-	-	-
+aMwara_1(difference_1)	5	-	-	6:k1	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0113>
+#सौरमंडल से आप क्या समझते हैं?
+#sOramaMdala se Apa kyA samaJawe hEM?
+#What is meant by the ‘Solar System’?
+sOramaMdala_1(solar-system_1)	1	-	-	4:k7	-	-	-	-
+$addressee	2	anim	-	4:k4a	-	respect	-	-
+$kim	3	-	-	4:k1	-	-	-	-
+samaJa_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0114>
+#सूर्य से उनकी दूरी के अनुसार सभी ग्रहों के नाम लिखें।
+#sUrya se unakI xUrI ke anusAra saBI grahoM ke nAma liKeM.
+#Name all the planets according to their distance from the sun.
+$addressee	1	anim	-	8:k1	-	respect	-	-
+sUrya_1(sun_5)	2	-	-	4:k5	-	-	-	-
+$wyax	3	-	-	4:r6	6:coref	distal	-	-
+xUrI_1(distance_2)	4	-	-	8:k7a	-	-	-	-
+saBI_1(all_1)	5	-	-	6:quant	-	-	-	-
+graha_1(planet_2)	6	-	pl	7:r6	-	-	-	-
+nAma_1(name_3)	7	-	-	8:k2	-	-	-	-
+liKa_1-o_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0115>
+#पृथ्वी को अद्भुत ग्रह क्यों कहा जाता है?
+#pqWvI ko axBuwa graha kyoM kahA jAwA hE?
+#Why is the Earth called a unique planet?
+pqWvI	1	-	-	-	-	-	-	2:begin
+[ne_1]	2	-	-	6:k2	-	-	-	-
+axBuwa_1	3	-	-	4:mod	-	-	-	-
+graha_1(planet_2)	4	-	-	6:k2s	-	-	-	-
+$kim	5	-	-	6:rh	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	6	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0116>
+#हम हमेशा चंद्रमा के एक ही भाग को क्यों देख पाते हैं?
+#hama hameSA caMxramA ke eka hI BAga ko kyoM xeKa pAwe hEM?
+#Why do we see only one side of the moon always?
+$speaker	1	anim	pl	7:k1	-	-	-	-
+hameSA_1(always_7)	2	-	-	7:freq	-	-	-	-
+caMxramA_1(moon_3)	3	-	-	5:r6	-	-	-	-
+1	4	numex	-	5:card	-	hI_6	-	-
+BAga_22(side_1)	5	-	-	7:k2	-	-	-	-
+$kim	6	-	-	7:rh	-	-	-	-
+xeKa_1-0_pAwA_hE_1	7	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0117>
+#ब्रह्मांड क्या है?
+#brahmAMda kyA hE?
+#What is the Universe ?
+brahmAMda_3(universe_7)	1	-	-	3:k1	-	-	-	-
+$kim	2	-	-	3:k1s	-	-	-	-
+hE_1-pres	3	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0118>
+#किस ग्रह को पृथ्वी के जुडवाँ ग्रह के नाम से जाना जाता है?
+#kisa graha ko pqWvI ke judavAz graha ke nAma se jAnA jAwA hE?
+#The planet known as the “Earth’s Twin” is?
+$kim	1	-	-	2:dem	-	-	-	-
+graha_1(planet_2)	2	-	-	8:k2	-	-	-	-
+pqWvI_1(earth_9)	3	-	-	-	-	-	-	4:begin
+[ne_1]	4	ne	-	6:r6	-	-	-	-
+judZavAz_1(twin_2)	5	-	-	6:mod	-	-	-	-
+graha_1(planet_2)	6	-	-	8:k2s	-	-	-	-
+nAma_1(name_3)	7	-	-	6:rs	-	-	-	-
+jAna_1-yA_jA_wA_hE_1	8	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0119>
+#सूर्य से तीसरा सबसे नजदीक ग्रह कौन-सा है?
+#sUrya se wIsarA sabase najaxIka graha kOna-sA hE?
+#Which is the third nearest planet to the sun ?
+sUrya_1(sun_5)	1	-	-	3:k5	-	-	-	-
+wIsarA_1(third_13)	2	-	-	3:mod	-	-	-	-
+najaxIka_2(near_32)	3	-	superl	4:mod	-	-	-	-
+graha_1(planet_2)	4	-	-	6:k1	-	-	-	-
+$kim	5	-	-	6:k1s	-	sA_4	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0120>
+#सभी ग्रह सूर्य के चारों ओर किस प्रकार के पथ पर चक्कर लगाते हैं।
+#saBI graha sUrya ke cAroM ora kisa prakAra ke paWa para cakkara lagAwe hEM.
+#All the planets move around the sun in which path?
+saBI_1(all_1)	1	-	-	2:quant	-	-	-	-
+graha_1(planet_2)	2	-	-	10:k1	-	-	-	-
+sUrya_1(sun_5)	3	-	-	4:rdl	-	-	-	-
+cAroM+ora_3(around_16)	4	-	-	10:k7p	-	-	-	-
+$kim	5	-	-	6:dem	-	-	-	-
+prakAra(kind_8)	6	-	-	7:r6	-	-	-	-
+paWa_1(path_4)	7	-	-	10:k7p	-	-	-	-
+cakkara_8(revolution_4)	8	-	-	-	-	-	-	10:kriyAmUla
+lagA_1-wA_hE_1	9	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0121>
+#ध्रुवतारे से किस दिशा का ज्ञान होता है।
+#XruvawAre se kisa xiSA kA jFAna howA hE.
+#The Pole Star indicates which direction
+XruvawArA	1	-	-	-	-	-	-	2:begin
+[ne_1]	2	-	-	6:rh	-	-	-	-
+$kim	3	-	-	4:dem	-	-	-	-
+xiSA_1(direction_6)	4	-	-	5:r6	-	-	-	-
+jFAna_4(knowledge_7)	5	-	-	6:k1	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0122>
+#क्षुद्र ग्रह किन कक्षाओं के बीच पाए जाते हैं।
+#kRuxra graha kina kakRAoM ke bIca pAe jAwe hEM.
+#Asteroids are found between orbits  which planet ?
+kRuxra_1(small_4)	1	-	-	2:mod	-	-	-	-
+graha_1(planet_2)	2	-	-	6:k1	-	-	-	-
+$kim	3	-	-	4:dem	-	-	-	-
+kakRA_6(orbit_5)	4	-	pl	5:rdl	-	-	-	-
+bIca_11(between_1)	5	-	-	6:k7p	-	-	-	-
+pA_1-yA_jA_wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0123>
+#आप सौरमंडल का एक चार्ट तैयार करें।
+#Apa sOramaMdala kA eka cArta wEyAra kareM.
+#Prepare a chart of the solar system.
+$addressee	1	anim	-	6:k1	-	respect	-	-
+sOramaMdala_1(solar-system_1)	2	-	-	4:r6	-	-	-	-
+eka_2(a_1)	3	-	-	4:quant	-	-	-	-
+cArta_1(chart_1)	4	-	-	6:k2	-	-	-	-
+wEyAra_1(ready_4)	5	-	-	6:k2s	-	-	-	-
+kara_1-o_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0124a>
+#आप छुट्टियों में एक तारामंडल को जाकर देखें ।
+#Apa CuttiyoM meM eka wArAmaMdala ko jAkara xeKeM .
+#During a vacation visit a planetarium and describe your experience in the class.
+$addressee	1	anim	-	6:k1	-	respect	-	-
+CuttI_6(vacation_3)	2	-	pl	6:k7t	-	-	-	-
+eka_2(a_1)	3	numex	-	4:quant	-	-	-	-
+wArAmaMdala_1(constellation_2)	4	-	-	6:k2	-	-	-	-
+jA_1(go_1)	5	-	-	6:rpk	-	-	-	-
+xeKa_1-o_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0124b>
+#तथा आप वहाँ के अपने अनुभव को कक्षा में बताएँ।
+#waWA Apa vahAz ke apane anuBava ko kakRA meM bawAez.
+#During a vacation visit a planetarium and describe your experience in the class.
+$addressee	1	anim	-	6:k1	-	respect	-	-
+$wyax	2	-	-	4:r6	-	-	-	-
+apanA	3	-	-	4:r6	-	-	-	-
+anuBava_1(experience_1)	4	-	-	6:k2	-	-	-	-
+kakRA_1(class_1)	5	-	-	6:k7p	-	-	-	-
+bawA_1-o_1	6	-	-	0:main	Geo_ncert_6stnd_1ch_0124a.6:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_1ch_0125>
+#आप पृथ्वी एवं सौरमंडल पर एक क्विज प्रतियोगिता का आयोजन करें।
+#Apa pqWvI evaM sOramaMdala para eka kvija prawiyogiwA kA Ayojana kareM.
+#Organise a quiz contest on the earth and the solar system.
+$addressee	1	anim	-	11:k1	-	respect	-	-
+pqWvI	2	-	-	-	-	-	-	3:begin
+[ne_1]	3	ne	-	-	-	-	-	5:op1
+sOramaMdala_1(solar-system_1)	4	-	-	-	-	-	-	5:op2
+[conj_1]	5	-	-	11:k7	-	-	-	-
+eka_2(a_1)	6	-	-	9:quant	-	-	-	-
+kvija_1(quiz_2)	7	-	-	-	-	-	-	9:mod
+prawiyogiwA_5(contest_4)	8	-	-	-	-	-	-	9:head
+[nc_1]	9	-	-	10:r6	-	-	-	-
+Ayojana_3(organising_1)	10	-	-	11:k2	-	-	-	-
+kara_1-o_1	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>

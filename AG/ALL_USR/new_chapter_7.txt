@@ -1,0 +1,867 @@
+<segment_id=news_headline_7_0001H>
+#चीन के बीजिंग शहर के बाहरी इलाके में एक छोटा सा पुल ‘मार्को पोलो ब्रिज’ ।
+#cIna ke bIjiMga Sahara ke bAharI ilAke meM eka CotA sA pula ‘mArko polo brija’ .
+#A small bridge named “Marco Polo Bridge” lies on the outskirts of Beijing, China.
+cIna	1	-	-	-	-	-	-	19:begin
+bIjiMga	3	-	-	-	-	-	-	20:begin
+Sahara_1(city_6)	4	-	-	20:rs	-	-	-	-
+bAharI_1(outward_2)	6	-	-	7:mod	-	-	-	-
+ilAkA_1(locality_6)	7	-	-	21:k7p	-	-	-	-
+eka_2(a_1)	9	-	-	12:quant	-	-	-	-
+CotA_1(small_6)	10	-	-	12:mod	-	-	-	-
+pula_1(bridge_2)	12	-	-	21:rs	-	-	-	-
+mArko	14	-	-	-	-	-	-	21:begin
+polo	15	-	-	-	-	-	-	21:begin
+brija	16	-	-	-	-	-	-	21:inside
+[ne_1]	19	place	-	20:r6	-	-	-	-
+[ne_2]	20	place	-	7:r6	-	-	-	-
+[ne_3]	21	ne	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0002>
+#वहां अचानक हुई एक झड़प ने वो चिंगारी पैदा की , जिसने पूरे एशिया को युद्ध की आग में झोंक दिया ।
+#vahAM acAnaka huI eka JadZapa ne vo ciMgArI pExA kI , jisane pUre eSiyA ko yuxXa kI Aga meM JoMka xiyA .
+#An unexpected skirmish there sparked the flame that pushed all of Asia into the fires of war.
+$wyax	1	-	-	3:k7p	news_headline_7_0001H.9:coref	-	-	-
+acAnaka_1(suddenly_1)	2	-	-	3:krvn	-	-	-	-
+ho_7(happen_2)	3	-	kqw	5:mod	-	-	-	-
+eka_2(a_1)	4	-	-	5:quant	-	-	-	-
+JadZapa_1(skirmish_1)	5	-	-	25:k1	-	-	-	-
+$wyax	7	-	-	8:dem	-	-	-	-
+ciMgArI_1(spark_5)	8	-	-	25:k2	news_headline_7_0002.7:coref	-	-	-
+pExA_2(created_2)	9	-	-	-	-	-	-	25:kriyAmUla
+kara_1-yA_hE_2	10	-	-	-	-	-	-	25:verbalizer
+$yax	12	-	-	20:k1	-	-	-	-
+pUrA_1(complete_9)	13	-	-	24:mod	-	-	-	-
+eSiyA	14	-	-	-	-	-	-	24:begin
+yuxXa_1(war_3)	16	-	-	18:r6	-	-	-	-
+Aga_1(fire_4)	18	-	-	20:k7	-	-	-	-
+JoMka_1-yA_hE_2	20	-	-	8:rcelab	-	[shade:xe_1]	-	-
+[ne_1]	24	place	-	20:k2	-	-	-	-
+[cp_1]	25	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0003a>
+#जापानी सेना ने चीन में घुसपैठ शुरू की ।
+#jApAnI senA ne cIna meM GusapETa SurU kI .
+#The Japanese army began its intrusion into China.
+jApAnI_1(japanese_1)	1	-	-	2:mod	-	-	-	-
+senA_1(army_5)	2	-	-	10:k1	-	-	-	-
+cIna	4	-	-	-	-	-	-	11:begin
+GusapETa_1(intrusion_2)	6	-	-	10:k2	-	-	-	-
+SurU_3(start_15)	7	-	-	-	-	-	-	10:kriyAmUla
+kara_1-yA_hE_2	8	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	-	-	-	-
+[ne_1]	11	place	-	10:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0003b>
+#और देखते ही देखते शंघाई से लेकर नानजिंग तक शहर ध्वस्त होते चले गए ।
+#Ora xeKawe hI xeKawe SaMGAI se lekara nAnajiMga waka Sahara Xvaswa howe cale gae .
+#And soon, cities from Shanghai to Nanjing were destroyed.
+xeKa_3(watch_3)	2	-	dvitva	20:vkvn	-	-	-	-
+SaMGAI	5	-	-	-	-	-	-	18:begin
+nAnajiMga	8	-	-	-	-	-	-	19:begin
+Sahara_1(city_6)	10	-	-	20:k1	-	-	-	-
+Xvaswa_2(destroyed_4)	11	-	-	12:k1s	-	-	-	-
+ho_5(become_1)	12	-	-	20:rvks	-	-	-	-
+[conj_1]	17	-	-	10:re	-	-	-	-
+[ne_1]	18	-	-	-	-	-	-	17:op1
+[ne_2]	19	-	-	-	-	-	-	17:op2
+cala_1-yA_hE_2	20	-	-	0:main	-	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0004>
+#करीब नौ दशक बाद , 2025 में वही तनाव अब समुद्र और आसमान की सीमाओं में बदल गया है ।
+#karIba nO xaSaka bAxa , 2025 meM vahI wanAva aba samuxra Ora AsamAna kI sImAoM meM baxala gayA hE .
+#Nearly nine decades later, in 2025, the same tension has shifted to the seas and skies.
+9	2	numex	-	3:card	-	-	-	-
+xaSaka_1(decade_1)	3	-	-	23:k1	-	-	-	-
+2025	6	numex	-	17:k7t	17:k7t	-	-	-
+$wyax	8	-	-	9:dem	-	-	-	-
+wanAva_1(tension_2)	9	-	-	17:k1	-	-	-	-
+aba_1(now_3)	10	-	-	17:krvn	-	-	-	-
+samuxra_2(sea_12)	11	-	-	-	-	-	-	21:op1
+AsamAna_1(sky_4)	13	-	-	-	-	-	-	21:op2
+sImA_1(border_9)	15	-	pl	17:k7	-	-	-	-
+baxala_1-yA_hE_1	17	-	-	0:main	-	[shade:jA_1]	-	-
+[conj_1]	21	-	-	15:r6	-	-	-	-
+karIba_1	22	-	-	2:quant	-	-	-	-
+gujara_2(pass_13)	23	-	-	17:rblak	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0005a>
+#गोलियां नहीं चलीं ।
+#goliyAM nahIM calIM .
+#No bullets were fired.
+golI_1(bullet_1)	1	-	pl	3:k1	-	-	-	-
+nahIM_1(not_1)	2	-	-	3:neg	-	-	-	-
+cala_1-yA_hE_2	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0005b>
+#लेकिन रडार और टोही विमानों के बीच जो हो रहा है , वह किसी भी पुराने सैनिक को पुराने घावों की याद दिला देगा ।
+#lekina radAra Ora tohI vimAnoM ke bIca jo ho rahA hE , vaha kisI BI purAne sEnika ko purAne GAvoM kI yAxa xilA xegA .
+#But what’s happening between radars and reconnaissance aircraft would remind any veteran of old wounds.
+radAra_1(radar_2)	2	-	-	3:ccof	-	-	-	-
+toha_2(reconnaissance_1)	4	-	-	-	-	-	-	26:mod
+vimAna_2(aircraft_3)	5	-	-	-	-	-	-	26:head
+bIca_1	7	-	-	5:k7p	-	-	-	-
+$yax	8	-	-	9:k1	-	-	-	-
+ho_1	9	-	-	-	-	-	-	28:op1
+$wyax	13	-	-	23:k1	-	distal	-	-
+kisI	14	-	-	17:mod	-	-	-	-
+purAnA_1	16	-	-	17:mod	-	-	-	-
+sEnika_1	17	-	-	23:k4	-	-	-	-
+purAnA_1	19	-	-	20:mod	-	-	-	-
+GAva_1	20	-	-	22:r6-k2	-	-	-	-
+yAxa_1	22	-	-	-	-	-	-	27:kriyAmUla
+xilA_1-gA_1	23	-	-	-	-	[shade:xe_1]	-	27:verbalizer
+[nc_1]	26	-	-	3:ccof	-	-	-	-
+[cp_1]	27	-	-	0:main	news_headline_7_0005a.27:viroXI	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0006a>
+#इस सप्ताह , जापान ने चीन से कड़ी आपत्ति जताते हुए यह कहा है ।
+#isa sapwAha , jApAna ne cIna se kadZI Apawwi jawAwe hue yaha kahA hE .
+#This week, Japan strongly objected to China and said this.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+sapwAha_1(week_1)	2	-	-	13:k7t	-	-	-	-
+jApAna	4	-	-	-	-	-	-	14:begin
+cIna	6	-	-	-	-	-	-	15:begin
+kadZI_8	8	-	-	9:mod	-	-	-	-
+Apawwi_1(objection_1)	9	-	-	-	-	-	-	16:kriyAmUla
+jawA_1(display_3)	10	-	-	-	-	-	-	16:verbalizer
+$wyax	12	-	-	13:k2	-	proximal	-	-
+kaha_1-yA_hE_1	13	-	-	0:main	-	-	-	-
+[ne_1]	14	place	-	13:k1	-	-	-	-
+[ne_2]	15	place	-	16:k2	-	-	-	-
+[cp_1]	16	-	-	13:rvks	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0006b>
+#कि उसके लड़ाकू विमान लगातार जापानी टोही विमानों के बेहद करीब से उड़ान भर रहे हैं ।
+#ki usake ladZAkU vimAna lagAwAra jApAnI tohI vimAnoM ke behaxa karIba se udZAna Bara rahe hEM .
+#That Chinese fighter jets are flying extremely close to Japanese reconnaissance aircraft.
+$wyax	2	-	-	4:r6	-	distal	-	-
+ladZAkU_2	3	-	-	4:mod	-	-	-	-
+vimAna_2(aircraft_3)	4	-	-	19:k1	-	-	-	-
+lagAwAra_1(continuously_2)	5	-	-	19:krvn	-	-	-	-
+jApAnI_1(japanese_1)	6	-	-	18:mod	-	-	-	-
+toha_2(reconnaissance_1)	7	-	-	-	-	-	-	18:mod
+vimAna_2(aircraft_3)	8	-	pl	-	-	-	-	18:head
+behaxa_6	10	-	-	11:intf	-	-	-	-
+karIba_1(near_18)	11	-	-	19:krvn	-	-	-	-
+udZAna_1(flying_2)	13	-	-	-	-	-	-	19:kriyAmUla
+Bara_1-0_rahA_hE_1	14	-	-	-	-	-	-	19:verbalizer
+[nc_1]	18	-	-	11:rdl	-	-	-	-
+[cp_1]	19	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0007>
+#जापान के रक्षा मंत्रालय के अनुसार , चीनी ‘JH-7’ बमवर्षक विमान ने दो दिन लगातार जापानी ‘YS-11EB’ इलेक्ट्रॉनिक इंटेलिजेंस विमान के पास से उड़ान भरी ।
+#jApAna ke rakRA maMwrAlaya ke anusAra , cInI ‘_JH-7_’ bamavarRaka vimAna ne xo xina lagAwAra jApAnI ‘_YS-11EB_’ ilektrOYnika iMtelijeMsa vimAna ke pAsa se udZAna BarI .
+#According to Japan’s Defense Ministry, a Chinese JH-7 bomber flew close to a Japanese YS-11EB electronic intelligence aircraft for two consecutive days.
+jApAna	1	-	-	4:r6	-	-	-	40:begin
+rakRA	3	-	-	-	-	-	-	32:begin
+maMwrAlaya	4	-	-	-	-	-	-	32:inside
+cInI_6(Chinese_1)	8	-	-	9:mod	-	-	-	-
+@je.eca-7	9	-	-	13:mod	-	-	-	33:begin
+bamavarRaka_1(bomber_2)	12	-	-	-	-	-	-	-
+vimAna_2(aircraft_3)	13	-	-	-	-	-	-	-
+2	15	-	-	-	-	-	-	-
+xina_1(day_6)	16	-	-	-	-	-	-	-
+lagAwAra_1(continuously_2)	17	-	-	29:adv	-	-	-	-
+jApAnI_1(japanese_1)	18	-	-	19:mod	-	-	-	-
+vAI.esa-11.I.bI	20	-	-	-	-	-	-	35:begin
+ilektrOYnika_1(electronic_2)	22	-	-	-	-	-	-	37:begin
+iMtelijeMsa_1	23	-	-	-	-	-	-	38:mod
+vimAna_2(aircraft_3)	24	-	-	-	-	-	-	38:head
+pAsa_1(near_17)	26	-	-	24:k7p	-	-	-	-
+udZAna_1(flying_2)	28	-	-	29:k2	-	-	-	-
+Bara_1-yA_hE_2	29	-	-	0:main	-	-	-	-
+[ne_2]	32	org	-	29:k1	-	-	-	-
+[ne_3]	33	ne	-	29:k1	-	-	-	-
+[nc_1]	34	-	-	29:k1	-	-	-	-
+[ne_4]	35	-	-	29:rsm	-	-	-	-
+[ne_5]	36	-	-	29:rsm	-	-	-	-
+[ne_6]	37	-	-	29:rsm	-	-	-	-
+[nc_2]	38	-	-	29:rsm	-	-	-	-
+[meas_1]	39	-	-	29:k7t	-	-	-	-
+[ne_1]	40	place	-	32:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0008>
+#एक बार तो यह सिर्फ 30 मीटर की दूरी से गुजरा ।
+#eka bAra wo yaha sirPa 30 mItara kI xUrI se gujarA .
+#Once, it passed as close as just 30 meters.
+1	1	-	-	2:card	-	-	-	-
+bAra_1	2	-	-	11:k7t	-	wo_1	-	-
+$wyax	4	-	-	11:k1	-	proximal	-	-
+30	6	numex	-	-	-	-	-	14:count
+mItara_1(meter_3)	7	meas	-	-	-	-	-	14:unit
+xUrI_5(length_1)	9	-	-	11:rp	-	-	-	-
+gujara_1-yA_hE_2	11	-	-	0:main	-	-	-	-
+[length_meas]	14	-	-	9:rmeas	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0009a>
+#यह घटना जापानी हवाई क्षेत्र में नहीं हुई ।
+#yaha GatanA jApAnI havAI kRewra meM nahIM huI .
+#This incident did not occur in Japanese airspace.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+GatanA_1(incident_1)	2	-	-	8:k1	-	-	-	-
+jApAnI_1(japanese_1)	3	-	-	10:mod	-	-	-	-
+havAI_4(air_13)	4	-	-	-	-	-	-	10:mod
+kRewra_22	5	-	-	-	-	-	-	10:head
+nahIM_1	7	-	-	8:neg	-	-	-	-
+ho_1-yA_hE_2	8	-	-	0:main	-	-	-	-
+[nc_1]	10	-	-	8:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0009b>
+#लेकिन इसके कूटनीतिक मायने बेहद गहरे हैं ।
+#lekina isake kUtanIwika mAyane behaxa gahare hEM .
+#But its diplomatic implications are very deep.
+$wyax	2	-	-	4:r6	-	proximal	-	-
+kUtanIwika_1	3	-	-	4:mod	-	-	-	-
+mAyane_3	4	-	-	7:k1	-	-	-	-
+behaxa_6	5	-	-	6:intf	-	-	-	-
+gaharA_1	6	-	-	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0010>
+#जापान के उप विदेश मंत्री ताकेहिरो फुनाकोशी ने टोक्यो में चीन के राजदूत वू जियांगहाओ को तलब कर कड़ी आपत्ति दर्ज कराई ।
+#jApAna ke upa vixeSa maMwrI wAkehiro PunAkoSI ne tokyo meM cIna ke rAjaxUwa vU jiyAMgahAo ko walaba kara kadZI Apawwi xarja karAI .
+#Japan’s Deputy Foreign Minister summoned China’s ambassador in Tokyo and lodged a strong objection.
+jApAna	1	-	-	5:r6	-	-	-	-
+upa	3	male	-	-	-	-	-	24:begin
+vixeSa	4	-	-	-	-	-	-	24:inside
+maMwrI	5	-	-	-	-	-	-	24:inside
+wAkehiro	6	male	-	-	-	-	-	25:begin
+PunAkoSI	7	-	-	-	-	-	-	25:inside
+tokyo	9	-	-	22:k7p	-	-	-	26:begin
+cIna	11	-	-	13:r6	-	-	-	27:begin
+rAjaxUwa_1	13	-	-	15:nmod	-	-	-	-
+vU	14	-	-	-	-	-	-	31:begin
+jiyAMgahAo	15	-	-	-	-	-	-	31:inside
+walaba_1	17	-	-	-	-	-	-	28:kriyAmUla
+kara_1	18	-	-	-	-	-	-	28:verbalizer
+kadZI_1	19	-	-	20:mod	-	-	-	-
+Apawwi_1	20	-	-	22:k2	-	-	-	-
+xarja_1	21	-	-	-	-	-	-	29:kriyAmUla
+karA_1-yA_hE_2	22	-	-	-	-	-	-	29:verbalizer
+[ne_1]	24	per	-	7:nmod	-	-	-	-
+[ne_2]	25	per	-	7:nmod	-	-	-	-
+[ne_3]	26	place	-	22:k1	-	-	-	-
+[ne_4]	27	place	-	18:k4	-	-	-	-
+[cp_1]	28	-	-	22:rpk	-	-	-	-
+[cp_2]	29	-	-	0:main	-	-	-	-
+[ne_5]	30	-	-	-	-	-	-	-
+[ne_6]	31	place	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0010H>
+#जापान ने दी यह चेतावनी ।
+#jApAna ne xI yaha cewAvanI .
+#Japan issued this warning.
+jApAna	1	-	-	-	-	-	-	6:begin
+xe_1-yA_hE_2	3	-	-	0:main	-	-	-	-
+$wyax	4	-	-	5:dem	-	proximal	-	-
+cewAvanI_1(warning_1)	5	-	-	3:k2	-	-	-	-
+[ne_1]	6	place	-	3:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0011a>
+#जापान ने यह चेतावनी दी है ।
+#jApAna ne yaha cewAvanI xI hE .
+#Japan has issued this warning.
+jApAna	1	-	-	-	-	-	-	6:begin
+$wyax	3	-	-	4:dem	-	proximal	-	-
+cewAvanI_1(warning_1)	4	-	-	5:k2	-	-	-	-
+xe_1-yA_hE_1	5	-	-	0:main	-	-	-	-
+[ne_1]	6	place	-	5:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0011b>
+#कि यह हरकतें टकराव को न्योता दे सकती हैं ।
+#ki yaha harakaweM takarAva ko nyowA xe sakawI hEM .
+#That these actions could invite conflict.
+$wyax	2	-	-	3:dem	news_headline_7_0009a.2:coref	proximal	-	-
+harakawa_5(act_20)	3	-	pl	7:k1	-	-	-	-
+takarAva_3	4	-	-	7:k4	-	-	-	-
+nyowA_1(invitation_6)	6	-	-	7:k2	-	-	-	-
+xe_1-0_sakawA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0012a>
+#जापान ने यह कहा है ।
+#jApAna ne yaha kahA hE .
+#Japan has said this.
+jApAna	1	-	-	-	-	-	-	5:begin
+$wyax	3	-	-	4:k2	-	proximal	-	-
+kaha_1-yA_hE_1	4	-	-	0:main	-	-	-	-
+[ne_1]	5	place	-	4:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0012b>
+#कि चीन यह सुनिश्चित करे ।
+#ki cIna yaha suniSciwa kare .
+#That China must ensure this.
+cIna	2	-	-	-	-	-	-	8:begin
+$wyax	3	-	-	7:k2	-	proximal	-	-
+suniSciwa_1(assured_2)	4	-	-	-	-	-	-	7:kriyAmUla
+kara_1-e_1	5	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	0:main	-	-	-	-
+[ne_1]	8	place	-	7:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0012c>
+#कि यह ऐसा दोबारा न हो ।
+#ki yaha EsA xobArA na ho .
+#That this should not happen again.
+$wyax	2	-	-	6:dem	-	-	-	-
+xobArA_3(again_7)	3	-	-	5:krvn	-	-	-	-
+na_1(not_2)	4	-	-	5:neg	-	-	-	-
+ho_1-e_1	5	-	-	0:main	-	-	-	-
+prakAra_5(way_8)	6	-	-	5:k1s	-	-	-	-
+$wyax	7	-	-	5:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0013a>
+#चीन ने इस बार कोई आधिकारिक बयान नहीं दिया ।
+#cIna ne isa bAra koI AXikArika bayAna nahIM xiyA .
+#This time China has not issued any official statement.
+cIna	1	-	-	-	-	-	-	10:begin
+$wyax	3	-	-	4:dem	-	proximal	-	-
+bAra_15(time_42)	4	-	-	9:k7t	-	-	-	-
+koI_1(any_1)	5	-	-	7:mod	-	-	-	-
+AXikArika_1(official_1)	6	-	-	7:mod	-	-	-	-
+bayAna_1(statement_4)	7	-	-	9:k2	-	-	-	-
+nahIM_1	8	-	-	9:neg	-	-	-	-
+xe_1-yA_hE_2	9	-	-	0:main	-	-	-	-
+[ne_1]	10	place	-	9:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0013b>
+#लेकिन कुछ हफ्ते पहले वह खुद जापान पर अपने विमानों के पास उड़ान भरने और निगरानी करने का आरोप लगा चुका है ।
+#lekina kuCa haPwe pahale vaha Kuxa jApAna para apane vimAnoM ke pAsa udZAna Barane Ora nigarAnI karane kA Aropa lagA cukA hE .
+#But a few weeks ago, China accused Japan of flying close to its aircraft and conducting surveillance.
+kuCa_1(some_2)	2	-	-	3:quant	-	-	-	-
+haPwA_1(week_5)	3	-	pl	4:rkl	-	-	-	-
+pahalA_9(before_1)	4	-	-	27:k7p	news_headline_7_0013a.1:coref	-	-	-
+$wyax	5	-	-	27:k1	news_headline_7_0013a.1:coref	distal	-	-
+Kuxa_2	6	-	-	27:krvn	-	-	-	-
+jApAna	7	-	-	-	news_headline_7_0013a.1:coref	-	-	26:begin
+apanA	9	-	-	10:r6	-	-	-	-
+vimAna_2(aircraft_3)	10	-	pl	12:rdl	-	-	-	-
+pAsa_1(near_17)	12	-	-	25:k7p	-	-	-	-
+udZAna_1(flying_2)	13	-	-	-	-	-	-	25:kriyAmUla
+Bara_7(fill_6)	14	-	-	-	-	-	-	25:verbalizer
+nigarAnI_4(surveillance_1)	16	-	-	-	-	-	-	24:kriyAmUla
+kara_17(do_2)	17	-	-	-	-	-	-	24:verbalizer
+Aropa_10(accusation_5)	19	-	-	-	-	-	-	27:kriyAmUla
+lagA_1-0_cukA_hE_1	20	-	-	-	-	-	-	27:verbalizer
+[cp_1]	24	-	-	-	-	-	-	28:op1
+[cp_2]	25	-	-	-	-	-	-	28:op2
+[ne_1]	26	-	-	27:k7	-	-	-	-
+[cp_3]	27	-	-	0:main	-	-	-	-
+[conj_1]	28	-	-	27:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0014>
+#जापान और चीन के बीच बढ़ते तनाव को महज ‘रक्षा गतिविधि’ कहकर नहीं टाला जा सकता ।
+#jApAna Ora cIna ke bIca baDZawe wanAva ko mahaja ‘rakRA gawiviXi’ kahakara nahIM tAlA jA sakawA .
+#The rising tension between Japan and China cannot be dismissed merely as “defense activity.”
+jApAna	1	male	-	-	-	-	-	23:op1
+cIna	3	male	-	-	-	-	-	23:op2
+bIca_1	5	-	-	3:k7p	-	-	-	-
+baDZawe_1	6	-	-	7:nmod__k1inv	-	-	-	-
+wanAva_1	7	-	-	14:k2	-	-	-	-
+‘	10	-	-	-	-	-	-	20:begin
+rakRA_1	11	-	-	-	-	-	-	21:mod
+gawiviXi_1	12	-	-	-	-	-	-	21:head
+’	13	-	-	-	-	-	-	22:kriyAmUla
+kaha_1	14	-	-	-	-	-	-	22:verbalizer
+nahIM_1	15	-	-	16:neg	-	-	-	-
+tAla_1-yA_jA_1	16	-	-	0:main	-	-	-	-
+[ne_1]	20	-	-	14:k2	-	-	-	-
+[nc_1]	21	-	-	14:k2	-	-	-	-
+[cp_1]	22	-	-	16:rpk	-	-	-	-
+[conj_1]	23	-	-	6:k7	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0015>
+#इतिहास , असुरक्षा और शक्ति संतुलन की राजनीति पूरे एशिया को प्रभावित करती है ।
+#iwihAsa , asurakRA Ora Sakwi saMwulana kI rAjanIwi pUre eSiyA ko praBAviwa karawI hE .
+#History, insecurity, and power-balance politics affect the whole of Asia.
+iwihAsa_1(history_1)	1	-	-	-	-	-	-	18:op1
+asurakRA_2	3	-	-	-	-	-	-	18:op2
+Sakwi_1(power_20)	5	-	-	-	-	-	-	20:mod
+saMwulana_1(balance_7)	6	-	-	-	-	-	-	20:head
+rAjanIwi_1(politics_1)	8	-	-	-	-	-	-	21:head
+pUrA_2(all_5)	9	-	-	10:quant	-	-	-	-
+eSiyA	10	-	-	-	-	-	-	19:begin
+praBAviwa_1(infulence_1)	12	-	-	-	-	-	-	17:kriyAmUla
+kara_1-wA_hE_1	13	-	-	-	-	-	-	17:verbalizer
+[cp_1]	17	-	-	0:main	-	-	-	-
+[conj_1]	18	-	-	17:k1	-	-	-	-
+[ne_1]	19	place	-	17:k2	-	-	-	-
+[nc_1]	20	-	-	-	-	-	-	21:mod
+[nc_2]	21	-	-	-	-	-	-	18:op3
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0016a>
+#जापान-चीन के बीच युद्ध हुआ था ।
+#jApAna-cIna ke bIca yuxXa huA WA.
+#It had happened between Japan and China.
+jApAna	1	-	-	-	-	-	-	5:begin
+ho_1-yA_WA_1	4	-	-	0:main	-	-	-	-
+[ne_1]	5	place	-	-	-	-	-	9:op1
+cIna	6	-	-	-	-	-	-	7:begin
+[ne_2]	7	place	-	-	-	-	-	9:op2
+yuxXa_1(war_3)	8	-	-	4:k1	-	-	-	-
+[conj_1]	9	-	-	4:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0016b>
+#युद्ध 1937 में शुरू हुआ ।
+#yuxXa 1937 meM SurU huA .
+#The war began in 1937.
+yuxXa_1(war_3)	1	-	-	7:k1	-	-	-	-
+1937	2	yoc	-	7:k7t	5:k7t	-	-	-
+SurU_3(start_15)	4	-	-	-	-	-	-	7:kriyAmUla
+ho_1-yA_hE_2	5	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0016c>
+#दूसरा सिनो-जापान युद्ध 1945 तक चला , जहां जापान ने चीन पर कब्जा करने की कोशिश की ।
+#xUsarA sino-jApAna yuxXa 1945 waka calA , jahAM jApAna ne cIna para kabjA karane kI koSiSa kI .
+#The Second Sino–Japanese War lasted until 1945, during which Japan tried to occupy China.
+xUsarA_1(second_1)	1	-	-	21:ord	-	-	-	-
+sino-jApAna	2	-	-	-	-	-	-	21:begin
+yuxXa	3	-	-	-	-	-	-	21:inside
+1945	4	yoc	-	-	6:k7t	-	-	22:end
+cala_1-yA_hE_2	6	-	-	0:main	news_headline_7_0016c.3:coref	-	-	-
+$yax	8	-	-	20:k7p	-	-	-	-
+jApAna	9	-	-	-	-	-	-	23:begin
+cIna	11	-	-	-	-	-	-	24:begin
+kabjA_1	13	-	-	-	-	-	-	19:kriyAmUla
+kara_17(do_2)	14	-	-	-	-	-	-	19:verbalizer
+koSiSa_3(attempt_4)	16	-	-	-	-	-	-	20:kriyAmUla
+kara_1-yA_hE_2	17	-	-	-	-	-	-	20:verbalizer
+[cp_1]	19	-	-	20:k2	-	-	-	-
+[cp_2]	20	-	-	21:rcelab	-	-	-	-
+[ne_1]	21	ne	-	6:k1	-	-	-	-
+[span_1]	22	-	-	6:k7t	-	-	-	-
+[ne_1]	23	-	-	20:k1	-	-	-	-
+[ne_2]	24	-	-	20:k7	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0016d>
+#और चीन ने भारी तबाही झेली ।
+#Ora cIna ne BArI wabAhI JelI .
+#And China suffered massive devastation.
+cIna	2	-	-	-	-	-	-	9:begin
+BArI_3(massive_1)	4	-	-	5:mod	-	-	-	-
+wabAhI_3(destruction_2)	5	-	-	6:k2	-	-	-	-
+Jela_1-yA_hE_2	6	-	-	0:main	-	-	-	-
+[ne_1]	9	-	-	6:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0017>
+#यह युद्ध दूसरे विश्व युद्ध के हिस्से के रूप में देखा जाता है , खासकर 1941 के बाद से जब जापान ने पर्ल हार्बर पर हमला किया ।
+#yaha yuxXa xUsare viSva yuxXa ke hisse ke rUpa meM xeKA jAwA hE , KAsakara 1941 ke bAxa se jaba jApAna ne parla hArbara para hamalA kiyA .
+#This war is considered part of World War II, especially after 1941 when Japan attacked Pearl Harbor.
+$wyax	1	-	-	2:dem	news_headline_7_0016c.3:coref	proximal	-	-
+yuxXa_1	2	-	-	11:k1	-	-	-	-
+xUsarA_1	3	-	-	5:nmod__adj	-	-	-	-
+viSva	4	male	-	-	-	-	-	29:begin
+yuxXa_1	5	-	-	-	-	-	-	29:inside
+hissA_1	7	-	-	11:k7	-	-	-	-
+xeKa_1-yA_jA_wA_hE_1	11	-	-	0:main	-	-	-	-
+KAsakara_1	15	-	-	27:adv	-	-	-	-
+1941	16	numex	-	27:k7t	-	-	-	-
+bAxa_1	18	-	-	16:k7p	-	-	-	-
+$yax	20	-	-	27:k7t	-	-	-	-
+jApAna	21	male	-	27:k1	-	-	-	-
+parla	23	-	-	-	-	-	-	30:begin
+hArbara	24	-	-	-	-	-	-	30:inside
+hamalA_1	26	-	-	-	-	-	-	31:kriyAmUla
+kara_1	27	-	-	-	-	-	-	31:verbalizer
+[ne_1]	29	-	-	7:r6	-	-	-	-
+[ne_2]	30	-	-	27:k7p	-	-	-	-
+[cp_1]	31	-	-	11:nmod__relc	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0018a>
+#हालांकि , अंत में जापान को पीछे हटना पड़ा ।
+#hAlAMki , aMwa meM jApAna ko pICe hatanA padZA .
+#However, in the end, Japan had to retreat.
+aMwa_1	3	-	-	8:k7	-	-	-	-
+jApAna	5	male	-	8:k1	-	-	-	-
+pICA_1	7	-	-	8:k7	-	-	-	-
+hata_1-nA_padZA_1	8	-	-	-	-	-	-	11:op1
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0018b>
+#" लेकिन दोनों देशों के बीच अविश्वास की दीवार वहीं से उठी, जो आज तक जस की तस खड़ी है ।"
+#" lekina xonoM xeSoM ke bIca aviSvAsa kI xIvAra vahIM se uTI, jo Aja waka jasa kI wasa KadZI hE ."
+#"But the wall of distrust between the two countries rose from there and still stands unchanged today."
+xonA	3	-	-	4:card	-	-	-	-
+xeSa_1	4	-	-	12:k7	-	-	-	-
+bIca_1	6	-	-	4:k7p	-	-	-	-
+aviSvAsa_1	7	-	-	9:r6	news_headline_7_0018b.5:coref	-	-	-
+xIvAra_1	9	-	-	12:k1	-	-	-	-
+vahIM	10	-	-	-	-	-	-	24:start
+uTa_1	12	-	-	-	-	-	-	25:op1
+$yax	14	-	-	0:k1	-	-	-	-
+Aja_1	15	-	-	-	-	-	-	24:end
+jasa_1	17	-	-	19:r6	-	-	-	-
+wasa_1	19	-	-	0:k2	-	-	-	-
+KadZI_1	20	-	-	-	-	-	-	23:kriyAmUla
+hE"	21	-	-	-	-	-	-	22:begin
+[ne_1]	22	-	-	0:pof__cn	-	-	-	-
+[cp_1]	23	-	-	-	-	-	-	-
+[span_1]	24	-	-	0:k7t	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0019a>
+#हालांकि असली वजह सिर्फ एक गोली नहीं थी ।
+#hAlAMki asalI vajaha sirPa eka golI nahIM WI .
+#However, the real reason was not just a single bullet.
+asalI_1	2	-	-	3:mod	-	-	-	-
+vajaha_1	3	-	-	8:k1	-	-	-	-
+eka_1	5	-	-	6:card	-	-	-	-
+golI_1	6	-	-	8:k1s	-	-	-	-
+nahIM_1	7	-	-	8:neg	-	-	-	-
+hE_1-past	8	-	-	-	-	-	-	10:op1
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0019b>
+#बल्कि जापान की विस्तारवादी महत्वाकांक्षा , मंचूरिया पर पहले से कब्जा , और चीन की राजनीतिक कमजोरी जैसे कारक पहले से ही टकराव की जमीन तैयार कर चुके थे ।
+#balki jApAna kI viswAravAxI mahawvAkAMkRA , maMcUriyA para pahale se kabjA , Ora cIna kI rAjanIwika kamajorI jEse kAraka pahale se hI takarAva kI jamIna wEyAra kara cuke We .
+#But Japan’s expansionist ambitions, its prior occupation of Manchuria, and China’s political weakness had already set the stage for conflict.
+jApAna	2	male	-	5:r6	-	-	-	-
+viswAravAxI_1	4	-	-	5:mod	-	-	-	-
+mahawvAkAMkRA_1	5	-	-	27:k1	-	-	-	-
+maMcUriyA	7	-	-	27:k7p	-	-	-	-
+pahalA_1	9	-	-	27:k7t	-	-	-	-
+kabjA_1	11	-	-	13:ccof	-	-	-	-
+cIna	14	male	-	17:r6	-	-	-	-
+rAjanIwika_1	16	-	-	17:mod	-	-	-	-
+kamajorI_1	17	-	-	13:ccof	-	-	-	-
+kAraka_1	19	-	-	20:mod	-	-	-	-
+pahalA_1	20	-	-	27:k7t	-	-	-	-
+takarAva_1	23	-	-	25:r6	-	-	-	-
+jamIna_1	25	-	-	27:k2	-	-	-	-
+wEyAra_1	26	-	-	-	-	-	-	31:kriyAmUla
+kara_1-subj_WA_1	27	-	-	-	-	[shade:cuka_1]	-	31:verbalizer
+[cp_1]	31	-	-	-	-	-	-	32:op1
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0019H>
+#यह भी पढ़ें- बस रोकी , ID कार्ड देखा और 9 पंजाबियों को गोली मार दी… पाकिस्तान में दिल दहला देने वाली घटना
+#yaha BI paDZeM- basa rokI , _ID_ kArda xeKA Ora 9 paMjAbiyoM ko golI mAra xI… pAkiswAna meM xila xahalA xene vAlI GatanA
+#Read also — the shocking incident in Pakistan where a bus was stopped, ID cards checked, and nine Punjabis were shot dead.
+$wyax	1	-	-	3:k1	-	proximal	-	-
+paDZeM_1	3	-	-	5:nmod__relc	-	-	-	-
+basa_1	5	-	-	6:k2	-	-	-	-
+roka_1	6	-	-	-	-	-	-	28:op1
+ID	8	-	-	-	-	-	-	25:mod
+kArda_1	9	-	-	-	-	-	-	25:head
+xeKa_1	10	-	-	-	-	-	-	28:op2
+9	12	numex	-	13:card	-	-	-	-
+paMjAbI_1	13	-	-	16:k4	-	-	-	-
+golI_1	15	-	-	-	-	-	-	26:kriyAmUla
+mAra_1	16	-	-	-	-	-	-	26:verbalizer
+pAkiswAna	18	male	-	22:k7p	-	-	-	-
+xila_1	20	-	-	22:k2	-	-	-	-
+xahalA_1	21	-	-	-	-	-	-	27:kriyAmUla
+xe_1	22	-	-	-	-	-	-	27:verbalizer
+GatanA_1	24	-	-	0:main	-	-	-	-
+[nc_1]	25	-	-	10:k2	-	-	-	-
+[cp_1]	26	-	-	0:nmod__k1inv	-	-	-	-
+[cp_2]	27	-	-	24:nmod	-	-	-	-
+[conj_1]	28	-	-	0:rs	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0020a>
+#जापान यह चाहता था ।
+#jApAna yaha cAhawA WA .
+#Japan wanted this.
+jApAna	1	male	-	3:k1	-	-	-	-
+$wyax	2	-	-	3:k2	-	proximal	-	-
+cAha_1-wA_WA_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0020b>
+#कि वह पूरे पूर्वी एशिया में अपना वर्चस्व बनाए ।
+#ki vaha pUre pUrvI eSiyA meM apanA varcasva banAe .
+#That it should establish dominance over all of East Asia.
+$wyax	2	-	-	9:k1	-	distal	-	-
+pUrA_1	3	-	-	9:k7	-	-	-	-
+pUrvI_1	4	-	-	3:mod	-	-	-	-
+eSiyA	5	female	-	9:k7p	news_headline_7_0020a.1:coref	-	-	-
+apanA	7	-	-	8:r6	-	-	-	-
+varcasva_1	8	-	-	9:k2	-	-	-	-
+banA_1-e_1	9	-	-	-	-	-	-	11:op1
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0020c>
+#और उसे यह लगा ।
+#Ora use yaha lagA .
+#And it felt this.
+$wyax	2	-	-	4:k4a	-	distal	-	-
+$wyax	3	-	-	4:k1	-	proximal	-	-
+lagA_1-0_1	4	-	-	-	-	-	-	6:op1
+[conj_1]	6	-	-	0:main	news_headline_7_0020a.6:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0020d>
+#कि आंतरिक संघर्षों से जूझ रहा चीन इसका सबसे आसान रास्ता है ।
+#ki AMwarika saMGarRoM se jUJa rahA cIna isakA sabase AsAna rAswA hE .
+#That China, struggling with internal conflicts, was the easiest route.
+AMwarika_1	2	-	-	3:mod	news_headline_7_0020b.6:coref	-	-	-
+saMGarRoM_1	3	-	-	5:ras-k1	-	-	-	-
+jUJa_1	5	-	-	7:nmod__k1inv	-	-	-	-
+cIna	7	male	-	12:k1	-	-	-	-
+$wyax	8	-	-	11:r6	-	proximal	-	-
+AsAna_1	10	-	superl	11:mod	-	-	-	-
+rAswA_1	11	-	-	12:k1s	-	-	-	-
+hE_1-pres	12	-	-	-	-	-	-	14:op1
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0021a>
+#लेकिन यह युद्ध एक सीमित सैन्य कार्रवाई नहीं रहा ।
+#lekina yaha yuxXa eka sImiwa sEnya kArravAI nahIM rahA .
+#But this war did not remain a limited military campaign.
+$wyax	2	-	-	3:dem	-	proximal	-	-
+yuxXa_1	3	-	-	9:k1	-	-	-	-
+eka_1	4	-	-	7:card	-	-	-	-
+sImiwa_1	5	-	-	7:mod	-	-	-	-
+sEnya_1	6	-	-	5:mod	-	-	-	-
+kArravAI_1	7	-	-	9:k1s	-	-	-	-
+nahIM_1	8	-	-	9:neg	-	-	-	-
+raha_1-yA_1	9	-	-	-	-	-	-	11:op1
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0021b>
+#बल्कि एक ऐसा खूनखराबा बन गया ।
+#balki eka EsA KUnaKarAbA bana gayA .
+#Instead, it turned into a bloodbath.
+eka_1	2	-	-	4:card	-	-	-	-
+EsA	3	-	-	4:nmod__adj	-	-	-	-
+KUnaKarAbA_1	4	-	-	5:k1	-	-	-	-
+bana_1-yA_1	5	-	-	-	-	[shade:jA_1]	-	8:op1
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0021c>
+#जिसने न सिर्फ लाखों जानें लीं ।
+#jisane na sirPa lAKoM jAneM lIM .
+#Which not only took millions of lives.
+$yax	1	-	-	5:k1	news_headline_7_0021b.3:coref	-	-	-
+na_1	2	-	-	5:neg	-	-	-	-
+lAKa	4	-	-	5:k2	-	-	-	-
+jAna_1	5	-	-	6:vmod	-	-	-	-
+le_1-yA_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0021d>
+#बल्कि जिसने एशिया की भू-राजनीतिक दिशा हमेशा के लिए बदल दी ।
+#balki jisane eSiyA kI BU-rAjanIwika xiSA hameSA ke lie baxala xI .
+#But also changed Asia’s geopolitical landscape forever.
+$yax	2	-	-	10:k1	-	-	-	-
+eSiyA	3	female	-	6:r6	-	-	-	-
+BU-rAjanIwika	5	-	-	6:mod	-	-	-	-
+xiSA_1	6	-	-	10:k2	-	-	-	-
+hameSA_1	7	-	-	10:rt	-	-	-	-
+baxala_1-yA_1	10	-	-	-	-	[shade:xe_1]	-	13:op1
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0022a>
+#अब जब जापानी ‘एयर सेल्फ-डिफेंस फोर्स’ के विमान और चीनी फाइटर जेट बार-बार एक-दूसरे के बेहद करीब से उड़ते हैं ।
+#aba jaba jApAnI ‘eyara selPa-diPeMsa Porsa’ ke vimAna Ora cInI PAitara jeta bAra-bAra eka-xUsare ke behaxa karIba se udZawe hEM .
+#Now, when Japanese Air Self-Defense Force planes and Chinese fighter jets repeatedly fly extremely close to each other.
+aba	1	-	-	21:k7t	-	-	-	-
+$yax	2	-	-	21:k7t	-	-	-	-
+jApAnI_1	3	-	-	8:mod	-	-	-	-
+‘	4	-	-	-	-	-	-	24:begin
+eyara	5	male	-	-	-	-	-	25:begin
+selPa-diPeMsa	6	-	-	-	-	-	-	26:begin
+Porsa	7	-	-	-	-	-	-	27:begin
+’	8	-	-	-	-	-	-	27:inside
+vimAna_1	10	-	-	-	-	-	-	29:op1
+cInI_1	12	-	-	14:mod	-	-	-	-
+PAitara_1	13	-	-	-	-	-	-	28:mod
+jeta	14	-	-	-	-	-	-	28:head
+bAra-bAra	15	-	xviwva	21:adv	-	-	-	-
+eka-xUsare	16	-	-	19:r6	-	-	-	-
+behaxa_1	18	-	-	19:quant	-	-	-	-
+karIba_1	19	-	-	21:k7t	-	-	-	-
+udZa_1-wA_hE_1	21	-	-	0:main	news_headline_7_0022c.21:AvaSyakawApariNAma	-	-	-
+[ne_1]	24	-	-	10:r6	-	-	-	-
+[ne_2]	25	-	-	10:r6	-	-	-	-
+[ne_3]	26	-	-	10:r6	-	-	-	-
+[ne_4]	27	-	-	10:r6	-	-	-	-
+[nc_1]	28	-	-	-	-	-	-	29:op2
+[conj_1]	29	-	-	21:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0022b>
+#तो यह सिर्फ सैन्य शक्ति का प्रदर्शन नहीं होता है ।
+#wo yaha sirPa sEnya Sakwi kA praxarSana nahIM howA hE .
+#It is not just a show of military strength.
+$wyax	2	-	-	9:k1	-	proximal	-	-
+sEnya_1	4	-	-	5:mod	-	-	-	-
+Sakwi_1	5	-	-	7:r6-k2	-	-	-	-
+praxarSana_1	7	-	-	-	-	-	-	12:kriyAmUla
+nahIM_1	8	-	-	9:neg	-	-	-	-
+ho_1-wA_hE_1	9	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	-	-	-	-	13:op1
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0022c>
+#बल्कि उस पुराने इतिहास को दोहराने जैसा होता है ।
+#balki usa purAne iwihAsa ko xoharAne jEsA howA hE .
+#It resembles a repetition of old history.
+$wyax	2	-	-	4:dem	-	distal	-	-
+purAnA_1	3	-	-	4:mod	-	-	-	-
+iwihAsa_1	4	-	-	6:k2	-	-	-	-
+xoharA_1	6	-	-	8:vmod	-	-	-	-
+ho_1-wA_hE_1	8	-	-	-	-	-	-	11:op1
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0023>
+#पिछले महीने भी चीन के लड़ाकू विमान जापानी ‘पी-3सी’ निगरानी विमान के बेहद करीब देखे गए थे ।
+#piCale mahIne BI cIna ke ladZAkU vimAna jApAnI ‘pI-3sI’ nigarAnI vimAna ke behaxa karIba xeKe gae We .
+#Last month too, Chinese fighter jets were seen extremely close to a Japanese P-3C surveillance aircraft.
+piCalA_1	1	-	-	2:mod	-	-	-	-
+mahInA_1	2	-	-	17:k7t	-	-	-	-
+cIna	4	male	-	7:r6	-	-	-	-
+ladZAkU_1	6	-	-	7:mod	-	-	-	-
+vimAna_1	7	-	-	17:k2	-	-	-	-
+jApAnI_1	8	-	-	9:mod	-	-	-	-
+‘	9	-	-	17:k2	-	-	-	-
+pI-3sI	10	-	-	13:nmod__adj	-	-	-	-
+’	11	-	-	-	-	-	-	21:begin
+nigarAnI_1	12	-	-	-	-	-	-	22:mod
+vimAna_1	13	-	-	-	-	-	-	22:head
+behaxa_1	15	-	-	16:quant	-	-	-	-
+karIba_1	16	-	-	17:k7t	-	-	-	-
+xeKa_1-subj_gae_WA_1	17	-	-	0:main	-	-	-	-
+[ne_1]	21	-	-	16:r6	-	-	-	-
+[nc_1]	22	-	-	16:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0024>
+#और तब भी जगह थी खुले समुद्र का वही इलाका , जहां पहली बार दो चीनी एयरक्राफ्ट कैरियर एक साथ ऑपरेशन कर रहे थे ।
+#Ora waba BI jagaha WI Kule samuxra kA vahI ilAkA , jahAM pahalI bAra xo cInI eyarakrAPta kEriyara eka sAWa OYpareSana kara rahe We .
+#That time too, it was the same part of the open sea where, for the first time, two Chinese aircraft carriers were operating together.
+waba	2	-	-	0:k7t	-	-	-	-
+jagaha_1	4	-	-	5:k1	-	-	-	-
+WA_1	5	-	-	7:nmod__k1inv	-	-	-	-
+KulA_1	6	-	-	7:mod	-	-	-	-
+samuxra_1	7	-	-	10:r6	news_headline_7_0024.6:coref	-	-	-
+vahI	9	-	-	10:dem	-	-	-	-
+ilAkA_1	10	-	-	0:main	news_headline_7_0023.10:samuccaya	-	-	-
+jahAM	12	-	-	22:k1	-	-	-	-
+pahalA_1	13	-	-	14:nmod__adj	-	-	-	-
+bAra_1	14	-	-	22:k7t	-	-	-	-
+xo	15	-	-	18:card	-	-	-	-
+cInI_1	16	-	-	18:mod	-	-	-	-
+eyarakrAPta_1	17	-	-	-	-	-	-	26:mod
+kEriyara_1	18	-	-	-	-	-	-	26:head
+eka_1	19	-	-	20:card	-	-	-	-
+sAWa_1	20	-	-	22:adv	-	-	-	-
+OYpareSana_1	21	-	-	-	-	-	-	27:kriyAmUla
+kara_1	22	-	-	-	-	-	-	27:verbalizer
+[nc_1]	26	-	-	22:k1	-	-	-	-
+[cp_1]	27	-	-	10:nmod__relc	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0025a>
+#जापान यह मानता है  ।
+#jApAna yaha mAnawA hE  .
+#Japan believes this.
+jApAna	1	male	-	3:k1	-	-	-	-
+$wyax	2	-	-	3:k2	-	proximal	-	-
+mAna_1-wA_hE_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0025b>
+#कि यह चीन की रणनीति का हिस्सा है ।
+#ki yaha cIna kI raNanIwi kA hissA hE .
+#That this is part of China’s strategy.
+$wyax	2	-	-	8:k1	-	proximal	-	-
+cIna	3	male	-	5:r6	-	-	-	-
+raNanIwi_1	5	-	-	7:r6	-	-	-	-
+hissA_1	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	-	-	-	-	10:op1
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0026>
+#चीन इसके जरिए दबाव बनाना , निगरानी को रोकना और क्षेत्रीय वर्चस्व का प्रदर्शन करना चाहता है ।
+#cIna isake jarie xabAva banAnA , nigarAnI ko rokanA Ora kRewrIya varcasva kA praxarSana karanA cAhawA hE .
+#China wants to use this to create pressure, block surveillance, and show regional dominance.
+cIna	1	male	-	5:k1	-	-	-	-
+$wyax	2	-	-	5:k3	news_headline_7_0025b.3:coref	proximal	-	-
+xabAva_1	4	-	-	5:k2	-	-	-	-
+banA_1	5	-	-	-	-	-	-	20:op1
+nigarAnI_1	7	-	-	9:k2	-	-	-	-
+roka_1	9	-	-	-	-	-	-	20:op2
+kRewrIya_1	11	-	-	12:mod	-	-	-	-
+varcasva_1	12	-	-	14:r6-k2	-	-	-	-
+praxarSana_1	14	-	-	-	-	-	-	19:kriyAmUla
+kara_1	15	-	-	-	-	-	-	19:verbalizer
+cAha_1-wA_hE_1	16	-	-	0:main	-	-	-	-
+[cp_1]	19	-	-	-	-	-	-	20:op3
+[conj_1]	20	-	-	16:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0027>
+#चीन इसे अपनी आत्मरक्षा का अधिकार कहता है ।
+#cIna ise apanI AwmarakRA kA aXikAra kahawA hE .
+#China calls this its right to self-defense.
+cIna	1	male	-	7:k1	-	-	-	-
+$wyax	2	-	-	7:k2	news_headline_7_0026.9:coref	proximal	-	-
+apanA	3	-	-	4:r6	news_headline_7_0027.1:coref	-	-	-
+AwmarakRA_1	4	-	-	6:r6	-	-	-	-
+aXikAra_1	6	-	-	7:k2s	-	-	-	-
+kaha_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0028a>
+#जब भी ऐसा तनाव होता है ।
+#jaba BI EsA wanAva howA hE .
+#Whenever such tension occurs.
+$yax	1	-	-	5:k7t	-	-	-	-
+EsA	3	-	-	4:dem	-	-	-	-
+wanAva_1	4	-	-	5:k1	-	-	-	-
+ho_1-wA_hE_1	5	-	-	0:main	news_headline_7_0028b.5:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0028b>
+#तो , यही सवाल उठता है ।
+#wo , yahI savAla uTawA hE .
+#Then the same question arises.
+yahI	3	-	-	4:dem	-	-	-	-
+savAla_1	4	-	-	5:k1	-	-	-	-
+uTa_1-wA_hE_1	5	-	-	-	-	-	-	8:op1
+%affirmative
+</segment_id>
+<segment_id=news_headline_7_0028c>
+#कि क्या जापान और चीन के बीच तीसरा युद्ध हो जाएगा।
+#ki kyA jApAna Ora cIna ke bIca wIsarA yuxXa ho jAegA.
+#Whether a third war between Japan and China will break out.
+$kim	2	-	-	10:adv	-	-	-	-
+jApAna	3	male	-	4:ccof	-	-	-	-
+cIna	5	male	-	4:ccof	-	-	-	-
+bIca_1	7	-	-	5:k7p	-	-	-	-
+wIsarA_1	8	-	-	9:nmod__adj	-	-	-	-
+yuxXa_1	9	-	-	10:k1	-	-	-	-
+ho_1-gA_1	10	-	-	-	-	[shade:jA_1]	-	13:op1
+%affirmative
+</segment_id>

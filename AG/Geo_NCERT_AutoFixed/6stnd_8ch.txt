@@ -1,0 +1,1619 @@
+<segment_id=Geo_ncert_6stnd_8ch_0001H>
+#भारत: जलवायु, वनस्पति तथा वन्य प्राणी।
+#BArawa: jalavAyu, vanaspawi waWA vanya prANI.
+#INDIA : CLIMATE, VEGETATION AND WILDLIFE
+BArawa	1	male	-	-	-	-	-	10:begin
+jalavAyu_1	3	-	-	-	-	-	-	11:op2
+vanaspawi_1	5	-	-	-	-	-	-	11:op3
+vanya_1	7	-	-	8:mod	-	-	-	-
+prANI_1	8	-	-	-	-	-	-	11:op4
+[ne_1]	10	place	-	-	-	-	-	11:op1
+[conj_1]	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0002a>
+#आप मौसम के बारे में प्रतिदिन समाचार पत्रों में पढते हैं।
+#Apa mOsama ke bAre meM prawixina samAcAra pawroM meM paDawe hEM.
+#You read in newspapers daily and watch on T.V. or hear others talking about weather.
+$addressee	1	-	-	10:k1	-	respect	-	-
+mOsama_1	2	-	-	10:k7	-	-	-	-
+prawixina_1	6	-	-	10:k7t	-	-	-	-
+samAcAra_1	7	-	-	-	-	-	-	13:mod
+pawra_1	8	-	pl	-	-	-	-	13:head
+paDa_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+[nc_1]	13	-	-	10:k7	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0002b>
+#तथा आप टेलीविजन पर देखते हैं।
+#waWA Apa telIvijana para xeKawe hEM.
+#You read in newspapers daily and watch on T.V. or hear others talking about weather.
+$addressee	1	-	-	4:k1	-	respect	-	-
+telIvijana_1	2	-	-	4:k7	-	-	-	-
+xeKa_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0002c>
+#अथवा दूसरों को इस संबंध में बातें करते हुए सुनते भी हैं।
+#aWavA xUsaroM ko isa saMbaMXa meM bAweM karawe hue sunawe BI hEM.
+#You read in newspapers daily and watch on T.V. or hear others talking about weather.
+xUsarA	1	-	pl	7:k2	-	-	-	-
+$wyax	3	-	-	4:dem	-	proximal	-	-
+saMbaMXa_1	4	-	-	7:k7	-	-	-	-
+bAwa_1	6	-	pl	-	-	-	-	13:kriyAmUla
+kara_1	7	-	pl	-	-	-	-	13:verbalizer
+suna_1	9	-	pl	11:k1	-	BI	-	-
+hE_1-pres	11	-	-	0:main	Geo_ncert_6stnd_8ch_0002b.11:anyawra	-	-	-
+[cp_1]	13	-	-	9:rsk	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0003a>
+#आप यह जानते हैं।
+#Apa yaha jAnawe hEM.
+#You must know that weather is about day to day changes in the atmosphere.
+$addressee	1	anim	-	3:k1	-	respect	-	-
+$wyax	2	-	-	3:k2	Geo_ncert_6stnd_8ch_0003b.8:coref	proximal	-	-
+jAna_1-wA_hE_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0003b>
+#कि मौसम वायुमंडल में दिन-प्रतिदिन होने वाला परिवर्तन है।
+#ki mOsama vAyumaMdala meM xina-prawixina hone vAlA parivarwana hE.
+#You must know that weather is about day to day changes in the atmosphere.
+mOsama_1	1	-	-	8:k1	-	-	-	-
+vAyumaMdala_1	2	-	-	5:k7p	-	def	-	-
+xina+prawixina_1	4	-	-	5:freq	-	-	-	-
+ho_1	5	-	mawup/pl	7:mod	-	-	-	-
+parivarwana_1	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0004>
+#इसमें तापमान, वर्षा तथा सूर्य का विकिरण इत्यादि शामिल हैं।
+#isameM wApamAna, varRA waWA sUrya kA vikiraNa iwyAxi SAmila hEM.
+#It includes changes in temperature, rainfall and sunshine etc.
+$wyax	1	-	-	11:k7p	Geo_ncert_6stnd_8ch_0003b.1:coref	proximal	-	-
+wApamAna_1	2	-	-	-	-	-	-	13:op1
+varRA_1	4	-	-	-	-	-	-	13:op2
+sUrya_1	6	-	-	8:r6	-	-	-	-
+vikiraNa_1	8	-	-	-	-	-	-	13:op3
+SAmila_1	10	-	-	11:k1s	-	-	-	-
+hE_1-pres	11	-	-	0:main	-	-	-	-
+[conj_1]	13	-	-	11:k1	-	-	-	-
+iwyAxi_1	14	-	-	-	-	-	-	13:op4
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0005a>
+#उदाहरण के लिए मौसम कभी गर्म या कभी ठंडा होता है।
+#uxAharaNa ke lie mOsama kaBI garma yA kaBI TaMdA howA hE.
+#For example, as such it may hot or cold; sunny or cloudy; windy or calm.
+mOsama_1	4	-	-	10:k1	-	-	-	-
+kaBI_1	5	-	-	10:k7t	-	-	-	-
+garma_1	6	-	-	-	-	-	-	22:op1
+kaBI_1	8	-	-	10:k7t	-	-	-	-
+TaMdA_1	9	-	-	-	-	-	-	22:op2
+ho_1-wA_hE_1	10	-	-	0:main	Geo_ncert_6stnd_8ch_0004.11:uXAharaNasvarUpa	-	-	-
+[disjunct_1]	22	-	-	10:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0005b>
+#तो कभी वर्षा होती है।
+#wo kaBI varRA howI hE.
+#For example, as such it may hot or cold; sunny or cloudy; windy or calm.
+kaBI_1	1	-	-	6:k7t	-	-	-	-
+varRA_1	2	-	-	-	-	-	-	6:kriyAmUla
+ho_1-wA_hE_1	3	-	-	-	-	-	-	6:verbalizer
+[cp_1]	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0005c>
+#कभी-कभी आसमान में बादल छा जाते हैं।
+#kaBI-kaBI AsamAna meM bAxala CA jAwe hEM
+#For example, as such it may hot or cold; sunny or cloudy; windy or calm.
+-	-	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0006a>
+#आपने ध्यान यह दिया होगा।
+#Apane XyAna yaha xiyA hogA.
+#You must have noticed that when it is hot continuously for several days you don’t need any warm clothing.
+$addressee	1	anim	-	5:k1	-	respect	-	-
+XyAna_1	2	-	-	-	-	-	-	5:kriyAmUla
+$wyax	3	-	-	5:k2	Geo_ncert_6stnd_8ch_0006b.16:coref	proximal	-	-
+xe_1-yA_hogA_1	4	-	-	-	-	-	-	5:verbalizer
+[cp_1]	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0006b>
+#कि जब बहुत दिनों तक मौसम गर्म रहता है तब आपको ऊनी वस्त्रों की आवश्यकता नहीं पडती है।
+#ki jaba bahuwa xinoM waka mOsama garma rahawA hE waba Apako UnI vaswroM kI AvaSyakawA nahIM padawI hE.
+#You must have noticed that when it is hot continuously for several days you don’t need any warm clothing.
+$yax	1	-	-	7:k7t	-	-	-	-
+bahuwa_1	2	-	-	3:quant	-	-	-	-
+xina_1	3	-	pl	7:k7t	-	-	-	-
+mOsama_1	5	-	-	7:k1	-	-	-	-
+garma_1	6	-	-	7:k1s	-	-	-	-
+raha_1-wA_hE_1	7	-	-	16:rcsamAnakAla	-	-	-	-
+$wyax	9	-	-	16:k7t	-	-	-	-
+$addressee	10	anim	-	16:k4a	-	respect	-	-
+UnI_1	11	-	-	12:mod	-	-	-	-
+vaswra_1	12	-	pl	14:r6	-	-	-	-
+AvaSyakawA_1	14	-	-	16:k1	-	-	-	-
+nahIM_1	15	-	-	16:neg	-	-	-	-
+pada_1-wA_hE_1	16	-	-	0:main	-	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0007>
+#आप खाने-पीने में ठंडे पदार्थों को पसंद करते हैं।
+#Apa KAne-pIne meM TaMde paxArWoM ko pasaMxa karawe hEM.
+#You also like to eat or drink cold things.
+$addressee	1	anim	-	11:k1	-	respect	-	-
+KAna+pIne_1	2	-	-	11:k7	-	-	-	-
+TaMdA_1	4	-	pl	5:mod	-	-	-	-
+paxArWa_1	5	-	pl	11:k2	-	-	-	-
+pasaMxa_1	7	-	-	-	-	-	-	11:kriyAmUla
+kara_1-wA_hE_1	8	-	-	-	-	-	-	11:verbalizer
+[cp_1]	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0008>
+#इसके विपरीत ऐसे भी दिन होते हैं जब आपको ऊनी वस्त्रों के बिना ठंड लगती है।
+#isake viparIwa Ese BI xina howe hEM.jaba Apako UnI vaswroM ke binA TaMda lagawI hE.
+#In contrast there are days together, you feel cold without woollen clothes.
+$wyax	1	-	-	6:vmod	-	proximal	-	-
+EsA	3	-	pl	5:dem	-	-	-	-
+xina_1	5	-	-	6:k7t	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	Geo_ncert_6stnd_8ch_0007.6:viroXI	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0008b>
+#जब आपको ऊनी वस्त्रों के बिना ठंड लगती है।
+#jaba Apako UnI vaswroM ke binA TaMda lagawI hE.
+#In contrast there are days together, you feel cold without woollen clothes.
+$addressee	1	-	-	7:k1	-	respect	-	-
+UnI_1	2	-	-	3:mod	-	-	-	-
+vaswra_1	3	-	pl	7:rv	-	binA	-	-
+TaMda_1	6	-	-	-	-	-	-	10:kriyAmUla
+laga_1-wA_hE_1	7	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0009a>
+#ठंडी और तेज हवाएँ चलती हैं।
+#TaMdI Ora weja havAez calawI hEM.
+#when it is very windy and chilly, you would like to have something hot to eat.
+TaMdA_1	1	-	-	-	-	-	-	8:op1
+weja_1	3	-	-	-	-	-	-	8:op2
+havA_1	4	-	pl	5:k1	-	-	-	-
+cala_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+[conj_1]	8	-	-	4:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0009b>
+#इन दिनों में आप गर्म चीजे खाना पसंद करते हैं।
+#ina xinoM meM Apa garma cIje KAnA pasaMxa karawe hEM.
+#when it is very windy and chilly, you would like to have something hot to eat.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+xina_1	2	-	pl	12:k7t	-	-	-	-
+$addressee	4	anim	-	12:k1	-	respect	-	-
+garma_1	5	-	-	6:mod	-	-	-	-
+cIje_1	6	-	-	7:k2	-	-	-	-
+KA_1	7	-	-	12:k2	-	-	-	-
+pasaMxa_1	8	-	-	-	-	-	-	12:kriyAmUla
+kara_1-wA_hE_1	9	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0010>
+#सामान्यतः भारत में प्रमुख मौसम होते हैं।
+#sAmAnyawaH BArawa meM pramuKa mOsama howe hEM |.
+#Broadly, the major seasons recognised in India are:
+sAmAnyawaH_1	1	-	-	6:krvn	-	-	-	-
+BArawa	2	-	-	-	-	-	-	10:begin
+pramuKa_1	4	-	-	5:mod	-	-	-	-
+mOsama_1	5	-	-	6:k1	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+[ne_1]	10	place	-	6:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0011F>
+#दिसंबर से फरवरी तक ठंडा मौसम।
+#xisaMbara se ParavarI waka TaMdA mOsama .
+#Cold Weather Season December to February.
+xisaMbara_1	1	moy	-	-	-	-	-	11:start
+ParavarI_1	3	moy	-	-	-	-	-	11:end
+TaMdA_1	5	-	-	6:mod	-	-	-	-
+mOsama_1	6	-	-	0:main	-	-	-	-
+sarxI_1	8	season	-	6:rs	-	-	-	-
+[span_1]	11	-	-	6:k7t	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0012F>
+#मार्च से मई तक गर्म मौसम।
+#mArca se maI waka garma mOsama .
+#Hot Weather Season March to May.
+mArca_1	1	moy	-	-	-	-	-	11:start
+maI_1	3	moy	-	-	-	-	-	11:end
+garma_1	5	-	-	6:mod	-	-	-	-
+mOsama_1	6	-	-	0:main	-	-	-	-
+garmI_1	8	season	-	6:rs	-	-	-	-
+[span_1]	11	-	-	6:k7t	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0013F>
+#जून से सितंबर तक दक्षिण-पश्चिम मानसून का मौसम।
+#jUna se siwaMbara waka xakRiNa-paScima mAnasUna kA mOsama .
+#Southwest Monsoon Season June to September
+jUna_1	1	moy	-	-	-	-	-	14:start
+siwaMbara_1	3	moy	-	-	-	-	-	14:end
+xakRiNa+paScima	5	-	-	-	-	-	-	13:begin
+mAnasUna_1	6	-	-	8:r6	-	-	-	-
+mOsama_1	8	-	-	0:main	-	-	-	-
+varRA_1	10	season	-	8:rs	-	-	-	-
+[ne_1]	13	-	-	6:mod	-	-	-	-
+[span_1]	14	-	-	8:k7t	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0014F>
+#अक्टूबर और नवंबर में मानसून के लौटने का मौसम।
+#aktUbara Ora navaMbara meM mAnasUna ke lOtane kA mOsama .
+#Season of Retreating Monsoon October and November
+aktUbara_1	1	moy	-	-	-	-	-	14:op1
+navaMbara_1	3	moy	-	-	-	-	-	14:op2
+mAnasUna_1	5	-	-	7:k1	-	-	-	-
+lOta_1	7	-	-	9:r6	-	-	-	-
+mOsama_1	9	-	-	0:main	-	-	-	-
+Saraxa_1	11	season	-	9:rs	-	-	-	-
+[conj_1]	14	-	-	7:k7t	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0015H>
+#शीत ऋतु।
+#SIwa qwu.
+#COLD WEATHER SEASON OR WINTER
+SIwa_1	1	season	-	2:rs	-	-	-	-
+qwu_1	2	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0016a>
+#ठंडे मौसम में सूर्य की सीधी किरणें नहीं पडती हैं।
+#TaMde mOsama meM sUrya kI sIXI kiraNeM nahIM padawI hEM.
+#During the winter season, the sun rays do not fall directly in the region as a result the temperatures are quite low in northern India
+TaMdA_1	1	-	-	2:mod	-	-	-	-
+mOsama_1	2	-	-	9:k7	-	-	-	-
+sUrya_1	4	-	-	7:r6	-	-	-	-
+sIXA_1	6	-	-	7:mod	-	-	-	-
+kiraNa_1	7	-	pl	9:k1	-	-	-	-
+nahIM_1	8	-	-	9:neg	-	-	-	-
+pada_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0016b>
+#इसके परिणामस्वरूप उत्तर भारत का तापमान कम हो जाता है।
+#isake pariNAmasvarUpa uwwara BArawa kA wApamAna kama ho jAwA hE.
+#During the winter season, the sun rays do not fall directly in the region as a result the temperatures are quite low in northern India
+uwwara	3	-	-	-	-	-	-	13:begin
+BArawa	4	-	-	-	-	-	-	13:inside
+wApamAna_1	6	-	comperless	8:k1	-	-	-	-
+ho_1-wA_ho_1	8	-	-	0:main	Geo_ncert_6stnd_8ch_0016a.9:pariNAma	[shade:jA_1]	-	-
+[ne_1]	13	-	-	6:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0017H>
+#ग्रीष्म ऋतु।
+#grIRma qwu.
+#HOT WEATHER SEASON OR SUMMER
+grIRma_1	1	season	-	2:rs	-	-	-	-
+qwu_1	2	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0018>
+#गर्मी के मौसम में सूर्य की किरणें अधिकतर सीधी पडती हैं।
+#garmI ke mOsama meM sUrya kI kiraNeM aXikawara sIXI padawI hEM.
+#In the hot weather season sun rays more or less directly fall in this region.
+garmI_1	1	season	-	3:r6	-	-	-	-
+mOsama_1	3	-	-	13:k7	-	-	-	-
+sUrya_1	5	-	-	7:r6	-	-	-	-
+kiraNa_1	7	-	pl	10:k1	-	-	-	-
+aXikawara_1	8	-	-	10:krvn	-	-	-	-
+sIXA_1	9	-	-	-	-	-	-	13:kriyAmUla
+pada_1-wA_hE_1	10	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0019>
+#तापमान बहुत अधिक हो जाता है।
+#wApamAna bahuwa aXika ho jAwA hE.
+#Temperature becomes very high.
+wApamAna_1	1	-	-	4:k1	-	-	-	-
+bahuwa_1	2	-	-	3:intf	-	-	-	-
+aXika_1	3	-	-	4:k1s	-	-	-	-
+ho_1-wA_hE_1	4	-	-	0:main	-	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0020>
+#दिन के समय गर्म एवं शुष्क पवन बहती है जिसे लू कहा जाता है।
+#xina ke samaya garma evaM SuRka pavana bahawI hE jise lU kahA jAwA hE.
+#Hot and dry winds called loo, blow during the day.
+xina_1	1	-	-	8:k7t	-	-	-	-
+garma_1	4	-	-	-	-	-	-	16:op1
+SuRka_1	6	-	-	-	-	-	-	16:op2
+pavana	7	-	-	8:k1	-	-	-	-
+baha_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+$yax	10	-	-	12:k2	7:coref	-	-	-
+lU_1	11	-	-	12:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	12	-	-	8:rcelab	-	-	-	-
+[conj_1]	16	-	-	7:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0021h>
+#दक्षिण-पश्चिम मानसून या वर्षा का मौसम।
+#xakRiNa-paScima mAnasUna yA varRA kA mOsama.
+#SOUTH WEST MONSOON SEASON OR RAINY SEASON
+xakRiNa+paScima	1	-	-	-	-	-	-	8:begin
+mAnasUna	2	-	-	-	-	-	-	8:inside
+varRA_1	4	-	-	6:r6	-	-	-	-
+mOsama_1	6	-	-	-	-	-	-	9:op2
+[ne_1]	8	-	-	-	-	-	-	9:op1
+[disjunct_1]	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0022>
+#यह मानसून के आने तथा आगे बढने का मौसम है।
+#yaha mAnasUna ke Ane waWA Age baDane kA mOsama hE.
+#This season is marked by the onset and advance of monsoon.
+$wyax	1	-	-	4:k1	-	proximal	-	-
+mAnasUna_1	2	-	-	4:rhh	-	-	-	-
+A_1-nA_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0022b>
+#तथा आगे बढने का मौसम है।
+#waWA Age baDane kA mOsama hE.
+#This season is marked by the onset and advance of monsoon.
+AgA_1	1	-	pl	-	-	-	-	7:kriyAmUla
+baDa_1	2	-	pl	-	-	-	-	7:verbalizer
+mOsama_1	4	-	-	5:k1	-	-	-	-
+hE_1-pres	5	-	-	0:main	-	-	-	-
+[cp_1]	7	-	-	4:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0023>
+#इस समय पवन बंगाल की खाडी तथा अरब सागर से स्थल की ओर बहती है।
+#isa samaya pavana baMgAla kI KAdI waWA araba sAgara se sWala kI ora bahawI hE.
+#The winds blow from Arabian Sea and Bay of Bengal towards the land.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+samaya_1	2	-	-	14:k7t	-	-	-	-
+pavana	3	-	-	14:k1	-	-	-	-
+baMgAla	4	-	-	-	-	-	-	21:begin
+KAdI	6	-	-	-	-	-	-	21:inside
+araba	8	-	-	-	-	-	-	18:begin
+sAgara	9	-	-	-	-	-	-	18:inside
+sWala_1	11	-	-	14:rd	-	-	-	-
+baha_1-wA_hE_1	14	-	-	0:main	-	-	-	-
+[ne_2]	18	-	-	-	-	-	-	19:op2
+[conj_1]	19	-	-	14:k5	-	-	-	-
+kI	20	-	-	-	-	-	-	21:inside
+[ne_1]	21	-	-	-	-	-	-	19:op1
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0024>
+#वे अपने साथ नमी भी लाती हैं।
+#ve apane sAWa namI BI lAwI hEM.
+#They carry moisture with them.
+$wyax	1	-	-	6:k1	Geo_ncert_6stnd_8ch_0023.3:coref	distal	-	-
+apanA	2	-	-	6:rask1	-	-	-	-
+namI_1	4	-	-	6:k2	-	BI_2	-	-
+lA_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0025>
+#जब ये पवन पहाड़ों से टकराती हैं तब वर्षा होती है।
+#jaba ye pavana pahAdoM se takarAwI hEM waba varRA howI hE.
+#When these winds strike the mountain barriers,rainfall occurs.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+pavana	2	-	-	5:k1	-	-	-	-
+pahAda_1	3	-	pl	5:k2	-	def	-	-
+takarA_1-wA_hE_1	5	-	-	7:rcsamAnakAla	-	-	-	-
+$wyax	7	-	-	9:k7t	-	-	-	-
+varRA_1	8	-	-	-	-	-	-	12:kriyAmUla
+ho_1-wA_hE_1	9	-	-	-	-	-	-	12:verbalizer
+$yax	10	-	-	5:k7t	-	-	-	-
+[cp_1]	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0026h>
+#मानसून के लौटने का मौसम या शरद् ऋतु।
+#mAnasUna ke lOtane kA mOsama yA Sarax qwu.
+#SEASON OF RETREATING MONSOONS OR AUTUMN
+mAnasUna_1	1	-	-	3:k1	-	-	-	-
+lOta_1	3	-	pl	5:r6	-	-	-	-
+mOsama_1	5	-	-	-	-	-	-	10:op1
+Sarax_1	7	season	-	8:rs	-	-	-	-
+qwu	8	-	-	-	-	-	-	10:op2
+[disjunct_1]	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0027>
+#इस समय पवन स्थल भागों से लौटकर बंगाल की खाडी की ओर बहती है।
+#isa samaya pavana sWala BAgoM se lOtakara baMgAla kI KAdI kI ora bahawI hE.
+#Winds move back from the mainland to the Bay of Bengal.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+samaya_1	2	-	-	13:k7t	-	-	-	-
+pavana	3	-	-	13:k1	-	-	-	-
+sWala	4	-	-	5:mod	-	-	-	-
+BAga_1	5	-	pl	7:k5	-	def	-	-
+lOta_1	7	-	-	13:rpk	-	-	-	-
+baMgAla	8	-	-	-	-	-	-	18:begin
+KAdI	10	-	-	-	-	-	-	18:inside
+baha_1-wA_hE_1	13	-	-	0:main	-	-	-	-
+kI	17	-	-	-	-	-	-	18:inside
+[ne_1]	18	-	-	13:rd	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0028>
+#यह मानसून के लौटने का मौसम होता है।
+#yaha mAnasUna ke lOtane kA mOsama howA hE.
+#This is the season of the retreating monsoons.
+$wyax	1	-	-	7:k1	Geo_ncert_6stnd_8ch_0027.2:coref	proximal	-	-
+mAnasUna_1	2	-	-	4:k1	-	-	-	-
+lOta_1	4	-	pl	6:r6	-	def	-	-
+mOsama_1	6	-	-	7:k1s	-	-	-	-
+ho_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0029>
+#भारत के दक्षिणी भागों विशेषकर तमिलनाडु तथा आंध्र प्रदेश में इस मौसम में वर्षा होती है।
+#BArawa ke xakRiNI BAgoM viSeRakara wamilanAdu waWA AMXra praxeSa meM isa mOsama meM varRA howI hE.
+#The southern parts of India, particularly Tamil Nadu and Andhra Pradesh receive rainfall in this season.
+BArawa	1	-	-	-	-	-	-	18:begin
+xakRiNI_1(southern_1)	3	-	-	4:mod	-	-	-	-
+BAga_2(part_9)	4	-	pl	15:k1	-	-	-	-
+viSeRakara_2(particularly_1)	5	-	-	21:mod	-	-	-	-
+wamilanAdu	6	-	-	-	-	-	-	22:begin
+AMXra	8	-	-	-	-	-	-	19:begin
+praxeSa	9	-	-	-	-	-	-	19:inside
+$wyax	11	-	-	12:dem	-	proximal	-	-
+mOsama_1(season_5)	12	-	-	15:k7	-	-	-	-
+varRA_2(rainfall_2)	14	-	-	15:k1s	-	-	-	-
+ho_1-wA_hE_1	15	-	-	0:main	-	-	-	-
+[ne_1]	18	place	-	4:r6	-	-	-	-
+[ne_3]	19	place	-	-	-	-	-	21:op2
+[conj_1]	21	-	-	15:k7p	-	-	-	-
+[ne_2]	22	place	-	-	-	-	-	21:op1
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0030>
+#किसी स्थान पर अनेक वर्षों में मापी गई मौसम की औसत दशा को जलवायु कहते हैं।
+#kisI sWAna para aneka varRoM meM mApI gaI mOsama kI Osawa xaSA ko jalavAyu kahawe hEM.
+#However, the climate is about the average weather condition, which have been measured over many years.
+koI_5(any_1)	1	-	-	2:mod	-	-	-	-
+sWAna_1(place_14)	2	-	-	7:k7p	-	-	-	-
+aneka_1(many_2)	4	-	-	5:quant	-	-	-	-
+varRa_1(year_4)	5	-	pl	7:k7	-	-	-	-
+mApa_5(measure_8)	7	-	-	9:rbks	-	-	-	-
+mOsama_2(weather_1)	9	-	-	12:r6	-	-	-	-
+Osawa_1(average_1)	11	-	-	12:mod	-	-	-	-
+xaSA_1(condition_4)	12	-	-	15:k2	-	-	-	-
+jalavAyu_1(climate_2)	14	-	-	15:k2s	-	-	-	-
+kaha_1-wA_hE_1	15	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0031>
+#भारत की जलवायु को मोटे तौर पर मानसूनी जलवायु कहा जाता है।
+#BArawa kI jalavAyu ko mote wOra para mAnasUnI jalavAyu kahA jAwA hE.
+#The climate of India has broadly been described as Monsoon type.
+BArawa	1	-	-	-	-	-	-	14:begin
+jalavAyu_1(climate_2)	3	-	-	10:k2	-	-	-	-
+motA_6(rough_5)	5	-	-	6:mod	-	-	-	-
+wOra_3(way_5)	6	-	-	10:k7	-	-	-	-
+mAnasUnI_1(monsoon_2)	8	-	-	9:mod	-	-	-	-
+jalavAyu_1(climate_2)	9	-	-	10:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	10	-	-	0:main	-	-	-	-
+[ne_1]	14	place	-	3:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0032>
+#मानसून शब्द अरबी भाषा के मौसिम से लिया गया है, जिसका अर्थ होता है मौसम।
+#mAnasUna Sabxa arabI BARA ke mOsima se liyA gayA hE, jisakA arWa howA hE mOsama.
+#Monsoon is taken from the Arabic word ‘mausim’, which means seasons.
+mAnasUna_1(monsoon_1)	1	-	-	2:mod	-	-	-	-
+Sabxa_1(word_5)	2	-	-	8:k2	-	-	-	-
+arabI_1	3	-	-	4:mod	-	-	-	-
+BARA_1(language_2)	4	-	-	6:r6	-	-	-	-
+mOsima_1	6	-	-	8:k5	-	-	-	-
+le_1-yA_jA_yA_hE_1	8	-	-	0:main	-	-	-	-
+$yax	12	-	-	13:r6	6:coref	-	-	-
+arWa_1(meaning_1)	13	-	-	14:k1	-	-	-	-
+ho_1-wA_hE_1	14	-	-	6:rcdelim	-	-	-	-
+mOsama_1(season_5)	16	-	-	14:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0033>
+#भारत की स्थिति उष्ण कटिबंध् में होने के कारण अधिकतर वर्षा मानसूनी पवन से होती है।
+#BArawa kI sWiwi uRNa katibaMX meM hone ke kAraNa aXikawara varRA mAnasUnI pavana se howI hE.
+#Due to India’s location in the tropical region, most of the rain is brought by monsoon winds.
+BArawa	1	-	-	-	-	-	-	18:begin
+sWiwi_3(location_3)	3	-	-	7:k1	-	-	-	-
+uRNa_9	4	-	-	5:mod	-	-	-	-
+katibaMX_1	5	-	-	7:k7p	-	-	-	-
+ho_1	7	-	-	15:rh	-	-	-	-
+aXikawara_4	10	-	-	11:mod	-	-	-	-
+varRA_1(rain_6)	11	-	-	15:k1	-	-	-	-
+mAnasUnI_1(monsoon_2)	12	-	-	13:mod	-	-	-	-
+pavana_3(wind_2)	13	-	-	15:rh	-	-	-	-
+ho_1-wA_hE_1	15	-	-	0:main	-	-	-	-
+[ne_1]	18	place	-	3:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0034>
+#भारत में कृषि वर्षा पर निर्भर है।
+#BArawa meM kqRi varRA para nirBara hE.
+#Agriculture in India is dependent on rains.
+BArawa	1	-	-	-	-	-	-	9:begin
+kqRi_1(agriculture_1)	3	-	-	7:k1	-	-	-	-
+varRA_1(rain_6)	4	-	-	7:k7	-	-	-	-
+nirBara_1(dependent_4)	6	-	-	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+[ne_1]	9	place	-	7:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0035>
+#अच्छे मानसून का मतलब है पर्याप्त वर्षा तथा प्रचुर मात्रा में फसलों का उत्पादन।
+#acCe mAnasUna kA mawalaba hE paryApwa varRA waWA pracura mAwrA meM PasaloM kA uwpAxana.
+#Good monsoons mean adequate rain and a bountiful crop
+acCA_1(good_1)	1	-	-	2:mod	-	-	-	-
+mAnasUna_1(monsoon_1)	2	-	-	4:r6	-	-	-	-
+mawalaba_1(meaning_4)	4	-	-	5:k1	-	-	-	-
+hE_1-pres	5	-	-	0:main	-	-	-	-
+paryApwa_4(adequate_2)	6	-	-	7:mod	-	-	-	-
+varRA_1(rain_6)	7	-	-	-	-	-	-	16:op1
+pracura_3(abundant_5)	9	-	-	10:quant	-	-	-	-
+mAwrA_9(amount_10)	10	-	-	14:k7	-	-	-	-
+Pasala_2(crop_7)	12	-	pl	14:r6	-	-	-	-
+uwpAxana_1(production_2)	14	-	-	-	-	-	-	16:op2
+[conj_1]	16	-	-	5:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0036>
+#किसी स्थान की जलवायु उसकी स्थिति, ऊँचाई, समुद्र से दूरी तथा उच्चावच पर निर्भर करती है।
+#kisI sWAna kI jalavAyu usakI sWiwi, UzcAI, samuxra se xUrI waWA uccAvaca para nirBara karawI hE.
+#The climate of a place is affected by its location, altitude, distance from the sea, and relief.
+koI_1(any_1)	1	-	-	2:mod	-	-	-	-
+sWAna_1(place_14)	2	-	-	4:r6	-	-	-	-
+jalavAyu_1(climate_2)	4	-	-	22:k1	-	-	-	-
+$wyax	5	-	-	21:r6	2:coref	distal	-	-
+sWiwi_3(location_3)	6	-	-	-	-	-	-	21:op1
+UzcAI_2(altitude_1)	8	-	-	-	-	-	-	21:op2
+samuxra_2(sea_12)	10	-	-	12:rdl	-	-	-	-
+xUrI_1(distance_2)	12	-	-	-	-	-	-	21:op3
+uccAvaca_1(relief_13)	14	-	-	-	-	-	-	21:op4
+nirBara_1(dependent_4)	16	-	-	-	-	-	-	22:kriyAmUla
+kara_1-wA_hE_1	17	-	-	-	-	-	-	22:verbalizer
+[conj_1]	21	-	-	22:k7	-	-	-	-
+[cp_1]	22	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0037>
+#इसलिए हमें भारत की जलवायु में क्षेत्राय विभिन्नता का अनुभव होता हैं।
+#isalie hameM BArawa kI jalavAyu meM kRewrAya viBinnawA kA anuBava howA hEM.
+#Therefore, we experience regional differences in the climate of India.
+$speaker	1	-	pl	10:k1	-	-	-	-
+BArawa	2	-	-	-	-	-	-	13:begin
+jalavAyu_1(climate_2)	4	-	-	10:k7	-	-	-	-
+kRewrAya_1	6	-	-	7:mod	-	-	-	-
+viBinnawA_5(difference_9)	7	-	-	9:r6	-	-	-	-
+anuBava_1(experience_1)	9	-	-	10:k1s	-	-	-	-
+ho_1-wA_hE_1	10	-	-	0:main	Geo_ncert_6stnd_8ch_0036.22:pariNAma	-	-	-
+[ne_1]	13	place	-	4:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0038a>
+#राजस्थान के मरुस्थल में स्थित जैसलमेर तथा बीकानेर बहुत गर्म स्थान हैं।
+#rAjasWAna ke marusWala meM sWiwa jEsalamera waWA bIkAnera bahuwa garma sWAna hEM.
+#Jaisalmer and Bikaner in the desert of Rajasthan are very hot, while Drass and Kargil in Jammu and Kashmir are freezing cold.
+rAjasWAna	1	-	-	-	-	-	-	15:begin
+marusWala_1(desert_5)	3	-	-	5:k7p	-	-	-	-
+sWiwa_2(located_2)	5	-	-	14:mod	-	-	-	-
+jEsalamera	6	-	-	-	-	-	-	16:begin
+bIkAnera	8	-	-	-	-	-	-	17:begin
+bahuwa_7(very_1)	9	-	-	10:intf	-	-	-	-
+garma_2(hot_7)	10	-	-	11:mod	-	-	-	-
+sWAna_1(place_14)	11	-	-	12:k1s	-	-	-	-
+hE_1-pres	12	-	-	0:main	-	-	-	-
+[conj_1]	14	-	-	12:k1	-	-	-	-
+[ne_1]	15	place	-	3:r6	-	-	-	-
+[ne_2]	16	place	-	-	-	-	-	14:op1
+[ne_3]	17	place	-	-	-	-	-	14:op2
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0038b>
+#जबकि जम्मू तथा कश्मीर के द्रास एवं कारगिल में बर्फीली ठंड पडती है।
+#jabaki jammU waWA kaSmIra ke xrAsa evaM kAragila meM barPIlI TaMda padawI hE.
+#Jaisalmer and Bikaner in the desert of Rajasthan are very hot, while Drass and Kargil in Jammu and Kashmir are freezing cold.
+jammU	1	-	-	-	-	-	-	19:begin
+kaSmIra	3	-	-	-	-	-	-	19:inside
+xrAsa	5	-	-	-	-	-	-	17:begin
+kAragila	7	-	-	-	-	-	-	18:begin
+barPIlA_2	9	-	-	10:mod	-	-	-	-
+TaMda_1(cold_3)	10	-	-	11:k1	-	-	-	-
+pada_1-wA_hE_1	11	-	-	0:main	Geo_ncert_6stnd_8ch_0038a.12:viroXI_xyowaka	-	-	-
+[conj_1]	14	-	-	11:k7p	-	-	-	-
+waWA	15	-	-	-	-	-	-	19:inside
+[ne_2]	17	-	-	-	-	-	-	14:op1
+[ne_3]	18	-	-	-	-	-	-	14:op2
+[ne_1]	19	-	-	14:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0039>
+#तटीय क्षेत्र जैसे मुंबई तथा कोलकाता की जलवायु मध्यम है।
+#watIya kRewra jEse muMbaI waWA kolakAwA kI jalavAyu maXyama hE.
+#Coastal places like Mumbai and Kolkata experience moderate climate.
+watIya_1(coastal_3)	1	-	-	2:mod	-	-	-	-
+kRewra_4(region_3)	2	-	-	12:re	-	-	-	-
+muMbaI	4	-	-	-	-	-	-	13:begin
+kolakAwA	6	-	-	-	-	-	-	14:begin
+jalavAyu_1(climate_2)	8	-	-	10:k1	-	-	-	-
+maXyama_6(moderate_8)	9	-	-	10:k1s	-	-	-	-
+hE_1-pres	10	-	-	0:main	-	-	-	-
+[conj_1]	12	-	-	8:r6	-	-	-	-
+[ne_1]	13	-	-	-	-	-	-	12:op1
+[ne_2]	14	-	-	-	-	-	-	12:op2
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0040a>
+#वे न ही अधिक गर्म हैं।
+#ve na hI aXika garma hEM.
+#They are neither too hot nor too cold.
+$wyax	1	-	-	6:k1	Geo_ncert_6stnd_8ch_0039.8:coref	distal	-	-
+na_1(not_2)	2	-	-	6:neg	-	hI_2	-	-
+garma_2(hot_7)	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+aXika_15	7	-	-	5:quant	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0040b>
+#और वे न ही अधिक ठंडे हैं।
+#Ora ve na hI aXika TaMde hEM.
+#They are neither too hot nor too cold.
+na_1(not_2)	1	-	-	6:neg	-	hI_2	-	-
+TaMdA_2(cold_4)	4	-	-	6:k1s	-	-	-	-
+$wyax	5	-	-	6:k1	Geo_ncert_6stnd_8ch_0039.8:coref	distal	-	-
+hE_1-pres	6	-	-	0:main	Geo_ncert_6stnd_8ch_0040a.6:samuccaya	-	-	-
+aXika_1	7	-	-	4:quant	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0041>
+#समुद्र तट पर होने के कारण ये स्थान बहुत अधिक आर्द्र हैं।
+#samuxra wata para hone ke kAraNa ye sWAna bahuwa aXika Arxra hEM.
+#Being on the coast, these places are very humid.
+samuxra_2(sea_12)	1	-	-	-	-	-	-	14:mod
+wata_2(coast_1)	2	-	-	-	-	-	-	14:head
+ho_6(be_4)	4	-	-	12:rh	-	-	-	-
+$wyax	7	-	pl	8:dem	-	proximal	-	-
+sWAna_1(place_14)	8	-	-	12:k1	-	-	-	-
+bahuwa_7(very_1)	9	-	-	10:intf	-	-	-	-
+aXika_2(much_2)	10	-	-	11:quant	-	-	-	-
+Arxra_3(humid_1)	11	-	-	12:k1s	-	-	-	-
+hE_1-pres	12	-	-	0:main	-	-	-	-
+[nc_1]	14	-	-	4:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0042a>
+#विश्व में सबसे अधिक वर्षा मेघालय में स्थित मौसिनराम में होती है।
+#viSva meM sabase aXika varRA meGAlaya meM sWiwa mOsinarAma meM howI hE.
+#Mawsynram in Meghalaya receives the world’s highest rainfall, while in a particular year it might not rain at all in Jaisalmer in Rajasthan.
+viSva_11(world_20)	1	-	-	11:rn	-	-	-	-
+aXika_13(high_31)	4	-	superl	5:quant	-	-	-	-
+varRA_2(rainfall_2)	5	-	-	11:k1	-	-	-	-
+meGAlaya	6	-	-	-	-	-	-	12:begin
+sWiwa_1(situated_1)	8	-	-	13:mod	-	-	-	-
+mOsinarAma	9	-	-	-	-	-	-	13:begin
+ho_1-wA_hE_1	11	-	-	0:main	-	-	-	-
+[ne_1]	12	-	-	8:k7p	-	-	-	-
+[ne_2]	13	-	-	11:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0042b>
+#जबकि किसी-किसी वर्ष राजस्थान के जैसलमेर में वर्षा होती ही नहीं है।
+#jabaki kisI-kisI varRa rAjasWAna ke jEsalamera meM varRA howI hI nahIM hE.
+#Mawsynram in Meghalaya receives the world’s highest rainfall, while in a particular year it might not rain at all in Jaisalmer in Rajasthan.
+koI(some_1)	1	-	xviwva	2:dem	-	-	-	-
+varRa_1(year_4)	2	-	-	11:k7t	-	-	-	-
+rAjasWAna	3	-	-	-	-	-	-	12:begin
+jEsalamera	5	-	-	-	-	-	-	13:begin
+varRA_1(rain_6)	7	-	-	11:k1	-	-	-	-
+nahIM_1(not_1)	10	-	-	11:neg	-	-	-	-
+ho_1-wA_hE_1	11	-	-	0:main	Geo_ncert_6stnd_8ch_0042a.11:viroXI_xyowaka	-	-	-
+[ne_1]	12	-	-	13:r6	-	-	-	-
+[ne_2]	13	-	-	11:k7p	-	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0043H>
+#प्राकृतिक वनस्पति।
+#prAkqwika vanaspawi.
+#NATURAL VEGETATION
+prAkqwika_1(natural_7)	1	-	-	2:mod	-	-	-	-
+vanaspawi_2(vegetation_3)	2	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0044>
+#हम अपने चारों तरफ विभिन्न प्रकार का पादप जीवन देखते हैं।
+#hama apane cAroM waraPa viBinna prakAra kA pAxapa jIvana xeKawe hEM.
+#We see a variety of plant life in our surroundings.
+$speaker	1	anim	pl	10:k1	-	-	-	-
+apanA	2	-	-	3:r6	-	-	-	-
+cAroM+waraPa_1(everywhere_39)	3	-	-	10:k7p	-	-	-	-
+viBinna_4(various_8)	5	-	-	6:mod	-	-	-	-
+prakAra_7(type_6)	6	-	-	13:r6	-	-	-	-
+pAxapa_2(plant_1)	8	-	-	-	-	-	-	13:mod
+jIvana_1(life_7)	9	-	-	-	-	-	-	13:head
+xeKa_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+[nc_1]	13	-	-	10:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0045>
+#हरे घास वाले मैदान में खेलना कितना अच्छा लगता है।
+#hare GAsa vAle mExAna meM KelanA kiwanA acCA lagawA hE.
+#How nice it is to play in a field with green grasses.
+harA_1(green_1)	1	-	pl	2:mod	-	-	-	-
+GAsa_1(grass_1)	2	-	mawupa	4:mod	-	-	-	-
+mExAna_1(field_3)	4	-	-	6:k7p	-	-	-	-
+Kela_1(play_10)	6	-	-	9:k2	-	-	-	-
+kiwanA_1	7	-	-	8:intf	-	-	-	-
+acCA_1(good_1)	8	-	-	9:k2s	-	-	-	-
+laga_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0046>
+#कुछ पौधें छोटे होते हैं जिन्हें झाडी कहा जाता है, जैसे कैक्टस तथा फूलों वाले पौधें इत्यादि।
+#kuCa pOXeM Cote howe hEM jinheM JAdI kahA jAwA hE, jEse vEPaktasa waWA PUloM vAle pOXeM iwyAxi.
+#There are also small plants called bushes and shrubs like cactus and flowering plants etc.
+kuCa_1(some_2)	1	-	-	2:quant	-	-	-	-
+pOXA_1(plant_6)	2	-	pl	4:k1	-	-	-	-
+CotA_1(small_6)	3	-	pl	4:k1s	-	-	-	-
+ho_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+$yax	6	-	-	8:k2	-	-	-	-
+JAdZI_1(shrub_1)	7	-	-	8:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	8	-	-	2:rcelab	-	-	-	-
+vEPaktasa_1	13	-	-	-	-	-	-	20:op1
+PUla_1(flower_6)	15	-	mawup	17:mod	-	-	-	-
+pOXa_3(plant_22)	17	-	-	-	-	iwyAxi	-	20:op2
+[conj_1]	20	-	-	2:re	-	-	-	-
+iwyAxi_1(etc_1)	21	-	-	-	-	-	-	20:op3
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0047a>
+#इसके अतिरिक्त बहुत से लंबे वृक्ष होते हैं।
+#isake awirikwa bahuwa se laMbe vqkRa howe hEM.
+#Besides there are many tall trees some with many branches and leaves like neem, mango or some which stand with few leaves such as palm.
+bahuwa_2(many_5)	3	-	-	6:quant	-	-	-	-
+laMbA_3(tall_4)	5	-	pl	6:mod	-	-	-	-
+vqkRa_1(tree_8)	6	-	-	7:k1	-	-	-	-
+ho_1-wA_hE_1	7	-	-	0:main	Geo_ncert_6stnd_8ch_0046.4:samuccaya.awirikwa	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0047b>
+#उनमें से कुछ में बहुत शाखाएँ तथा पत्तियाँ होती हैं, जैसे- नीम, आम।
+#unameM se kuCa meM bahuwa SAKAez waWA pawwiyAz howI hEM; jEse- nIma, Ama.
+#Besides there are many tall trees some with many branches and leaves like neem, mango or some which stand with few leaves such as palm.
+-	-	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0047c>
+#तो कुछ वृक्ष ऐसे होते हैं जिनमें पत्तियों की मात्रा बहुत कम होती है, जैसे नारियल।
+#wo kuCa vqkRa Ese howe hEM jinameM pawwiyoM kI mAwrA bahuwa kama howI hE, jEse nAriyala.
+#Besides there are many tall trees some with many branches and leaves like neem, mango or some which stand with few leaves such as palm.
+-	-	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0048>
+#घास, झाडियाँ तथा पौधें जो बिना मनुष्य की सहायता के उपजते हैं उन्हें प्राकृतिक वनस्पति कहा जाता है।
+#GAsa, JAdiyAz waWA pOXeM jo binA manuRya kI sahAyawA ke upajawe hEM unheM prAkqwika vanaspawi kahA jAwA hE.
+#The grasses, shrubs and trees, which grow on their own without interference or help from human beings are called natural vegetation.
+GAsa_1(grass_1)	1	-	-	-	-	def	-	21:op1
+JAdZI_1(shrub_1)	3	-	pl	-	-	-	-	21:op2
+pOXa_3(plant_22)	5	-	pl	-	-	-	-	21:op3
+$yax	6	-	-	12:k1	-	-	-	-
+manuRya_5(human_14)	8	-	-	12:rasnegk1	-	-	-	-
+upaja_1-wA_hE_1	12	-	-	14:rcelab	-	-	-	-
+$wyax	14	-	pl	17:k2	21:coref	distal	-	-
+prAkqwika_1(natural_7)	15	-	-	16:mod	-	-	-	-
+vanaspawi_2(vegetation_3)	16	-	-	17:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	17	-	-	0:main	-	-	-	-
+[conj_1]	21	-	-	6:re	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0049a>
+#क्या आप कभी यह नहीं सोचते हैं।
+#kyA Apa kaBI yaha nahIM socawe hE.
+#Do you wonder how these differ from each other.
+$addressee	2	anim	-	6:k1	-	respect	-	-
+kaBI_2(ever_2)	3	-	-	6:freq	-	-	-	-
+$wyax	4	-	-	6:k2	Geo_ncert_6stnd_8ch_0049b.7:coref	proximal	-	-
+nahIM_1(not_1)	5	-	-	6:neg	-	-	-	-
+soca_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0049b>
+#कि ये एक-दूसरे से किस प्रकार भिन्न हैं।
+#ki ye eka-xUsare se kisa prakAra Binna hEM.
+#Do you wonder how these differ from each other.
+$wyax	1	-	-	7:k1	Geo_ncert_6stnd_8ch_0048.21:coref	proximal	-	-
+eka+xUsare_1(each other_1)	2	-	-	1:rv	-	-	-	-
+$kim	4	-	-	5:dem	-	-	-	-
+prakAra_7(type_6)	5	-	-	7:krvn	-	-	-	-
+Binna_2(different_6)	6	-	-	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0050>
+#अलग-अलग जलवायु में अलग-अलग प्रकार की वनस्पतियाँ पाई जाती हैं।
+#alaga-alaga jalavAyu meM alaga-alaga prakAra kI vanaspawiyAz pAI jAwI hEM.
+#Different types of natural vegetation are dependent on different climatic conditions.
+alaga_7(different_4)	1	-	xviwva	2:mod	-	-	-	-
+jalavAyu_1(climate_2)	2	-	-	8:k7	-	-	-	-
+alaga_7(different_4)	4	-	xviwva	5:mod	-	-	-	-
+prakAra_7(type_6)	5	-	-	7:r6	-	-	-	-
+vanaspawi_2(vegetation_3)	7	-	pl	8:k2	-	-	-	-
+pA_1-yA_jA_wA_hE_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0051>
+#इनमें वर्षा की मात्रा सबसे महत्त्वपूर्ण होती है।
+#inameM varRA kI mAwrA sabase mahawwvapUrNa howI hE.
+#among which the amount of rainfall is very important.
+$wyax	1	-	-	2:rn	Geo_ncert_6stnd_8ch_0050.2:coref	proximal	-	-
+varRA_2(rainfall_2)	2	-	-	4:r6	-	-	-	-
+mAwrA_9(amount_10)	4	-	-	7:k1	-	def	-	-
+mahawwvapUrNa_1(important_4)	6	-	superl	7:k1s	-	-	-	-
+ho_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0052>
+#जलवायु की विभिन्नता के कारण भारत में अलग-अलग तरह की वनस्पतियाँ पाई जाती हैं।
+#jalavAyu kI viBinnawA ke kAraNa BArawa meM alaga-alaga waraha kI vanaspawiyAz pAI jAwI hEM.
+#Due to varied climatic conditions, India has a wide range of natural vegetation.
+jalavAyu(climate_2)	1	-	-	3:r6	-	-	-	-
+viBinnawA_3(variety_4)	3	-	-	12:rh	-	-	-	-
+BArawa	6	-	-	-	-	-	-	13:begin
+alaga_1	8	-	xviwva	11:mod	-	-	-	-
+vanaspawi_2(vegetation_3)	11	-	pl	12:k2	-	-	-	-
+pA_1-yA_jA_wA_hE_1	12	-	-	0:main	-	-	-	-
+[ne_1]	13	place	-	12:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0053>
+#हमें वनों की आवश्यकता क्यों है?
+#hameM vanoM kI AvaSyakawA kyoM hE?
+#WHY ARE FORESTS NECESSARY?
+$speaker	1	anim	pl	6:k4a	-	-	-	-
+vana_2(forest_4)	2	-	pl	4:r6	-	-	-	-
+AvaSyakawA_1(necessity_1)	4	-	-	6:k1	-	-	-	-
+$kim	5	-	-	6:rh	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0054>
+#वन हमारे लिए बहुत ही लाभदायक हैं।
+#vana hamAre lie bahuwa hI lABaxAyaka hEM.
+#Forests are very useful for us.
+vana_2(forest_4)	1	-	-	7:k1	-	-	-	-
+$speaker	2	anim	pl	7:rt	-	-	-	-
+bahuwa_7(very_1)	4	-	-	6:intf	-	hI_1	-	-
+lABaxAyaka_5(useful_6)	6	-	-	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0055>
+#ये विभिन्न कार्य करते हैं।
+#ye viBinna kArya karawe hEM.
+#They perform various functions.
+$wyax	1	-	-	4:k1	Geo_ncert_6stnd_8ch_0054.1:coref	proximal	-	-
+viBinna_4(various_8)	2	-	-	3:mod	-	-	-	-
+kArya_5(function_3)	3	-	-	4:k2	-	-	-	-
+kara_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0056a>
+#पेड़-पौधें ऑक्सीजन छोड़ते हैं जिसे हम साँस के रूप में लेते हैं।
+#peda-pOXeM oYksIjana Codawe hEM jise hama sAzsa ke rUpa meM lewe hEM.
+#Plants release oxygen that we breathe and absorb carbon dioxide.
+peda+pOXa_1	1	-	pl	3:k1	-	-	-	-
+OYksIjana_1(oxygen_2)	2	-	-	3:k2	-	-	-	-
+Coda_1-wA_hE_1	3	-	-	0:main	-	-	-	-
+$yax	5	-	-	11:k2	-	-	-	-
+$speaker	6	anim	pl	11:k1	-	-	-	-
+sAzsa_1(breath_3)	7	-	-	11:k7	-	-	-	-
+le_1-wA_hE_1	11	-	-	2:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0056b>
+#तथा कार्बन डाइऑक्साइड को ग्रहण करते हैं।
+#waWA kArbana dAioYksAida ko grahaNa karawe hEM.
+#Plants release oxygen that we breathe and absorb carbon dioxide.
+kArbana+dAiOYksAida_1	1	-	-	9:k2	-	-	-	-
+grahaNa_1	4	-	-	-	-	-	-	9:kriyAmUla
+kara_1-wA_hE_1	5	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	Geo_ncert_6stnd_8ch_0056a.11:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0057a>
+#पेड़-पौधें की जडें मिट्टी को बाँध रखती हैं।
+#peda-pOXeM kI jadeM mittI ko bAzXa raKawI hEM.
+#The roots of the plants bind the soil) thus, they control soil erosion.
+peda+pOXa_1	1	-	pl	3:r6	-	-	-	-
+jadZa_1(root_1)	3	-	pl	7:k1	-	def	-	-
+mittI_2(soil_4)	4	-	-	6:k2	-	-	-	-
+bAzXa_9(bind_3)	6	-	-	7:k2s	-	-	-	-
+raKa_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0057b>
+#तथा इस प्रकार वे मिट्टी के अपरदन को रोकते हैं।
+#waWA isa prakAra ve mittI ke aparaxana ko rokawe hEM.
+#The roots of the plants bind the soil) thus, they control soil erosion.
+$wyax	3	-	-	8:k1	Geo_ncert_6stnd_8ch_0057a.3:coref	distal	-	-
+mittI_2(soil_4)	4	-	-	6:r6	-	-	-	-
+aparaxana_1(erosion_1)	6	-	-	8:k2	-	-	-	-
+roka_1-wA_hE_1	8	-	-	0:main	Geo_ncert_6stnd_8ch_0057a.7:samuccaya	-	-	-
+$wyax	9	-	-	10:dem	-	proximal	-	-
+prakAra_4(manner_5)	10	-	-	8:krvn	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0058>
+#वनों से हमें ईंधन, लकडी, चारा, जडी-बूटियाँ,लाख, शहद, गोंद इत्यादि प्राप्त होते हैं।
+#vanoM se hameM IMXana, lakadI, cArA, jadI-bUtiyAz,lAKa, Sahaxa, goMxa iwyAxi prApwa howe hEM.
+#Forests provide us with timber for furniture, fuel wood, fodder, medicinal plants and herbs, lac, honey, gum, etc.
+vana_1	1	-	pl	19:k5	-	-	-	-
+$speaker	3	anim	pl	19:k4a	-	-	-	-
+IMXana_2(firewood_1)	4	-	-	-	-	-	-	24:op1
+lakadI_1(timber_4)	6	-	-	-	-	-	-	24:op2
+cArA_1(fodder_1)	8	-	-	-	-	-	-	24:op3
+jadI+bUti_1	10	-	pl	-	-	-	-	24:op4
+lAKa_4(sealingwax_1)	12	-	-	-	-	-	-	24:op5
+Sahaxa_1(honey_3)	14	-	-	-	-	-	-	24:op6
+goMxa_1(gum_1)	16	-	-	-	-	-	-	24:op7
+prApwa_1	18	-	-	19:k1s	-	-	-	-
+ho_1-wA_hE_1	19	-	-	0:main	-	-	-	-
+iwyAxi_1(etc_1)	23	-	-	-	-	-	-	24:op8
+[conj_1]	24	-	-	19:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0059>
+#वन वन्यजीवों के प्राकृतिक निवास हैं।
+#vana vanyajIvoM ke prAkqwika nivAsa hEM.
+#Forests are the natural habitat of wild life.
+vana_2(forest_4)	1	-	-	6:k1	-	-	-	-
+vanyajIva_1(wildlife_1)	2	-	pl	5:r6	-	-	-	-
+prAkqwika_1(natural_7)	4	-	-	5:mod	-	-	-	-
+nivAsa_3(habitation_2)	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0060>
+#पेड़ों की अधिक कटाई के कारण भारी मात्रा में प्राकृतिक वनस्पतियाँ समाप्त हो गई हैं।
+#pedoM kI aXika katAI ke kAraNa BArI mAwrA meM prAkqwika vanaspawiyAz samApwa ho gaI hEM.
+#Natural vegetation has been destroyed to a large extent because of the reckless cutting of trees.
+peda_1(tree_10)	1	-	pl	4:r6	-	-	-	-
+katAI_2(cutting_1)	4	-	-	17:rh	-	-	-	-
+BArI_8(large_9)	7	-	-	8:mod	-	-	-	-
+mAwrA_2(scale_5)	8	-	-	17:krvn	-	-	-	-
+prAkqwika_1(natural_7)	10	-	-	11:mod	-	-	-	-
+vanaspawi_2(vegetation_3)	11	-	pl	17:k1	-	-	-	-
+samApwa_8(destroyed_29)	12	-	-	-	-	-	-	17:kriyAmUla
+ho_1-yA_hE_1	13	-	-	-	-	[shade:jA_1]	-	17:verbalizer
+[cp_1]	17	-	-	0:main	-	-	-	-
+aXika_7	18	-	-	4:intf	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0061a>
+#हमें अधिक पौधे लगाने चाहिए।
+#hameM aXika pOXe lagAne cAhie.
+#We should plant more trees and protect the existing ones and make people aware of the importance of trees.
+$speaker	1	anim	pl	4:k1	-	-	-	-
+pOXA_5(tree_58)	3	-	pl	4:k2	-	-	-	-
+lagA_1-nA_cAhie_1	4	-	-	0:main	-	-	-	-
+aXika_1(more_1)	17	-	-	3:intf	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0061b>
+#एवं हमें जो पेड़ बचे हैं उनकी रक्षा करनी चाहिए
+#evaM hameM jo peda bace hEM unakI rakRA karanI cAhie.
+#and we should protect the existing ones.
+-	-	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0061c>
+#एवं हमें लोगों को पेड़ों के महत्त्व के बारे में बताना चाहिए।
+#evaM logoM ko pedoM ke mahawwva ke bAre meM bawAnA cAhie.
+#and we should make people aware of the importance of trees.
+loga_2(people_5)	1	anim	-	9:k2	-	def	-	-
+peda_1(tree_10)	3	-	pl	5:r6	-	-	-	-
+mahawwva_1(importance_4)	5	-	-	9:k7	-	-	-	-
+bawA_1-nA_cAhie_1	9	-	-	0:main	Geo_ncert_6stnd_8ch_0061a.4:samuccaya	-	-	-
+$speaker	10	anim	pl	9:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0062a>
+#हम लोग कुछ खास आयोजन जैसे वनमहोत्सव मनाकर अधिक से अधिक लोगों को इस प्रयास में शामिल कर सकते हैं।
+#hama loga kuCa KAsa Ayojana jEse vanamahowsava manAkara aXika se aXika logoM ko isa prayAsa meM SAmila kara sakawe hEM.
+#We can have special programmes like Van Mahotsav to involve more people in making our earth green.
+$speaker	1	anim	pl	22:k1	-	-	-	-
+loga_2(people_5)	2	anim	-	1:rs	-	-	-	-
+kuCa_1(some_2)	3	-	-	5:quant	-	-	-	-
+KAsa_4(special_5)	4	-	-	5:mod	-	-	-	-
+Ayojana_11	5	-	-	8:k2	-	-	-	-
+[ne_1]	7	ne	-	5:re	-	-	-	-
+manA_3(celebrate_1)	8	-	-	22:rpk	-	-	-	-
+loga_2(people_5)	12	anim	-	22:k2	-	-	-	-
+$wyax	14	-	-	15:dem	-	proximal	-	-
+prayAsa_1(effort_7)	15	-	-	22:rt	-	-	-	-
+SAmila(involved_7)	17	-	-	-	-	-	-	22:kriyAmUla
+kara_1-0_sakawA_hE_1	18	-	-	-	-	-	-	22:verbalizer
+[cp_1]	22	-	-	0:main	-	-	-	-
+aXika+se+aXika_1	23	-	-	12:mod	-	-	-	-
+vanamahowsava	24	-	-	-	-	-	-	7:begin
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0062b>
+#तथा हम पृथ्वी को हरा-भरा रख सकते हैं।
+#waWA hama pqWvI ko harA-BarA raKa sakawe hEM.
+#We can have special programmes like Van Mahotsav to involve more people in making our earth green.
+pqWvI	1	-	-	4:k2	-	def	-	-
+harA+BarA_1	3	-	-	4:k2s	-	-	-	-
+raKa_1-0_sakawA_hE_1	4	-	-	0:main	Geo_ncert_6stnd_8ch_0062a.22:samuccaya	-	-	-
+$speaker	9	anim	pl	4:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0063H>
+#वन्य प्राणी।
+#vanya prANI.
+#Wild life
+vanya_1(wild_6)	1	-	-	2:mod	-	-	-	-
+prANI_8(life_30)	2	anim	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0064>
+#वन विभिन्न प्रकार के वन्यजीवों का निवास होता है।
+#vana viBinna prakAra ke vanyajIvoM kA nivAsa howA hE.
+#Forests are home to a variety of wild life.
+vana_2(forest_4)	1	-	-	8:k1	-	-	-	-
+viBinna_1(different_13)	2	-	-	3:mod	-	-	-	-
+prakAra_9(variety_7)	3	-	-	5:mod	-	-	-	-
+vanyajIva_1(wildlife_1)	5	-	-	7:r6	-	-	-	-
+nivAsa_8(home_10)	7	-	-	8:k1s	-	-	-	-
+ho_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0065>
+#वनों में जंतुओं की हजारोंं प्रजातियाँ तथा बड़ी संख्या में विभिन्न प्रकार के सरीसृपों, उभयचरों, पक्षियों, स्तनधरियों, कीटों तथा कृमियों का निवास होता है।
+#vanoM meM jaMwuoM kI hajAroM prajAwiyAz waWA badI saMKyA meM viBinna prakAra ke sarIsqpoM, uBayacaroM, pakRiyoM, swanaXariyoM, kItoM waWA kqmiyoM kA nivAsa howA hE.
+#There are thousands of species of animals and a large variety of reptiles, amphibians, mammals, birds, insects and worms which dwell in the forest.
+vana_2(forest_4)	1	-	pl	27:k7p	-	-	-	-
+jaMwu_2(animal_1)	3	anim	pl	6:r6	-	-	-	-
+1000	5	numex	-	6:card	-	-	-	-
+prajAwi_1(species_1)	6	anim	pl	-	-	-	-	30:op1
+badA_8(large_25)	8	-	-	9:mod	-	-	-	-
+saMKyA_15	9	-	-	31:mod	-	-	-	-
+viBinna_1(different_13)	11	-	-	12:mod	-	-	-	-
+prakAra_9(variety_7)	12	-	-	31:r6	-	-	-	-
+sarIsqpa_1	14	anim	pl	-	-	-	-	31:op1
+uBayacara_1	16	anim	pl	-	-	-	-	31:op2
+pakRI_1(bird_4)	18	anim	pl	-	-	-	-	31:op3
+swanaXArI_1(mammal_3)	20	anim	-	-	-	-	-	31:op4
+kIta_1(insect_1)	22	anim	pl	-	-	-	-	31:op5
+kqmi_1(worm_3)	24	anim	pl	-	-	-	-	31:op6
+nivAsa_8(home_10)	26	-	-	27:k1	-	-	-	-
+ho_1-wA_hE_1	27	-	-	0:main	-	-	-	-
+[conj_1]	30	-	-	26:r6	-	-	-	-
+[conj_2]	31	-	-	-	-	-	-	30:op2
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0066>
+#बाघ हमारा राष्ट्रीय पशु है।
+#bAGa hamArA rARtrIya paSu hE.
+#The tiger is our national animal.
+bAGa_1	1	anim	-	5:k1	-	-	-	-
+$speaker	2	anim	pl	4:r6	-	-	-	-
+rARtrIya_1(national_2)	3	-	-	4:mod	-	-	-	-
+paSu_1(animal_3)	4	anim	-	5:k1s	-	-	-	-
+hE_1-pres	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0067>
+#यह देश के विभिन्न भागों में पाया जाता है।
+#yaha xeSa ke viBinna BAgoM meM pAyA jAwA hE.
+#It is found in various parts of the country.
+$wyax	1	-	-	7:k1	Geo_ncert_6stnd_8ch_0066.1:coref	proximal	-	-
+xeSa_1(country_1)	2	-	-	5:r6	-	-	-	-
+viBinna_4(various_8)	4	-	-	5:mod	-	-	-	-
+BAga_2(part_9)	5	-	pl	7:k7p	-	-	-	-
+pA_1-yA_jA_wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0068>
+#गुजरात के गिर वन में एशियाई शेरों का निवास है।
+#gujarAwa ke gira vana meM eSiyAI SeroM kA nivAsa hE.
+#Gir forest in Gujarat is the home of Asiatic lions.
+gujarAwa	1	-	-	-	-	-	-	13:begin
+gira	3	-	-	-	-	-	-	14:begin
+vana_2(forest_4)	4	-	-	14:rs	-	-	-	-
+eSiyAI_1(asiatic_1)	6	-	-	7:mod	-	-	-	-
+Sera_1(lion_7)	7	anim	pl	9:r6	-	-	-	-
+nivAsa_8(home_10)	9	-	-	10:k1	-	-	-	-
+hE_1-pres	10	-	-	0:main	-	-	-	-
+[ne_1]	13	place	-	14:r6	-	-	-	-
+[ne_2]	14	place	-	10:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0069>
+#हाथी तथा एक सींग वाले गैंडे असम के जंगलों में घूमते हैं।
+#hAWI waWA eka sIMga vAle gEMde asama ke jaMgaloM meM GUmawe hEM.
+#Elephants and one-horned rhinoceroses roam in the forests of Assam.
+hAWI_1	1	anim	-	-	-	-	-	14:op1
+1	3	numex	-	4:card	-	-	-	-
+sIMga_1(horn_2)	4	-	mawupa	6:mod	-	-	-	-
+gEMdA_1(rhinoceros_1)	6	anim	pl	-	-	-	-	14:op2
+asama	7	-	-	-	-	-	-	15:begin
+jaMgala_1(forest_2)	9	-	pl	11:k7p	-	def	-	-
+GUma_1-wA_hE_1	11	-	-	0:main	-	-	-	-
+[conj_1]	14	-	-	11:k1	-	-	-	-
+[ne_1]	15	place	-	9:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0070>
+#हाथी, केरल एवं कर्नाटक में भी मिलते हैं।
+#hAWI, kerala evaM karnAtaka meM BI milawe hEM.
+#Elephants are also found in Kerala and Karnataka.
+hAWI_1	1	anim	-	8:k2	-	-	-	-
+kerala	3	-	-	-	-	-	-	12:begin
+karnAtaka	5	-	-	-	-	-	-	13:begin
+mila_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+[conj_1]	11	-	-	8:k7p	-	-	-	-
+[ne_1]	12	place	-	-	-	-	-	11:op1
+[ne_2]	13	place	-	-	-	BI_1	-	11:op2
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0071a>
+#ऊँट भारत के रेगिस्तान में पाए जाते हैं।
+#Uzta BArawa ke regiswAna meM pAe jAwe hEM.
+#Camels are found in the Great Indian desert.
+Uzta_1(camel_1)	1	anim	-	12:k1	-	-	-	-
+BArawa	2	-	-	-	-	-	-	17:begin
+regiswAna_1(desert_2)	4	-	-	12:k7p	-	-	-	-
+pA_1-yA_jA_wA_hE_1	12	-	-	0:main	-	-	-	-
+[ne_1]	17	place	-	4:r6	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0071b>
+#तथा जंगली गध कच्छ के रन में पाए जाते हैं।
+#waWA jaMgalI gaXa kacCa ke rana meM pAe jAwe hEM.
+#and wild asses are found in the Rann of Kutch.
+-	-	-	-	-	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0072>
+#जंगली बकरी, हिम तेंदुआ, भालू इत्यादि हिमालय के क्षेत्र में पाए जाते हैं।
+#jaMgalI bakarI, hima weMxuA, BAlU iwyAxi himAlaya ke kRewra meM pAe jAwe hEM.
+#Wild goats, snow leopards, bears, etc. are found in the Himalayan region.
+jaMgalI_1(wild_20)	1	-	-	2:mod	-	-	-	-
+bakarA_2(goat_3)	2	anim	-	-	-	-	-	17:op1
+hima(snow_8)	4	-	-	-	-	-	-	14:mod
+weMxuA_1(leopard_2)	5	anim	-	-	-	-	-	14:head
+BAlU_1(bear_4)	7	anim	-	-	-	-	-	17:op3
+himAlaya	9	-	-	-	-	-	-	16:begin
+kRewra_4(region_3)	11	-	-	13:k7p	-	-	-	-
+pA_1-yA_jA_wA_hE_1	13	-	-	0:main	-	-	-	-
+[6-waw_1]	14	-	-	-	-	-	-	17:op2
+iwyAxi_1(etc_1)	15	-	-	-	-	-	-	17:op4
+[ne_1]	16	-	-	11:r6	-	-	-	-
+[conj_1]	17	-	-	13:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0073>
+#इनके अतिरिक्त बहुत से दूसरे जानवर जैसे- बंदर, सियार, भेडिया, नीलगाय, चीतल इत्यादि भी हमारे देश में पाए जाते हैं।
+#inake awirikwa bahuwa se xUsare jAnavara jEse- baMxara, siyAra, BediyA, nIlagAya, cIwala iwyAxi BI hamAre xeSa meM pAe jAwe hEM.
+#Besides these, many other animals are found in our country such as monkey, wolf, jackal, nilgai, cheetal, etc.
+bahuwa_2(many_5)	3	-	-	6:intf	-	sA_4	-	-
+xUsarA_8(other_3)	5	-	-	6:mod	-	-	-	-
+jAnavara_1(animal_2)	6	anim	-	23:k2	-	-	-	-
+baMxara_1(monkey_3)	9	anim	-	-	-	-	-	25:op1
+siyAra_1(jackal_3)	11	anim	-	-	-	-	-	25:op2
+BediyA_1(coyote_1)	13	anim	-	-	-	-	-	25:op3
+nIlagAya_1(nilgai_1)	15	anim	-	-	-	-	-	25:op4
+cIwala_2	17	anim	-	-	-	BI_1	-	25:op6
+$speaker	20	anim	pl	21:r6	-	-	-	-
+xeSa_1(country_1)	21	-	-	23:k7p	-	-	-	-
+pA_1-yA_jA_wA_hE_1	23	-	-	0:main	Geo_ncert_6stnd_8ch_0072.13:samuccaya	-	-	-
+iwyAxi_1(etc_1)	24	-	-	-	-	-	-	25:op5
+[conj_1]	25	-	-	6:re	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0074>
+#भारत में पक्षियों की भी ऐसी ही प्रचुरता है।
+#BArawa meM pakRiyoM kI BI EsI hI pracurawA hE.
+#India is equally rich in bird life.
+BArawa	1	-	-	-	-	-	-	10:begin
+pakRI_1(bird_4)	3	-	pl	8:r6	-	BI_1	-	-
+$wyax	6	-	-	11:dem	-	proximal	-	-
+pracurawA_1(richness_7)	8	-	-	9:k1	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+[ne_1]	10	place	-	9:k7p	-	-	-	-
+prakAra_1(kind_8)	11	-	-	9:krvn	-	hI_1	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0075>
+#मोर हमारा राष्ट्रीय पक्षी है।
+#mora hamArA rARtrIya pakRI hE.
+#Peacock is our national bird
+mora_1(peacock_2)	1	anim	-	5:k1	-	-	-	-
+$speaker	2	anim	pl	4:r6	-	-	-	-
+rARtrIya_1(national_2)	3	-	-	4:mod	-	-	-	-
+pakRI_1(bird_4)	4	anim	-	5:k1s	-	-	-	-
+hE_1-pres	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0076>
+#भारत में पक्षी तोता, मैना, कबूतर, बुलबुल तथा बत्तख इत्यादि हैं।
+#BArawa meM pakRI wowA, mEnA, kabUwara, bulabula waWA bawwaKa iwyAxi hEM.
+#Other common birds are parrots, pigeons, mynah, geese, bulbul and ducks.
+BArawa	1	-	-	-	-	-	-	18:begin
+pakRI_1(bird_4)	3	anim	-	17:k1	-	-	-	-
+wowA_1(parrot_1)	4	anim	-	-	-	-	-	16:op1
+mEnA(mynah_1)	6	anim	-	-	-	-	-	16:op2
+kabUwara_1(pigeon_1)	8	anim	-	-	-	-	-	16:op3
+bulabula_4	10	anim	-	-	-	-	-	16:op4
+bawwaKa_1(duck_3)	12	anim	-	-	-	-	-	16:op5
+[conj_1]	16	-	-	17:k1s	-	-	-	-
+hE-pres	17	-	-	0:main	-	-	-	-
+[ne_1]	18	place	-	17:k7p	-	-	-	-
+iwyAxi_1(etc_1)	19	-	-	-	-	-	-	16:op6
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0077>
+#अन्य बहुत सारे राष्ट्रीय पक्षी उद्यान हैं जो पक्षियों को उनका प्राकृतिक निवास प्रदान करते हैं।
+#anya bahuwa sAre rARtrIya pakRI uxyAna hEM jo pakRiyoM ko unakA prAkqwika nivAsa praxAna karawe hEM.
+#There are several bird sanctuaries which have been created to give birds their natural habitat.
+anya_1	1	-	-	20:mod	-	-	-	-
+bahuwa_8	2	-	-	20:intf	-	sArA_1	-	-
+rARtrIya_1(national_2)	4	-	-	20:mod	-	-	-	-
+pakRI_1(bird_4)	5	anim	-	-	-	-	-	20:mod
+uxyAna_4(sanctuary_5)	6	-	-	-	-	-	-	20:head
+hE_1-pres	7	-	-	0:main	-	-	-	-
+$yax	8	-	-	19:k1	20:coref	-	-	-
+pakRI_1(bird_4)	9	anim	pl	19:k4	-	-	-	-
+$wyax	11	-	-	13:r6	5:coref	distal	-	-
+prAkqwika_1(natural_7)	12	-	-	13:mod	-	-	-	-
+nivAsa_3(habitation_2)	13	-	-	19:k2	-	-	-	-
+praxAna_1(giving_2)	14	-	-	-	-	-	-	19:kriyAmUla
+kara_1-wA_hE_1	15	-	-	-	-	-	-	19:verbalizer
+[cp_1]	19	-	-	20:rcelab	-	-	-	-
+[6-waw_1]	20	-	-	7:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0078>
+#उद्यान शिकारियों से पक्षियों की रक्षा करते हैं।
+#uxyAna SikAriyoM se pakRiyoM kI rakRA karawe hEM.
+#These provide the birds protection from hunters.
+uxyAna_4(sanctuary_5)	1	-	-	6:k1	-	-	-	-
+SikArI_4(hunter_7)	2	anim	pl	6:k5	-	-	-	-
+pakRI_1(bird_4)	3	anim	pl	6:k2	-	-	-	-
+rakRA_3(protection_18)	4	-	-	-	-	-	-	6:kriyAmUla
+kara_1-wA_hE_1	5	-	-	-	-	-	-	6:verbalizer
+[cp_1]	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0079>
+#क्या आप अपने क्षेत्र में पाए जाने वाले पाँच पक्षियों के नाम बता सकते हैं?
+#kyA Apa apane kRewra meM pAe jAne vAle pAzca pakRiyoM ke nAma bawA sakawe hEM?
+#Can you name five birds that are commonly found in your area?
+$addressee	1	anim	-	8:k1	-	respect	-	-
+apanA	2	-	-	3:r6	1:coref	-	-	-
+kRewra_5(area_2)	3	-	-	4:k7p	-	-	-	-
+pA_13(find_4)	4	-	-	6:mod	-	-	-	-
+5	5	numex	-	6:card	-	-	-	-
+pakRI_1(bird_4)	6	-	pl	7:r6	-	-	-	-
+nAma_1(name_3)	7	-	-	8:k2	-	-	-	-
+bawA_1-0_sakawA_hE_1	8	-	-	0:main	-	-	-	-
+%yn_interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0080>
+#भारत में साँपों की सैकडों प्रजातियाँ पाई जाती हैं।
+#BArawa meM sAzpoM kI sEkadoM prajAwiyAz pAI jAwI hEM.
+#There are several hundreds of species of snakes found in India.
+BArawa	1	-	-	-	-	-	-	2:begin
+[ne_1]	2	place	-	6:k7p	-	-	-	-
+sAzpa_1(snake_9)	3	anim	pl	5:r6	-	-	-	-
+100	4	numex	pl	5:card	-	-	-	-
+prajAwi_1(species_1)	5	-	pl	6:k1	-	-	-	-
+pA_1-yA_jA_wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0081>
+#उनमें कोबरा एवं करैत प्रमुख हैं।
+#unameM kobarA evaM karEwa pramuKa hEM.
+#Cobras and kraits are important among them.
+$wyax	1	-	-	4:rn	Geo_ncert_6stnd_8ch_0080.5:coref	distal	-	-
+kobarA_1(cobra_2)	2	anim	-	-	-	-	-	4:op1
+karEwa_1(kraits_1)	3	anim	-	-	-	-	-	4:op2
+[conj_1]	4	-	-	6:k1	-	-	-	-
+pramuKa_12(important_9)	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0082>
+#वनों के कटने तथा जानवरों के शिकार के कारण भारत में पाए जाने वाले वन्यजीवों की प्रजातियाँ तेजी से घट रही हैं।
+#vanoM ke katane waWA jAnavaroM ke SikAra ke kAraNa BArawa meM pAe jAne vAle vanyajIvoM kI prajAwiyAz wejI se Gata rahI hEM.
+#Due to cutting of forests and hunting, several species of wildlife of India are declining rapidly.
+vana_2(forest_4)	1	-	pl	2:r6	-	-	-	-
+kata_4	2	-	-	-	-	-	-	5:op1
+jAnavara_1(animal_2)	3	anim	pl	4:r6	-	-	-	-
+SikAra_3(hunting_3)	4	-	-	-	-	-	-	5:op2
+[conj_1]	5	-	-	12:rh	-	-	-	-
+BArawa	6	-	-	-	-	-	-	7:begin
+[ne_1]	7	place	-	12:k7p	-	-	-	-
+pA_13(find_4)	8	-	-	9:mod	-	-	-	-
+vanyajIva_1(wildlife_1)	9	-	pl	10:r6	-	-	-	-
+prajAwi_1(species_1)	10	-	pl	12:k1	-	-	-	-
+wejI_7(rapidity_3)	11	-	-	12:krvn	-	-	-	-
+Gata_1-0_raha_hE_1	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0082a>
+#वनों के कटने।
+#vanoM ke katane.
+#Due to cutting of forests and hunting, several species of wildlife of India are declining rapidly.
+-	-	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0083>
+#बहुत सी प्रजातियाँ तो समाप्त भी हो चुकी हैं।
+#bahuwa sI prajAwiyAz wo samApwa BI ho cukI hEM.
+#Many species have already become extinct.
+bahuwa_2(many_5)	1	-	-	2:quant	-	sA_4	-	-
+prajAwi_1(species_1)	2	-	pl	4:k1	-	wo_4	-	-
+samApwa_11	3	-	-	4:k1s	-	BI_1	-	-
+ho_1-0_cukA_hE_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0084>
+#उनको बचाने के लिए बहुत से नेशनल पार्क, पशुविहार तथा जीवमंडल आरक्षित क्षेत्र स्थापित किए गए हैं।
+#unako bacAne ke lie bahuwa se neSanala pArka, paSuvihAra waWA jIvamaMdala ArakRiwa kRewra sWApiwa kie gae hEM.
+#In order to protect them many national parks, sanctuaries and biosphere reserves have been set up.
+$wyax	1	-	-	2:k2	Geo_ncert_6stnd_8ch_0082.10:coref	distal	-	-
+bacA_3(protect_1)	2	-	-	15:rt	-	-	-	-
+bahuwa_2(many_5)	3	-	-	12:quant	-	sA_4	-	-
+^neSanala_1	4	-	-	5:mod	-	-	-	-
+pArka_1(park_2)	5	-	-	-	-	-	-	12:op1
+paSuvihAra_1(sanctuaries_1)	6	-	-	-	-	-	-	12:op2
+jIvamaMdala_1(biosphere_1)	7	-	-	-	-	-	-	11:mod
+ArakRiwa_1(reserved_5)	8	-	-	-	-	-	-	10:mod
+kRewra_5(area_2)	9	-	-	-	-	-	-	10:head
+[nc_1]	10	-	-	-	-	-	-	11:head
+[nc_2]	11	-	-	-	-	-	-	12:op3
+[conj_1]	12	-	-	15:k2	-	-	-	-
+sWApiwa_3(established_5)	13	-	-	-	-	-	-	15:kriyAmUla
+kara_1-yA_jA_yA_hE_1	14	-	-	-	-	-	-	15:verbalizer
+[cp_1]	15	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0085>
+#सरकार ने हाथियों तथा बाघों को बचाने के लिए बाघ परियोजना एवं हस्ति परियोजना जैसी परियोजनाओं को शुरू किया है।
+#sarakAra ne hAWiyoM waWA bAGoM ko bacAne ke lie bAGa pariyojanA evaM haswi pariyojanA jEsI pariyojanAoM ko SurU kiyA hE.
+#The Government has also started Project Tiger and Project Elephant to protect these animals.
+sarakAra_1(government_3)	1	-	-	16:k1	-	def	-	-
+hAWI_1(elephant_9)	2	anim	pl	-	-	-	-	4:op1
+bAGa_1(tiger_1)	3	anim	pl	-	-	-	-	4:op2
+[conj_1]	4	-	-	5:k2	-	-	-	-
+bacA_3(protect_1)	5	-	-	16:rt	-	-	-	-
+bAGa_1(tiger_1)	6	-	-	-	-	-	-	8:mod
+pariyojanA_1(project_2)	7	-	-	-	-	-	-	8:head
+[nc_1]	8	-	-	-	-	-	-	12:op1
+haswi_1(elephant_5)	9	-	-	-	-	-	-	11:mod
+pariyojanA(project_2)	10	-	-	-	-	-	-	11:head
+[nc_2]	11	-	-	-	-	-	-	12:op2
+[conj_2]	12	-	-	13:re	-	-	-	-
+pariyojanA_1(project_2)	13	-	pl	16:k2	-	-	-	-
+SurU_3(start_15)	14	-	-	-	-	-	-	16:kriyAmUla
+kara_1-yA_hE_1	15	-	-	-	-	-	-	16:verbalizer
+[cp_1]	16	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0086>
+#क्या आप भारत के कुछ पशुविहारों के नाम तथा मानचित्र पर उनकी स्थिति बता सकते हैं?
+#kyA Apa BArawa ke kuCa paSuvihAroM ke nAma waWA mAnaciwra para unakI sWiwi bawA sakawe hEM?
+#Can you name some wildlife sanctuaries of India and locate them on a map?
+$addressee	1	anim	-	11:k1	-	respect	-	-
+BArawa	2	-	-	-	-	-	-	3:begin
+[ne_1]	3	place	-	5:r6	-	-	-	-
+kuCa_1(some_2)	4	-	-	5:quant	-	-	-	-
+paSuvihAra_1(sanctuaries_1)	5	-	pl	6:r6	-	-	-	-
+nAma_1(name_3)	6	-	-	-	-	-	-	10:op1
+mAnaciwra_1(map_3)	7	-	-	9:k7p	-	-	-	-
+$wyax	8	-	-	9:r6	5:coref	distal	-	-
+sWiwi_3(location_3)	9	-	-	-	-	-	-	10:op2
+[conj_1]	10	-	-	11:k2	-	-	-	-
+bawA_1-0_sakawA_hE_1	11	-	-	0:main	-	-	-	-
+%yn_interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0087>
+#आप वन्यजीवों के संरक्षण में भी अपना हाथ बँटा सकते हैं।
+#Apa vanyajIvoM ke saMrakRaNa meM BI apanA hAWa baztA sakawe hEM.
+#You can also contribute in conserving wildlife.
+$addressee	1	anim	-	7:k1	-	respect	-	-
+vanyajIva_1(wildlife_1)	2	-	pl	3:r6	-	-	-	-
+saMrakRaNa_4(conservation_1)	3	-	-	7:k7	-	BI_1	-	-
+apanA	4	-	-	5:r6	1:coref	-	-	-
+hAWa_6(contribution_6)	5	-	-	-	-	-	-	7:kriyAmUla
+baztA_1-0_sakawA_hE_1	6	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0088>
+#आप जानवरों के शरीर के विभिन्न अंगों , जैसे- हड्डी, सींग तथा पंख से बने पदार्थों को खरीदने से इनकार कर सकते हैं।
+#Apa jAnavaroM ke SarIra ke viBinna aMgoM ; jEse- haddI, sIMga waWA paMKa se bane paxArWoM ko KarIxane se inakAra kara sakawe hEM.
+#You can refuse to buy things made from parts of the bodies of animals such as their bones, horns, fur, skins, and feathers.
+$addressee	1	anim	-	15:k1	-	respect	-	-
+jAnavara_1(animal_2)	2	-	pl	3:r6	-	-	-	-
+SarIra_1(body_11)	3	-	-	5:r6	-	def	-	-
+viBinna_4(various_8)	4	-	-	5:mod	-	-	-	-
+aMga_4(part_1)	5	-	pl	10:k5prk	-	-	-	-
+haddI_1(bone_3)	6	-	-	-	-	-	-	9:op1
+sIMga_1(horn_2)	7	-	-	-	-	-	-	9:op2
+paMKa(feather_1)	8	-	-	-	-	-	-	9:op3
+[conj_1]	9	-	-	5:re	-	-	-	-
+bana_15(made_12)	10	-	-	11:rbks	-	-	-	-
+paxArWa_6(product_3)	11	-	pl	12:k2	-	-	-	-
+KarIxa_1(buy_3)	12	-	-	15:rt	-	-	-	-
+inakAra_1(refusal_1)	13	-	-	-	-	-	-	15:kriyAmUla
+kara_1-0_sakawA_hE_1	14	-	-	-	-	-	-	15:verbalizer
+[cp_1]	15	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0089a>
+#प्रत्येक वर्ष हम लोग अक्टूबर के पहले सप्ताह को वन्यजीव सप्ताह के रूप में मनाते हैं।
+#prawyeka varRa hama loga aktUbara ke pahale sapwAha ko vanyajIva sapwAha ke rUpa meM manAwe hEM.
+#Every year we observe wildlife week in the first week of October, to create awareness of conserving the habitats of the animal kingdom.
+prawyeka_2(every_2)	1	-	-	2:quant	-	-	-	-
+varRa_1(year_4)	2	-	-	11:freq	-	-	-	-
+$speaker	3	anim	pl	11:k1	-	-	-	-
+loga_2(people_5)	4	-	-	3:rs	-	-	-	-
+aktUbara_1	5	moy	-	7:r6	-	-	-	-
+pahalA_1	6	-	pl	7:ord	-	-	-	-
+sapwAha_1(week_1)	7	-	-	11:k2	-	def	-	-
+vanyajIva_1(wildlife_1)	8	-	-	-	-	-	-	10:mod
+sapwAha_1(week_1)	9	-	-	-	-	-	-	10:head
+[nc_1]	10	-	-	11:k7	-	-	-	-
+manA_1-wA_hE_1	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0089b>
+#ताकि वन्यजीवों के निवास को संरक्षित रखने के लिए जागरूकता लाई जा सके।
+#wAki vanyajIvoM ke nivAsa ko saMrakRiwa raKane ke lie jAgarUkawA lAI jA sake.
+#Every year we observe wildlife week in the first week of October, to create awareness of conserving the habitats of the animal kingdom.
+vanyajIva_1(wildlife_1)	1	-	pl	2:r6	-	-	-	-
+nivAsa_10	2	-	-	4:k2	-	-	-	-
+saMrakRiwa_2(protected_3)	3	-	-	4:k2s	-	-	-	-
+raKa_3(keep_4)	4	-	-	6:rt	-	-	-	-
+jAgarUkawA_4(awareness_3)	5	-	-	6:k2	-	-	-	-
+lA_1-yA_jA_sakA_1	6	-	-	0:main	Geo_ncert_6stnd_8ch_0089a.11:kAryaxyowaka	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0090>
+#निम्नलिखित प्रश्नों के उत्तर संक्षेप में दीजिए।
+#nimnaliKiwa praSnoM ke uwwara saMkRepa meM xIjie.
+#Answer the following questions briefly.
+$addressee	1	anim	-	6:k1	-	respect	-	-
+nimnaliKiwa_2(following_8)	2	-	-	3:mod	-	-	-	-
+praSna_1(question_3)	3	-	pl	4:r6	-	def	-	-
+uwwara_1(answer_1)	4	-	-	6:k2	-	-	-	-
+saMkRepa_3(brief_4)	5	-	-	6:krvn	-	-	-	-
+xe_1-o_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0091>
+#कौन-सी पवन भारत में वर्षा लाती है?
+#kOna-sI pavana BArawa meM varRA lAwI hE?
+#Which winds bring rainfall in India?
+$kim	1	-	-	2:dem	-	sA_4	-	-
+pavana_3(wind_2)	2	-	-	6:k1	-	-	-	-
+BArawa	3	-	-	-	-	-	-	4:begin
+[ne_1]	4	place	-	6:k7p	-	-	-	-
+varRA_2(rainfall_2)	5	-	-	6:k2	-	-	-	-
+lA_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0092>
+#यह इतनी महत्त्वपूर्ण क्यों है?
+#yaha iwanI mahawwvapUrNa kyoM hE?
+#Why is it so important?
+$wyax	1	-	-	5:k1	Geo_ncert_6stnd_8ch_0091.2:coref	proximal	-	-
+iwanA_2(so_9)	2	-	-	3:quant	-	-	-	-
+mahawwvapUrNa_1(important_4)	3	-	-	5:k1s	-	-	-	-
+$kim	4	-	-	5:rh	-	-	-	-
+hE_1-pres	5	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0093>
+#भारत के विभिन्न मौसमों के नाम लिखिए।
+#BArawa ke viBinna mOsamoM ke nAma liKie.
+#Name the different seasons in India.
+$addressee	1	anim	-	7:k1	-	respect	-	-
+BArawa	2	-	-	-	-	-	-	3:begin
+[ne_1]	3	place	-	5:r6	-	-	-	-
+viBinna_1(different_13)	4	-	-	5:mod	-	-	-	-
+mOsama_1(season_5)	5	-	pl	6:r6	-	def	-	-
+nAma_1(name_3)	6	-	-	7:k2	-	-	-	-
+liKa_1-o_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0094>
+#प्राकृतिक वनस्पति क्या है?
+#prAkqwika vanaspawi kyA hE?
+#What is natural vegetation?
+prAkqwika_1(natural_7)	1	-	-	2:mod	-	-	-	-
+vanaspawi_2(vegetation_3)	2	-	-	4:k1	-	-	-	-
+$kim	3	-	-	4:k1s	-	-	-	-
+hE_1-pres	4	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0095>
+#सही उत्तर चिन्हित कीजिए।
+#sahI uwwara cinhiwa kIjie.
+#Tick the correct answers.
+$addressee	1	anim	-	5:k1	-	respect	-	-
+sahI_11(correct_11)	2	-	-	3:mod	-	-	-	-
+uwwara_1(answer_1)	3	-	-	5:k2	-	-	-	-
+cinhiwa_2(marked_2)	4	-	-	5:k2s	-	-	-	-
+kara_1-o_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0096>
+#विश्व में सबसे अधिक वर्षा वाला क्षेत्र कौन-सा है।
+#viSva meM sabase aXika varRA vAlA kRewra kOna-sA hE.
+#The world’s highest rainfall occurs in
+viSva_11(world_20)	1	-	-	6:k7p	-	def	-	-
+aXika_13(high_31)	2	-	superl	3:quant	-	-	-	-
+varRA_2(rainfall_2)	3	-	mawup	4:mod	-	-	-	-
+kRewra_4(region_3)	4	-	-	6:k1	-	-	-	-
+$kim	5	-	-	6:k1s	-	sA_4	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0097>
+#जंगली बकरी तथा हिम तेंदुए कहाँ पाए जाते हैं?
+#jaMgalI bakarI waWA hima weMxue kahAz pAe jAwe hEM?
+#Wild goats and snow leopards are found in
+jaMgalI_2(wild_3)	1	-	-	2:mod	-	-	-	-
+bakarA_2(goat_3)	2	anim	-	-	-	-	-	6:op1
+hima_3(snow_8)	3	-	-	-	-	-	-	5:mod
+weMxuA_1(leopard_2)	4	anim	pl	-	-	-	-	5:head
+[nc_1]	5	-	-	-	-	-	-	6:op2
+[conj_1]	6	-	-	8:k2	-	-	-	-
+$kim	7	-	-	8:k7p	-	-	-	-
+pA_1-yA_jA_wA_hE_1	8	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0098>
+#दक्षिण-पश्चिम मानसून के समय आर्द्र पवनें कहाँ बहती हैं?
+#xakRiNa-paScima mAnasUna ke samaya Arxra pavaneM kahAz bahawI hEM?
+#During the south west monsoon period, the moisture laden winds blow from
+xakRiNa+paScima_1	1	-	-	2:mod	-	-	-	-
+mAnasUna_1(monsoon_1)	2	-	-	6:dur	-	def	-	-
+Arxra_4(moist_1)	3	-	-	4:mod	-	-	-	-
+pavana_3(wind_2)	4	-	pl	6:k1	-	-	-	-
+$kim	5	-	-	6:k7p	-	-	-	-
+baha_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_8ch_0099>
+#खाली स्थान भरें।
+#KAlI sWAna BareM.
+#Fill in the blanks.
+$addressee	1	anim	-	4:k1	-	respect	-	-
+KAlI_5(empty_9)	2	-	-	3:mod	-	-	-	-
+sWAna_4(space_10)	3	-	-	4:k2	-	def	-	-
+Bara_1-o_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>

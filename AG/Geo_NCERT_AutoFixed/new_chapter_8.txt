@@ -1,0 +1,448 @@
+<segment_id=news_headline_8_0001a>
+#चीन में एक मां के बारे में यह पता चलने पर बहुत गुस्सा फैल गया।
+#cIna meM eka mAM ke bAre meM yaha pawA calane para bahuwa gussA PEla gayA .
+#There was widespread anger after it was discovered that a mother in China did this.
+cIna	1	-	-	-	-	-	-	2:begin
+[ne_1]	2	place	-	14:k7p	-	-	-	-
+eka_2(a_1)	3	-	-	4:quant	-	-	-	-
+mAz_1(mother_8)	4	female	-	17:k7	-	-	-	-
+$wyax	8	-	-	17:k1	news_headline_8_0001b.10:coref	proximal	-	-
+pawA_10(discover_12)	9	-	-	-	-	-	-	17:kriyAmUla
+cala_15(work_10)	10	-	-	-	-	-	-	17:verbalizer
+bahuwa_1(much_6)	12	-	-	13:quant	-	-	-	-
+gussA_1(anger_40)	13	-	-	14:k1	-	-	-	-
+PEla_1-yA_hE_2	14	-	-	0:main	-	[shade:jA_1]	-	-
+[cp_1]	17	-	-	14:rblsk	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_8_0001b>
+#कि उसने ऐय्याशी के लिए अपने दो बेटों को बेच दिया था।
+#ki usane EyyASI ke lie apane xo betoM ko beca xiyA WA .
+#That she had sold her two sons for a life of indulgence.
+$wyax	2	-	-	10:k1	news_headline_8_0001a.4:coref	distal	-	-
+EyyASI_1(indulgence_2)	3	-	-	10:rt	-	-	-	-
+apanA	6	-	-	8:r6	2:coref	-	-	-
+2	7	numex	-	8:card	-	-	-	-
+betA_1(son_9)	8	male	pl	10:k2	-	-	-	-
+beca_1-yA_WA_1	10	-	-	0:main	-	[shade:xe_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_8_0002a>
+#चौंकाने वाली बात यह है।
+#cOMkAne vAlI bAwa yaha hE .
+#The shocking thing is this.
+cOMkA_1	1	-	-	3:mod	-	-	-	-
+bAwa_1(thing_2)	3	-	-	5:k1	-	-	-	-
+$wyax	4	-	-	5:k1s	news_headline_8_0002b.21:coref	proximal	-	-
+hE_1-pres	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_8_0002b>
+#कि उसने कथित तौर पर दूसरे बच्चे को भी इसी मकसद से बेचने के इरादे से गर्भधारण किया था।
+#ki usane kaWiwa wOra para xUsare bacce ko BI isI makasaxa se becane ke irAxe se garBaXAraNa kiyA WA .
+#That she had allegedly conceived her second child with the intent of selling him for the same purpose.
+$wyax	2	-	-	21:k1	news_headline_8_0001a.4:coref	distal	-	-
+kaWiwa+wOra+para_1	3	-	-	21:vkvn	-	-	-	-
+xUsarA_1(second_1)	6	-	-	7:ord	-	-	-	-
+baccA_1(child_2)	7	-	-	21:k2	-	-	-	-
+$wyax	10	-	-	11:dem	-	proximal	-	-
+makasaxa_3	11	-	-	13:rt	-	-	-	-
+beca_1(sell_1)	13	-	-	15:r6	-	-	-	-
+irAxA_1(intention_3)	15	-	-	21:rh	-	-	-	-
+garBaXAraNa_1(conception_4)	17	-	-	-	-	-	-	21:kriyAmUla
+kara_1-yA_WA_1	18	-	-	-	-	-	-	21:verbalizer
+[cp_1]	21	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_8_0003a>
+#आरोपी की पहचान 26 वर्षीय हुआंग के रूप में हुई है।
+#AropI kI pahacAna 26 varRIya huAMga ke rUpa meM huI hE.
+#The accused has been identified as 26-year-old Huang.
+AropI_1(accused_4)	1	-	-	3:r6	-	-	-	-
+pahacAna_4(identification_3)	3	-	-	10:k1	-	-	-	-
+26	4	numex	-	5:card	-	-	-	-
+varRIya_1(aged_5)	5	-	-	6:mod	-	-	-	-
+huAMga	6	female	-	-	-	-	-	7:begin
+[ne_1]	7	per	-	10:k1s	-	-	-	-
+nAma_1(name_3)	8	-	-	7:rs	-	-	-	-
+ho_1-yA_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_8_0003b>
+#जो मूल रूप से दक्षिणी चीन के गुआंग्शी प्रांत की रहने वाली है।
+#jo mUla rUpa se xakRiNI cIna ke guAMgSI prAMwa kI rahane vAlI hE.
+#She is originally from China’s southern Guangxi province.
+$yax	1	-	-	12:k1	news_headline_8_0003a.7:coref	-	-	-
+mUla_2(origin_9)	2	-	-	12:krvn	-	-	-	-
+xakRiNI_1(southern_1)	5	-	-	7:mod	-	-	-	-
+cIna	6	-	-	-	-	-	-	7:begin
+[ne_1]	7	place	-	-	-	-	-	13:whole
+guAMgSI	8	-	-	-	-	-	-	9:begin
+[ne_2]	9	place	-	-	-	-	-	13:part
+prAMwa_1(province_1)	10	-	-	9:rs	-	-	-	-
+raha_2(stay_8)	11	-	-	12:k1s	-	-	-	-
+hE_1-pres	12	-	-	news_headline_8_0003a.7:rcelab	-	-	-	-
+[spatial_1]	13	-	-	11:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_8_0003c>
+#और जिसने केवल प्राथमिक स्कूल तक शिक्षा हासिल की है।
+#Ora jisane kevala prAWamika skUla waka SikRA hAsila kI hE .
+#And she has received education only up to primary school.
+$yax	2	-	-	12:k1	news_headline_8_0003a.7:coref	-	-	-
+prAWamika_1(primary_3)	4	-	-	5:mod	-	-	-	-
+skUla_1(school_10)	5	-	-	-	-	kevala_1	-	6:end
+[span_1]	6	-	-	7:rmeas	-	-	-	-
+SikRA_1(education_5)	7	-	-	12:k2	-	-	-	-
+hAsila_1(obtained_4)	8	-	-	-	-	-	-	12:kriyAmUla
+kara_1-yA_hE_1	9	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	news_headline_8_0003a.7:rcelab	news_headline_8_0003b.12:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_8_0004a>
+#बाद में हुआंग दक्षिण-पूर्वी चीन के फुजियान प्रांत के फूजौ में चली गई।
+#bAxa meM huAMga xakRiNa-pUrvI cIna ke PujiyAna prAMwa ke PUjO meM calI gaI .
+#Later, Huang moved to Fuzhou in China’s southeastern Fujian province.
+huAMga	1	female	-	-	-	-	-	2:begin
+[ne_1]	2	per	-	13:k1	-	-	-	-
+xakRiNa+pUrvI_2	3	-	-	5:mod	-	-	-	-
+cIna	4	-	-	-	-	-	-	5:begin
+[ne_2]	5	place	-	-	-	-	-	9:whole
+PujiyAna	6	-	-	-	-	-	-	7:begin
+[ne_3]	7	place	-	-	-	-	-	9:part
+prAMwa_1(province_1)	8	-	-	7:rs	-	-	-	-
+[spatial_1]	9	-	-	-	-	-	-	12:whole
+PUjO	10	-	-	-	-	-	-	11:begin
+[ne_4]	11	place	-	-	-	-	-	12:part
+[spatial_2]	12	-	-	13:k2p	-	-	-	-
+cala_1-yA_jAyA_hE_2	13	-	-	0:main	news_headline_8_0003c.12:uwwarkAla	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_8_0004b>
+#और उसने छोटे-मोटे काम करके अपना जीवनयापन किया।
+#Ora usane Cote-mote kAma karake apanA jIvanayApana kiyA .
+#And she survived by doing small jobs.
+$wyax	2	-	-	10:k1	news_headline_8_0004a.2:coref	distal	-	-
+CotA+motA_1(small_14)	3	-	-	4:mod	-	-	-	-
+kAma_3(job_1)	4	-	-	5:k2	-	-	-	-
+kara_17(do_2)	5	-	-	10:rpk	-	-	-	-
+apanA	6	-	-	10:k2	-	-	-	-
+jIvanayApana_1(living_15)	7	-	-	-	-	-	-	10:kriyAmUla
+kara_1-yA_hE_2	8	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	news_headline_8_0004a.13:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_8_0005>
+#रिपोर्टों के मुताबिक हुआंग एक गोद ली हुई बच्ची थी।
+#riportoM ke muwAbika huAMga eka goxa lI huI baccI WI .
+#According to reports, Huang herself was an adopted child.
+riporta_1(report_5)	1	-	pl	10:k7a	-	-	-	-
+huAMga	2	female	-	-	-	-	-	3:begin
+[ne_1]	3	per	-	10:k1	-	-	-	-
+eka_2(a_1)	5	-	-	9:card	-	-	-	-
+goxa_1(lap_2)	6	-	-	-	-	-	-	8:kriyAmUla
+le_1(take_1)	7	-	kqw	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	9:rbks	-	-	-	-
+baccA_1(child_2)	9	-	-	10:k1s	-	-	-	-
+hE_1-past	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_8_0006>
+#अपने दत्तक माता-पिता से शिक्षा और देखभाल की कमी के कारण उसने कम उम्र में ही घर छोड़ दिया था।
+#apane xawwaka mAwA-piwA se SikRA Ora xeKaBAla kI kamI ke kAraNa usane kama umra meM hI Gara CodZa xiyA WA .
+#Due to lack of care and education from her adoptive parents, she left home at a young age.
+apanA	1	-	-	3:r6	12:coref	-	-	-
+xawwaka_4	2	-	-	3:mod	-	-	-	-
+mAwA+piwA_1	3	-	-	10:k5	-	-	-	-
+SikRA_1(education_5)	5	-	-	-	-	-	-	8:op1
+xeKaBAla_1(care_8)	7	-	-	-	-	-	-	8:op2
+[conj_1]	8	-	-	9:r6	-	-	-	-
+kamI_4(lack_2)	9	-	-	10:k1	-	-	-	-
+ho_6(be_4)	10	-	-	18:rh	-	-	-	-
+$wyax	12	-	-	18:k1	news_headline_8_0005.3:coref	distal	-	-
+kama_6(small_3)	13	-	-	14:mod	-	-	-	-
+umra_1(age_4)	14	-	-	18:k7t	-	-	-	-
+Gara_1(home_1)	17	-	-	18:k2	-	-	-	-
+CodZa_1-yA_WA_1	18	-	-	0:main	-	[shade:xe_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_8_0007>
+#अक्टूबर 2020 में , उसने अपने पहले बेटे को जन्म दिया।
+#aktUbara 2020 meM , usane apane pahale bete ko janma xiyA .
+#In October 2020, she gave birth to her first son.
+aktUbara_1	1	moy	-	-	-	-	-	3:component1
+2020	2	yoc	-	-	-	-	-	3:component2
+[calendar_1]	3	-	-	10:k7t	-	-	-	-
+$wyax	4	-	-	10:k1	news_headline_8_0005.3:coref	distal	-	-
+apanA	5	-	-	7:r6	4:coref	-	-	-
+pahalA_1	6	-	-	7:ord	-	-	-	-
+betA_1(son_9)	7	anim	-	10:k2	-	-	-	-
+janma_1(birth_4)	8	-	-	-	-	-	-	10:kriyAmUla
+xe_1-yA_hE_2	9	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_8_0008>
+#लेकिन आर्थिक तंगी और पिता की गैर-मौजूदगी के कारण उसे अपने बेटे की देखभाल करने में कठिनाई हो रही थी।
+#lekina ArWika waMgI Ora piwA kI gEra-mOjUxagI ke kAraNa use apane bete kI xeKaBAla karane meM kaTinAI ho rahI WI .
+#But due to financial hardship and the absence of the father, she was struggling to take care of him.
+ArWika_3(financial_3)	1	-	-	2:mod	-	-	-	-
+waMgI_8(distress_29)	2	-	-	-	-	-	-	5:op1
+piwA_1(father_5)	3	anim	-	4:r6	-	def	-	-
+gEra+mOjUxagI_1(absence_13)	4	-	-	-	-	def	-	5:op2
+[conj_1]	5	-	-	13:rh	-	-	-	-
+$wyax	6	-	-	13:k4a	news_headline_8_0005.3:coref	distal	-	-
+apanA	7	-	-	8:r6	6:coref	-	-	-
+betA_1(son_9)	8	anim	-	11:k2	-	-	-	-
+xeKaBAla_1(care_8)	9	-	-	-	-	-	-	11:kriyAmUla
+kara_17(do_2)	10	-	-	-	-	-	-	11:verbalizer
+[cp_1]	11	-	-	13:rt	-	-	-	-
+kaTinAI_7(difficulty_27)	12	-	-	13:k1	-	-	-	-
+ho_1-0_rahA_WA_1	13	-	-	0:main	news_headline_8_0007.10:viroXI	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_8_0009>
+#इसलिए , उसने अपनी परेशानी से बचने के लिए बच्चे को बेचने का फैसला किया।
+#isalie , usane apanI pareSAnI se bacane ke lie bacce ko becane kA PEsalA kiyA .
+#So, to escape her difficulties, she decided to sell the child.
+$wyax	1	-	-	9:k1	news_headline_8_0005.3:coref	distal	-	-
+apanA	2	-	-	3:r6	1:coref	-	-	-
+pareSAnI_9(difficulty_28)	3	-	-	4:k5	-	-	-	-
+baca_4(escape_2)	4	-	-	9:rt	-	-	-	-
+baccA_1(child_2)	5	anim	-	6:k2	-	-	-	-
+beca_1(sell_1)	6	-	-	9:k2	-	-	-	-
+PEsalA_3(decision_12)	7	-	-	-	-	-	-	9:kriyAmUla
+kara_1-yA_hE_2	8	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	news_headline_8_0008.13:pariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_8_0010a>
+#उसके मकान मालिक वेई को उसकी योजना का पता चल गया।
+#usake makAna mAlika veI ko usakI yojanA kA pawA cala gayA .
+#Her landlord Wei learned about her plan.
+$wyax	1	-	-	4:r6	news_headline_8_0005.3:coref	distal	-	-
+makAna_1(house_5)	2	-	-	-	-	-	-	4:mod
+mAlika_6(lord_11)	3	-	-	-	-	-	-	4:head
+[nc_1]	4	-	-	13:k4a	-	-	-	-
+veI	5	male	-	-	-	-	-	6:begin
+[ne_1]	6	per	-	4:rs	-	-	-	-
+$wyax	7	-	-	8:r6	news_headline_8_0005.3:coref	distal	-	-
+yojanA_1(plan_5)	8	-	-	13:k1	-	-	-	-
+pawA_10(discover_12)	9	-	-	-	-	-	-	13:kriyAmUla
+cala_1-yA_hE_2	10	-	-	-	-	[shade:jA_1]	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_8_0010b>
+#और उन्होंने उसे ली नाम के एक रिश्तेदार से मिलवाया जिसका बेटा बांझपन से जूझ रहा था।
+#Ora unhoMne use lI nAma ke eka riSwexAra se milavAyA jisakA betA bAMJapana se jUJa rahA WA .
+#And he introduced her to a relative named Li, whose son was struggling with infertility.
+$wyax	1	-	-	8:pk1	news_headline_8_0010a.4:coref	distal	-	-
+$wyax	2	-	-	8:jk1	news_headline_8_0005.3:coref	distal	-	-
+lI	3	male	-	-	-	-	-	4:begin
+[ne_1]	4	per	-	7:rs	-	-	-	-
+nAma_1(name_3)	5	-	-	4:rs	-	-	-	-
+eka_1	6	-	-	7:quant	-	-	-	-
+riSwexAra_1(relative_4)	7	anim	-	8:k2	-	-	-	-
+mila_1-yA_hE_2	8	-	-	0:main	news_headline_8_0010a.13:samuccaya	-	-	-
+$yax	9	-	-	10:r6	-	-	-	-
+betA_1(son_9)	10	anim	-	12:k1	-	-	-	-
+bAMJapana_1(barrenness_1)	11	-	-	12:k5	-	-	-	-
+jUJa_1-0_rahA_WA_1	12	-	-	7:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_8_0010c>
+#और वह लंबे समय से एक बच्चा गोद लेना चाहता था।
+#Ora vaha laMbe samaya se eka baccA goxa lenA cAhawA WA .
+#And he had long wanted to adopt a child.
+$wyax	2	-	-	11:k1	news_headline_8_0010b.7:coref	distal	-	-
+laMbA_1(long_2)	3	-	-	4:mod	-	-	-	-
+samaya_1(time_8)	4	-	-	-	-	-	-	5:start
+[span_1]	5	-	-	11:k7t	-	-	-	-
+eka_2(a_1)	6	-	-	7:quant	-	-	-	-
+baccA_1(child_2)	7	-	-	10:k2	-	-	-	-
+goxa_1(lap_2)	8	-	-	-	-	-	-	10:kriyAmUla
+le_1(take_1)	9	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	11:k2	-	-	-	-
+cAha_1-wA_WA_1	11	-	-	0:main	news_headline_8_0010b.8:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_8_0011>
+#ली के परिवार ने उस बच्चे को 45 , 000 युआन ( 6 , 300 अमेरिकी डॉलर ) में खरीद लिया।
+#lI ke parivAra ne usa bacce ko 45 , 000 yuAna ( 6 , 300 amerikI dOYlara ) meM KarIxa liyA .
+#Li’s family bought the child for 45,000 yuan (USD 6,300).
+lI	1	male	-	-	-	-	-	2:begin
+[ne_1]	2	per	-	3:r6	-	-	-	-
+parivAra_1(family_8)	3	-	-	12:k1	-	-	-	-
+$wyax	4	-	-	5:dem	-	distal	-	-
+baccA_1(child_2)	5	anim	-	12:k2	-	-	-	-
+45000	6	numex	-	-	-	-	-	8:count
+yuAna_1	7	-	-	-	-	-	-	8:unit
+[currency_meas_1]	8	-	-	12:k7	-	-	-	-
+6300	9	numex	-	-	-	-	-	11:count
+amerikI+dOYlara_1	10	-	-	-	-	-	-	11:unit
+[currency_meas_2]	11	-	-	8:rs	-	-	-	-
+KarIxa_1-yA_hE_2	12	-	-	0:main	-	[shade:le_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_8_0012>
+#13 अप्रैल , 2022 को हुआंग के खिलाफ संदिग्ध धोखाधड़ी की सूचना अधिकारियों को दी गई।
+#13 aprEla , 2022 ko huAMga ke KilAPa saMxigXa XoKAXadZI kI sUcanA aXikAriyoM ko xI gaI .
+#On April 13, 2022, authorities were notified of suspected fraud against Huang.
+13	1	dom	-	-	-	-	-	4:component1
+aprEla_1(April_1)	2	moy	-	-	-	-	-	4:component2
+2022	3	yoc	-	-	-	-	-	4:component3
+[calendar_1]	4	-	-	12:k7t	-	-	-	-
+huAMga	5	female	-	-	-	-	-	6:begin
+[ne_1]	6	per	-	-	-	-	-	-
+saMxigXa_13	8	-	-	9:mod	-	-	-	-
+XoKAXadZI_9	9	-	-	10:r6	-	-	-	-
+sUcanA_4(notification_4)	10	-	-	12:k2	-	-	-	-
+aXikArI_4(authority_1)	11	-	pl	12:k4	-	-	-	-
+xe_1-yA_jA_yA_hE_2	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_8_0013a>
+#पुलिस जांच के दौरान यह पता चला।
+#pulisa jAMca ke xOrAna yaha pawA calA .
+#During the police investigation, it was discovered.
+pulisa_1(police_2)	1	-	-	-	-	-	-	3:mod
+jAMca_1(investigation_27)	2	-	-	-	-	-	-	3:head
+[nc_1]	3	-	-	7:dur	-	def	-	-
+$wyax	4	-	-	7:k1	news_headline_8_0013b.14:coref	proximal	-	-
+pawA_10(discover_12)	5	-	-	-	-	-	-	7:kriyAmUla
+cala_1-yA_hE_2	6	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_8_0013b>
+#कि उसके मोबाइल फोन पर बच्चों को बेचने से संबंधित चैट रिकॉर्ड मौजूद थे।
+#ki usake mobAila Pona para baccoM ko becane se saMbaMXiwa cEta rikOYrda mOjUxa We .
+#That her mobile phone had chat records related to selling children.
+$wyax	2	-	-	4:r6	news_headline_8_0012.6:coref	distal	-	-
+^mobAila_1	3	-	-	4:mod	-	-	-	-
+Pona_1(phone_1)	4	-	-	14:k7p	-	-	-	-
+baccA_1(child_2)	6	anim	pl	8:k2	-	-	-	-
+beca_1(sell_1)	8	-	-	-	-	-	-	15:mod
+saMbaMXiwa_1(related_2)	10	-	-	-	-	-	-	15:head
+^cEta_1	11	-	-	-	-	-	-	16:mod
+^rikOYrda_1	12	-	-	-	-	-	-	16:head
+mOjUxa_1(present_10)	13	-	-	14:k1s	-	-	-	-
+hE_1-past	14	-	-	0:main	-	-	-	-
+[compound_1]	15	-	-	16:mod	-	-	-	-
+[nc_1]	16	-	-	14:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_8_0014a>
+#पुलिस ने अप्रैल 2022 में दोनों लड़कों को बचा लिया।
+#pulisa ne aprEla 2022 meM xonoM ladZakoM ko bacA liyA .
+#The police rescued both boys in April 2022.
+pulisa_1(police_2)	1	-	-	7:k1	-	def	-	-
+aprEla_1(April_1)	2	moy	-	-	-	-	-	4:component1
+2022	3	yoc	-	-	-	-	-	4:component2
+[calendar_1]	4	-	-	7:k7t	-	-	-	-
+xonoM_1(both_4)	5	-	-	6:dem	-	-	-	-
+ladZakA_1(boy_4)	6	anim	pl	7:k2	-	-	-	-
+bacA_1-yA_hE_2	7	-	-	0:main	-	[shade:le_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_8_0014b>
+#और गोद लेने की प्रतीक्षा करते हुए स्थानीय नागरिक मामलों के विभागों द्वारा उनकी देखभाल की जा रही है।
+#Ora goxa lene kI prawIkRA karawe hue sWAnIya nAgarika mAmaloM ke viBAgoM xvArA unakI xeKaBAla kI jA rahI hE .
+#And while waiting for adoption, they are being cared for by local civil affairs departments.
+goxa_1(lap_2)	1	-	-	-	-	-	-	3:kriyAmUla
+le_1(take_1)	2	-	-	-	-	-	-	3:verbalizer
+[cp_1]	3	-	-	6:k2	-	-	-	-
+prawIkRA_2(expectation_3)	4	-	-	-	-	-	-	6:kriyAmUla
+kara_17(do_2)	5	-	-	-	-	-	-	6:verbalizer
+[cp_2]	6	-	-	10:dur	-	-	-	-
+sWAnIya_1(local_6)	7	-	-	10:mod	-	-	-	-
+nAgarika_1(civil_4)	8	-	-	9:mod	-	-	-	-
+mAmalA_2(affair_2)	9	-	pl	10:r6	-	-	-	-
+viBAga_1(department_2)	10	-	pl	14:k3	-	-	-	-
+$wyax	11	-	-	14:k2	news_headline_8_0014a.6:coref	distal	-	-
+xeKaBAla_1(care_8)	12	-	-	-	-	-	-	14:kriyAmUla
+kara_1-yA_jA_rahA_hE_1	13	-	-	-	-	-	-	14:verbalizer
+[cp_3]	14	-	-	0:main	news_headline_8_0014a.7:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_8_0015a>
+#फूजौ जिनान जिला पीपुल्स कोर्ट ने 8 जुलाई को धोखाधड़ी और तस्करी के लिए हुआंग को पांच साल और दो महीने की जेल की सजा सुनाई।
+#PUjO jinAna jilA pIpulsa korta ne 8 julAI ko XoKAXadZI Ora waskarI ke lie huAMga ko pAMca sAla Ora xo mahIne kI jela kI sajA sunAI .
+#The Fuzhou Jinan District People’s Court sentenced Huang on July 8 to five years and two months in prison for fraud and trafficking.
+PUjO	1	-	-	-	-	-	-	6:begin
+jinAna	2	-	-	-	-	-	-	6:inside
+jilA	3	-	-	-	-	-	-	6:inside
+pIpulsa	4	-	-	-	-	-	-	6:inside
+korta	5	-	-	-	-	-	-	6:inside
+[ne_1]	6	org	-	22:k1	-	def	-	-
+8	7	dom	-	-	-	-	-	9:component1
+julAI_1	8	moy	-	-	-	-	-	9:component2
+[calendar_1]	9	-	-	22:k7t	-	-	-	-
+XoKAXadZI_1	10	-	-	-	-	-	-	12:op1
+waskarI_4	11	-	-	-	-	-	-	12:op2
+[conj_1]	12	-	-	22:rt	-	-	-	-
+huAMga	13	female	-	-	-	-	-	14:begin
+[ne_2]	14	per	-	22:k2g	-	-	-	-
+5	15	numex	-	16:card	-	-	-	-
+sAla_1(year_8)	16	-	-	-	-	-	-	19:op1
+2	17	numex	-	18:card	-	-	-	-
+mahInA_1(month_1)	18	-	-	-	-	-	-	19:op2
+[conj_2]	19	-	-	20:r6	-	-	-	-
+jela_1(prison_3)	20	-	-	21:r6	-	-	-	-
+sajA_1	21	-	-	22:k2	-	-	-	-
+sunA_1-yA_hE_2	22	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_8_0015b>
+#साथ ही कोर्ट ने 30,000 युआन ( 4,000 अमेरिकी डॉलर ) का जुर्माना भी लगाया।
+#sAWa hI 30 , 000 yuAna ( 4 , 000 amerikI dOYlara ) kA jurmAnA BI lagAyA .
+#She was also fined 30,000 yuan (USD 4,000).
+korta_1(court_6)	1	-	-	9:k1	-	-	-	-
+30000	2	numex	-	-	15:k2	-	-	4:count
+yuAna_1	3	-	-	-	-	-	-	4:unit
+[currency_meas_1]	4	-	-	8:r6	-	-	-	-
+4000	5	numex	-	-	15:k1s	-	-	7:count
+amerikA+dOYlara_1	6	-	-	-	-	-	-	7:unit
+[currency_meas_2]	7	-	-	4:rs	-	-	-	-
+jurmAnA_1(fine_5)	8	-	-	9:k2	-	BI_1	-	-
+lagA_1-yA_hE_2	9	-	-	0:main	news_headline_8_0015a.22:samuccaya.samAveSI	samAveSI_1	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_8_0016>
+#ली को तस्करी करके लाए गए बच्चे को खरीदने के जुर्म में 9 महीने की जेल और एक साल के निलंबन की सज़ा सुनाई गई।
+#lI ko waskarI karake lAe gae bacce ko KarIxane ke jurma meM 9 mahIne kI jela Ora eka sAla ke nilaMbana kI sajZA sunAI gaI .
+#Li was sentenced to 9 months in prison and one year of probation for buying a trafficked child.
+lI	1	male	-	-	-	-	-	2:begin
+[ne_1]	2	per	-	18:k2g	-	-	-	-
+waskarI_1	3	-	-	-	-	-	-	5:kriyAmUla
+kara_17(do_2)	4	-	-	-	-	-	-	5:verbalizer
+[cp_1]	5	-	-	6:rpk	-	-	-	-
+lA_1(bring_1)	6	-	-	7:rbks	-	-	-	-
+baccA_1(child_2)	7	anim	-	8:k2	-	-	-	-
+KarIxa_1(buy_3)	8	-	-	9:r6	-	-	-	-
+jurma_1(crime_2)	9	-	-	18:rt	-	-	-	-
+9	10	numex	-	11:card	-	-	-	-
+mahInA_1(month_1)	11	-	-	12:r6	-	-	-	-
+jela_1(prison_3)	12	-	-	-	-	-	-	16:op1
+1	13	numex	-	14:card	-	-	-	-
+sAla_1(year_8)	14	-	-	15:r6	-	-	-	-
+nilaMbana_3	15	-	-	-	-	-	-	16:op2
+[conj_1]	16	-	-	17:r6	-	-	-	-
+sajZA_1(punishment_14)	17	-	-	18:k2	-	-	-	-
+sunA_1-yA_jA_yA_hE_2	18	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=news_headline_8_0017>
+#जबकि वेई को 7 महीने की जेल की सजा सुनाई गई।
+#jabaki veI ko 7 mahIne kI jela kI sajA sunAI gaI .
+#While Wei was sentenced to 7 months in prison.
+veI	1	male	-	-	-	-	-	2:begin
+[ne_1]	2	per	-	7:k2g	-	-	-	-
+7	3	numex	-	4:card	-	-	-	-
+mahInA_1(month_1)	4	-	-	5:r6	-	-	-	-
+jela_1(prison_3)	5	-	-	6:r6	-	-	-	-
+sajA_1	6	-	-	7:k2	-	-	-	-
+sunA_1-yA_jA_yA_hE_2	7	-	-	0:main	news_headline_8_0016.18:viroXI_xyowaka	-	-	-
+%affirmative
+</segment_id>

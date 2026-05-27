@@ -1,0 +1,2857 @@
+<segment_id=Geo_ncert_7stnd_8ch_0001>
+#रेणुका बहुत उत्साहित थी।
+#reNukA bahuwa uwsAhiwa WI.
+#Renuka was excited.
+reNukA	1	female	-	-	-	-	-	2:begin
+[ne_1]	2	per	-	5:k1	-	-	-	-
+bahuwa_7(very_1)	3	-	-	4:intf	-	-	-	-
+uwsAhiwa_3(excited_7)	4	-	-	5:k1s	-	-	-	-
+hE_1-past	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0002>
+#उसके चाचा श्रीकांत लगभग चार महीने के बाद आज घर में थे।
+#usake cAcA SrIkAMwa lagaBaga cAra mahIne ke bAxa Aja Gara meM We.
+#Shrikant Uncle was home after a gap of nearly four months.
+$wyax	1	-	-	2:rhh	Geo_ncert_7stnd_8ch_0001.2:coref	distal	-	-
+cAcA_2(uncle_7)	2	-	-	12:k1	-	-	-	-
+SrIkAMwa	3	male	-	-	-	-	-	4:begin
+[ne_1]	4	per	-	2:rs	-	-	-	-
+4	5	numex	-	-	-	lagaBaga_1	-	7:count
+mahInA_1(month_1)	6	-	pl	-	-	-	-	7:unit
+[time_meas_1]	7	-	-	8:rkl	-	-	-	-
+bAxa_1(after_8)	8	-	-	-	-	-	-	10:whole
+Aja_1(today_2)	9	-	-	-	-	-	-	10:part
+[temporal_1]	10	-	-	12:k7t	-	-	-	-
+Gara_1(home_1)	11	-	-	12:k7p	-	-	-	-
+hE_1-past	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0003a>
+#वह एक वन्यजीव फोटोग्राफर थे।
+#vaha eka vanyajIva PotogrAPara We .
+#He was a wildlife photographer and travelled widely.
+$wyax	1	-	-	6:k1	Geo_ncert_7stnd_8ch_0002.2:coref	distal	-	-
+eka_2(a_1)	2	-	-	5:quant	-	-	-	-
+vanyajIva_1(wildlife_1)	3	-	-	-	-	-	-	5:mod
+^PotogrAPara_1	4	-	-	-	-	-	-	5:head
+[nc_1]	5	-	-	6:k1s	-	-	-	-
+hE_1-past	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0003b>
+#तथा वह बहुत यात्रा करते थे।
+#waWA vaha bahuwa yAwrA karawe We.
+#He was a wildlife photographer and travelled widely.
+$wyax	1	-	-	5:k1	Geo_ncert_7stnd_8ch_0002.2:coref	distal	-	-
+bahuwa_1(much_6)	2	-	-	5:krvn	-	-	-	-
+yAwrA_2(travel_2)	3	-	-	-	-	-	-	5:kriyAmUla
+kara_1-wA_hE_1	4	-	-	-	-	-	-	5:verbalizer
+[cp_1]	5	-	-	0:main	Geo_ncert_7stnd_8ch_0003a.6:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0004>
+#बहुत छोटी उम्र से ही रेणुका की रुचि वन्यजीव एवं वनों में थी जब उसके चाचा ने प्रकृति संबंधी पुस्तकों से उसका परिचय कराया।
+#bahuwa CotI umra se hI reNukA kI ruci vanyajIva evaM vanoM meM WI jaba usake cAcA ne prakqwi saMbaMXI puswakoM se usakA paricaya karAyA.
+#Renuka’s interest in wildlife and forests began at an early age, when her uncle introduced her to books on nature.
+bahuwa_1	1	-	-	2:intf	-	-	-	-
+CotA_1	2	-	-	3:mod	-	-	-	-
+umra_1	3	-	-	-	-	-	-	4:start
+[span_1]	4	-	-	11:k7t	-	hI_2	-	-
+reNukA	5	female	-	-	-	-	-	6:begin
+[ne_1]	6	per	-	7:r6	-	-	-	-
+ruci_1	7	-	-	11:k1	-	-	-	-
+vanyajIva_1	8	-	-	-	-	-	-	10:op1
+vana_1	9	-	pl	-	-	-	-	10:op2
+[conj_1]	10	-	-	11:k7	-	-	-	-
+hE_1-past	11	-	-	0:main	-	-	-	-
+$yax	12	-	-	22:k7t	4:coref	-	-	-
+$wyax	13	-	-	14:r6	6:coref	distal	-	-
+cAcA_2(uncle_7)	14	-	-	22:pk1	-	-	-	-
+prakqwi_1	15	-	-	-	-	-	-	17:mod
+saMbaMXI_1	16	-	-	-	-	-	-	17:head
+[compound_1]	17	-	-	18:mod	-	-	-	-
+puswaka_1	18	-	pl	22:k2	-	-	-	-
+$wyax	19	-	-	22:jk1	6:coref	distal	-	-
+paricaya_1	20	-	-	-	-	-	-	22:kriyAmUla
+kara_1-yA_1	21	-	causative	-	-	-	-	22:verbalizer
+[cp_1]	22	-	-	4:rcsamAnakAla	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0005>
+#दूरस्थ भूस्थल एवं वहाँ रहने वाले लोगोंकी तसवीरें उसे हमेशा आकर्षित करती थी।
+#xUrasWa BUsWala evaM vahAz rahane vAle logoMkI wasavIreM use hameSA AkarRiwa karawI WI.
+#Pictures of distant lands and people, who lived there, always fascinated her.
+xUrasWa_2(distant_6)	1	-	-	2:mod	-	-	-	-
+BUsWala_1(land_13)	2	-	-	-	-	-	-	6:op1
+$wyax	3	-	-	4:k7p	2:coref	distal	-	-
+raha_1(live_3)	4	-	-	5:mod	-	-	-	-
+loga_2(people_5)	5	-	pl	-	-	-	-	6:op2
+[conj_1]	6	-	-	7:r6	-	-	-	-
+wasavIra_1(picture_2)	7	-	pl	12:k1	-	-	-	-
+$wyax	8	-	-	12:k2	Geo_ncert_7stnd_8ch_0004.6:coref	distal	-	-
+hameSA_1(always_7)	9	-	-	12:freq	-	-	-	-
+AkarRiwa_4(fascinated_1)	10	-	-	-	-	-	-	12:kriyAmUla
+kara_1-wA_hE_1	11	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0006>
+#रेणुका, इन तसवीरों में तुम विश्व के विभिन्न भागों के लोगों को देख सकती हो।
+#reNukA, ina wasavIroM meM wuma viSva ke viBinna BAgoM ke logoM ko xeKa sakawI ho.
+#In these pictures Renuka, you can see people from different parts of the world .
+reNukA	1	female	-	-	-	-	-	2:begin
+[ne_1]	2	per	-	5:rad	-	-	-	-
+$wyax	3	-	-	4:dem	-	proximal	-	-
+wasavIra_1(picture_2)	4	-	pl	10:k7p	-	-	-	-
+$addressee	5	anim	-	10:k1	-	-	-	-
+viSva_6(world_20)	6	-	-	8:r6	-	-	-	-
+viBinna_1(different_13)	7	-	-	8:mod	-	-	-	-
+BAga_2(part_9)	8	-	pl	9:r6	-	-	-	-
+loga_2(people_5)	9	-	pl	10:k2	-	-	-	-
+xeKa_1-0_sakawA_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0007a>
+#इनमें कुछ लोग शुष्क रेगिस्तान से हैं।
+#inameM kuCa loga SuRka regiswAna se hEM.
+#Some people are from dry deserts.
+$wyax	1	-	-	3:rn	Geo_ncert_7stnd_8ch_0006.9:coref	proximal	-	-
+kuCa_1(some_2)	2	-	-	3:quant	-	-	-	-
+loga_2(people_5)	3	-	-	6:k1	-	-	-	-
+SuRka_2(dry_8)	4	-	-	5:mod	-	-	-	-
+regiswAna_1(desert_2)	5	-	-	6:k5	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0007b>
+#एवं कुछ लोग बर्फीले प्रदेशों से हैं।
+#kuCa loga barPIle praxeSoM se hEM.
+#And some people are from frozen lands.
+kuCa_1(some_2)	1	-	-	2:quant	-	-	-	-
+loga_2(people_5)	2	-	-	5:k1	-	-	-	-
+barPIlA_1(icy_4)	3	-	-	4:mod	-	-	-	-
+praxeSa_1(region_6)	4	-	pl	5:k5	-	-	-	-
+hE_1-pres	5	-	-	0:main	Geo_ncert_7stnd_8ch_0007a.6:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0007c>
+#एवं कुछ लोग गर्म-नम वर्षा वनों से हैं।
+#evaM kuCa loga garma-nama varSA vanoM se hEM.
+#And some people are from hot-wet rainforests.
+kuCa_1(some_2)	1	-	-	2:quant	-	-	-	-
+loga_2(people_5)	2	-	-	7:k1	-	-	-	-
+garma+nama_1	3	-	-	6:mod	-	-	-	-
+varRA_1(rain_6)	4	-	-	-	-	-	-	6:mod
+vana_2(forest_4)	5	-	-	-	-	-	-	6:head
+[nc_1]	6	-	-	7:k5	-	-	-	-
+hE_1-pres	7	-	-	0:main	Geo_ncert_7stnd_8ch_0007b.5:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0008a>
+#रेणुका ने यह कहा।
+#reNukA ne yaha kahA.
+#Renuka said this.
+-	-	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0008b>
+#कि वे मुझसे कितना अलग दिखते हे।
+#ki ve muJase kiwanA alaga xiKawe he.
+#That they look so different from me
+$wyax	1	-	-	5:k1	Geo_ncert_7stnd_8ch_0006.9:coref	distal	-	-
+$speaker	2	anim	-	1:rv	-	-	-	-
+$kim	3	-	-	4:mod	-	-	-	-
+alaga_7(different_4)	4	-	-	5:k1s	-	-	-	-
+xiKa_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0009>
+#रेणुका ने यह कहा।
+#reNukA ne yaha kahA.
+#observed Renuka.
+-	-	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0010a>
+#श्रीकांत चाचा ने यह कहा।
+#SrIkAMwa cAcA ne yaha kahA.
+#Shrikant uncle explained this.
+-	-	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0010b>
+#कि वे देखने में भले ही अलग हो।
+#ki ve xeKane meM Bale hI alaga ho .
+#They may look different, but they share the same basic needs of life – food, clothing and shelter”,
+$wyax	1	-	-	4:k1	Geo_ncert_7stnd_8ch_0006.9:coref	distal	-	-
+xeKa_1(see_1)	2	-	-	4:k7	-	-	-	-
+alaga_7(different_4)	3	-	-	4:k1s	-	-	-	-
+hE_1-pres	4	-	-	0:main	Geo_ncert_7stnd_8ch_0010c.11:vyABicAra	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0010c>
+#लेकिन उनके भोजन, कपडा एवं मकान जैसी जीवन की मूल आवश्यकताएँ हमारे समान ही है।
+#lekina unake Bojana, kapadA evaM makAna jEsI jIvana kI mUla AvaSyakawAez hamAre samAna hI hE.
+#They may look different, but they share the same basic needs of life – food, clothing and shelter”,
+$wyax	1	-	-	5:r6	Geo_ncert_7stnd_8ch_0006.9:coref	distal	-	-
+Bojana_1(food_5)	2	-	-	-	-	-	-	5:op1
+kapadZA_2(clothing_1)	3	-	-	-	-	-	-	5:op2
+makAna_2(residence_7)	4	-	-	-	-	-	-	5:op3
+[conj_1]	5	-	-	8:re	-	-	-	-
+jIvana_1(life_7)	6	-	-	8:r6	-	-	-	-
+mUla_11(basic_1)	7	-	-	8:mod	-	-	-	-
+AvaSyakawA_2(need_1)	8	-	pl	11:k1	-	-	-	-
+$speaker	9	anim	pl	10:r6	-	-	-	-
+samAna_2(equivalent_4)	10	-	-	11:k1s	-	-	-	-
+hE_1-pres	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0011>
+#श्रीकांत चाचा ने यह कहा।
+#SrIkAMwa cAcA ne yaha kahA.
+#explained Shrikant Uncle.
+-	-	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0012a>
+#कि उनके बच्चे भी शायद तुम्हारी ही तरह खेलते हैं।
+#ki unake bacce BI SAyaxa wumhArI hI waraha Kelawe hEM .
+#Their children do the same things as you probably do,play games.
+$wyax	1	-	-	2:rhh	Geo_ncert_7stnd_8ch_0006.9:coref	distal	-	-
+baccA_1(child_2)	2	-	pl	5:k1	-	BI_1	-	-
+SAyaxa_2(probably_1)	3	-	-	5:vkvn	-	-	-	-
+$addressee	4	anim	-	5:krvn	-	hI_2	-	-
+Kela_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0012b>
+#कभी वे झगड़ते है।
+#kaBI ve Jagadawe hE.
+#They quarrel sometimes.
+kaBI_1(sometime_1)	1	-	-	3:freq	-	-	-	-
+$wyax	2	-	-	3:k1	Geo_ncert_7stnd_8ch_0012a.2:coref	distal	-	-
+JagadZa_1-wA_hE_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0012c>
+#फिर वे समझोता कर लेते हैं।
+#Pira ve samaJowA kara lewe hEM.
+#Then they make-up.
+$wyax	1	-	-	4:k1	Geo_ncert_7stnd_8ch_0012a.2:coref	distal	-	-
+samaJOwA_6(conciliation_4)	2	-	-	-	-	-	-	4:kriyAmUla
+kara_1-wA_hE_1	3	-	-	-	-	[shade:le_1]	-	4:verbalizer
+[cp_1]	4	-	-	0:main	Geo_ncert_7stnd_8ch_0012b.3:uwwarkAla	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0012d>
+#वे गाते है।
+#ve gAwe hE.
+#They sing.
+$wyax	1	-	-	2:k1	Geo_ncert_7stnd_8ch_0012a.2:coref	distal	-	-
+gA_1-wA_hE_1	2	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0012e>
+#वे नाचते हैं।
+#ve nAcawe hEM.
+#They dance
+$wyax	1	-	-	2:k1	Geo_ncert_7stnd_8ch_0012a.2:coref	distal	-	-
+nAca_1-wA_hE_1	2	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0012f>
+#एवं वे घरेलू कार्यों में अपने परिवार के मदद करते है।
+#evaM ve GarelU kAryoM meM apane parivAra ke maxaxa karawe hEM.
+#And they help the families with various things that need to be done.
+$wyax	1	-	-	7:k1	Geo_ncert_7stnd_8ch_0012a.2:coref	distal	-	-
+GarelU_1(domestic_2)	2	-	-	3:mod	-	-	-	-
+kArya_3(work_7)	3	-	pl	7:k7	-	-	-	-
+apnA	4	-	-	5:r6	-	-	-	-
+parivAra_1(family_8)	5	-	-	6:r6	-	-	-	-
+maxaxa_1(help_2)	6	-	-	7:k2	-	-	-	-
+kara_1-wA_hE_1	7	-	-	0:main	Geo_ncert_7stnd_8ch_0012c.4:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0013a>
+#वे प्रकृति के करीब रहते हैं।
+#ve prakqwi ke karIba rahawe hEM .
+#They live closer to nature and very early in their lives have learnt to care for nature.
+$wyax	1	-	-	4:k1	Geo_ncert_7stnd_8ch_0012a.2:coref	distal	-	-
+prakqwi_4(nature_10)	2	-	-	3:rdl	-	-	-	-
+karIba_1(near_18)	3	-	-	4:k7p	-	-	-	-
+raha_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0013b>
+#एवं वे जीवन की शुरुआत में ही प्रकृति की देखभाल करना सीख जाते हैं।
+#evaM ve jIvana kI SuruAwa meM hI prakqwi kI xeKaBAla karanA sIKa jAwe hEM.
+#They live closer to nature and very early in their lives have learnt to care for nature.
+$wyax	1	-	-	8:k1	Geo_ncert_7stnd_8ch_0012a.2:coref	distal	-	-
+jIvana_1(life_7)	2	-	-	3:r6	-	-	-	-
+SuruAwa_1(beginning_14)	3	-	-	8:k7t	-	hI_2	-	-
+prakqwi_4(nature_10)	4	-	-	7:k2	-	-	-	-
+xeKaBAla_1(care_8)	5	-	-	-	-	-	-	7:kriyAmUla
+kara_17(do_2)	6	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	8:k2	-	-	-	-
+sIKa_1-wA_hE_1	8	-	-	0:main	Geo_ncert_7stnd_8ch_0013a.4:samuccaya	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0014>
+#वे मछली पकड़ना एवं वनों से सामग्री एकत्र करना सीख जाते हैं।
+#ve maCalI pakadanA evaM vanoM se sAmagrI ekawra karanA sIKa jAwe hEM.
+#They learn how to catch fish and how to collect material from the forests.
+$wyax	1	-	-	10:k1	Geo_ncert_7stnd_8ch_0012a.2:coref	distal	-	-
+maCalI_1(fish_2)	2	-	-	3:k2	-	-	-	-
+pakadZa_5(catch_3)	3	-	-	-	-	-	-	9:op1
+vana_2(forest_4)	4	-	pl	8:k5	-	-	-	-
+sAmagrI_2(material_7)	5	-	-	8:k2	-	-	-	-
+ekawra_2(collected_2)	6	-	-	-	-	-	-	8:kriyAmUla
+kara_17(do_2)	7	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	-	-	-	-	9:op2
+[conj_1]	9	-	-	10:k2	-	-	-	-
+sIKa_1-wA_hE_1	10	-	-	0:main	-	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0015>
+#अमेजन बेसिन के विषय में जानने से पहले हम मानचित्र देखे।
+#amejana besina ke viRaya meM jAnane se pahale hama mAnaciwra xeKe.
+#Before learning about the Amazon basin, let us look at the map
+amejana	1	-	-	-	-	-	-	3:begin
+besina	2	-	-	-	-	-	-	3:inside
+[ne_1]	3	place	-	4:k7	-	-	-	-
+jAna_10(know_1)	4	-	-	7:rblpk	-	-	-	-
+$speaker	5	anim	pl	7:k1	-	-	-	-
+mAnaciwra_1(map_3)	6	-	-	7:k2	-	-	-	-
+xeKa_1-e_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0016a>
+#आप ध्यान यह दें।
+#Apa XyAna yaha xeM.
+#Notice that the tropical region lies very close to the equator
+$addressee	1	anim	-	5:k1	-	respect	-	-
+XyAna_1(attention_3)	2	-	-	-	-	-	-	5:kriyAmUla
+$wyax	3	-	-	5:k2	Geo_ncert_7stnd_8ch_0016b.12:coref	proximal	-	-
+xe_1-o_1	4	-	-	-	-	-	-	5:verbalizer
+[cp_1]	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0016b>
+#कि उष्णकटिबंधीय प्रदेश कर्क रेखा और मकर रेखा के मध्य स्थित हैं।
+#ki uRNakatibaMXIya praxeSa karka reKA Ora makara reKA ke maXya sWiwa hEM.
+#Notice that the tropical region lies very close to the equator
+uRNakatibaMXIya_1(tropical_3)	1	-	-	2:mod	-	-	-	-
+praxeSa_1(region_6)	2	-	-	12:k1	-	-	-	-
+karka	3	-	-	-	-	-	-	5:begin
+reKA	4	-	-	-	-	-	-	5:inside
+[ne_1]	5	place	-	-	-	-	-	9:op1
+makara	6	-	-	-	-	-	-	8:begin
+reKA_1	7	-	-	-	-	-	-	8:inside
+[ne_2]	8	place	-	-	-	-	-	9:op2
+conj_1]	9	-	-	10:rdl	-	-	-	-
+maXya_1(middle_2)	10	-	-	11:k7p	-	-	-	-
+sWiwa_2(located_2)	11	-	-	12:k1s	-	-	-	-
+hE_1-pres	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0017>
+#भूमध्य रेखा के 10° उत्तर से 10° दक्षिण के मध्य के भाग को भूमध्यरेखीय प्रदेश कहते है।
+#BUmaXya reKA ke 10 uwwara se 10 xakRiNa ke maXya ke BAga ko BUmaXyareKIya praxeSa kahawe hE.
+#Between 10°N and 10°S. So, it is referred to as the equatorial region.
+BUmaXya	1	-	-	-	-	-	-	3:begin
+reKA	2	-	-	-	-	-	-	3:inside
+[ne_1	3	-	-	10:r6	-	-	-	-
+10	4	numex	-	-	-	-	-	6:count
+digrI+uwwara_1	5	-	-	-	-	-	-	6:unit
+[dist_meas_1]	6	-	-	-	-	-	-	10:start
+10	7	numex	-	-	-	-	-	9:count
+digrI+xakRiNa_1	8	-	-	-	-	-	-	9:unit
+[dist_meas_2]	9	-	-	-	-	-	-	10:end
+[span_1]	10	-	-	11:r6	-	-	-	-
+maXya_1(middle_2)	11	-	-	12:r6	-	-	-	-
+BAga_20(region_18)	12	-	-	15:k2	-	-	-	-
+BUmaXyareKIya_1(equatorial_1)	13	-	-	14:mod	-	-	-	-
+praxeSa_1(region_6)	14	-	-	15:k2s	-	-	-	-
+kaha_1-wA_hE_1	15	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0018>
+#अमेजन नदी इसी प्रदेश से होकर बहती है।
+#amejana naxI isI praxeSa se hokara bahawI hE.
+#The river Amazon flows through this region.
+amejana	1	-	-	-	-	-	-	3:begin
+naxI	2	-	-	-	-	-	-	3:inside
+[ne_1]	3	-	-	6:k1	-	-	-	-
+$wyax	4	-	-	5:dem	-	-	-	-
+praxeSa_1(region_6)	5	-	-	6:rp	-	-	-	-
+baha_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0019a>
+#आप ध्यान यह दें।
+#Apa XyAna yaha xeM.
+#Notice how it flows from the mountains to the west and reaches the Atlantic Ocean to the east.
+$addressee	1	anim	-	5:k1	-	respect	-	-
+XyAna_1	2	-	-	-	-	-	-	5:kriyAmUla
+$wyax	3	-	-	5:k2	Geo_ncert_7stnd_8ch_0019b.11:coref	proximal	-	-
+xe_1-o_1	4	-	-	-	-	-	-	5:verbalizer
+[cp_1]	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0019b>
+#कि यह पश्चिम में पर्वतों से निकल कर पूर्व में अंधमहासागर में कैसे पहुँचती है।
+#ki yaha paSicama meM parvawoM se nikala kara pUrva meM aMXamahAsAgara meM kEse pahuzcawI hE.
+#Notice how it flows from the mountains to the west and reaches the Atlantic Ocean to the east.
+$wyax	1	-	-	11:k1	Geo_ncert_7stnd_8ch_0018.3:coref	proximal	-	-
+paScima_1(west_2)	2	-	-	-	-	-	-	4:whole
+parvawa_1(mountain_3)	3	-	pl	-	-	-	-	4:part
+[spatial_1]	4	-	-	5:k5	-	-	-	-
+nikala_3(flow_8)	5	-	-	11:rpk	-	-	-	-
+pUrva_1(east_3)	6	-	-	-	-	-	-	9:whole
+aMXamahAsAgara	7	-	-	-	-	-	-	8:begin
+[ne_1]	8	-	-	-	-	-	-	9:part
+[spatial_2]	9	-	-	11:k7p	-	-	-	-
+$kim	10	-	-	11:krvn	-	-	-	-
+pahuzca_1-wA_hE_1	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0020>
+#जिस स्थान पर कोई नदी किसी अन्य जल राशि में मिलती है उसे नदी का मुहाना कहते हैं।
+#jisa sWAna para koI naxI kisI anya jala rASi meM milawI hE use naxI kA muhAnA kahawe hEM.
+#The place where a river flows into another body of water is called the river’s mouth.
+$yax	1	-	-	2:dem	11:coref	-	-	-
+sWAna_1(place_14)	2	-	-	10:k7p	-	-	-	-
+koI_4(some_1)	3	-	-	4:quant	-	-	-	-
+naxI_1(river_3)	4	-	-	10:k1	-	-	-	-
+koI_4(some_1)	5	-	-	9:quant	-	-	-	-
+anya_1(other_1)	6	-	-	9:quant	-	-	-	-
+jala_1(water_3)	7	-	-	-	-	-	-	9:mod
+rASi_10(body_34)	8	-	-	-	-	-	-	9:head
+[nc_1]	9	-	-	10:k7	-	-	-	-
+mila_1-wA_hE_1	10	-	-	11:rcloc	-	-	-	-
+$wyax	11	-	-	14:k2	-	distal	-	-
+naxI_1(river_3)	12	-	-	13:r6	-	-	-	-
+muhAnA_2(mouth_4)	13	-	-	14:k2s	-	-	-	-
+kaha_1-wA_hE_1	14	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0021>
+#अमेजन नदी में बहुत सारी सहायक नदियाँ मिलकर अमेजन बेसिन का निर्माण करती हैं।
+#amejana naxI meM bahuwa sArI sahAyaka naxiyAz milakara amejana besina kA nirmANa karawI hEM.
+#Numerous tributaries join the Amazon River to form the Amazon basin.
+amejana	1	-	-	-	-	-	-	3:begin
+naxI	2	-	-	-	-	-	-	3:inside
+[ne_1]	3	place	-	13:k7p	-	-	-	-
+bahuwa_2(many_5)	4	-	-	6:quant	-	sArA_1	-	-
+sahAyaka_13(tributary_3)	5	-	-	6:mod	-	-	-	-
+naxI_1(river_3)	6	-	pl	13:k1	-	-	-	-
+mila_24(join_12)	7	-	-	13:krvn	-	-	-	-
+amejana	8	-	-	-	-	-	-	10:begin
+besina	9	-	-	-	-	-	-	10:inside
+[ne_2]	10	place	-	13:k2	-	-	-	-
+nirmANa_16(formation_4)	11	-	-	-	-	-	-	13:kriyAmUla
+kara_1-wA_hE_1	12	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0022>
+#यह नदी बेसिन ब्राजील के भागों, पेरू के कुछ भागों, बोलीविया, इक्वाडोर, कोलंबिया के भागों तथा वेनेजुएला के छोटे भाग से अपवाहित होती है।
+#yaha naxI besina brAjIla ke BAgoM, perU ke kuCa BAgoM, bolIviyA, ikvAdora, kolaMbiyA ke BAgoM waWA venejuelA ke Cote BAga se apavAhiwa howI hE.
+#The river basin drains portions of Brazil, parts of Peru, Bolivia, Ecuador, Columbia and a small part of Venezuela.
+$wyax	1	-	-	4:dem	-	proximal	-	-
+naxI_1(river_3)	2	-	-	-	-	-	-	4:mod
+besina_1(basin_5)	3	-	-	-	-	-	-	4:head
+[nc_1]	4	-	-	26:k1	-	-	-	-
+brAjIla	5	-	-	-	-	-	-	6:begin
+[ne_1]	6	place	-	7:r6	-	-	-	-
+BAga_1(portion_7)	7	-	pl	-	-	-	-	24:op1
+perU	8	-	-	-	-	-	-	9:begin
+[ne_2]	9	place	-	11:r6	-	-	-	-
+kuCa_1(some_2)	10	-	-	11:quant	-	-	-	-
+BAga_2(part_9)	11	-	pl	-	-	-	-	24:op2
+bolIviyA	12	-	-	-	-	-	-	13:begin
+[ne_3]	13	place	-	-	-	-	-	18:op1
+ikvAdora	14	-	-	-	-	-	-	15:begin
+[ne_4]	15	place	-	-	-	-	-	18:op2
+kolaMbiyA	16	-	-	-	-	-	-	17:begin
+[ne_5]	17	-	-	-	-	-	-	18:op3
+[conj_1]	18	-	-	19:r6	-	-	-	-
+BAga_2(part_9)	19	-	pl	-	-	-	-	24:op3
+venejuelA	20	-	-	-	-	-	-	21:begin
+[ne_6]	21	place	-	23:r6	-	-	-	-
+CotA_1(small_6)	22	-	-	23:mod	-	-	-	-
+BAga_2(part_9)	23	-	-	-	-	-	-	24:op4
+[conj_2]	24	-	-	25:k5	-	-	-	-
+apavAhiwa_1(drain_12)	25	-	-	26:k1s	-	-	-	-
+ho_1-wA_hE_1	26	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0023>
+#क्या आप इस बेसिन में स्थित उन देशों के नाम बता सकते हैं जिनसे भूमध्य रेखा गुजरती है?
+#kyA Apa isa besina meM sWiwa una xeSoM ke nAma bawA sakawe hEM jinase BUmaXya reKA gujarawI hE?
+#Name the countries of the basin through which the equator passes.
+$addressee	1	anim	-	8:k1	-	respect	-	-
+$wyax	2	-	-	3:dem	-	proximal	-	-
+besina_1(basin_5)	3	-	-	4:k7p	-	-	-	-
+sWiwa_1(situated_1)	4	-	-	6:mod	-	-	-	-
+$wyax	5	-	-	6:dem	-	distal	-	-
+xeSa_1(country_1)	6	-	pl	7:r6	13:coref	-	-	-
+nAma_1(name_3)	7	-	-	8:k2	-	-	-	-
+bawA_1-0_sakawA_hE_1	8	-	-	0:main	-	-	-	-
+$yax	9	-	-	13:rp	-	-	-	-
+BUmaXya	10	-	-	-	-	-	-	12:begin
+reKA	11	-	-	-	-	-	-	12:inside
+[ne_1]	12	-	-	13:k1	-	-	-	-
+gujara_1-wA_hE_1	13	-	-	6:rcdelim	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0024a>
+#अब आप यह जानते हैं।
+#jEsA ki aba Apa yaha jAnawe hEM.
+#You now know this.
+aba_1(now_3)	1	-	-	4:k7t	-	-	-	-
+$addressee	2	anim	-	4:k1	-	respect	-	-
+$wyax	3	-	-	4:k2	Geo_ncert_7stnd_8ch_0024b.9:coref	proximal	-	-
+jAna_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0024b>
+#कि अमेजन बेसिन भूमध्य रेखा के आस-पास फैला है।
+#ki amejana besina BUmaXya reKA ke Asa.pAsa PElA hE .
+#The Amazon Basin stretches directly on the equator.
+amejana	1	-	-	-	-	-	-	3:begin
+besina	2	-	-	-	-	-	-	3:inside
+[ne_1]	3	-	-	9:k1	-	-	-	-
+BUmaXya	4	-	-	-	-	-	-	6:begin
+reKA	5	-	-	-	-	-	-	6:inside
+[ne_2]	6	-	-	7:r6	-	-	-	-
+Asa+pAsa_1(around_3)	7	-	-	8:k7p	-	-	-	-
+PElA_1(spread_6)	8	-	-	9:k1s	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0024c>
+#और पूरे वर्ष यहाँ गर्म एवं नम जलवायु रहती है।
+#Ora pUre varRa yahAz garma evaM nama jalavAyu rahawI hE.
+#And is characterized by hot and wet climate throughout the year.
+pUrA_3(whole_4)	1	-	-	2:mod	-	-	-	-
+varRa_1(year_4)	2	-	-	8:k7t	-	-	-	-
+$wyax	3	-	-	8:k7p	Geo_ncert_7stnd_8ch_0024b.3:coref	proximal	-	-
+garma_2(hot_7)	4	-	-	-	-	-	-	6:op1
+nama_2(humid_2)	5	-	-	-	-	-	-	6:op2
+[conj_1]	6	-	-	7:mod	-	-	-	-
+jalavAyu_1(climate_2)	7	-	-	8:k1	-	-	-	-
+raha_1-wA_hE_1	8	-	-	0:main	Geo_ncert_7stnd_8ch_0024b.9:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0025a>
+#यहाँ का मौसम दिन एवं रात दोनों ही समय लगभग समान रूप से गर्म एवं आर्द्र होता है।
+#yahAz kA mOsama xina evaM rAwa xonoM hI samaya lagaBaga samAna rUpa se garma evaM Arxra howA hE .
+#Both day and nights are almost equally hot and humid The skin feels sticky.
+$wyax	1	-	-	2:r6	Geo_ncert_7stnd_8ch_0024b.3:coref	proximal	-	-
+mOsama_2(weather_1)	2	-	-	12:k1	-	-	-	-
+xina_1(day_6)	3	-	-	-	-	-	-	5:op1
+rAwa_1(night_7)	4	-	-	-	-	-	-	5:op2
+[conj_1]	5	-	-	7:r6	-	-	-	-
+xonoM_1	6	-	-	5:rs	-	hI_2	-	-
+samaya_1(time_8)	7	-	-	12:k7t	-	-	-	-
+samAna_1(equal_5)	8	-	-	12:krvn	-	lagaBaga_1	-	-
+garma_2(hot_7)	9	-	-	-	-	-	-	11:op1
+Arxra_3(humid_1)	10	-	-	-	-	-	-	11:op2
+[conj_2]	11	-	-	12:k1s	-	-	-	-
+ho_1-wA_hE_1	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0025b>
+#तथा शरीर में चिपचिपाहट महसूस होती है।
+#waWA SarIra meM cipacipAhata mahasUsa howI hE.
+#Both day and nights are almost equally hot and humid The skin feels sticky.
+SarIra_1(body_11)	1	-	-	5:k7p	-	-	-	-
+cipacipAhata_1(stickiness_4)	2	-	-	5:k1	-	-	-	-
+mahasUsa_2(felt_2)	3	-	-	-	-	-	-	5:kriyAmUla
+ho_1-wA_hE_1	4	-	-	-	-	-	-	5:verbalizer
+[cp_1]	5	-	-	0:main	Geo_ncert_7stnd_8ch_0025a.12:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0026a>
+#इस प्रदेश में लगभग प्रतिदिन वर्षा होती है।
+#isa praxeSa meM lagaBaga prawixina varRA howI hE .
+#It rains almost everyday, that too without much warning.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+praxeSa_1(region_6)	2	-	-	5:k7p	-	-	-	-
+prawixina_4(everyday_2)	3	-	-	5:freq	-	lagaBaga_1	-	-
+varRA_1(rain_6)	4	-	-	5:k1	-	-	-	-
+ho_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0026b>
+#और वह भी बिना किसी पूर्व चेतावनी के होती है।
+#Ora vaha BI binA kisI pUrva cewAvanI ke howI hE.
+#It rains almost everyday, that too without much warning.
+$wyax	1	-	-	8:k1	Geo_ncert_7stnd_8ch_0026a.4:coref	BI_1/distal	-	-
+koI(any_1)	4	-	-	6:quant	-	-	-	-
+pUrva_12(former_7)	5	-	-	6:mod	-	-	-	-
+cewAvanI_1(warning_1)	6	-	-	8:rasnegk1	-	-	-	-
+ho_1-wA_hE_1	8	-	-	0:main	Geo_ncert_7stnd_8ch_0026a.5:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0027a>
+#दिन का तापमान उच्च होती है।
+#xina kA wApamAna ucca howI hE.
+#The day temperatures are high.
+xina_1(day_6)	1	-	-	3:r6	-	-	-	-
+wApamAna_1(temperature_2)	3	-	-	9:k1	-	-	-	-
+ucca_1(high_1)	4	-	-	9:k1s	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0027b>
+#एवं आर्द्रता अति उच्च होती है।
+#evaM ArxrawA awi ucca howI hE|
+#The humidy is very high.
+ArxrawA_3(humidity_2)	1	-	-	4:k1	-	-	-	-
+ucca_1(high_1)	2	-	-	4:k1s	-	-	-	-
+awi_1	3	-	-	2:intf	-	-	-	-
+ho_1-wA_hE_1	4	-	-	0:main	Geo_ncert_7stnd_8ch_0027a.9:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0028a>
+#रात के समय तापमान कम हो जाता है।
+#rAwa ke samaya wApamAna kama ho jAwA hE .
+#At night the temperature goes down but the humidity remains high.
+rAwa_1(night_7)	1	-	-	6:dur	-	-	-	-
+wApamAna_1(temperature_2)	4	-	-	6:k1	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	[shade:jA_1]	-	-
+kama(lower_16)	11	-	-	6:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0028b>
+#लेकिन आर्द्रता वैसी ही बनी रहती है।
+#lekina ArxrawA vEsI hI banI rahawI hE.
+#At night the temperature goes down but the humidity remains high.
+ArxrawA_3(humidity_2)	1	-	-	4:k1	-	-	-	-
+$wyax	2	-	-	5:dem	-	distal	-	-
+raha_1-wA_hE_1	4	-	-	0:main	Geo_ncert_7stnd_8ch_0028a.6:viroXI	-	-	-
+prakAra(kind_8)	5	-	-	4:krvn	-	hI_1	-	-
+banA_7(form_19)	6	-	kqw	4:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0029>
+#इन प्रदेशों में अत्यधिक वर्षा के कारण यहाँ की भूमि पर सघन वन उग जाते है।
+#ina praxeSoM meM awyaXki varRA ke kAraNa yahAz kI BUmi para saGana vana uga jAwe hE .
+#As it rains heavily in this region, thick forests grow
+$wyax	1	-	-	2:dem	-	proximal	-	-
+praxeSa_1(region_6)	2	-	pl	5:k7p	-	-	-	-
+awyaXki_1(heavy_48)	4	-	-	5:mod	-	-	-	-
+varRA_1(rain_6)	5	-	-	14:rh	-	-	-	-
+$wyax	8	-	-	10:r6	Geo_ncert_7stnd_8ch_0029.2:coref	proximal	-	-
+BUmi_1(land_6)	10	-	-	14:k7p	-	-	-	-
+saGana_2(thick_9)	12	-	-	13:mod	-	-	-	-
+vana_2(forest_4)	13	-	-	14:k1	-	-	-	-
+uga_1-wA_hE_1	14	-	-	0:main	-	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0030a>
+#वन सघन होते हैं।
+#vana saGana howe hEM.
+#The forests are thick.
+vana_2(forest_4)	1	-	-	4:k1	-	-	-	-
+saGana_2(thick_9)	3	-	-	4:k1s	-	-	-	-
+ho_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0030b>
+#इससे पत्तियों तथा शाखाओं से छत सी बन जाती है।
+#isase pawwiyoM waWA SAKAoM se Cawa sI bana jAwI hE.
+#The he dense “roof” is created by leaves and branches.
+pawwI_9	1	-	pl	-	-	iwanA_ki_1	-	12:op1
+SAKA_1(branch_4)	3	-	pl	-	-	-	-	12:op2
+Cawa_1(roof_1)	5	-	-	7:k1	-	sA_1	-	-
+bana_1-wA_hE_1	7	-	-	0:main	Geo_ncert_7stnd_8ch_0030a.4:pariNAma	[shade:jA_1]	-	-
+[conj_1]	12	-	-	7:k5prk	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0030c>
+#इसके कारण सूर्य का प्रकाश धरातल तक नहीं पहुँच पाता है।
+#isake kAraNa sUrya kA prakASa XarAwala waka nahIM pahuzca pAwA hE.
+#This does not allow the sunlight to reach the ground.
+sUrya_1(sun_5)	3	-	-	5:r6	-	-	-	-
+prakASa_1(light_8)	5	-	-	9:k1	-	-	-	-
+XarAwala_4	6	-	-	9:k2p	-	-	-	-
+nahIM_1(not_1)	8	-	-	9:neg	-	-	-	-
+pahuzca_1-wA_hE_1	9	-	-	0:main	Geo_ncert_7stnd_8ch_0030b.7:pariNAma	[shade:pA_1]	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0031>
+#यहाँ की भूमि प्रकाश रहित एवं नम बनी रहती है।
+#yahAz kI BUmi prakASa rahiwa evaM nama banI rahawI hE.
+#The ground remains dark and damp.
+BUmi(ground_20)	3	-	-	8:k1	-	-	-	-
+prakASa_1(light_8)	4	-	-	-	-	-	-	14:mod
+rahiwa_2(devoid_1)	5	-	-	-	-	-	-	14:head
+nama_3(damp_3)	7	-	-	-	-	-	-	12:op2
+banA_1(make_1)	8	-	kqw	13:k1s	-	-	-	-
+[conj_1]	12	-	-	8:k2	-	-	-	-
+raha_1-wA_hE_1	13	-	-	0:main	-	-	-	-
+[compound_1]	14	-	-	-	-	-	-	12:op1
+$wyax	15	-	-	3:r6	-	proximal	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0032>
+#यहाँ केवल वही वनस्पति पनप सकती है जिसमें छाया में बढने की क्षमता हो।
+#yahAz kevala vahI vanaspawi panapa sakawI hE jisameM CAyA meM baDane kI kRamawA ho.
+#Only shade tolerant vegetation may grow here.
+$wyax	1	-	-	5:k7p	Geo_ncert_7stnd_8ch_0030a.1:coref	proximal	-	-
+$wyax	3	-	-	4:dem	-	distal/kevala_1	-	-
+vanaspawi_2(vegetation_3)	4	-	-	5:k1	-	-	-	-
+panapa_1-0_sakawA_hE_1	5	-	-	0:main	-	-	-	-
+$yax	8	-	-	14:k7p	Geo_ncert_7stnd_8ch_0032.4:coref	-	-	-
+CAyA(shade_3)	9	-	-	11:k7p	-	-	-	-
+baDa_3(grow_8)	11	-	pl	13:r6	-	-	-	-
+kRamawA_5(ability_1)	13	-	-	14:k1	-	-	-	-
+hE_1-pres	14	-	-	4:rcdelim	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0033>
+#परजीवी पौधों के रूप में यहाँ आर्किड एवं ब्रोमिलायड पैदा होते हैं।
+#parajIvI pOXoM ke rUpa meM yahAz Arkida evaM bromilAyada pExA howe hEM.
+#Orchids, bromeliads grow as plant parasites.
+parajIvI_1(parasite_1)	1	-	-	-	-	-	-	14:mod
+pOXa_3(plant_22)	2	-	pl	-	-	-	-	14:head
+$wyax	6	-	-	15:k7p	Geo_ncert_7stnd_8ch_0030a.1:coref	-	-	-
+^Arkida_1	7	-	-	-	-	-	-	16:op1
+^bromilAyada_1	9	-	-	-	-	-	-	16:op2
+pExA_1	10	-	-	-	-	-	-	15:kriyAmUla
+ho_1-wA_hE_1	11	-	-	-	-	-	-	15:verbalizer
+[6-waw_1]	14	-	-	16:rs	-	-	-	-
+[cp_1]	15	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	15:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0034>
+#वर्षावन में प्राणिजात की प्रचुरता होती है।
+#varRAvana meM prANijAwa kI pracurawA howI hE.
+#The rainforest is rich in fauna.
+varRAvana_1(rainforest_1)	1	-	-	6:k7p	-	-	-	-
+prANijAwa_1(fauna_3)	3	-	-	5:r6	-	-	-	-
+pracurawA_2(copiousness_1)	5	-	-	6:k1	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0035>
+#टूकन,गुंजन पक्षी, रंगीन पक्षति वाले मकाओ एवं भोजन के लिए बड़ी चोंच वाले विभिन्न प्रकार के पक्षी जो भारत में पाए जाने वाले सामान्य पक्षियों से भिन्न होते हैं यहाँ पाए जाते हैं।
+#tUkana,guMjana pakRI, raMgIna pakRawi vAle makAo evaM Bojana ke lie badI coMca vAle viBinna prakAra ke pakRI jo BArawa meM pAe jAne vAle sAmAnya pakRiyoM se Binna howe hEM yahAz pAe jAwe hEM.
+#Birds such as toucans
+tUkana	1	-	-	-	-	-	-	40:op1
+guMjana	3	male	-	-	-	-	-	38:begin
+pakRI	4	male	-	-	-	-	-	38:inside
+raMgIna_1	6	-	-	7:mod	-	-	-	-
+pakRawi_1	7	-	mawupa	9:mod	-	-	-	-
+makAo_1	9	-	-	-	-	-	-	40:op3
+Bojana_1	11	-	-	-	-	-	-	40:op4
+badA_1	14	-	-	15:mod	-	-	-	-
+coMca_1	15	-	mawupa	18:mod	-	-	-	-
+viBinna_1	17	-	-	18:mod	-	-	-	-
+prakAra_1	18	-	-	20:r6	-	-	-	-
+pakRI_1	20	-	-	31:k1	-	-	-	-
+$yax	21	-	-	31:k1	-	-	-	-
+BArawa	22	male	-	24:k7p	-	-	-	-
+pA_1	24	-	-	28:mod	-	-	-	-
+sAmAnya_1	27	-	-	28:mod	-	-	-	-
+pakRI_1	28	-	pl	31:k5	-	-	-	-
+Binna_1	30	-	-	-	-	-	-	39:kriyAmUla
+ho_1	31	-	pl	-	-	-	-	39:verbalizer
+yahAz	33	-	-	34:k7p	-	-	-	-
+pA_1-wA_hE_1	34	-	-	0:main	-	-	-	-
+[ne_1]	38	-	-	-	-	-	-	40:op2
+[cp_1]	39	-	-	34:vmod	-	-	-	-
+[conj_1]	40	-	-	31:rt	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0036>
+#प्राणियों में बंदर, स्लॉथ एवं चीटीं खाने वाले टैपीर भी यहाँ पाए जाते हैं।
+#prANiyoM meM baMxara, sloYWa evaM cItIM KAne vAle tEpIra BI yahAz pAe jAwe hEM .
+#Animals like monkeys,sloth and ant-eating tapirs are found here
+prANI_2(animal_4)	1	anim	pl	17:rn	-	-	-	-
+baMxara_1(monkey_3)	3	anim	-	-	-	-	-	17:op1
+^slOYWa_1	5	anim	-	-	-	-	-	17:op2
+cItIM_1	7	anim	-	8:k2	-	-	-	-
+KA_1	8	-	-	10:mod	-	-	-	-
+tEpIra_1	10	anim	-	-	-	BI_1	-	17:op3
+$wyax	12	-	-	13:k7p	Geo_ncert_7stnd_8ch_0034.1:coref	-	-	-
+pA_1-yA_jA_wA_hE_1	13	-	-	0:main	-	-	-	-
+[conj_1]	17	-	-	13:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0037>
+#साँप एवं सरीसर्प की विभिन्न प्रजातियाँ भी इन वनों में पाई जाती हैं।
+#sAzpa evaM sarIsarpa kI viBinna prajAwiyAz BI ina vanoM meM pAI jAwI hEM.
+#Various species of reptiles and snakes also thrive in these jungles.
+sAzpa_1(snake_9)	1	anim	-	-	-	-	-	15:op1
+sarIsarpa_1(reptile_1)	3	anim	-	-	-	-	-	15:op2
+viBinna_4(various_8)	5	-	-	6:mod	-	-	-	-
+prajAwi_1(species_1)	6	anim	pl	11:k2	-	BI_1	-	-
+$wyax	8	-	-	9:dem	-	proximal	-	-
+vana_2(forest_4)	9	-	pl	11:k7p	-	-	-	-
+pA_1-yA_jA_wA_hE_1	11	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	6:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0038>
+#मगर, साँप, अजगर तथा एनाकोंडा एवं बोआ कुछ ऐसी ही प्रजातियाँ हैं।
+#magara, sAzpa, ajagara waWA enAkoMdA evaM boA kuCa EsI hI prajAwiyAz hEM.
+#Crocodiles, snakes, pythons abound. Anaconda and boa constrictor are some of the species.
+sAzpa_1(snake_9)	1	anim	-	-	-	-	-	14:op1
+ajagara_1(python_1)	3	anim	-	-	-	-	-	14:op2
+^enAkoMdA_1	5	anim	-	-	-	-	-	14:op3
+^boA_1	7	anim	-	-	-	-	-	14:op4
+kuCa_1	8	-	-	16:quant	-	-	-	-
+$wyax	9	-	-	16:dem	-	proximal	-	-
+prajAwi_1(species_1)	11	-	pl	12:k1s	-	-	-	-
+hE_1-pres	12	-	-	0:main	-	-	-	-
+[conj_1]	14	-	-	12:k1	-	-	-	-
+magara(crocodile_4)	15	anim	-	-	-	-	-	14:op5
+prakAra(kind_8)	16	-	-	12:krvn	-	hI_1	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0039>
+#इसके अतिरिक्त हजारों कीडे-मकोडे भी इस बेसिन में निवास करते हैं।
+#isake awirikwa hajAro kIde.makode BI isa besina meM nivAsa karawe hEM.
+#Besides, the basin is home to thousands of species of insects.
+1000	3	numex	-	4:card	-	-	-	-
+kIdZe+makodZe_1	4	anim	pl	13:k1	-	BI_1	-	-
+$wyax	6	-	-	7:dem	-	proximal	-	-
+besina_1(basin_5)	7	-	-	13:k7p	-	-	-	-
+nivAsa_1(residence_6)	9	-	-	-	-	-	-	13:kriyAmUla
+kara_1-wA_hE_1	10	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	Geo_ncert_7stnd_8ch_0038.12:samuccaya	awirikwa_1	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0040>
+#मांस खाने वाली पिरान्या मत्स्य समेत मछलियों की विभिन्न प्रजातियाँ भी अमेजन नदी में पाई जाती हैं।
+#mAMsa KAne vAlI pirAnyA mawsya samewa maCaliyoM kI viBinna prajAwiyAz BI amejana naxI meM pAI jAwI hEM.
+#Several species of fishes including the flesh-eating Piranha fish is also found in the river.
+mAMsa_1(flesh_4)	1	-	-	2:k2	-	-	-	-
+KA_1(eat_1)	2	-	-	17:mod	-	-	-	-
+pirAnyA	4	-	-	-	-	-	-	17:begin
+mawsya_1(fish_3)	5	anim	-	17:rs	-	-	-	-
+maCalI_1(fish_2)	7	anim	pl	10:r6	-	-	-	-
+viBinna_4(various_8)	9	-	-	10:mod	-	-	-	-
+prajAwi_1(species_1)	10	anim	pl	-	-	BI_1	-	18:op2
+amejana	12	-	-	-	-	-	-	16:begin
+naxI_1(river_3)	13	-	-	16:rs	-	-	-	-
+pA_1-yA_jA_wA_hE_1	15	-	-	0:main	-	-	-	-
+[ne_2]	16	-	-	15:k7p	-	-	-	-
+[ne_1]	17	ne	-	-	-	-	-	18:op1
+[conj_1]	18	-	-	15:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0041>
+#इस प्रकार जीवों की विविधता की दृष्टि से यह बेसिन असाधरण रूप से समृद्ध है।
+#isa prakAra jIvoM kI viviXawA kI xraRti se yaha besina asAXaraNa rUpa se samqxXa hE.
+#This basin is thus extraordinarily rich in the variety of life found there.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+prakAra_1	2	-	-	15:k1	-	-	-	-
+jIva_1	3	-	pl	5:r6	-	-	-	-
+viviXawA_1	5	-	-	7:r6	-	-	-	-
+xraRti_1	7	-	-	15:k3	-	-	-	-
+$wyax	9	-	-	10:dem	-	proximal	-	-
+besina_1	10	-	-	15:k1	-	-	-	-
+asAXaraNa_1	11	-	-	12:mod	-	-	-	-
+rUpa_1	12	-	-	15:krvn	-	-	-	-
+samqxXa_1	14	-	-	15:k1s	-	-	-	-
+hE_1-pres	15	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0042>
+#यहाँ के लोग छोटे-से क्षेत्र में वन के कुछ वृक्षों को काटकर अपने भोजन के लिए फसल उगाते हैं।
+#yahAz ke loga Cote.se kRewra meM vana ke kuCa vqkRoM ko kAtakara apane Bojana ke lie Pasala ugAwe hEM.
+#People grow most of their food in small areas after clearing some trees in the forest.
+$wyax	1	-	-	3:r6	Geo_ncert_7stnd_8ch_0034.1:coref	proximal	-	-
+loga_2(people_5)	3	anim	-	18:k1	-	-	-	-
+CotA(small_6)	4	-	-	5:mod	-	sA_3	-	-
+kRewra_5(area_2)	5	-	-	18:k7p	-	-	-	-
+vana_2(forest_4)	7	-	-	10:r6	-	-	-	-
+kuCa_1(some_2)	9	-	-	10:quant	-	-	-	-
+vqkRa_1(tree_8)	10	-	pl	12:k2	-	-	-	-
+kAta_1(cut_3)	12	-	-	18:rpk	-	-	-	-
+apanA	13	-	-	14:r6	-	-	-	-
+Bojana_1(food_5)	14	-	-	18:rt	-	-	-	-
+Pasala_2(crop_7)	17	-	-	18:k2	-	-	-	-
+ugA_1-wA_hE_1	18	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0043a>
+#यहाँ के पुरुष शिकार करते हैं।
+#yahAz ke puruRa SikAra karawe hEM .
+#While men hunt and fish along the rivers, women take care of the crops.
+$wyax	1	-	-	3:r6	Geo_ncert_7stnd_8ch_0034.1:coref	proximal	-	-
+puruRa_1(man_5)	3	anim	-	8:k1	-	-	-	-
+SikAra_3(hunting_3)	4	-	-	-	-	-	-	8:kriyAmUla
+kara_1-wA_hE_1	5	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0043b>
+#तथा वे नदी में मछली पकड़ते हैं।
+#waWA ve naxI meM maCalI pakadawe hEM .
+#While men hunt and fish along the rivers, women take care of the crops.
+$wyax	1	-	-	5:k1	Geo_ncert_7stnd_8ch_0043a.3:coref	distal	-	-
+naxI_1(river_3)	2	-	-	5:k7p	-	-	-	-
+maCalI_1(fish_2)	4	anim	-	5:k2	-	-	-	-
+pakada_1-wA_hE_1	5	-	-	0:main	Geo_ncert_7stnd_8ch_0043a.8:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0043c>
+#जबकि महिलाएँ फसलों का ध्यान रखती है।
+#jabaki mahilAez PasaloM kA XyAna raKawI hE.
+#While men hunt and fish along the rivers, women take care of the crops.
+mahilA_1(woman_16)	1	anim	pl	6:k1	-	-	-	-
+Pasala_2(crop_7)	2	-	pl	6:k2	-	-	-	-
+XyAna_12(care_48)	4	-	-	-	-	-	-	6:kriyAmUla
+raKa_1-wA_hE_1	5	-	-	-	Geo_ncert_7stnd_8ch_0043b.5:viroXI_xyowaka	-	-	6:verbalizer
+[cp_1]	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0044>
+#वे मुख्यतः टेपियोका, अनन्नास एवं शकरकंद उगाते हैं।
+#ve muKyawaH tepiyokA, anannAsa evaM SakarakaMxa ugAwe hEM.
+#They mainly grow tapioca, pineapple and sweet potato
+$wyax	1	-	-	8:k1	Geo_ncert_7stnd_8ch_0043c.1:coref	distal	-	-
+muKyawaH_1(mainly_6)	2	-	-	8:krvn	-	-	-	-
+^tepiyokA_1	3	-	-	-	-	-	-	11:op1
+anannAsa_1(pineapple_1)	5	-	-	-	-	-	-	11:op2
+SakarakaMxa_1	7	-	-	-	-	-	-	11:op3
+ugA_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+[conj_1]	11	-	-	8:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0045a>
+#क्योंकि मछली या शिकार मिलना अनिश्चित होता है।
+#kyoMki maCalI yA SikAra milanA aniSciwa howA hE.
+#As hunting and fishing are uncertain it is the women who keep their families alive by feeding them the vegetables they grow.
+maCalI_1(fish_2)	1	-	-	-	-	-	-	10:op1
+SikAra(prey_1)	3	-	-	-	-	-	-	10:op2
+mila_9(find_3)	4	-	-	6:k1	-	-	-	-
+aniSciwa_1(uncertain_2)	5	-	-	6:k1s	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	Geo_ncert_7stnd_8ch_0045b.16:kAryakAraNa	-	-	-
+[disjunct_1]	10	-	-	4:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0045b>
+#ऐसे में महिलाएँ ही अपनी उगाई शाक-सब्जियों से अपने परिवार का भरण-पोषण करती है।
+#Ese meM mahilAez hI apanI ugAI SAka.sabjiyoM se apane parivAra kA BaraNa.poRaNa karawI hE .
+#As hunting and fishing are uncertain it is the women who keep their families alive by feeding them the vegetables they grow.
+mahilA_1(woman_16)	3	anim	pl	16:k1	-	hI_1	-	-
+apanA	5	-	-	6:k2	-	-	-	-
+ugA_1(grow_6)	6	-	-	7:rbks	-	-	-	-
+SAka+sabji	7	-	pl	16:k3	-	-	-	-
+apanA	9	-	-	10:r6	-	-	-	-
+parivAra_1(family_8)	10	-	-	16:k2	-	-	-	-
+BaraNa+poRaNa(nourishment_16)	12	-	-	-	-	-	-	16:kriyAmUla
+kara_1-wA_hE_1	13	-	-	-	-	-	-	16:verbalizer
+[cp_1]	16	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0046>
+#वे कर्तन एवं दहन कृषि पद्धति का प्रयोग करते हैं।
+#ve karwana evaM xahana kqRi paxXawi kA prayoga karawe hEM.
+#They practice slash and burn agriculture”
+$wyax	1	-	-	14:k1	Geo_ncert_7stnd_8ch_0042.3:coref	distal	-	-
+karwana	2	-	-	-	-	-	-	17:begin
+xahana	4	-	-	-	-	-	-	17:inside
+kqRi	5	-	-	-	-	-	-	17:inside
+paxXawi	6	-	-	-	-	-	-	17:inside
+prayoga_2(use_3)	8	-	-	-	-	-	-	14:kriyAmUla
+kara_1-wA_hE_1	9	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	0:main	-	-	-	-
+[ne_1]	17	-	-	14:k2	-	-	-	-
+evaM	18	-	-	-	-	-	-	17:inside
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0047a>
+#इनका मुख्य आहार मेनियोक है, जिसे कसावा भी कहते हैं।
+#inakA muKya AhAra meniyoka hE, jise kasAvA BI kahawe hEM .
+#The staple food is manioc, also known as cassava that grows under the ground like the potato.
+$wyax	1	-	-	3:r6	Geo_ncert_7stnd_8ch_0042.3:coref	proximal	-	-
+muKya_18(main_1)	2	-	-	3:mod	-	-	-	-
+AhAra_1(food_2)	3	-	-	5:k1	-	-	-	-
+^meniyoka_1	4	-	-	5:k1s	-	-	-	-
+hE_1-pres	5	-	-	0:main	-	-	-	-
+$yax	7	-	-	10:k2	Geo_ncert_7stnd_8ch_0047a.4:coref	-	-	-
+^kasAvA	8	-	-	10:k2s	-	BI_1	-	-
+kaha_1-wA_hE_1	10	-	-	4:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0047b>
+#तथा यह आलू की तरह जमीन के अंदर पैदा होता है।
+#waWA yaha AlU kI waraha jamIna ke aMxara pExA howA hE.
+#The staple food is manioc, also known as cassava that grows under the ground like the potato.
+$wyax	1	-	-	12:k1	Geo_ncert_7stnd_8ch_0047a.4:coref	proximal	-	-
+AlU_1(potato_1)	2	-	-	1:ru	-	-	-	-
+jamIna_2(ground_17)	5	-	-	7:rdl	-	-	-	-
+aMxara_1	7	-	-	12:k7p	-	-	-	-
+pExA_1	8	-	-	-	-	-	-	12:kriyAmUla
+ho_1-wA_hE_1	9	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	Geo_ncert_7stnd_8ch_0047a.5:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0048>
+#ये चींटियों की रानी एवं अंडकोष भी खाते हैं।
+#ye cIMtiyoM kI rAnI evaM aMdakoRa BI KAwe hEM.
+#They also eat queen ants and egg sacs.
+$wyax	1	-	-	8:k1	Geo_ncert_7stnd_8ch_0042.3:coref	proximal	-	-
+cIMtI_1(ant_1)	2	-	pl	4:r6	-	-	-	-
+rAnI_1(queen_3)	4	-	-	-	-	-	-	11:op1
+aMdakoRa_1	6	-	-	-	-	BI_1	-	11:op2
+KA_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+[conj_1]	11	-	-	8:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0049>
+#कॉफी, मक्का एवं कोको जैसी नगदी फसल भी यहाँ उगाई जाती हैं।
+#koYPI, makkA evaM koko jEsI nagaxI Pasala BI yahAz ugAI jAwI hEM.
+#Cash crops like coffee, maize and cocoa are also grown.
+^kOYPI_1	1	-	-	-	-	-	-	16:op1
+makkA(maize_2)	3	-	-	-	-	-	-	16:op2
+^koko_1	5	-	-	-	-	-	-	16:op3
+nagaxI_1(cash_10)	7	-	-	-	-	-	-	15:mod
+Pasala_2(crop_7)	8	-	-	-	-	BI_1	-	15:head
+$wyax	10	-	-	11:k7p	Geo_ncert_7stnd_8ch_0034.1:coref	-	-	-
+ugA_1-yA_jA_wA_hE_1	11	-	-	0:main	-	-	-	-
+[6-waw_1]	15	-	-	11:k2	-	-	-	-
+[conj_1]	16	-	-	15:re	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0050>
+#वर्षावन अत्यधिक मात्र में घरों के लिए लकडी प्रदान करते हैं।
+#varRAvana awyaXika mAwra meM GaroM ke lie lakadI praxAna karawe hEM.
+#The rainforests provide a lot of wood for the houses.
+varRAvana_1(rainforest_1)	1	-	-	13:k1	-	-	-	-
+awyaXika(excessive_2)	2	-	-	14:intf	-	-	-	-
+Gara_2(house_1)	5	-	pl	13:rt	-	-	-	-
+lakadI_2(wood_8)	8	-	-	13:k2	-	-	-	-
+praxAna_11(provide_3)	9	-	-	-	-	-	-	13:kriyAmUla
+kara_1-wA_hE_1	10	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+mAwrA(amount_10)	14	-	-	8:quant	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0051>
+#कुछ परिवार मधुमक्खी के छत्ते के आकार वाले छप्पर के घरों में रहते हैं।
+#kuCa parivAra maXumakKI ke Cawwe ke AkAra vAle Cappara ke GaroM meM rahawe hEM.
+#Some families live in thatched houses shaped like beehives.
+kuCa_1(some_2)	1	-	-	2:quant	-	-	-	-
+parivAra_1(family_8)	2	-	-	13:k1	-	-	-	-
+maXumakKI_1(honey-bee_1)	3	-	-	5:r6	-	-	-	-
+CawwA_6	5	-	pl	7:r6	-	-	-	-
+AkAra_2(shape_1)	7	-	mawup	11:mod	-	-	-	-
+Cappara_1(thatch_1)	9	-	-	11:r6	-	-	-	-
+Gara_2(house_1)	11	-	pl	13:k7p	-	-	-	-
+raha_1-wA_hE_1	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0052>
+#जबकि कुछ लोग मलोका कहे जाने वाले बड़े अपार्टमेंट जैसे घरों में रहते हैं जिनकी छत तीव्र ढलान वाली होती हैं।
+#jabaki kuCa loga malokA kahe jAne vAle bade apArtameMta jEse GaroM meM rahawe hEM jinakI Cawa wIvra DalAna vAlI howI hEM.
+#There are other large apartment-like houses called “Maloca” with a steeply slanting roof.
+kuCa_1(some_2)	1	-	-	2:quant	-	-	-	-
+loga_2(people_5)	2	anim	-	12:k1	-	-	-	-
+malokA	3	-	-	-	-	-	-	20:begin
+badA_1	7	-	-	8:mod	-	-	-	-
+apArtameMta_1	8	-	-	20:rs	-	-	-	-
+Gara_1	10	-	pl	12:k7p	-	-	-	-
+raha_1-wA_hE_1	12	-	-	0:main	Geo_ncert_7stnd_8ch_0051.13:viroXI_xyowaka	-	-	-
+$yax	14	-	pl	15:r6	Geo_ncert_7stnd_8ch_0052.10:coref	-	-	-
+Cawa_1	15	-	-	19:k1	-	-	-	-
+wIvra_1	16	-	-	17:mod	-	-	-	-
+DalAna_1	17	-	mawup	21:mod	-	-	-	-
+ho_1-wA_hE_1	19	-	-	10:rcelab	-	-	-	-
+[ne_1]	20	-	-	10:ru	-	-	-	-
+Cawa_1	21	-	-	19:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0053>
+#अमेजन बेसिन के लोगों का जीवन धीरे-धीरे बदल रहा है।
+#amejana besina ke logoM kA jIvana XIre-XIre baxala rahA hE.
+#Life of the people of the Amazon basin is slowly changing.
+amejana	1	-	-	-	-	-	-	12:begin
+besina_1(basin_5)	2	-	-	12:rs	-	-	-	-
+loga_2(people_5)	4	anim	pl	6:r6	-	-	-	-
+jIvana_1(life_7)	6	-	-	8:k1	-	-	-	-
+XIre_1(slowly_3)	7	-	xviwva	8:krvn	-	-	-	-
+baxala_1-0_rahA_hE_1	8	-	-	0:main	-	-	-	-
+[ne_1]	12	-	-	4:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0054>
+#पुराने समय में वन के अंदर पहुँचने के लिए नदी मार्ग ही एक मात्र उपाय था।
+#purAne samaya meM vana ke aMxara pahuzcane ke lie naxI mArga hI eka mAwra upAya WA.
+#In the older days the heart of the forest, could be reached only by navigating the river.
+purAnA_1(old_5)	1	-	-	2:mod	-	-	-	-
+samaya(day_18)	2	-	-	16:k7t	-	-	-	-
+vana_2(forest_4)	4	-	-	6:rdl	-	-	-	-
+aMxara_2(inside_1)	6	-	-	7:k2p	-	-	-	-
+pahuzca_1(reach_1)	7	-	-	16:rt	-	-	-	-
+naxI_1(river_3)	10	-	-	-	-	-	-	18:mod
+mArga_3(route_2)	11	-	-	-	-	-	-	18:head
+1	13	numex	-	15:card	-	mAwra_1	-	-
+upAya_1	15	-	-	16:k1s	-	-	-	-
+hE_1-past	16	-	-	0:main	-	-	-	-
+[6-waw_1]	18	-	-	16:k1	-	hI_6	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0055>
+#1970 में ट्रांस अमेजन महामार्ग बनने से वर्षावन के सभी भागों तक पहुँचना संभव हो गया।
+#1970 meM trAMsa amejana mahAmArga banane se varRAvana ke saBI BAgoM waka pahuzcanA saMBava ho gayA.
+#In 1970 the Trans Amazon highway made all parts of the rainforest accessible.
+1970	1	yoc	-	15:k7t	-	-	-	-
+trAMsa	3	-	-	-	-	-	-	18:begin
+amejana	4	-	-	-	-	-	-	18:inside
+mahAmArga	5	-	-	-	-	-	-	18:inside
+bana_15(made_12)	6	-	-	15:rh	-	-	-	-
+varRAvana_1(rainforest_1)	8	-	-	11:r6	-	-	-	-
+saBI_1(all_1)	10	-	-	11:quant	-	-	-	-
+BAga_2(part_9)	11	-	pl	13:k2p	-	-	-	-
+pahuzca_2(access_4)	13	-	-	15:k1	-	-	-	-
+saMBava_1(possible_3)	14	-	-	15:k1s	-	-	-	-
+ho_1-yA_hE_2	15	-	-	0:main	-	[shade:jA_1]	-	-
+[ne_1]	18	-	-	6:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0056>
+#अनेक स्थानों पर पहुँचने के लिए हवाईजहाजों तथा हेलीकॉप्टरों का उपयोग किया जाता है।
+#aneka sWAnoM para pahuzcane ke lie havAIjahAjoM waWA helIkoYptaroM kA upayoga kiyA jAwA hE.
+#Aircrafts and helicopters are also used for reaching various places.
+aneka(various_10)	1	-	-	2:quant	-	-	-	-
+sWAna_1(place_14)	2	-	pl	4:k7p	-	-	-	-
+pahuzca_1(reach_1)	4	-	-	16:rt	-	-	-	-
+havAIjahAja_1(Aircraft_1)	7	-	pl	-	-	-	-	17:op1
+^helIkOYptara_1	9	-	pl	-	-	-	-	17:op2
+upayoga_1(use_2)	11	-	-	-	-	-	-	16:kriyAmUla
+kara_1-yA_jA_wA_hE_1	12	-	-	-	-	-	-	16:verbalizer
+[cp_1]	16	-	-	0:main	-	-	-	-
+[conj_1]	17	-	-	16:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0057>
+#इस प्रक्रिया के फलस्वरूप वहाँ की मूल आबादी को उस क्षेत्र से बाहर निकलकर नए क्षेत्र में बसना पडा जहाँ वे अपने पौराणिक तरीके से खेती करते रहे हैं।
+#isa prakriyA ke PalasvarUpa vahAz kI mUla AbAxI ko usa kRewra se bAhara nikalakara nae kRewra meM basanA padA jahAz ve apane pOrANika warIke se KewI karawe rahe hEM.
+#The indigenous population was pushed out from the area and forced to settle in new areas where they continued to practice their distinctive way of farming.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+prakriyA_1(process_3)	2	-	-	18:rh	-	-	-	-
+$wyax	5	-	-	8:r6	Geo_ncert_7stnd_8ch_0034.1:coref	distal	-	-
+mUla_29	7	-	-	8:mod	-	-	-	-
+AbAxI_1(population_1)	8	-	-	18:k1	-	-	-	-
+$wyax	10	-	-	11:dem	-	distal	-	-
+kRewra_5(area_2)	11	-	-	14:k5	-	-	-	-
+bAhara_1	13	-	-	14:k7p	-	-	-	-
+nikala_15(go_8)	14	-	-	18:rpk	-	-	-	-
+nayA(new_5)	15	-	-	16:mod	-	-	-	-
+kRewra_5(area_2)	16	-	-	18:k7p	-	-	-	-
+basa_1-nA_padZA_1	18	-	-	0:main	-	-	-	-
+$yax	20	-	-	27:k7p	Geo_ncert_7stnd_8ch_0057.16:coref	-	-	-
+$wyax	21	-	-	27:k1	Geo_ncert_7stnd_8ch_0057.8:coref	distal	-	-
+apanA	22	-	-	24:r6	-	-	-	-
+pOrANika_6	23	-	-	24:mod	-	-	-	-
+warIkA_4(way_25)	24	-	pl	27:krvn	-	-	-	-
+KewI_1(farming_3)	26	-	-	27:k2	-	-	-	-
+kara_1-wA_rahA_hE_1	27	-	-	16:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0058>
+#विकास की गतिविधि के कारण जैविक विविधता वाले वर्षावन धीरे-धीरे नष्ट हो रहे हैं।
+#vikAsa kI gawiviXyi ke kAraNa jEvika viviXawA vAle varRAvana XIre-XIre naRta ho rahe hEM.
+#The developmental activities are leading to the gradual destruction of the biologically diverse rainforests.
+vikAsa_2(development_7)	1	-	-	3:r6	-	-	-	-
+gawiviXi(activity_5)	3	-	pl	12:rh	-	-	-	-
+jEvika_1(biological_1)	6	-	-	7:mod	-	-	-	-
+viviXawA_2(diversity_4)	7	-	mawupa	9:mod	-	-	-	-
+varRAvana_1(rainforest_1)	9	-	-	12:k1	-	-	-	-
+XIre_5	10	-	xviwva	12:krvn	-	-	-	-
+naRta_16	11	-	-	12:k1s	-	-	-	-
+ho_1-0_rahA_hE	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0059a>
+#ऐसा अनुमान है।
+#EsA anumAna hE.
+#It is estimated that a large area of the rainforest has been disappearing annually in the Amazon basin.
+$wyax	1	-	-	4:dem	Geo_ncert_7stnd_8ch_0059b.16:coref	proximal	-	-
+anumAna_2(estimate_3)	2	-	-	3:k1	-	-	-	-
+hE_1-pres	3	-	-	0:main	-	-	-	-
+prakAr_1	4	-	-	2:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0059b>
+#कि प्रतिवर्ष अमेजन बेसिन के वर्षावन का बड़ा भाग लुप्त होता जा रहा है।
+#ki prawivarRa amejana besina ke varRAvana kA badA BAga lupwa howA jA rahA hE.
+#It is estimated that a large area of the rainforest has been disappearing annually in the Amazon basin.
+prawivarRa_1(annually_1)	1	-	-	16:freq	-	-	-	-
+amejana	2	-	-	-	-	-	-	17:begin
+besina	3	-	-	-	-	-	-	17:inside
+varRAvana_1(rainforest_1)	5	-	-	8:r6	-	-	-	-
+badA_8(large_25)	7	-	-	8:quant	-	-	-	-
+BAga_23(area_16)	8	-	-	16:k1	-	-	-	-
+lupwa_9	9	-	-	-	-	-	-	16:kriyAmUla
+ho_1-wA_jA_rahA_hE_1	10	-	-	-	-	-	-	16:verbalizer
+[cp_1]	16	-	-	0:main	-	-	-	-
+[ne_1]	17	-	-	5:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0060a>
+#आप यह देख सकते हैं।
+#Apa yaha xeKa sakawe hEM.
+#You can see that this destruction of forests has a much wider implication
+$addressee	1	-	-	3:k1	-	respect	-	-
+$wyax	2	-	-	3:k2	Geo_ncert_7stnd_8ch_0060b.8:coref	proximal	-	-
+xeKa_1-0_sakawA_hE_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0060b>
+#कि वर्षावनों के लुप्त होने से व्यापक प्रभाव होता है।
+#ki varRAvanoM ke lupwa hone se vyApaka praBAva howA hE.
+#You can see that this destruction of forests has a much wider implication
+varRAvana_1(rainforest_1)	1	-	pl	11:k1	-	-	-	-
+lupwa_1	3	-	-	-	-	-	-	11:kriyAmUla
+ho_1	4	-	-	-	-	-	-	11:verbalizer
+vyApaka_8	6	-	-	7:intf	-	-	-	-
+praBAva_9	7	-	-	8:k1	-	-	-	-
+ho_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+[cp_1]	11	-	-	8:rh	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0061a>
+#वर्षा के कारण मिट्टी की उपरी परत बह जाती है।
+#varRA ke kAraNa mittI kI uparI parawa baha jAwI hE .
+#The topsoil is washed away as the rains fall and the lush forest turns into a barren landscape.
+varRA_2(rainfall_2)	1	-	-	8:rh	-	-	-	-
+mittI_2(soil_4)	4	-	-	7:r6	-	-	-	-
+uparI_1(top_16)	6	-	-	7:mod	-	-	-	-
+parawa_1(layer_3)	7	-	-	8:k1	-	-	-	-
+baha_1-wA_hE_1	8	-	-	0:main	-	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0061b>
+#एवं सघन वन बंजर भूमि में बदल जाता है।
+#evaM saGana vana baMjara BUmi meM baxala jAwA hE.
+#The topsoil is washed away as the rains fall and the lush forest turns into a barren landscape.
+saGana_8(lush_1)	1	-	-	2:mod	-	-	-	-
+vana_2(forest_4)	2	-	-	6:k1	-	-	-	-
+baMjara_1(barren_6)	3	-	-	4:mod	-	-	-	-
+BUmi_1(land_6)	4	-	-	6:k2	-	-	-	-
+baxala_1-wA_hE_1	6	-	-	0:main	Geo_ncert_7stnd_8ch_0061a.8:samuccaya	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0062>
+#गंगा तथा ब्रह्मपुत्र की सहायक नदियाँ मिलकर भारतीय उपमहाद्वीप में गंगा-ब्रह्मपुत्र बेसिन का निर्माण करती है।
+#gaMgA waWA brahmapuwra kI sahAyaka naxiyAz milakara BArawIya upamahAxvIpa meM gaMgA-brahmapuwra besina kA nirmANa karawI hE.
+#The tributaries of rivers Ganga and Brahmaputra together form the Ganga-Brahmaputra basin in the Indian subcontinent.
+gaMgA	1	-	-	-	-	-	-	21:begin
+brahmapuwra	3	-	-	-	-	-	-	22:begin
+sahAyaka_13(tributary_3)	5	-	-	6:mod	-	-	-	-
+naxI_1(river_3)	6	-	pl	7:k1	-	def	-	-
+mila_1	7	-	-	19:rpk	-	-	-	-
+BArawIya_1(indian_1)	8	-	-	9:mod	-	-	-	-
+upamahAxvIpa_1(subcontinent_1)	9	-	-	19:k7p	-	def	-	-
+gaMgA	11	-	-	-	-	-	-	24:begin
+besina	12	-	-	-	-	-	-	24:inside
+nirmANa_17	14	-	-	-	-	-	-	19:kriyAmUla
+kara_1-wA_hE_1	15	-	-	-	-	-	-	19:verbalizer
+[cp_1]	19	-	-	0:main	-	-	-	-
+[conj_1]	20	-	-	6:r6	-	-	-	-
+[ne_1]	21	place	-	-	-	-	-	20:op1
+[ne_2]	22	place	-	-	-	-	-	20:op2
+brahmapuwra	23	-	-	-	-	-	-	24:inside
+[ne_3]	24	place	-	19:k2	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0063>
+#यह बेसिन उपोष्ण में 10° उत्तर से 30° उत्तर अक्षांश के मध्य स्थित है।
+#yaha besina upoRNa meM 10 uwwara se 30 uwwara akRAMSa ke maXya sWiwa hE.
+#The basin lies in the sub-tropical region that is situated between 10°N to 30°N latitudes.
+$wyax	1	-	-	2:dem	Geo_ncert_7stnd_8ch_0062.24:coref	proximal	-	-
+besina_1(basin_5)	2	-	-	14:k1	-	-	-	-
+upoRNa_1(sub-tropical_1)	3	-	-	-	-	-	-	17:whole
+10	5	-	-	-	-	-	-	21:count
+uwwara_3(north_1)	6	-	-	-	-	-	-	18:start
+30	8	-	-	-	-	-	-	22:count
+uwwara_3(north_1)	9	-	-	-	-	-	-	18:end
+akRAMSa_1(latitude_4)	10	-	-	12:rdl	-	-	-	-
+maXya_1	12	-	-	14:k7p	-	-	-	-
+sWiwa_1(situated_1)	13	-	-	14:k1s	-	-	-	-
+hE_1-pres	14	-	-	0:main	-	-	-	-
+[spatial_1]	17	-	-	10:rs	-	-	-	-
+[span_1]	18	-	-	-	-	-	-	17:part
+dIgrI_1	19	-	-	-	-	-	-	21:unit
+dIgrI_1	20	-	-	-	-	-	-	22:unit
+[dist_meas_1]	21	-	-	6:rs	-	-	-	-
+[dist_meas_2]	22	-	-	9:rs	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0064>
+#घाघरा, सोन, चंबल, गंडक, कोसी जैसी गंगा की सहायक नदियाँ एवं ब्रह्मपुत्र की सहायक नदियाँ इसमें अपवाहित होती हैं।
+#GAGarA, sona, caMbala, gaMdaka, kosI jEsI gaMgA kI sahAyaka naxiyAz evaM brahmapuwra kI sahAyaka naxiyAz isameM apavAhiwa howI hEM.
+#The tributaries of the River Ganga like the Ghaghra, the Son, the Chambal, the Gandak, the Kosi and the tributaries of Brahmaputra drain it.
+GAGarA	1	-	-	-	-	-	-	27:begin
+sona	3	-	-	-	-	-	-	28:begin
+caMbala	5	-	-	-	-	-	-	29:begin
+gaMdaka	7	-	-	-	-	-	-	30:begin
+kosa	9	-	-	-	-	-	-	31:begin
+gaMgA	11	-	-	-	-	-	-	32:begin
+sahAyaka_13(tributary_3)	13	-	-	14:mod	-	-	-	-
+naxI_1(river_3)	14	-	pl	-	-	-	-	34:op1
+brahmapuwra	16	-	-	-	-	-	-	33:begin
+sahAyaka_13(tributary_3)	18	-	-	19:mod	-	-	-	-
+naxI_1(river_3)	19	-	pl	-	-	-	-	34:op2
+$wyax	20	-	-	25:k7	Geo_ncert_7stnd_8ch_0062.24:coref	proximal	-	-
+apavAhiwa_1(drain_12)	21	-	-	-	-	-	-	25:kriyAmUla
+ho_1-wA_hE_1	22	-	-	-	-	-	-	25:verbalizer
+[cp_1]	25	-	-	0:main	-	-	-	-
+[conj_1]	26	-	-	14:re	-	-	-	-
+[ne_1]	27	place	-	-	-	def	-	26:op1
+[ne_2]	28	place	-	-	-	def	-	26:op2
+[ne_3]	29	place	-	-	-	def	-	26:op3
+[ne_4]	30	place	-	-	-	def	-	26:op4
+[ne_5]	31	place	-	-	-	def	-	26:op5
+[ne_6]	32	place	-	14:r6	-	-	-	-
+[ne_7]	33	place	-	19:r6	-	-	-	-
+[conj_2]	34	-	-	25:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0065>
+#आप एटलस की सहायता से ब्रह्मपुत्र की कुछ सहायक नदियों के नाम ढूंढे।
+#Apa etalasa kI sahAyawA se brahmapuwra kI kuCa sahAyaka naxiyoM ke nAma DUMDe.
+#Look at the atlas and find names of some tributaries of the River Brahmaputra.
+$addressee	1	-	-	13:k1	-	respect	-	-
+etalasa_1(atlas_1)	2	-	-	13:k3	-	-	-	-
+brahmapuwra	6	-	-	-	-	-	-	14:begin
+kuCa_1(some_2)	8	-	-	10:quant	-	-	-	-
+sahAyaka_13(tributary_3)	9	-	-	10:mod	-	-	-	-
+naxI_1(river_3)	10	-	pl	12:r6	-	-	-	-
+nAma_1(name_3)	12	-	-	13:k2	-	-	-	-
+DUMDa_1-o_1	13	-	-	0:main	-	-	-	-
+[ne_1]	14	place	-	10:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0066>
+#गंगा एवं ब्रह्मपुत्र के मैदान, पर्वत एवं हिमालय के गिरिपाद तथा सुंदरवन डेल्टा इस बेसिन की मुख्य विशेषताएँ हैं।
+#gaMgA evaM brahmapuwra ke mExAna, parvawa evaM himAlaya ke giripAxa waWA suMxaravana deltA isa besina kI muKya viSeRawAez hEM.
+#The plains of the Ganga and the Brahmaputra, the mountains and the foothills of the Himalayas and the Sundarbans delta are the main features of this basin.
+gaMgA	1	-	-	-	-	-	-	25:begin
+brahmapuwra	3	-	-	-	-	-	-	26:begin
+mExAna_1	5	-	-	-	-	-	-	24:op1
+parvawa_1	7	-	-	-	-	-	-	23:op1
+himAlaya	9	-	-	-	-	-	-	27:begin
+giripAxa_1	11	-	-	-	-	-	-	24:op2
+suMxaravana	13	-	-	-	-	-	-	22:begin
+deltA_1	14	-	-	-	-	-	-	24:op3
+$wyax	15	-	-	16:dem	Geo_ncert_7stnd_8ch_0062.24:coref	proximal	-	-
+besina_1	16	-	-	19:r6	-	-	-	-
+muKya_1	18	-	-	19:mod	-	-	-	-
+viSeRawA_1	19	-	pl	20:k1s	-	-	-	-
+hE_1-pres	20	-	-	0:main	-	-	-	-
+[ne_1]	22	-	-	14:rs	-	-	-	-
+[conj_1]	23	-	-	11:r6	-	-	-	-
+[conj_2]	24	-	-	20:k1	-	-	-	-
+[ne_1]	25	place	-	-	-	-	-	28:op1
+[ne_2]	26	place	-	-	-	-	-	28:op2
+[ne_1]	27	place	-	-	-	-	-	23:op2
+[conj_3]	28	-	-	5:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0067>
+#मैदानी क्षेत्र में अनेक चापझील पाई जाती हैं।
+#mExAnI kRewra meM aneka cApaJIla pAI jAwI hEM.
+#Ox-bow lakes dot the plain area.
+mExAnI_2(plain_14)	1	-	-	2:mod	-	-	-	-
+kRewra_5(area_2)	2	-	-	6:k7p	-	-	-	-
+aneka_1(many_2)	4	-	-	5:quant	-	-	-	-
+cApaJIla_1	5	-	-	6:k2	-	-	-	-
+pA_1-yA_jA_wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0068>
+#यहाँ की जलवायु मुख्यतः मानसूनी हैं।
+#yahAz kI jalavAyu muKyawaH mAnasUnI hEM.
+#The area is dominated by monsoon climate.
+$wyax	1	-	-	3:r6	Geo_ncert_7stnd_8ch_0062.24:coref	proximal	-	-
+jalavAyu_1(climate_2)	3	-	-	6:k1	-	-	-	-
+muKyawa_2(mainly_5)	4	-	-	6:krvn	-	-	-	-
+mAnasUnI_1(monsoon_2)	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0069>
+#मानसून में मध्य जून से मध्य सितंबर के बीच वर्षा होती है।
+#mAnasUna meM maXya jUna se maXya siwaMbara ke bIca varRA howI hE.
+#The monsoon brings rains from mid-June to mid-September.
+mAnasUna_1(monsoon_1)	1	-	-	-	-	-	-	13:whole
+maXya_1(middle_2)	3	-	-	4:mod	-	-	-	-
+jUna_1	4	moy	-	-	-	-	-	12:start
+maXya_1(middle_2)	6	-	-	7:mod	-	-	-	-
+siwaMbara_1	7	moy	-	-	-	-	-	12:end
+varRA_1(rain_6)	10	-	-	11:k1	-	-	-	-
+ho_1-wA_hE_1	11	-	-	0:main	-	-	-	-
+[span_1]	12	-	-	-	-	-	-	13:part
+[temporal_1]	13	-	-	11:k7t	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0070a>
+#ग्रीष्म ऋतु में गर्मी होती है।
+#grIRma qwu meM garmI howI hE.
+#The summers are hot and the winters cool.
+grIRma_1(summer_2)	1	-	-	2:rs	-	-	-	-
+qwu_1(season_1)	2	-	-	10:k7t	-	-	-	-
+garmI_1	4	-	-	10:k1	-	-	-	-
+ho_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0070b>
+#एवं शीत ऋतु में ठंड होती है।
+#evaM SIwa qwu meM TaMda howI hE.
+#and the winters cool.
+SIwa_4(winter_5)	1	-	-	5:rs	-	-	-	-
+ho_1-wA_hE_1	3	-	-	0:main	Geo_ncert_7stnd_8ch_0070a.10:samuccaya	-	-	-
+TaMda_1(cold_3)	4	-	-	3:k1	-	-	-	-
+qwu_1(season_1)	5	-	-	3:k7t	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0071>
+#आप भारत का मानचित्र देखिए।
+#Apa BArawa kA mAnaciwra xeKie.
+#Look at the map of India
+$addressee	1	-	-	5:k1	-	respect	-	-
+BArawa	2	-	-	-	-	-	-	6:begin
+mAnaciwra_1(map_3)	4	-	-	5:k2	-	-	-	-
+xeKa_1-o_1	5	-	-	0:main	-	-	-	-
+[ne_1]	6	place	-	4:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0072>
+#आप उन राज्यों के नाम बताइये जहाँ गंगा-ब्रह्मपुत्र बेसिन स्थित है।
+#Apa una rAjyoM ke nAma bawAiye jahAz gaMgA-brahmapuwra besina sWiwa hE.
+#Find out the states in which the Ganga-Brahmputra basin lies.
+$addressee	1	-	-	6:k1	-	respect	-	-
+$wyax	2	-	-	3:dem	-	distal	-	-
+rAjya_1(state_14)	3	-	pl	5:r6	-	-	-	-
+nAma_1(name_3)	5	-	-	6:k2	-	-	-	-
+bawA_1-o_1	6	-	-	0:main	-	-	-	-
+$yax	7	-	-	11:k7p	-	-	-	-
+gaMgA	8	-	-	-	-	-	-	15:begin
+besina	9	-	-	-	-	-	-	15:inside
+sWiwa_10	10	-	-	11:k1s	-	-	-	-
+hE_1-pres	11	-	-	3:rcloc	-	-	-	-
+brahmapuwra	14	-	-	-	-	-	-	15:inside
+[ne_1]	15	place	-	11:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0073>
+#बेसिन क्षेत्र में विभिन्न प्रकार की स्थलाकृति है।
+#besina kRewra meM viBinna prakAra kI sWalAkqwi hE.
+#The basin area has varied topography.
+besina_1(basin_5)	1	-	-	-	-	-	-	10:mod
+kRewra_5(area_2)	2	-	-	-	-	-	-	10:head
+viBinna_4(various_8)	4	-	-	5:mod	-	-	-	-
+prakAra_7(type_6)	5	-	-	7:r6	-	-	-	-
+sWalAkqwi_1(topography_1)	7	-	-	8:k1	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+[nc_1]	10	-	-	8:k7p	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0074>
+#जनसंख्या के वितरण में पर्यावरण की प्रमुख भूमिका होती है।
+#janasaMKyA ke viwaraNa meM paryAvaraNa kI pramuKa BUmikA howI hE.
+#The environment plays a dominant role in the distribution of the population.
+janasaMKyA_1(population_3)	1	-	-	3:r6	-	-	-	-
+viwaraNa_1(distribution_6)	3	-	-	9:k7	-	-	-	-
+paryAvaraNa_1(environment_2)	5	-	-	8:r6	-	-	-	-
+pramuKa_7(dominant_1)	7	-	-	8:mod	-	-	-	-
+BUmikA_2(role_2)	8	-	-	9:k1	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0075>
+#तीव्र ढाल वाले पर्वतीय क्षेत्र बसने के लिए प्रतिकूल हैं।
+#wIvra DAla vAle parvawIya kRewra basane ke lie prawikUla hEM .
+#The mountain areas with steep slopes have inhospitable terrain.
+wIvra_2(steep_4)	1	-	-	2:mod	-	-	-	-
+DAla_2(slope_2)	2	-	mawupa	5:mod	-	-	-	-
+parvawIya_3(mountain_31)	4	-	-	5:mod	-	-	-	-
+kRewra_5(area_2)	5	-	-	10:k1	-	def	-	-
+basa_1	6	-	-	10:rt	-	-	-	-
+prawikUla_1	9	-	-	10:k1s	-	-	-	-
+hE_1-pres	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0076>
+#अतः गंगा-ब्रह्मपुत्र बेसिन के पर्वतीय क्षेत्र में कम लोग रहते हैं।
+#awaH gaMgA-brahmapuwra besina ke parvawIya kRewra meM kama loga rahawe hEM.
+#Therefore less number of people live in the mountain area of the Ganga- Brahmaputra basin.
+gaMgA	1	-	-	-	-	-	-	15:begin
+besina	2	-	-	-	-	-	-	15:inside
+parvawIya_3(mountain_31)	4	-	-	5:mod	-	-	-	-
+kRewra_5(area_2)	5	-	-	9:k7p	-	def	-	-
+loga_2(people_5)	8	-	-	9:k1	-	-	-	-
+raha_1-wA_hE_1	9	-	-	0:main	Geo_ncert_7stnd_8ch_0075.10:pariNAma	-	-	-
+brahmapuwra	13	-	-	-	-	-	-	15:inside
+kama_4(less_1)	14	-	-	8:quant	-	-	-	-
+[ne_1]	15	place	-	5:r6	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0077a>
+#मानव प्रवास के लिए मैदानी क्षेत्र सबसे उपयुक्त है।
+#mAnava pravAsa ke lie mExAnI kRewra sabase upayukwa hE .
+#The plain area provides the most suitable land for human habitation.
+mAnava_3(human_6)	1	-	-	-	-	-	-	11:mod
+pravAsa_5	2	-	-	-	-	-	-	11:head
+mExAnI_2(plain_14)	5	-	-	6:mod	-	-	-	-
+kRewra_5(area_2)	6	-	-	9:k1	-	def	-	-
+upayukwa_2(suitable_2)	8	-	superl	9:k1s	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+[nc_1]	11	-	-	9:rt	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0077b>
+#अतः यहाँ जनसंख्या घनत्व अधिक है।
+#awaH yahAz janasaMKyA Ganawva aXika hE.
+#The plain area provides the most suitable land for human habitation.
+$wyax	1	-	-	5:k7p	Geo_ncert_7stnd_8ch_0077a.6:coref	proximal	-	-
+janasaMKyA_1(population_3)	2	-	-	3:r6	-	-	-	-
+Ganawva_1(density_4)	3	-	-	5:k1	-	-	-	-
+hE_1-pres	5	-	-	0:main	Geo_ncert_7stnd_8ch_0077a.9:pariNAma	-	-	-
+aXika_1(more_1)	6	-	-	5:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0078>
+#यहाँ की मिट्टी उपजाऊ है।
+#yahAz kI mittI upajAU hE.
+#The soil is fertile.
+$wyax	3	-	-	5:r6	Geo_ncert_7stnd_8ch_0077a.6:coref	proximal	-	-
+mittI_2(soil_4)	5	-	-	7:k1	-	-	-	-
+upajAU_1(fertile_1)	6	-	-	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0079>
+#जिन स्थानों पर फसल उगाने के लिए समतल भूमि उपलब्ध् है वहाँ के लोगों का मुख्य व्यवसाय कृषि है।
+#jina sWAnoM para Pasala ugAne ke lie samawala BUmi upalabX hE vahAz ke logoM kA muKya vyavasAya kqRi hE.
+#Agriculture is the main occupation of the people where flat land is available to grow crops
+$yax	1	-	-	2:dem	-	-	-	-
+sWAna_1(place_14)	2	-	pl	11:k7p	-	-	-	-
+Pasala_2(crop_7)	4	-	-	5:k2	-	-	-	-
+ugA_1(grow_6)	5	-	-	11:rt	-	-	-	-
+samawala_3(flat_6)	8	-	-	9:mod	-	-	-	-
+BUmi(land_6)	9	-	-	11:k1	-	-	-	-
+upalabX_1(available_8)	10	-	-	11:k1s	-	-	-	-
+hE_1-pres	11	-	-	12:rcloc	-	-	-	-
+$wyax	12	-	-	14:r6	Geo_ncert_7stnd_8ch_0079.2:coref	distal	-	-
+loga_2(people_5)	14	-	pl	17:r6	-	-	-	-
+muKya_18(main_1)	16	-	-	17:mod	-	-	-	-
+vyavasAya_4(occupation_11)	17	-	-	19:k1	-	-	-	-
+kqRi_1(agriculture_1)	18	-	-	19:k1s	-	-	-	-
+hE_1-pres	19	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0080>
+#धान यहाँ की मुख्य फसल है।
+#XAna yahAz kI muKya Pasala hE.
+#The main crop is paddy
+XAna_1(paddy_1)	1	-	-	6:k1	-	-	-	-
+$wyax	2	-	-	6:k7p	Geo_ncert_7stnd_8ch_0079.2:coref	proximal	-	-
+muKya_18(main_1)	4	-	-	5:mod	-	-	-	-
+Pasala_2(crop_7)	5	-	-	6:k1s	-	def	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0081a>
+#चूँकि धान की खेती के लिए पर्याप्त जल की आवश्यकता होती है।
+#cUzki XAna kI KewI ke lie paryApwa jala kI AvaSyakawA howI hE.
+#Since cultivation of paddy requires sufficient water, it is grown in the areas where the amount of rainfall is high.
+XAna_1(paddy_1)	1	-	-	3:r6	-	-	-	-
+KewI_2(cultivation_3)	3	-	-	10:rt	-	-	-	-
+paryApwa_2(sufficient_2)	6	-	-	7:mod	-	-	-	-
+jala_1(water_3)	7	-	-	9:r6	-	-	-	-
+AvaSyakawA_7	9	-	-	10:k1	-	-	-	-
+ho_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0081b>
+#यह उसी क्षेत्र में उगाया जाता है जहाँ अधिक वर्षा होती है।
+#yaha usI kRewra meM ugAyA jAwA hE jahAz aXika varRA howI hE.
+#Since cultivation of paddy requires sufficient water, it is grown in the areas where the amount of rainfall is high.
+$wyax	1	-	-	5:k2	Geo_ncert_7stnd_8ch_0080.1:coref	proximal	-	-
+$wyax	2	-	-	3:dem	Geo_ncert_7stnd_8ch_0081b.8:coref	distal	-	-
+kRewra_5(area_2)	3	-	-	5:k7p	-	def	-	-
+ugA_1-yA_jA_wA_hE_1	5	-	-	0:main	-	-	-	-
+$yax	8	-	-	11:k7p	-	-	-	-
+varRA_2(rainfall_2)	10	-	-	11:k1	-	-	-	-
+ho_1-wA_hE_1	11	-	-	3:rcelab	-	-	-	-
+aXika_13(high_31)	12	-	-	10:quant	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0082>
+#यहाँ उगायी जाने वाली अन्य फसलें गेहूँ, मक्का, ज्वार, चना एवं बाजरा है।
+#yahAz ugAyI jAne vAlI anya PasaleM gehUz, makkA, jvAra, canA evaM bAjarA hE.
+#Wheat, maize, sorghum, gram and millets are the other crops that are grown.
+$wyax	1	-	-	2:k7p	Geo_ncert_7stnd_8ch_0079.2:coref	distal	-	-
+ugA_1(grow_6)	2	-	-	6:mod	-	-	-	-
+anya_1(other_1)	5	-	-	6:mod	-	-	-	-
+Pasala_2(crop_7)	6	-	pl	16:k1	-	-	-	-
+gehUz_1(wheat_2)	7	-	-	-	-	-	-	18:op1
+makkA_1(maize_2)	9	-	-	-	-	-	-	18:op2
+jvAra_3	11	-	-	-	-	-	-	18:op3
+canA_1(gram_1)	13	-	-	-	-	-	-	18:op4
+bAjarA_1(millet_2)	15	-	-	-	-	-	-	18:op5
+hE_1-pres	16	-	-	0:main	-	-	-	-
+[conj_1]	18	-	-	16:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0083>
+#गन्ना एवं जूट जैसी नगदी फसलें भी उगायी जाती हैं।
+#gannA evaM jUta jEsI nagaxI PasaleM BI ugAyI jAwI hEM.
+#Cash crops like sugarcane and jute are also grown.
+gannA_1(sugarcane_2)	1	-	-	-	-	-	-	12:op1
+jUta_1(jute_1)	3	-	-	-	-	-	-	12:op2
+nagaxI_1(cash_10)	5	-	-	6:mod	-	-	-	-
+Pasala_2(crop_7)	6	-	pl	8:k2	-	BI_1	-	-
+ugA_1-yA_jA_wA_hE_1	8	-	-	0:main	-	-	-	-
+[conj_1]	12	-	-	6:re	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0084>
+#मैदान के कुछ क्षेत्रों में केले के बागान भी देखे जाते हैं।
+#mExAna ke kuCa kRewroM meM kele ke bAgAna BI xeKe jAwe hEM.
+#Banana plantations are seen in some areas of the plain.
+mExAna_5(plain_5)	1	-	-	4:r6	-	def	-	-
+kuCa_1(some_2)	3	-	-	4:quant	-	-	-	-
+kRewra_5(area_2)	4	-	pl	10:k7p	-	-	-	-
+kelA_1(banana_1)	6	-	pl	8:r6	-	-	-	-
+bAgAna_1(plantation_1)	8	-	-	10:k2	-	BI_1	-	-
+xeKa_1-yA_jA_wA_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0085>
+#पश्चिम बंगाल एवं असम में चाय के बागान मिलते है।
+#paScima baMgAla evaM asama meM cAya ke bAgAna milawe hE.
+#In West Bengal and Assam tea is grown in plantations
+paScima	1	-	-	-	-	-	-	14:begin
+baMgAla	2	-	-	-	-	-	-	14:inside
+asama	4	-	-	-	-	-	-	15:begin
+cAya_1(tea_1)	6	-	-	8:r6	-	-	-	-
+bAgAna_1(plantation_1)	8	-	-	9:k1	-	-	-	-
+mila_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+[conj_1]	13	-	-	9:k7p	-	-	-	-
+[ne_1]	14	place	-	-	-	-	-	13:op1
+[ne_2]	15	place	-	-	-	-	-	13:op2
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0086>
+#बिहार एवं असम के कुछ भागों में सिल्क के कीडों का संवर्धन कर सिल्क का उत्पादन किया जाता है।
+#bihAra evaM asama ke kuCa BAgoM meM silka ke kIdoM kA saMvarXana kara silka kA uwpAxana kiyA jAwA hE.
+#Silk is produced through the cultivation of silk worms in parts of Bihar and Assam.
+bihAra	1	-	-	-	-	-	-	24:begin
+asama	3	-	-	-	-	-	-	25:begin
+kuCa_1(some_2)	5	-	-	6:quant	-	-	-	-
+BAga_2(part_9)	6	-	pl	22:k7p	-	-	-	-
+silka_1(silk_3)	8	-	-	10:r6	-	-	-	-
+kIdA_1	10	-	pl	21:k2	-	-	-	-
+saMvarXana_1	12	-	-	-	-	-	-	21:kriyAmUla
+kara_1	13	-	pl	-	-	-	-	21:verbalizer
+silka_1(silk_3)	14	-	-	22:k2	-	-	-	-
+uwpAxana_3(produce_3)	16	-	-	-	-	-	-	22:kriyAmUla
+kara_1-yA_jA_wA_hE_1	17	-	-	-	-	-	-	22:verbalizer
+[cp_1]	21	-	-	22:rpk	-	-	-	-
+[cp_2]	22	-	-	0:main	-	-	-	-
+[conj_1]	23	-	-	6:r6	-	-	-	-
+[ne_1]	24	place	-	-	-	-	-	23:op1
+[ne_2]	25	place	-	-	-	-	-	23:op2
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0087>
+#मंद ढलान वाले पर्वतों एवं पहाड़ियों पर वेदिकाओं में फसलें उगायी जाती हैं।
+#maMxa DalAna vAle parvawoM evaM pahAdiyoM para vexikAoM meM PasaleM ugAyI jAwI hEM.
+#In the mountains and hills, where the slopes are gentle, crops are grown on terraces.
+maMxa_15(gentle_2)	1	-	-	2:mod	-	-	-	-
+DalAna_1(slope_1)	2	-	mawupa	15:mod	-	-	-	-
+parvawa_1(mountain_3)	4	-	pl	-	-	-	-	15:op1
+pahAda_1(hill_15)	6	-	pl	-	-	-	-	15:op2
+vexikA_3(terrace_3)	8	-	pl	-	-	-	-	16:whole
+Pasala_2(crop_7)	10	-	pl	11:k2	-	-	-	-
+ugA_1-yA_jA_wA_hE_1	11	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	-	-	-	-	16:part
+[spatial_1]	16	-	-	11:k7	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0088>
+#विभिन्न भू-आकृतियों के अनुसार वनस्पति में भी विभिन्नता पायी जाती है।
+#viBinna BU-AkqwiyoM ke anusAra vanaspawi meM BI viBinnawA pAyI jAwI hE.
+#The vegetation cover of the area varies according to the type of landforms
+viBinna_9	1	-	-	2:mod	-	-	-	-
+BU+Akqwiya_1	2	-	pl	13:k7a	-	-	-	-
+vanaspawi_2(vegetation_3)	5	-	-	13:k7	-	BI_1	-	-
+viBinnawA_1	8	-	-	-	-	-	-	13:kriyAmUla
+pA_1-yA_jA_wA_hE_1	9	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0089>
+#गंगा-ब्रह्मपुत्र के मैदानों में सागवान, साखू एवं पीपल के साथ उष्णकटिबंधीय पर्णपाती पेड़ भी पाए जाते हैं।
+#gaMgA-brahmapuwra ke mExAnoM meM sAgavAna, sAKU evaM pIpala ke sAWa uRNakatibaMXIya parNapAwI peda BI pAe jAwe hEM.
+#In the Ganga and Brahmaputra plain tropical deciduous trees grow, along with teak, sal and peepal.
+gaMgA	1	-	-	-	-	-	-	22:begin
+mExAna_5(plain_5)	3	-	pl	16:k7p	-	-	-	-
+sAgavAna_1(teak_1)	5	-	-	-	-	-	-	21:op1
+sAKU_1	7	-	-	-	-	-	-	21:op2
+pIpala_1	9	-	-	-	-	-	-	21:op3
+uRNakatibaMXIya_1(tropical_3)	12	-	-	24:mod	-	-	-	-
+parNapAwI_1(deciduous_1)	13	-	-	-	-	-	-	24:mod
+peda_1(tree_10)	14	-	-	-	-	-	-	24:head
+pA_1-yA_jA_wA_hE_1	16	-	-	0:main	-	-	-	-
+[conj_1]	21	-	-	16:rask2	-	-	-	-
+[ne_1]	22	place	-	3:r6	-	-	-	-
+brahmapuwra	23	-	-	-	-	-	-	22:inside
+[nc_1]	24	-	-	16:k2	-	BI_2	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0090>
+#ब्रह्मपुत्र के मैदानी क्षेत्रों में घने बाँस के घने झुरमुट पाए जाते हैं।
+#brahmapuwra ke mExAnI kRewroM meM Gane bAzsa ke Gane Juramuta pAe jAwe hEM.
+#Thick bamboo groves are common in the Brahmaputra plain.
+brahmapuwra	1	-	-	-	-	-	-	12:begin
+mExAnI_2(plain_14)	3	-	-	4:mod	-	-	-	-
+kRewra_5(area_2)	4	-	pl	11:k7p	-	-	-	-
+Gana_1	6	-	-	7:mod	-	-	-	-
+bAzsa_1(bamboo_1)	7	-	-	10:r6	-	-	-	-
+Gana_1	9	-	-	10:mod	-	-	-	-
+Juramuta_2(grove_2)	10	-	-	11:k2	-	-	-	-
+pA_1-yA_jA_wA_hE_1	11	-	-	0:main	-	-	-	-
+[ne_1]	12	place	-	4:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0091>
+#डेल्टा क्षेत्र मैंग्रोव वन से घिरा है।
+#deltA kRewra mEMgrova vana se GirA hE.
+#The delta area is covered with the mangrove forest.
+deltA_1(delta_1)	1	-	-	-	-	-	-	7:mod
+kRewra_5(area_2)	2	-	-	-	-	-	-	7:head
+mEMgrova_1(mangrove_1)	3	-	-	-	-	-	-	8:mod
+vana_2(forest_4)	4	-	-	-	-	-	-	8:head
+Gira_1-yA_hE_1	6	-	-	0:main	-	-	-	-
+[nc_1]	7	-	-	6:k1	-	def	-	-
+[nc_2]	8	-	-	6:k3	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0092>
+#उत्तराखंड, सिक्किम एवं अरुणाचल प्रदेश की ठंडी जलवायु एवं तीव्र ढाल वाले भागों में चीड, देवदार एवं फर जैसे शकुंधारी पेड़ पाए जाते हैं।
+#uwwarAKaMda, sikkima evaM aruNAcala praxeSa kI TaMdI jalavAyu evaM wIvra DAla vAle BAgoM meM cIda, xevaxAra evaM Para jEse SakuMXArI peda pAe jAwe hEM.
+#In parts of Uttarakhand, Sikkim and Arunachal Pradesh, coniferous trees like pine, deodar and fir can be seen because the climate is cool and the slopes are steep.
+uwwarAKaMda	1	-	-	-	-	-	-	31:begin
+sikkima	3	-	-	-	-	-	-	32:begin
+aruNAcala	5	-	-	-	-	-	-	33:begin
+praxeSa	6	-	-	-	-	-	-	33:inside
+TaMdA_1(cool_2)	8	-	-	9:mod	-	-	-	-
+jalavAyu_1(climate_2)	9	-	-	-	-	-	-	38:op1
+wIvra_2(steep_4)	11	-	-	12:mod	-	-	-	-
+DAla_2(slope_2)	12	-	mawup	-	-	-	-	38:op2
+BAga_2(part_9)	14	-	pl	24:k7p	-	-	-	-
+cIda_1	16	-	-	-	-	-	-	37:op1
+xevaxAra_1	18	-	-	-	-	-	-	37:op2
+Para_1	20	-	-	-	-	-	-	37:op3
+SakuMXArI_1	22	-	-	-	-	-	-	39:mod
+peda_1(tree_10)	23	-	-	-	-	-	-	39:head
+pA_1-yA_jA_wA_hE_1	24	-	-	0:main	-	-	-	-
+[conj_1]	30	-	-	14:r6	-	-	-	-
+[ne_1]	31	place	-	-	-	-	-	30:op1
+[ne_2]	32	place	-	-	-	-	-	30:op2
+[ne_3]	33	place	-	-	-	-	-	30:op3
+[conj_2]	37	-	-	39:re	-	-	-	-
+[conj_3]	38	-	-	14:mod	-	-	-	-
+[nc_1]	39	-	-	24:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0093>
+#बेसिन में विविध प्रकार के वन्यजीव पाए जाते हैं।
+#besina meM viviXa prakAra ke vanyajIva pAe jAwe hEM.
+#There is a variety of wildlife in the basin
+besina_1(basin_5)	1	-	-	7:k7p	-	def	-	-
+viviXa_5	3	-	-	4:mod	-	-	-	-
+prakAra_9(variety_7)	4	-	-	6:r6	-	-	-	-
+vanyajIva_1(wildlife_1)	6	-	-	7:k2	-	-	-	-
+pA_1-yA_jA_wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0094>
+#इनमें हाथी, बाघ, हिरण एवं बंदर आदि सामान्य रूप से पाए जाने वाले जीव हैं।
+#inameM hAWI, bAGa, hiraNa evaM baMxara Axi sAmAnya rUpa se pAe jAne vAle jIva hEM.
+#Elephants, tigers, deer and monkeys are common
+$wyax	1	-	-	17:rn	Geo_ncert_7stnd_8ch_0093.6:coref	proximal	-	-
+hAWI_1(elephant_9)	2	-	-	-	-	-	-	19:op1
+bAGa_1(tiger_1)	4	-	-	-	-	-	-	19:op2
+hiraNa_1(deer_5)	6	-	-	-	-	-	-	19:op3
+baMxara_1(monkey_3)	8	-	-	-	-	-	-	19:op4
+sAmAnya_2(common_6)	10	-	-	11:mod	-	-	-	-
+rUpa_16(kind_29)	11	-	-	13:krvn	-	-	-	-
+pA_13(find_4)	13	-	mawup	16:mod	-	-	-	-
+jIva_4(animal_11)	16	-	-	17:k1	-	-	-	-
+hE_1-pres	17	-	-	0:main	-	-	-	-
+[conj_1]	19	-	-	17:k1s	-	-	-	-
+Axi_15(etc_2)	20	-	-	-	-	-	-	19:op5
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0095>
+#एक सींग वाला गैंडा ब्रह्मपुत्र के मैदानों में पाया जाता है।
+#eka sIMga vAlA gEMdA brahmapuwra ke mExAnoM meM pAyA jAwA hE.
+#The one-horned rhinoceros is found in the Brahmaputra plain
+1	1	-	-	2:card	-	-	-	-
+sIMga_1(horn_2)	2	-	mawupa	4:mod	-	-	-	-
+gEMdA_1(rhinoceros_1)	4	-	-	9:k2	-	-	-	-
+brahmapuwra	5	-	-	-	-	-	-	10:begin
+mExAna_5(plain_5)	7	-	pl	9:k7p	-	-	-	-
+pA_1-yA_jA_wA_hE_1	9	-	-	0:main	-	-	-	-
+[ne_1]	10	place	-	7:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0096>
+#डेल्टा क्षेत्र में बंगाल टाइगर एवं मगर पाए जाते है।
+#deltA kRewra meM baMgAla tAigara evaM magara pAe jAwe hE.
+#In the delta area, Bengal tiger and crocodiles are found.
+deltA_1(delta_1)	1	-	-	-	-	-	-	12:mod
+kRewra_5(area_2)	2	-	-	-	-	-	-	12:head
+baMgAla_1	4	-	-	-	-	-	-	16:mod
+tAigara_1(tiger_10)	5	-	-	-	-	-	-	16:head
+pA_1-yA_jA_wA_hE_1	8	-	-	0:main	-	-	-	-
+[nc_1]	12	-	-	8:k7p	-	-	-	-
+[conj_1]	14	-	-	8:k2	-	-	-	-
+magara_1(crocodile_4)	15	-	-	-	-	-	-	14:op2
+[nc_1]	16	-	-	-	-	-	-	14:op1
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0097>
+#नदी के साफ जल, झील एवं बंगाल की खाडी में प्रचुर मात्रा में जलीय जीव पाए जाते हैं।
+#naxI ke sAPa jala, JIla evaM baMgAla kI KAdI meM pracura mAwrA meM jalIya jIva pAe jAwe hEM.
+#Aquatic life abounds in the fresh river waters, the lakes and the Bay of Bengal Sea.
+naxI_1(river_3)	1	-	-	4:r6	-	-	-	-
+sAPa(fresh_16)	3	-	-	4:mod	-	-	-	-
+jala_1(water_3)	4	-	-	-	-	-	-	22:op1
+JIla_1(lake_1)	6	-	-	-	-	-	-	22:op2
+baMgAla_1	8	-	-	-	-	-	-	23:begin
+KAdI_1	10	-	-	-	-	-	-	23:inside
+pracura_3(abundant_5)	12	-	-	13:mod	-	-	-	-
+mAwrA_9(amount_10)	13	-	-	17:krvn	-	-	-	-
+jalIya_1(aquatic_10)	15	-	-	16:mod	-	-	-	-
+jIva_2(life_6)	16	-	-	17:k1	-	-	-	-
+pA_1-yA_jA_wA_hE_1	17	-	-	0:main	-	-	-	-
+[conj_1]	22	-	-	17:k7p	-	-	-	-
+[ne_1]	23	ne	-	-	-	-	-	22:op3
+kI_1	24	-	-	-	-	-	-	23:inside
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0098>
+#रोहू, कतला एवं हिलसा मछलियों की सबसे लोकप्रिय प्रजातियाँ हैं।
+#rohU, kawalA evaM hilasA maCaliyoM kI sabase lokapriya prajAwiyAz hEM.
+#The most popular varieties of the fish are the rohu, catla and hilsa.
+rohU_1(rohu_1)	1	-	-	-	-	-	-	13:op1
+kawalA_3	3	-	-	-	-	-	-	13:op2
+hilasA_1(hilsa_1)	5	-	-	-	-	-	-	13:op3
+maCalI_1(fish_2)	6	-	pl	10:r6	-	-	-	-
+lokapriya_1(popular_2)	9	-	superl	10:mod	-	-	-	-
+prajAwi_2(variety_19)	10	-	pl	11:k1s	-	-	-	-
+hE_1-pres	11	-	-	0:main	-	-	-	-
+[conj_1]	13	-	-	11:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0099>
+#मछली एवं चावल इस क्षेत्र में रहने वाले लोगों का मुख्य आहार है।
+#maCalI evaM cAvala isa kRewra meM rahane vAle logoM kA muKya AhAra hE.
+#Fish and rice is the staple diet of the people living in the area.
+maCalI_1(fish_2)	1	-	-	-	-	-	-	15:op1
+cAvala_1(rice_1)	3	-	-	-	-	-	-	15:op2
+$wyax	4	-	-	5:dem	-	proximal	-	-
+kRewra(area_2)	5	-	-	7:k7p	-	-	-	-
+raha_1(live_3)	7	-	mawup	9:mod	-	-	-	-
+loga_2(people_5)	9	-	pl	12:r6	-	-	-	-
+muKya_19	11	-	-	12:mod	-	-	-	-
+AhAra_2(diet_1)	12	-	-	13:k1s	-	-	-	-
+hE_1-pres	13	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	13:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0100>
+#विनोद एक मछुआरा है जो बिहार के मतवाली मौन गाँव में रहता है।
+#vinoxa eka maCuArA hE jo bihAra ke mawavAlI mOna gAzva meM rahawA hE.
+#Binod is a fisherman living in the Matwali Maun village of Bihar.
+vinoxa	1	male	-	-	-	-	-	13:begin
+eka_2(a_1)	2	-	-	3:quant	-	-	-	-
+maCuArA_2(fisherman_4)	3	-	-	4:k1s	-	-	-	-
+hE_1-pres	4	-	-	0:main	-	-	-	-
+$yax	5	-	-	12:k1	-	-	-	-
+bihAra	6	-	-	-	-	-	-	14:begin
+mawavAlI	8	-	-	-	-	-	-	15:begin
+mOna	9	-	-	-	-	-	-	15:inside
+gAzva_1(village_1)	10	-	-	12:k7p	-	-	-	-
+raha_1-wA_hE_1	12	-	-	13:rcelab	-	-	-	-
+[ne_1]	13	per	-	4:k1	-	-	-	-
+[ne_2]	14	place	-	10:r6	-	-	-	-
+[ne_3]	15	-	-	10:rs	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0101>
+#आज वह एक प्रसन्न व्यक्ति है।
+#Aja vaha eka prasanna vyakwi hE.
+#He is a happy man today
+Aja_1(today_2)	1	-	-	6:k7t	-	-	-	-
+$wyax	2	-	-	6:k1	Ge0_ncert_7stnd_8ch_0100.13:coref	distal	-	-
+eka_2(a_1)	3	-	-	5:quant	-	-	-	-
+prasanna_2(happy_2)	4	-	-	5:mod	-	-	-	-
+vyakw_1	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0102>
+#मछलियों की विभिन्न प्रजातियों को पालने के लिए उसने अपने साथी मछुआरों- रविन्द्रए किशोर, राजीव तथा अन्य के साथ मौन या चापझील को साफ किया।
+#maCaliyoM kI viBinna prajAwiyoM ko pAlane ke lie usane apane sAWI maCuAroM- ravinxrae kiSora, rAjIva waWA anya ke sAWa mOna yA cApaJIla ko sAPa kiyA.
+#With the efforts of the fellow fishermen – Ravindar, Kishore, Rajiv and others, he cleaned the maun or the ox-bow lake to cultivate different varieties of fish.
+maCalI_1(fish_2)	1	-	pl	4:r6	-	-	-	-
+viBinna_1(different_13)	3	-	-	4:mod	-	-	-	-
+prajAwi_2(variety_19)	4	-	pl	6:k2	-	-	-	-
+pAla_18	6	-	-	30:rt	-	-	-	-
+$wyax	9	-	-	30:k1	Geo_ncert_7stnd_8ch_0100.13:coref	distal	-	-
+apanA	10	-	-	11:r6	-	-	-	-
+sAWI_5(fellow_1)	11	-	-	12:mod	-	-	-	-
+maCuArA_2(fisherman_4)	12	-	pl	30:rask1	-	-	-	-
+ravinxrae	14	-	-	-	-	-	-	29:begin
+kiSora	15	-	-	-	-	-	-	29:inside
+rAjIva	17	male	-	-	-	-	-	33:begin
+anya_1(other_1)	19	-	-	-	-	-	-	31:op3
+mOna_11	22	-	-	-	-	-	-	32:op1
+cApaJIla_1	24	-	-	-	-	-	-	32:op2
+sAPa_5(clean_19)	26	-	-	-	-	-	-	30:kriyAmUla
+kara_1-yA_1	27	-	-	-	-	-	-	30:verbalizer
+[ne_1]	29	per	-	-	-	-	-	31:op1
+[cp_1]	30	-	-	0:main	-	-	-	-
+[conj_1]	31	-	-	12:rs	-	-	-	-
+[disjunct_1]	32	-	-	30:k2	-	-	-	-
+[ne_1]	33	per	-	-	-	-	-	31:op2
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0103>
+#झील में उगने वाले स्थानीय खरपतवार (वैलीनेरिया, हाइड्रिला) मछलियों का भोजन बनते हैं।
+#JIla meM ugane vAle sWAnIya KarapawavAra (vElIneriyA, hAidrilA) maCaliyoM kA Bojana banawe hEM.
+#The local weed (vallineria, hydrilla) that grows in the lake is the food of the fish.
+JIla_1(lake_1)	1	-	-	3:k7p	-	-	-	-
+uga_1(grow_1)	3	-	mawup	6:mod	-	-	-	-
+sWAnIya_1(local_6)	5	-	-	6:mod	-	-	-	-
+KarapawavAra_1(weed_2)	6	-	-	15:k1	-	-	-	-
+vElIneriyA_1(vallineria_1)	8	-	-	-	-	-	-	16:op1
+hAidrilA_1(hydrilla_1)	10	-	-	-	-	-	-	16:op2
+maCalI_1(fish_2)	12	-	pl	14:r6	-	-	-	-
+Bojana_1(food_5)	14	-	-	15:k2	-	-	-	-
+bana_1-wA_hE_1	15	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	6:rs	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0104>
+#झील के आस-पास की भूमि उपजाऊ है।
+#JIla ke Asa-pAsa kI BUmi upajAU hE.
+#The land around the lake is fertile
+JIla_1(lake_1)	1	-	-	3:rdl	-	-	-	-
+Asa+pAsa_1(around_3)	3	-	-	5:r6	-	-	-	-
+BUmi_1(land_6)	5	-	-	7:k1	-	-	-	-
+upajAU_1(fertile_1)	6	-	-	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0105>
+#वह इस जमीन पर धान, मक्का एवं दलहन, जैसी फसलें बोता है।
+#vaha isa jamIna para XAna, makkA evaM xalahana, jEsI PasaleM bowA hE.
+#He sows crops such as paddy, maize and pulses in these fields.
+$wyax	1	-	-	13:k1	Geo_ncert_7stnd_8ch_0100.13:coref	distal	-	-
+$wyax	2	-	-	3:dem	-	proximal	-	-
+jamIna_3(field_8)	3	-	-	13:k7p	-	-	-	-
+XAna_1(paddy_1)	5	-	-	-	-	-	-	16:op1
+makkA_1(maize_2)	7	-	-	-	-	-	-	16:op2
+xalahana_1(pulse_4)	9	-	-	-	-	-	-	16:op3
+Pasala_2(crop_7)	12	-	pl	13:k2	-	-	-	-
+bo_1-wA_hE_1	13	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	12:re	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0106>
+#खेत की जुताई के लिए भैंसे का उपयोग किया जाता है।
+#Kewa kI juwAI ke lie BEMse kA upayoga kiyA jAwA hE.
+#The buffalo is used to plough the land.
+Kewa_3(land_2)	1	-	-	3:r6	-	-	-	-
+juwAI_2(ploughing_3)	3	-	-	13:rt	-	-	-	-
+BEMsa_1(buffalo_1)	6	-	-	13:k2	-	-	-	-
+upayoga_1(use_2)	8	-	-	-	-	-	-	13:kriyAmUla
+kara_1-yA_jA_wA_hE_1	9	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0107>
+#वहाँ के लोग बहुत संतुष्ट हैं।
+#vahAz ke loga bahuwa saMwuRta hEM.
+#The community is satisfied.
+$wyax	1	-	-	3:r6	Geo_ncert_7stnd_8ch_0100.10:coref	-	-	-
+loga_1	3	-	-	6:k1	-	-	-	-
+bahuwa_7(very_1)	4	-	-	5:quant	-	-	-	-
+saMwuRta_1(satisfied_2)	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0108>
+#नदी में पकडने, खाने व बेचने के लिए काफी मछलियाँ हैं जिन्हें पकडकर वो पास के शहरों में भी बेचते हैं।
+#naxI meM pakadane, KAne va becane ke lie kAPI maCaliyAz hEM jinheM pakadakara vo pAsa ke SaharoM meM BI becawe hEM.
+#There is enough fish catch from the river – enough fish to eat and enough fish to sell in the market which they have even begun supply to the neighbouring town.
+naxI_1(river_3)	1	-	-	12:k7p	-	-	-	-
+pakada_1	3	-	-	-	-	-	-	14:op1
+KA_1(eat_1)	5	-	-	-	-	-	-	14:op2
+beca_1(sell_1)	7	-	-	-	-	-	-	14:op3
+kAPI_5(enough_3)	10	-	-	11:quant	-	-	-	-
+maCalI_1(fish_2)	11	-	pl	12:k1	-	-	-	-
+hE_1-pres	12	-	-	0:main	-	-	-	-
+[conj_1]	14	-	-	12:rt	-	-	-	-
+$yax	15	-	-	16:k2	Geo_ncert_7stnd_8ch_0108.11:coref	-	-	-
+pakada_1	16	-	-	20:rpk	-	-	-	-
+$wyax	17	-	-	20:k1	Geo_ncert_7stnd_8ch_0100.13:coref	distal	-	-
+pAsa_5(nearby_4)	18	-	-	19:rdl	-	-	-	-
+Sahara_2(town_6)	19	-	pl	20:k7p	-	BI_1	-	-
+beca_1-wA_hE_1	20	-	-	11:rcdelim	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0109>
+#जिन्हें पकडकर वो पास के शहरों में भी बेचते हैं।
+#jinheM pakadakara vo pAsa ke SaharoM meM BI becawe hEM.
+#They have even begun supply to the neighbouring town.
+$yax	1	-	-	2:k2	-	-	-	-
+pakada_1	2	-	-	9:rpk	-	-	-	-
+$wyax	3	-	-	9:k1	-	-	-	-
+pAsa_1(near_17)	4	-	-	6:r6	-	-	-	-
+Sahara_1(city_6)	6	-	pl	9:k7p	-	BI_1	-	-
+beca_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0110>
+#यह समुदाय प्रकृति के साथ समरसता बनाकर रहता है।
+#yaha samuxAya prakqwi ke sAWa samarasawA banAkara rahawA hE.
+#The community is living in harmony with nature.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+samuxAya_1(community_9)	2	-	-	8:k1	-	-	-	-
+prakqwi_4(nature_10)	3	-	-	8:k1as	-	-	-	-
+samarasawA_2(harmony_1)	6	-	-	7:k2	-	-	-	-
+banA(compose_3)	7	-	-	8:rpk	-	-	-	-
+raha_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0111>
+#जब तक पास के शहरों का प्रदूषण इस झील तक नहीं पहुँचता तब तक मत्स्य पालन को कोई खतरा नहीं है।
+#jaba waka pAsa ke SaharoM kA praxURaNa isa JIla waka nahIM pahuzcawA waba waka mawsya pAlana ko koI KawarA nahIM hE.
+#As long as the pollutants from nearby towns do not find their way into the lake waters, the fish cultivation will not face any threat.
+pAsa_5(nearby_4)	2	-	-	4:r6	-	-	-	-
+Sahara_2(town_6)	4	-	pl	6:r6	-	-	-	-
+praxURaNa_1(pollutants_1)	6	-	-	11:k1	-	-	-	-
+$wyax	7	-	-	8:dem	-	proximal	-	-
+JIla_1(lake_1)	8	-	-	11:k7p	-	waka_1	-	-
+nahIM_1(not_1)	10	-	-	11:neg	-	-	-	-
+pahuzca_1(reach_1)	11	-	-	12:rcsamAnakAla	-	-	-	-
+$wyax	12	-	-	20:k7t	Geo_ncert_7stnd_8ch_0111.11:coref	waka_1	-	-
+mawsya_1(fish_3)	14	-	-	-	-	-	-	21:op1
+pAlana_26	15	-	-	-	-	-	-	21:op2
+koI_1(any_1)	17	-	-	18:mod	-	-	-	-
+KawarA_3(threat_3)	18	-	-	20:k1	-	-	-	-
+nahIM_1(not_1)	19	-	-	20:neg	-	-	-	-
+hE_5-pres	20	-	-	0:main	-	-	-	-
+[nc_1]	21	-	-	20:k4a	-	-	-	-
+$yax	22	-	-	11:k7t	-	waka_1	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0112>
+#गंगा-ब्रह्मपुत्र के मैदानों में कई बड़े शहर एवं कस्बे स्थित हैं।
+#gaMgA-brahmapuwra ke mExAnoM meM kaI bade Sahara evaM kasbe sWiwa hEM.
+#The Ganga-Brahmaputra plain has several big towns and cities.
+gaMgA	1	-	-	-	-	-	-	17:begin
+mExAna_5(plain_5)	3	-	pl	11:k7p	-	-	-	-
+kaI_2(several_7)	5	-	-	13:quant	-	-	-	-
+badA_6(big_11)	6	-	-	13:mod	-	-	-	-
+Sahara_2(town_6)	7	-	-	-	-	-	-	13:op1
+kasbA_2	9	-	pl	-	-	-	-	13:op2
+sWiwa_1(situated_1)	10	-	kqw	11:k1s	-	-	-	-
+hE_1-pres	11	-	-	0:main	-	-	-	-
+[conj_1]	13	-	-	11:k1	-	-	-	-
+[nc_1]	14	-	-	3:r6	-	-	-	-
+[ne_1]	15	ne	-	-	-	-	-	14:op2
+brahmapuwra	16	-	-	-	-	-	-	15:begin
+[ne_1]	17	ne	-	-	-	-	-	14:op1
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0113>
+#इलाहाबाद, कानपुर, वाराणसी, लखनऊ, पटना एवं कोलकाता जैसे 10 लाख से अधिक आबादी वाले शहर गंगा नदी के तट पर ही स्थित है।
+#ilAhAbAxa, kAnapura, vArANasI, laKanaU, patanA evaM kolakAwA jEse 10 lAKa se aXika AbAxI vAle Sahara gaMgA naxI ke wata para hI sWiwa hE.
+#The cities of Allahabad, Kanpur, Varanasi, Lucknow, Patna and Kolkata all with the population of more than ten lakhs are located along the River Ganga
+ilAhAbAxa	1	-	-	-	-	-	-	30:begin
+kAnapura	3	-	-	-	-	-	-	31:begin
+vArANasI	5	-	-	-	-	-	-	32:begin
+laKanaU	7	-	-	-	-	-	-	33:begin
+patanA	9	-	-	-	-	-	-	34:begin
+kolakAwA	11	-	-	-	-	-	-	35:begin
+1000000	13	numex	-	36:quantmore	-	-	-	-
+Sahara_1(city_6)	19	-	-	27:k1	-	-	-	-
+gaMgA_1	20	-	-	-	-	-	-	37:begin
+naxI_1(river_3)	21	-	-	23:r6	-	-	-	-
+wata_1(bank_6)	23	-	-	27:k7p	-	hI_1	-	-
+sWiwa_2(located_2)	26	-	kqw	27:k1s	-	-	-	-
+hE_1-pres	27	-	-	0:main	-	-	-	-
+[conj_1]	29	-	-	19:re	-	-	-	-
+[ne_1]	30	-	-	-	-	-	-	29:op1
+[ne_2]	31	-	-	-	-	-	-	29:op2
+[ne_3]	32	-	-	-	-	-	-	29:op3
+[ne_4]	33	-	-	-	-	-	-	29:op4
+[ne_5]	34	-	-	-	-	-	-	29:op5
+[ne_6]	35	-	-	-	-	-	-	29:op6
+AbAxI_1(population_1)	36	-	mawup	19:mod	-	-	-	-
+[ne_1]	37	ne	-	21:rs	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0114a>
+#इन शहरों तथा यहाँ स्थित उद्योगों का गंदा पानी बहकर नदी में ही जाता है।
+#ina SaharoM waWA yahAz sWiwa uxyogoM kA gaMxA pAnI bahakara naxI meM hI jAwA hE .
+#The wastewater from these towns and industries is discharged into the rivers.
+$wyax	1	-	-	17:dem	-	proximal	-	-
+Sahara_2(town_6)	2	-	pl	-	-	-	-	17:op1
+$wyax	4	-	-	5:k7p	Geo_ncert_7stnd_8ch_0114a.2:coref	-	-	-
+sWiwa_2(located_2)	5	-	-	6:mod	-	-	-	-
+uxyoga_1(industry_1)	6	-	pl	-	-	-	-	17:op2
+gaMxA_9	8	-	-	9:mod	-	-	-	-
+pAnI_1(water_7)	9	-	-	10:k1	-	-	-	-
+baha_1(flow_5)	10	-	-	18:rpk	-	-	-	-
+naxI_1(river_3)	11	-	-	18:k7p	-	hI_1	-	-
+[conj_1]	17	-	-	9:r6	-	-	-	-
+jA_1-wA_hE_1	18	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0114b>
+#जिससे नदी प्रदूषित होती है।
+#jisase naxI praxURiwa howI hE.
+#The wastewater from these towns and industries is discharged into the rivers.
+naxI_1(river_3)	2	-	-	4:k1	-	-	-	-
+praxURiwa_1(pollute_5)	3	-	-	4:k1s	-	-	-	-
+ho_1-wA_hE_1	4	-	-	0:main	Geo_ncert_7stnd_8ch_0114a.18:pariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0115a>
+#आप यह देख सकते हैं।
+#Apa yaha xeKa sakawe hEM.
+#All the four ways of transport are well developed in the Ganga-Brahmaputra basin.
+$addressee	1	anim	-	3:k1	-	respect	-	-
+$wyax	2	-	-	3:k2	Geo_ncert_7stnd_8ch_0115b.9:coref	proximal	-	-
+xeKa_1-0_sakawA_hE_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0115b>
+#कि गंगा-ब्रह्मपुत्र बेसिन में यातायात के चार मार्ग सुविकसित हैं।
+#ki gaMgA-brahmapuwra besina meM yAwAyAwa ke cAra mArga suvikasiwa hEM.
+#All the four ways of transport are well developed in the Ganga-Brahmaputra basin.
+gaMgA	1	-	-	-	-	-	-	14:begin
+besina_1(basin_5)	2	-	-	-	-	-	-	10:head
+yAwAyAwa_4(transport_3)	4	-	-	7:r6	-	-	-	-
+4	6	numex	-	7:card	-	-	-	-
+mArga_1(way_11)	7	-	-	9:k1	-	-	-	-
+suvikasiwa_1(developed_12)	8	-	-	9:k1s	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+[nc_1]	10	-	-	9:k7p	-	-	-	-
+[nc_1]	11	-	-	-	-	-	-	10:mod
+[ne_2]	12	ne	-	-	-	-	-	11:op2
+brahmapuwra	13	-	-	-	-	-	-	12:begin
+[ne_1]	14	ne	-	-	-	-	-	11:op1
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0116>
+#मैदानी इलाकों के लोग सड़कमार्ग एवं रेलमार्ग द्वारा एक स्थान से दूसरे स्थान तक जाते हैं।
+#mExAnI ilAkoM ke loga sadakamArga evaM relamArga xvArA eka sWAna se xUsare sWAna waka jAwe hEM.
+#In the plain areas the roadways and railways transport the people from one place to another.
+mExAnI_1	1	-	-	2:mod	-	-	-	-
+ilAkA_1	2	-	pl	4:r6	-	-	-	-
+loga_1	4	-	-	15:k1	-	-	-	-
+sadakamArga_1	5	-	-	-	-	-	-	19:op1
+relamArga_1	7	-	-	-	-	-	-	19:op2
+eka_6(one_1)	9	-	-	10:card	-	-	-	-
+sWAna_1(place_14)	10	-	-	-	-	-	-	18:start
+xUsarA_3(another_4)	12	-	-	13:ord	-	-	-	-
+sWAna_1(place_14)	13	-	-	-	-	-	-	18:end
+jA_1-wA_hE_1	15	-	-	0:main	-	-	-	-
+[span_1]	18	-	-	15:k2p	-	-	-	-
+[conj_1]	19	-	-	15:k3	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0117>
+#नदी के तटीय क्षेत्रों में जलमार्ग यातायात का प्रभावशाली माध्यम है।
+#naxI ke watIya kRewroM meM jalamArga yAwAyAwa kA praBAvaSAlI mAXyama hE.
+#The waterways, is an effective means of transport particularly along the rivers
+naxI_1(river_3)	1	-	-	4:r6	-	-	-	-
+watIya_1(coastal_3)	3	-	-	4:mod	-	-	-	-
+kRewra_4(region_3)	4	-	pl	11:k7p	-	-	-	-
+jalamArga_2(waterways_1)	6	-	-	11:k1	-	-	-	-
+yAwAyAwa_4(transport_3)	7	-	-	11:rt	-	-	-	-
+praBAvaSAlI_1(effective_5)	9	-	-	10:mod	-	-	-	-
+mAXyama_3(means_21)	10	-	-	11:k1s	-	-	-	-
+hE_1-pres	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0118>
+#कोलकाता हुगली नदी पर स्थित एक महत्त्वपूर्ण पत्तन है।
+#kolakAwA hugalI naxI para sWiwa eka mahawwvapUrNa pawwana hE.
+#Kolkata is an important port on the River Hooghly.
+kolakAwA	1	-	-	-	-	-	-	10:begin
+hugalI	2	-	-	-	-	-	-	11:begin
+naxI_1(river_3)	3	-	-	5:k7p	-	-	-	-
+sWiwa_1(situated_1)	5	-	-	8:mod	-	-	-	-
+eka_2(a_1)	6	-	-	8:quant	-	-	-	-
+mahawwvapUrNa_1(important_4)	7	-	-	8:mod	-	-	-	-
+pawwana_4(port_1)	8	-	-	9:k1s	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+[ne_1]	10	place	-	9:k1	-	-	-	-
+[ne_2]	11	ne	-	3:rs	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0119>
+#मैदानी क्षेत्र में कई बड़े हवाई पत्तन भी स्थित हैं।
+#mExAnI kRewra meM kaI bade havAI pawwana BI sWiwa hEM.
+#The plain area also has a large number of airports
+mExAnI_2(plain_14)	1	-	-	2:mod	-	-	-	-
+kRewra_5(area_2)	2	-	-	10:k7p	-	-	-	-
+kaI_1(several_6)	4	-	-	12:quant	-	-	-	-
+badA_6(big_11)	5	-	-	12:mod	-	-	-	-
+havAI_4(air_13)	6	-	-	-	-	-	-	12:mod
+pawwana_4(port_1)	7	-	-	-	-	-	-	12:head
+sWiwa_1(situated_1)	9	-	-	10:k1s	-	-	-	-
+hE_1-pres	10	-	-	0:main	-	-	-	-
+[nc_1]	12	-	-	10:k1	-	BI_1	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0120>
+#पर्यटन इस बेसिन की एक महत्त्वपूर्ण क्रिया है।
+#paryatana isa besina kI eka mahawwvapUrNa kriyA hE.
+#Tourism is another important activity of the basin
+paryatana_2(tourism_1)	1	-	-	8:k1	-	-	-	-
+$wyax	2	-	-	3:dem	-	proximal	-	-
+besina_1(basin_5)	3	-	-	7:r6	-	-	-	-
+eka_2(a_1)	5	-	-	7:quant	-	-	-	-
+mahawwvapUrNa_1(important_4)	6	-	-	7:mod	-	-	-	-
+kriyA_11(activity_1)	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0121>
+#आगरा में यमुना के किनारे स्थित ताजमहल, इलाहाबाद में गंगा एवं यमुना नदी का संगम, उत्तर प्रदेश एवं बिहार में बोद्ध स्तूप, लखनऊ का इमामबाडा, असम का काजीरंगा एवं मानस वन्य प्राणी अभयवन तथा अरुणाचल प्रदेश की विशिष्ट जनजातीय संस्कृति जैसे कई दर्शनीय स्थल हैं।
+#AgarA meM yamunA ke kinAre sWiwa wAjamahala, ilAhAbAxa meM gaMgA evaM yamunA naxI kA saMgama, uwwara praxeSa evaM bihAra meM boxXa swUpa, laKanaU kA imAmabAdA, asama kA kAjIraMgA evaM mAnasa vanya prANI aBayavana waWA aruNAcala praxeSa kI viSiRta janajAwIya saMskqwi jEse kaI xarSanIya sWala hEM .
+#Taj Mahal on the banks of River Yamuna in Agra, Allahabad on the confluence of the Rivers Ganga andYamuna, Buddhists stupas in UttarPradesh and Bihar, Lucknow with its Imambara, Assam with Kaziranga and Manas with wild life sanctuaries and Arunachal Pradesh with a distinct tribal culture are some of the places worth a visit
+AgarA	1	-	-	-	-	-	-	55:begin
+yamunA	3	-	-	-	-	-	-	56:begin
+kinAre_1	5	-	-	-	-	-	-	73:part
+sWiwa_1	6	-	-	57:mod	-	-	-	-
+wAjamahala	7	-	-	-	-	-	-	57:begin
+ilAhAbAxa	9	-	-	-	-	-	-	58:begin
+gaMgA	11	-	-	-	-	-	-	59:begin
+yamunA	13	-	-	-	-	-	-	60:begin
+naxI_1	14	-	-	-	-	-	-	76:head
+saMgama_1	16	-	-	-	-	-	-	54:op2
+uwwara	18	-	-	-	-	-	-	51:begin
+praxeSa	19	-	-	-	-	-	-	51:inside
+bihAra	21	-	-	-	-	-	-	61:begin
+boxXa_1	23	-	-	-	-	-	-	52:mod
+swUpa_1	24	-	-	-	-	-	-	52:head
+laKanaU	26	-	-	-	-	-	-	62:begin
+imAmabAdA	28	-	-	-	-	-	-	63:begin
+asama	30	-	-	-	-	-	-	64:begin
+kAjIraMgA	32	-	-	-	-	-	-	65:begin
+mAnasa_1	34	-	-	-	-	-	-	66:begin
+vanya_1	35	-	-	-	-	-	-	67:mod
+prANI_1	36	-	-	-	-	-	-	67:head
+aBayavana	37	-	-	-	-	-	-	68:head
+aruNAcala	39	-	-	-	-	-	-	53:begin
+praxeSa	40	-	-	-	-	-	-	53:inside
+viSiRta_1	42	-	-	69:mod	-	-	-	-
+janajAwIya_1	43	-	-	-	-	-	-	69:mod
+saMskqwi_1	44	-	-	-	-	-	-	69:head
+kaI_1	46	-	-	48:quant	-	-	-	-
+xarSanIya_1	47	-	-	48:mod	-	-	-	-
+sWala_1	48	-	-	49:k1	-	-	-	-
+hE_1	49	-	-	0:main	-	-	-	-
+[ne_7]	51	place	-	-	-	-	-	71:op1
+[nc_1]	52	-	-	-	-	-	-	75:part
+[ne_2]	53	place	-	69:r6	-	-	-	-
+[conj_1]	54	-	-	48:re	-	-	-	-
+[ne_1]	55	place	-	-	-	-	-	73:whole
+[ne_2]	56	ne	-	5:rdl	-	-	-	-
+[ne_3]	57	ne	-	-	-	-	-	54:op1
+[ne_4]	58	ne	-	-	-	-	-	74:whole
+[ne_5]	59	ne	-	-	-	-	-	78:mod
+[ne_6]	60	ne	-	-	-	-	-	76:mod
+[ne_8]	61	place	-	-	-	-	-	71:op2
+[ne_9]	62	place	-	63:r6	-	-	-	-
+[ne_10]	63	ne	-	-	-	-	-	54:op4
+[ne_11]	64	place	-	68:r6	-	-	-	-
+[ne_12]	65	ne	-	-	-	-	-	72:op1
+[ne_13]	66	ne	-	-	-	-	-	72:op2
+[nc_2]	67	-	-	-	-	-	-	68:mod
+[nc_3]	68	-	-	-	-	-	-	54:op5
+[nc_4]	69	-	-	-	-	-	-	54:op6
+[conj_2]	70	-	-	-	-	-	-	74:part
+[conj_3]	71	-	-	-	-	-	-	75:whole
+[conj_4]	72	-	-	68:mod	-	-	-	-
+[spatial_1]	73	-	-	6:k7p	-	-	-	-
+[spatial_2]	74	-	-	16:r6	-	-	-	-
+[spatial_3]	75	-	-	-	-	-	-	54:op3
+[nc_5]	76	-	-	-	-	-	-	70:op2
+naxI_2	77	-	-	-	-	-	-	78:head
+[nc_6]	78	-	-	-	-	-	-	70:op1
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0122>
+#आप उस महाद्वीप के नाम बताएँ जो अमेजन बेसिन में स्थित है।
+#Apa usa mahAxvIpa ke nAma bawAez jo amejana besina meM sWiwa hE.
+#Name the continent in which the Amazon Basin is located.
+$addressee	1	anim	-	6:k1	-	respect	-	-
+$wyax	2	-	-	3:dem	-	distal	-	-
+mahAxvIpa_1(continent_1)	3	-	-	5:r6	-	-	-	-
+nAma_1(name_3)	5	-	-	6:k1s	-	-	-	-
+bawA_1-0_1	6	-	-	0:main	-	-	-	-
+$yax	7	-	-	12:k1	-	-	-	-
+amejana	8	-	-	-	-	-	-	14:begin
+besina_1(basin_5)	9	-	-	-	-	-	-	15:head
+sWiwa_2(located_2)	11	-	-	12:k1s	-	-	-	-
+hE_1-pres	12	-	-	3:rcelab	-	-	-	-
+[ne_1]	14	-	-	-	-	-	-	15:mod
+[nc_1]	15	-	-	12:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0123>
+#अमेजन बेसिन के लोग कौन-सी फसल उपजाते हैं?
+#amejana besina ke loga kOna-sI Pasala upajAwe hEM?
+#What are the crops grown by the people of the Amazon Basin.
+amejana	1	-	-	-	-	-	-	10:begin
+besina	2	-	-	-	-	-	-	11:head
+loga_2(people_5)	4	-	-	7:k1	-	-	-	-
+$kim	5	-	-	6:mod	-	sA_1	-	-
+Pasala_2(crop_7)	6	-	-	7:k2	-	-	-	-
+upajA_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+[ne_1]	10	-	-	-	-	-	-	11:mod
+[nc_1]	11	-	-	4:r6	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0124>
+#अमेजन के वर्षावन में कौन-से पक्षी पाए जाते हैं?
+#amejana ke varRAvana meM kOna-se pakRI pAe jAwe hEM?
+#Name the birds that you are likely to find in the rainforests of the Amazon.
+amejana	1	-	-	-	-	-	-	8:begin
+varRAvana_1(rainforest_1)	3	-	-	7:k7p	-	-	-	-
+$kim	5	-	-	6:mod	-	sA_1	-	-
+pakRI_1(bird_4)	6	-	-	7:k2	-	-	-	-
+pA_1-yA_jA_wA_hE_1	7	-	-	0:main	-	-	-	-
+[ne_1]	8	-	-	3:r6	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0125>
+#गंगा नदी के तट पर कौन से प्रमुख शहर स्थित हैं?
+#gaMgA naxI ke wata para kOna se pramuKa Sahara sWiwa hEM?
+#What are the major cities located on the River Ganga.
+gaMgA	1	-	-	-	-	-	-	12:begin
+naxI_1(river_3)	2	-	-	4:r6	-	-	-	-
+wata_3(shore_2)	4	-	-	11:k7p	-	-	-	-
+$kim	6	-	-	9:re	-	sA_1	-	-
+pramuKa_10(major_1)	8	-	-	9:mod	-	-	-	-
+Sahara_1(city_6)	9	-	-	11:k1	-	-	-	-
+sWiwa_2(located_2)	10	-	-	11:k1s	-	-	-	-
+hE_1-pres	11	-	-	0:main	-	-	-	-
+[ne_1]	12	-	-	2:rs	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0126>
+#एक सींग वाले गैंडे कहाँ पाए जाते हैं?
+#eka sIMga vAle gEMde kahAz pAe jAwe hEM?
+#Where is the one-horned rhinoceros found?
+eka_6(one_1)	1	-	-	2:quant	-	-	-	-
+sIMga_1(horn_2)	2	-	mawupa	4:mod	-	-	-	-
+gEMdA_1(rhinoceros_1)	4	-	pl	6:k2	-	-	-	-
+$kim	5	-	-	6:k7p	-	-	-	-
+pA_1-yA_jA_wA_hE_1	6	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0127>
+#टूकन क्या हैं?
+#tUkana kyA hEM?
+#What are Toucans
+tUkana_1(toucan_1)	1	-	-	3:k1	-	-	-	-
+$kim	2	-	-	3:k1s	-	-	-	-
+hE_1-pres	3	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0128>
+#मैनियॉक कहाँ का प्रमुख भोजन है?
+#mEniyoYka kahAz kA pramuKa Bojana hE?
+#Manioc is the staple food of?
+mEniyOYka_1	1	-	-	6:k1	-	-	-	-
+$kim	2	-	-	6:k7p	-	-	-	-
+pramuKa_11	4	-	-	5:mod	-	-	-	-
+Bojana_1(food_5)	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0129>
+#कोलकाता किस नदी के तट पर स्थित है?
+#kolakAwA kisa naxI ke wata para sWiwa hE?
+#Kolkata is located on the river?
+kolakAwA	1	-	-	-	-	-	-	9:begin
+$kim	2	-	-	3:mod	-	-	-	-
+naxI_1(river_3)	3	-	-	5:r6	-	-	-	-
+wata_3(shore_2)	5	-	-	8:k7p	-	-	-	-
+sWiwa_2(located_2)	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+[ne_1]	9	place	-	8:k1	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0130>
+#देवदार एवं फर किसके प्रकार हैं?
+#xevaxAra evaM Para kisake prakAra hEM?
+#Deodars and firs are a type of?
+xevaxAra_2	1	-	-	-	-	-	-	8:op1
+Para_3	3	-	-	-	-	-	-	8:op2
+$kim	4	-	-	5:r6	-	-	-	-
+prakAra_7(type_6)	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+[conj_1]	8	-	-	6:k1	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0131>
+#बंगाल टाईगर कहाँ मिलते हैं?
+#baMgAla tAIgara kahAz milawe hEM?
+#Bengal tiger is found in?
+baMgAla_1	1	-	-	-	-	-	-	7:mod
+tAigara_1(tiger_10)	2	-	-	-	-	-	-	7:head
+$kim	3	-	-	4:k7p	-	-	-	-
+mila_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+[nc_1]	7	-	-	4:k1	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0132>
+#वर्षावन लुप्त हो रहे हैं।
+#varRAvana lupwa ho rahe hEM.
+#The rainforests are depleting.
+varRAvana_1	1	-	-	3:k1	-	-	-	-
+lupwa_1	2	-	-	3:k2	-	-	-	-
+ho_1-0_rahA_hE_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0133>
+#गंगा-ब्रह्मपुत्र के मैदानों में धान की कृषि होती है।
+#gaMgA-brahmapuwra ke mExAnoM meM XAna kI kqRi howI hE.
+#Paddy is grown in the Ganga-Brahmaputra plains.
+gaMgA	1	-	-	-	-	-	-	10:begin
+XAna_1	5	-	-	7:r6	-	-	-	-
+kqRi_1	7	-	-	8:k1	-	-	-	-
+ho_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+mExAna_1	9	-	pl	8:k7p	-	-	-	-
+[ne_1]	10	-	-	-	-	-	-	13:op1
+[ne_2]	11	-	-	-	-	-	-	13:op2
+brahmapuwra	12	-	-	-	-	-	-	11:begin
+[xvanxva_1]	13	-	-	9:r6	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0134>
+#आप भारतीय प्रायद्वीप के रेखा मानचित्र पर गंगा, ब्रह्मपुत्र नदियों को उद्गम से मुहाने तक दर्शाएँ।
+#Apa BArawIya prAyaxvIpa ke reKA mAnaciwra para gaMgA, brahmapuwra naxiyoM ko uxgama se muhAne waka xarSAez.
+#On an outline map of the Indian Sub-continent, draw the rivers Ganga and Brahmaputra from the source to the mouth.
+$addressee	1	anim	-	17:k1	-	respect	-	-
+BArawIya_1	2	-	-	3:mod	-	-	-	-
+prAyaxvIpa_1	3	-	-	19:r6	-	-	-	-
+reKA_1	5	-	-	-	-	-	-	19:mod
+mAnaciwra_1	6	-	-	-	-	-	-	19:head
+gaMgA	8	-	-	-	-	-	-	20:begin
+brahmapuwra	10	-	-	-	-	-	-	21:begin
+naxI_1	11	-	pl	17:k2	-	def	-	-
+uxgama_1	13	-	-	-	-	-	-	22:start
+muhAnA_1	15	-	-	-	-	-	-	22:end
+xarSA_1-e_1	17	-	-	0:main	-	-	-	-
+[nc_1]	19	-	-	17:k7p	-	-	-	-
+[ne_1]	20	-	-	-	-	-	-	23:op1
+[ne_2]	21	-	-	-	-	-	-	23:op2
+[span_1]	22	-	-	17:k7p	-	-	-	-
+[conj_1]	23	-	-	11:rs	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0135>
+#आप दोनों नदियों की महत्त्वपूर्ण सहायक नदियों को भी दर्शाएँ।
+#Apa xonoM naxiyoM kI mahawwvapUrNa sahAyaka naxiyoM ko BI xarSAez.
+#Also show the important tributaries of both the rivers.
+$addressee	1	anim	-	10:k1	-	respect	-	-
+xonoM	2	numex	-	3:card	-	-	-	-
+naxI_1	3	-	pl	7:r6	-	-	-	-
+mahawwvapUrNa_1	5	-	-	7:mod	-	-	-	-
+sahAyaka_1	6	-	-	5:mod	-	-	-	-
+naxI_1	7	-	pl	10:k2	-	BI_1	-	-
+xarSA_1-e_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0136>
+#आप दक्षिण अमेरिका के राजनीतिक मानचित्र पर भूमध्य रेखा खींचे।
+#Apa xakRiNa amerikA ke rAjanIwika mAnaciwra para BUmaXya reKA KIMce.
+#On the political map of South America, draw the equator
+$addressee	1	anim	-	10:k1	-	respect	-	-
+xakRiNa	2	-	-	-	-	-	-	14:begin
+amerikA	3	-	-	-	-	-	-	14:inside
+rAjanIwika_1	5	-	-	6:mod	-	-	-	-
+mAnaciwra_1	6	-	-	10:k7p	-	-	-	-
+BUmaXya_1	8	-	-	9:mod	-	-	-	-
+reKA_1	9	-	-	10:k2	-	-	-	-
+KIMca_1-e_1	10	-	-	0:main	-	-	-	-
+[ne_1]	14	-	-	6:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0137>
+#आप एक दीवार पर भारत के आकर्षक स्थानों के चित्रों को दर्शाएँ।
+#Apa eka xIvAra para BArawa ke AkarRaka sWAnoM ke ciwroM ko xarSAez.
+#Mark the countries through which the equator passes
+$addressee	1	anim	-	12:k1	-	respect	-	-
+1	2	numex	-	3:card	-	-	-	-
+xIvAra_1	3	-	-	12:k7p	-	-	-	-
+BArawa	5	place	-	-	-	-	-	13:begin
+AkarRaka_1	7	-	-	8:mod	-	-	-	-
+sWAna_1	8	-	pl	10:r6	-	-	-	-
+ciwra_1	10	-	pl	12:k2	-	-	-	-
+xarSA_1-e_1	12	-	-	0:main	-	-	-	-
+[ne_1]	13	-	-	8:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0138>
+#पर्वतीय भू-द्रश्य समुद्री तटों,वन्यजीव-स्थलों तथा ऐतिहासिक महत्त्व के स्थानों को दर्शाने के लिए आप अपनी कक्षा को विभिन्न समूहों में विभाजित कर सकते हैं।
+#parvawIya BU-xraSya samuxrI watoM,vanyajIva-sWaloM waWA EwihAsika mahawwva ke sWAnoM ko xarSAne ke lie Apa apanI kakRA ko viBinna samUhoM meM viBAjiwa kara sakawe hEM.
+#You can divide the class in different groups to show attractions based on mountain landscapes, coastal beaches, wildlife sanctuaries and places of historical importance.
+parvawIya_1	1	-	-	4:mod	-	-	-	-
+BU-xraSya_1	2	-	-	4:mod	-	-	-	-
+samuxrI_1	3	-	-	4:mod	-	-	-	-
+wata_1	4	-	pl	-	-	-	-	29:op1
+vanyajIva+sWala_1	6	-	-	-	-	-	-	29:op2
+EwihAsika_1	8	-	-	9:mod	-	-	-	-
+mahawwva_1	9	-	-	-	-	-	-	29:op3
+sWAna_1	11	-	pl	13:k2	-	-	-	-
+xarSA_1	13	-	-	24:rt	-	-	-	-
+$addressee	16	anim	-	24:k1	-	respect	-	-
+apanA	17	-	-	18:r6	16:coref	-	-	-
+kakRA_1	18	-	-	24:k2	-	-	-	-
+viBinna_1	20	-	-	21:mod	-	-	-	-
+samUha_1	21	-	pl	24:k7p	-	-	-	-
+viBAjiwa_1	23	-	-	-	-	-	-	28:kriyAmUla
+kara_1-0_sakawA_hE_1	24	-	-	-	-	-	-	28:verbalizer
+[cp_1]	28	-	-	0:main	-	-	-	-
+[conj_1]	29	-	-	11:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0139>
+#आप निम्नलिखित सामग्री एकत्रित करें।
+#Apa nimnaliKiwa sAmagrI ekawriwa kareM.
+#Collect under mentioned material.
+$addressee	1	anim	-	7:k1	-	respect	-	-
+nimnaliKiwa_1	2	-	-	3:mod	-	-	-	-
+sAmagrI_1	3	-	-	7:k2	-	-	-	-
+ekawriwa_1	4	-	-	-	-	-	-	7:kriyAmUla
+kara_1-e_1	5	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0140a>
+#आप प्रक्रम के समय यह देखें।
+#Apa prakrama ke samaya yaha xeKeM.
+#observe how destruction of trees effect the soil cover.
+$addressee	1	anim	-	6:k1	-	respect	-	-
+prakrama_1	2	-	-	6:k7t	-	-	-	-
+$wyax	5	-	-	6:k2	Geo_ncert_7stnd_8ch_0140b.12:coref	proximal	-	-
+xeKa_1-e_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0140b>
+#कि किस प्रकार पेड़ों का विनाश मृदा को प्रभावित करता है।
+#ki kisa prakAra pedoM kA vinASa mqxA ko praBAviwa karawA hE.
+#observe how destruction of trees effect the soil cover.
+$wyax	1	-	-	2:dem	-	-	-	-
+prakAra_1	2	-	-	12:krvn	-	-	-	-
+peda_1	3	-	pl	5:r6	-	-	-	-
+vinASa_1	5	-	-	12:k1	-	-	-	-
+mqxA_1	6	-	-	12:k2	-	def	-	-
+praBAviwa_1	8	-	-	-	-	-	-	12:kriyAmUla
+kara_1-wA_hE_1	9	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0141F>
+#तीन छोटे गमले या डिब्बे।
+#wIna Cote gamale yA dibbe .
+#Three small flowerpots or food cans.
+3	1	numex	-	7:card	-	-	-	-
+CotA_1	2	-	-	7:mod	-	-	-	-
+gamalA_1	3	-	pl	-	-	-	-	7:op1
+dibbA_1	5	-	pl	-	-	-	-	7:op2
+[disjunct_1]	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0142F>
+#तली में छेद किया हुआ एक बड़ा डिब्बा।
+#walI meM Cexa kiyA huA eka badA dibbA.
+#one big can with holes punched in the bottom.
+walI_1	1	-	-	10:k7p	-	-	-	-
+Cexa_1	3	-	-	-	-	-	-	10:kriyAmUla
+kara_1	4	-	kqw	-	-	-	-	10:verbalizer
+1	6	numex	-	8:card	-	-	-	-
+badA_1	7	-	-	8:mod	-	-	-	-
+dibbA_1	8	-	-	0:main	-	-	-	-
+[cp_1]	10	-	-	8:rbks	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0143F>
+#12 सिक्के या बोतल के ढक्कन।
+#12 sikke yA bowala ke Dakkana.
+#twelve coins or bottle caps.
+12	1	numex	-	8:card	-	-	-	-
+sikkA_1	2	-	pl	-	-	-	-	8:op1
+bowala_1	4	-	-	6:r6	-	-	-	-
+Dakkana_1	6	-	-	-	-	-	-	8:op2
+[disjunct_1]	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0144>
+#आप तीन छोटे डिब्बे या गमले लीजिए।
+#Apa wIna Cote dibbe yA gamale lIjie.
+#Take three small cans or pots.
+$addressee	1	anim	-	7:k1	-	respect	-	-
+3	2	numex	-	4:card	-	-	-	-
+CotA_1	3	-	-	4:mod	-	-	-	-
+dibbA_1	4	-	pl	-	-	-	-	9:op1
+gamalA_1	6	-	pl	-	-	-	-	9:op2
+le_1-e_1	7	-	-	0:main	-	-	-	-
+[disjunct_1]	9	-	-	7:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0145>
+#आप उन्हें उपर तक मिट्टी से भर दें।
+#Apa unheM upara waka mittI se Bara xeM.
+#Fill them with soil till the top.
+$addressee	1	anim	-	7:k1	-	respect	-	-
+$wyax	2	-	pl	7:k2	Geo_ncert_7stnd_8ch_0144.9:coref	distal	-	-
+upara_1	3	-	-	-	-	-	-	8:end
+mittI_1	5	-	-	7:k3	-	-	-	-
+Bara_1-e_1	7	-	-	0:main	-	[shade:xe_1]	-	-
+[span_1]	8	-	-	7:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0146>
+#आप डिब्बे के मुँह के बराबर मिट्टी को दबाएँ।
+#Apa dibbe ke muzha ke barAbara mittI ko xabAez.
+#Press the soil to make it level with the top of the can.
+$addressee	1	anim	-	9:k1	-	respect	-	-
+dibbA_1	2	-	-	4:r6	-	def	-	-
+muzha_1	4	-	-	-	-	-	-	10:end
+mittI_1	7	-	-	9:k2	-	def	-	-
+xabA_1-e_1	9	-	-	0:main	-	-	-	-
+[span_1]	10	-	-	7:ru	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0147>
+#आप अब प्रत्येक डिब्बे की मिट्टी पर चार सिक्के या बोतल के ढक्कन रख दें।
+#Apa aba prawyeka dibbe kI mittI para cAra sikke yA bowala ke Dakkana raKa xeM.
+#Now put four coins or bottle caps on the soil of each can.
+$addressee	1	anim	-	14:k1	-	respect	-	-
+aba_1	2	-	-	14:k7t	-	-	-	-
+prawyeka_1	3	-	-	4:quant	-	-	-	-
+dibbA_1	4	-	pl	6:r6	-	-	-	-
+mittI_1	6	-	-	14:k7p	-	-	-	-
+4	8	numex	-	9:card	-	-	-	-
+sikkA_1	9	-	pl	-	-	-	-	17:op1
+bowala_1	11	-	-	13:r6	-	-	-	-
+Dakkana_1	13	-	-	-	-	-	-	17:op2
+raKa_1-e_1	14	-	-	0:main	-	[shade:xe_1]	-	-
+[disjunct_1]	17	-	-	14:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0148>
+#इसके पश्चात, आप एक छेद किए हुए बड़े डिब्बे में पानी भर लें।
+#isake paScAwa, Apa eka Cexa kie hue bade dibbe meM pAnI Bara leM.
+#Take the big can that has been punched with holes and fill it with water.
+$addressee	4	anim	-	13:k1	-	respect	-	-
+1	5	numex	-	6:card	-	-	-	-
+Cexa_1	6	-	-	7:k2	-	-	-	-
+kara_1	7	-	-	10:rbks	-	-	-	-
+badA_1	9	-	-	10:mod	-	-	-	-
+dibbA_1	10	-	pl	13:k7p	-	def	-	-
+pAnI_1	12	-	-	13:k2	-	-	-	-
+Bara_1-e_1	13	-	-	0:main	Geo_ncert_7stnd_8ch_0147.14:uwwarkAla	[shade:le_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0149>
+#आप अपने बगीचे से पानी छिडकने वाला डिब्बा भी ले सकते हैं।
+#Apa apane bagIce se pAnI Cidakane vAlA dibbA BI le sakawe hEM.
+#You can also take the sprinkling can from your garden
+$addressee	1	anim	-	10:k1	-	respect	-	-
+apanA	2	-	-	3:r6	-	-	-	-
+bagIcA_1	3	-	-	6:k5	-	-	-	-
+pAnI_1	5	-	-	6:k2	-	-	-	-
+Cidaka_1	6	-	pl	8:mod	-	-	-	-
+dibbA_1	8	-	-	10:k2	-	BI_1	-	-
+le_1-0_sakawA_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0150>
+#अब आप तीनों डिब्बों पर पानी का छिडकाव करें।
+#aba Apa wInoM dibboM para pAnI kA CidakAva kareM.
+#Now, sprinkle water on the three cans.
+aba_1	1	-	-	11:k7t	-	-	-	-
+$addressee	2	anim	-	11:k1	-	respect	-	-
+3	3	numex	-	4:card	-	-	-	-
+dibbA_1	4	-	pl	11:k7p	-	def	-	-
+pAnI_1	6	-	-	8:k2	-	-	-	-
+CidakAva_1	8	-	-	-	-	-	-	11:kriyAmUla
+kara_1-e_1	9	-	-	-	-	-	-	11:verbalizer
+[cp_1]	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0151a>
+#आप पहले डिब्बे पर धीमे से छिडकाव करें।
+#Apa pahale dibbe para XIme se CidakAva kareM .
+#On the first can sprinkle water very slowly so that no soil splashes out.
+$addressee	1	anim	-	10:k1	-	respect	-	-
+pahalA_1	2	-	-	3:ord	-	-	-	-
+dibbA_1	3	-	-	10:k7p	-	-	-	-
+XImA_1	5	-	-	10:krvn	-	-	-	-
+CidakAva_1	7	-	-	-	-	-	-	10:kriyAmUla
+kara_1-e_1	8	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	Geo_ncert_7stnd_8ch_0151b.6:kAryaxyowaka	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0151b>
+#ताकि मिट्टी छलक कर बाहर न आ जाए।
+#wAki mittI Calaka kara bAhara na A jAe.
+#On the first can sprinkle water very slowly so that no soil splashes out.
+mittI_1	1	-	-	2:k1	-	-	-	-
+Calaka_1	2	-	-	6:rpk	-	-	-	-
+bAhara_1	4	-	-	6:k7p	-	-	-	-
+na_1	5	-	-	6:neg	-	-	-	-
+A_1-e_1	6	-	-	0:main	-	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0152>
+#आप दूसरे डिब्बे पर पहले केन से अधिक पानी छिडके।
+#Apa xUsare dibbe para pahale kena se aXika pAnI Cidake.
+#Let moderate amount of water be sprinkled on the second can.
+$addressee	1	anim	-	10:k1	-	respect	-	-
+xUsarA_1	2	-	-	3:ord	-	-	-	-
+dibbA_1	3	-	-	10:k7p	-	-	-	-
+pahalA_1	5	-	-	10:k7t	-	-	-	-
+kena	6	-	-	10:k3	-	-	-	-
+pAnI_1	9	-	compermore	10:k2	-	-	-	-
+Cidaka_1-e_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0153>
+#आप तीसरे डिब्बे पर छिडकाव और तेजी से करें।
+#Apa wIsare dibbe para CidakAva Ora wejI se kareM.
+#On the third can, sprinkle the water heavily.
+$addressee	1	anim	-	13:k1	-	respect	-	-
+wIsarA_1	2	-	-	3:ord	-	-	-	-
+dibbA_1	3	-	-	13:k7p	-	-	-	-
+CidakAva_1	5	-	-	-	-	-	-	13:kriyAmUla
+wejI_1	7	-	-	13:krvn	-	-	-	-
+kara_1-e_1	9	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0154a>
+#आप यह देखेंगे।
+#Apa yaha xeKeMge.
+#You will observe that unprotected soil splashes out.
+$addressee	1	anim	-	3:k1	-	respect	-	-
+$wyax	2	-	-	3:k2	Geo_ncert_7stnd_8ch_0154b.4:coref	proximal	-	-
+xeKa_1-gA_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0154b>
+#कि असुरक्षित मिट्टी बाहर निकल आती है।
+#ki asurakRiwa mittI bAhara nikala AwI hE.
+#You will observe that unprotected soil splashes out.
+asurakRiwa_1	1	-	-	2:mod	-	-	-	-
+mittI_1	2	-	-	4:k1	-	-	-	-
+bAhara_1	3	-	-	4:k7p	-	-	-	-
+nikala_1-wA_hE_1	4	-	-	0:main	-	[shade:A_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0155a>
+#जब ‘वर्षा’ तेज होती है तब अधिक मात्रा में मिट्टी बहकर बाहर निकल आती है।
+#jaba varRA weja howI hE waba aXika mAwrA meM mittI bahakara bAhara nikala AwI hE .
+#Where the ‘rain’ is heavy the amount of soil that splashes out is the maximum and least in case of the first can.
+varRA_1	1	-	-	3:k1	-	-	-	-
+weja_1	2	-	-	3:krvn	-	-	-	-
+ho_1-wA_hE_1	3	-	-	12:rcsamAnakAla	-	-	-	-
+mAwrA_1	7	-	compermore	10:k7	-	-	-	-
+mittI_1	9	-	-	10:k1	-	-	-	-
+baha_1	10	-	-	12:rpk	-	-	-	-
+bAhara_1	11	-	-	12:k7p	-	-	-	-
+nikala_1-wA_hE_1	12	-	-	0:main	Geo_ncert_7stnd_8ch_0155b:AvaSyakawApariNAma	[shade:A_1]	-	-
+$yax	13	-	-	3:k7t	-	-	-	-
+$wyax	14	-	-	12:k7t	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0155b>
+#जबकि पहले डिब्बे में सबसे कम मात्रा में मिट्टी बाहर निकलती है।
+#jabaki pahale dibbe meM sabase kama mAwrA meM mittI bAhara nikalawI hE.
+#Where the ‘rain’ is heavy the amount of soil that splashes out is the maximum and least in case of the first can.
+pahale_1	1	-	-	2:ord	-	-	-	-
+dibbA_1	2	-	-	10:k7p	-	-	-	-
+kama_1	5	-	superl	6:quant	-	-	-	-
+mAwrA_1	6	-	-	10:k7	-	-	-	-
+mittI_1	8	-	-	10:k1	-	-	-	-
+bAhara_1	9	-	-	10:k7	-	-	-	-
+nikala_1-wA_hE_1	10	-	-	0:main	Geo_ncert_7stnd_8ch_0155a.10:viroXI_xyowaka	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0156>
+#ढक्कन, पेड़ों के आवरण को दर्शाता है।
+#Dakkana, pedoM ke AvaraNa ko xarSAwA hE.
+#The coins or caps represent the tree covers
+Dakkana_1	1	-	-	7:k1	-	-	-	-
+peda_1	3	-	pl	5:r6	-	-	-	-
+AvaraNa_1	5	-	-	7:k2	-	-	-	-
+xarSA_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0157a>
+#यह स्पष्ट
+#है।
+#yaha spaRta
+$wyax	1	-	-	3:k1	Geo_ncert_7stnd_8ch_0157b.13:coref	proximal	-	-
+spaRta_1	2	-	-	3:k1s	-	-	-	-
+hE_1-pres	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0157b>
+#कि यदि पृथ्वी से वनस्पति संपूर्ण रूप से नष्ट हो जाए।
+#ki yaxi pqWvI se vanaspawi saMpUrNa rUpa se naRta ho jAe .
+#It is clear that if the land is cleared completely of the vegetation, the soil cover will quickly disappear.
+pqWvI	2	-	-	13:k5	-	-	-	-
+vanaspawi_1	4	-	-	13:k1	-	-	-	-
+saMpUrNa_1	5	-	-	6:mod	-	-	-	-
+rUpa_1	6	-	-	13:krvn	-	-	-	-
+naRta_1	8	-	-	-	-	-	-	-
+ho_1-e_1	9	-	-	0:main	-	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_8ch_0157c>
+#तो मिट्टी की परत भी शीघ्र ही विलुप्त हो जाएगी।
+#wo mittI kI parawa BI SIGra hI vilupwa ho jAegI.
+#It is clear that if the land is cleared completely of the vegetation, the soil cover will quickly disappear.
+mittI_1	1	-	-	3:r6	-	-	-	-
+parawa_1	3	-	-	8:k1	-	BI_1	-	-
+SIGra_1	5	-	-	8:krvn	-	hI_1	-	-
+vilupwa_1	7	-	-	-	-	-	-	11:kriyAmUla
+ho_1-gA_1	8	-	-	-	-	[shade:ja_1]	-	11:verbalizer
+[cp_1]	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>

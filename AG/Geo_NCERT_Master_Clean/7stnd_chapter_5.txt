@@ -1,0 +1,2219 @@
+<segment_id=Geo_ncert_7stnd_5ch_0001>
+#जल के बारे में सोचने पर आपके मस्तिष्क में क्या चित्र बनते हैं?
+#jala ke bAre meM socane para Apake maswiRka meM kyA ciwra banawe hEM?
+#jala ke bAre meM socane para Apake maswiRka meM kyA ciwra banawe hEM?
+jala_1(water_3)	1	-	-	2:k7	-	-	-	-
+soca_9(think_3)	2	-	-	7:rblsk	-	-	-	-
+$addressee	3	anim	-	4:r6	-	respect	-	-
+maswiRka_2(mind_10)	4	-	-	7:k7p	-	-	-	-
+$kim	5	-	-	6:r6	-	-	-	-
+ciwra_1	6	-	-	7:k1	-	-	-	-
+bana_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0002>
+#आप नदी, जलप्रपात, वर्षा की रिमझिम, अपने नल के जल के बारे में सोचने लगते हैं।
+#Apa naxI, jalaprapAwa, varRA kI rimaJima, apane nala ke jala ke bAre meM socane lagawe hEM.
+#You think of rivers, the waterfalls, the pitter patter of raindrops, water in your taps.
+$addressee	1	anim	-	10:k1	-	respect	-	-
+naxI_1(river_3)	2	-	-	-	-	-	-	9:op1
+jalaprapAwa_1(waterfall_1)	3	-	-	-	-	-	-	9:op2
+varRA_1(rain_6)	4	-	-	5:r6	-	-	-	-
+rimaJima_1(drizzling_3)	5	-	-	-	-	-	-	9:op3
+apanA	6	-	-	7:r6	1:coref	-	-	-
+nala_2(tap_9)	7	-	-	8:r6	-	-	-	-
+jala_1(water_3)	8	-	-	-	-	-	-	9:op4
+[conj_1]	9	-	-	10:k7	-	-	-	-
+soca_1-nA_lagawA_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0003>
+#बच्चे वर्षा से भरे गड्ढे में कागज की नाव तैराकर बहुत खुश होते हैं।
+#bacce varRA se Bare gadDe meM kAgaja kI nAva wErAkara bahuwa KuSa howe hEM.
+#Children love to float paper boats in rain puddles.
+baccA_1(child_2)	1	anim	pl	10:k1	-	-	-	-
+varRA_1(rain_6)	2	-	-	3:k3	-	-	-	-
+Bara_1(fill_3)	3	-	-	4:rvks	-	-	-	-
+gadDA_1(pit_2)	4	-	-	7:k7p	-	-	-	-
+kAgaja_1(paper_7)	5	-	-	6:r6	-	-	-	-
+nAva_5(boat_2)	6	-	-	7:jk1	-	-	-	-
+wEra(swim_1)	7	-	causative	10:rpk	-	-	-	-
+bahuwa_7(very_1)	8	-	-	9:intf	-	-	-	-
+KuSa_1(happy_14)	9	-	-	10:k1s	-	-	-	-
+ho_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0004>
+#दोपहर तक गड्ढे में जमा जल गायब हो जाता है।
+#xopahara waka gadDe meM jamA jala gAyaba ho jAwA hE.
+#By noon the puddles vanish.
+xopahara_1(midday_2)	1	-	-	-	-	-	-	2:end
+[span_1]	2	-	-	7:k7t	-	-	-	-
+gadDA_1(pit_2)	3	-	-	4:k7p	-	-	-	-
+jama_4(settle_2)	4	-	-	5:rvks	-	-	-	-
+jala_1(water_3)	5	-	-	7:k1	-	-	-	-
+gAyaba_1	6	-	-	7:k1s	-	-	-	-
+ho_1-wA_hE_1	7	-	-	0:main	-	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0005>
+#वह जल कहाँ चला जाता है?
+#vaha jala kahAz calA jAwA hE?
+#Where does the water go?
+$wyax	1	-	-	2:dem	-	distal	-	-
+jala_1(water_3)	2	-	-	4:k1	-	-	-	-
+$kim	3	-	-	4:k7p	-	-	-	-
+cala_1-yA_jA_wA_hE_2	4	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0006>
+#सूर्य के ताप के कारण जल वाष्पित हो जाता है।
+#sUrya ke wApa ke kAraNa jala vARpiwa ho jAwA hE.
+#The sun’s heat causes evaporation of water into vapour.
+sUrya_1(sun_5)	1	-	-	2:r6	-	-	-	-
+wApa_1(heat_6)	2	-	-	5:rh	-	-	-	-
+jala_1(water_3)	3	-	-	5:k1	-	-	-	-
+vARpiwa_1(evaporated_1)	4	-	-	5:k1s	-	-	-	-
+ho_1-wA_hE_1	5	-	-	0:main	-	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0007>
+#ठंडा होने पर जलवाष्प संघनित होकर बादलों का रूप ले लेता है।
+#TaMdA hone para jalavARpa saMGaniwa hokara bAxaloM kA rUpa le lewA hE.
+#When the water vapour cools down, it condenses and forms clouds.
+TaMdA_1(cool_2)	1	-	-	2:k1s	-	-	-	-
+ho_5(become_1)	2	-	-	9:rblsk	-	-	-	-
+jalavARpa_1(water-vapour_1)	3	-	-	9:k1	-	-	-	-
+saMGaniwa_1	4	-	-	-	-	-	-	6:kriyAmUla
+ho_6(be_4)	5	-	-	-	-	-	-	6:verbalizer
+[cp_1]	6	-	-	9:rpk	-	-	-	-
+bAxala_1(cloud_3)	7	-	pl	8:r6	-	-	-	-
+rUpa_1(form_10)	8	-	-	9:k2	-	-	-	-
+le_1-wA_hE_1	9	-	-	0:main	-	[shade:le_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0008>
+#यहाँ से यह वर्षा, हिम अथवा सहिम वृष्टि के रूप में धरती या समुद्र पर नीचे गिरता है।
+#yahAz se yaha varRA, hima aWavA sahima vqRti ke rUpa meM XarawI yA samuxra para nIce girawA hE.
+#From there it may fall on the land or sea in the form of rain, snow or sleet.
+$wyax	1	-	-	14:k5	-	proximal	-	-
+$wyax	2	-	-	14:k1	Geo_ncert_7stnd_5ch_0007.3:coref	proximal	-	-
+varRA_1(rain_6)	3	-	-	-	-	-	-	8:op1
+hima_3(snow_8)	4	-	-	-	-	-	-	8:op2
+sahima_1(sleet_2)	5	-	-	-	-	-	-	7:mod
+vqRti_2(shower_8)	6	-	-	-	-	-	-	7:head
+[nc_1]	7	-	-	-	-	-	-	8:op3
+[disjunct_1]	8	-	-	9:r6	-	-	-	-
+rUpa_1(form_10)	9	-	-	14:k7	-	-	-	-
+XarawI_5(land_4)	10	-	-	-	-	-	-	12:op1
+samuxra_2(sea_12)	11	-	-	-	-	-	-	12:op2
+[disjunct_2]	12	-	-	14:k7p	-	-	-	-
+nIce_5(down_1)	13	-	-	14:rd	-	-	-	-
+gira_1-wA_hE_1	14	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0009>
+#जिस प्रक्रम में जल लगातार अपने स्वरूप को बदलता रहता है।
+#jisa prakrama meM jala lagAwAra apane svarUpa ko baxalawA rahawA hE.
+#The process by which water continually changes its form .
+$yax	1	-	-	2:dem	-	-	-	-
+prakrama_1(process_2)	2	-	-	7:k7	-	-	-	-
+jala_1(water_3)	3	-	-	7:k1	-	-	-	-
+lagAwAra_1(continuously_2)	4	-	-	7:krvn	-	-	-	-
+apanA	5	-	-	6:r6	3:coref	-	-	-
+svarUpa_2(form_16)	6	-	-	7:k2	-	-	-	-
+baxala_1-wA_rahawA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0010>
+#और महासागरों, वायुमंडल एवं धरती के बीच चक्कर लगाता रहता है।
+#Ora mahAsAgaroM, vAyumaMdala evaM XarawI ke bIca cakkara lagAwA rahawA hE.
+#Ora mahAsAgaroM, vAyumaMdala evaM XarawI ke bIca cakkara lagAwA rahawA hE.
+jala_1(water_3)	1	-	-	9:k1	-	-	-	-
+mahAsAgara_1(ocean_4)	2	-	pl	-	-	-	-	5:op1
+vAyumaMdala_1(atmosphere_2)	3	-	-	-	-	-	-	5:op2
+XarawI_5(land_4)	4	-	-	-	-	-	-	5:op3
+[conj_1]	5	-	-	6:rdl	-	-	-	-
+bIca_11(between_1)	6	-	-	9:k7p	-	-	-	-
+cakkara_1(circle_1)	7	-	-	-	-	-	-	9:kriyAmUla
+lagA_1-wA_rahawA_hE_1	8	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	Geo_ncert_7stnd_5ch_0009.7:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0011>
+#हमारी पृथ्वी थलशाला के समान है।
+#hamArI pqWvI WalaSAlA ke samAna hE.
+#Our earth is like a terrarium.
+$speaker	1	anim	pl	2:r6	-	-	-	-
+pqWvI_1(earth_9)	2	-	-	4:k1	-	-	-	-
+WalaSAlA_1(terrarium_1)	3	-	-	2:ru	-	-	-	-
+hE_1-pres	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0012>
+#जो जल, शताब्दियों पूर्व उपस्थित था, वही आज भी मौजूद है।
+#jo jala, SawAbxiyoM pUrva upasWiwa WA, vahI Aja BI mOjUxa hE.
+#The same water that existed centuries ago still exists today.
+$yax	1	-	-	2:dem	-	-	-	-
+jala_1(water_3)	2	-	-	6:k1	-	-	-	-
+SawAbxI(century_5)	3	-	pl	4:r6	-	-	-	-
+pUrva_10(prior_3)	4	-	-	6:k7t	-	-	-	-
+upasWiwa_1(present_2)	5	-	-	6:k1s	-	-	-	-
+hE_1-past	6	-	-	7:rcdelim	-	-	-	-
+$wyax	7	-	-	10:k1	6:coref	distal	-	-
+Aja_1(today_2)	8	-	-	10:k7t	-	BI_1	-	-
+mOjUxa_2(existing_1)	9	-	-	10:k1s	-	-	-	-
+hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0013a>
+#यह हो सकता है।
+#yaha ho sakawA hE.
+#This is possible.
+$wyax	1	-	-	2:k1	Geo_ncert_7stnd_5ch_0013b.19:coref	proximal	-	-
+ho_1-0_sakawA_hE_1	2	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0013b>
+#कि जिस जल का प्रयोग आज हम हरियाणा के खेत में सिंचाई के लिए यह कर रहे हैं, वह सौ से अधिक वर्ष पहले अमेज़न नदी में बहता हो।
+#ki jisa jala kA prayoga Aja hama hariyANA ke Kewa meM siMcAI ke lie yaha kara rahe hEM, vaha sO se aXika varRa pahale amejZana naxI meM bahawA ho.
+#That the water used to irrigate a field in Haryana may have flowed down the Amazon River a hundred years ago.
+$yax	1	-	-	2:dem	-	-	-	-
+jala_1(water_3)	2	-	-	11:k2	-	-	-	-
+prayoga_2(use_3)	3	-	-	-	-	-	-	11:kriyAmUla
+Aja_1(today_2)	4	-	-	11:k7t	-	-	-	-
+$speaker	5	anim	pl	11:k1	-	-	-	-
+hariyANA	6	-	-	-	-	-	-	7:begin
+[ne_1]	7	place	-	8:r6	-	-	-	-
+Kewa_1(field_4)	8	-	-	9:k7p	-	-	-	-
+siMcAI_1(irrigation_2)	9	-	-	11:rt	-	-	-	-
+kara_1-0_rahA_hE_1	10	-	-	-	-	-	-	11:verbalizer
+[cp_1]	11	-	-	12:rcdelim	-	-	-	-
+$wyax	12	-	-	19:k1	11:coref	distal	-	-
+100	13	numex	-	14:quantmore	-	-	-	-
+varRa_1(year_4)	14	-	-	15:r6	-	-	-	-
+pahale_4(earlier_2)	15	-	-	19:k7t	-	-	-	-
+amejZana	16	-	-	-	-	-	-	18:begin
+naxI	17	-	-	-	-	-	-	18:inside
+[ne_2]	18	place	-	19:k7p	-	-	-	-
+baha_1-wA_hE-e_2	19	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0014>
+#अलवण जल के मुख्य स्रोत नदी, ताल, सोते एवं हिमनद हैं।
+#alavaNa jala ke muKya srowa naxI, wAla, sowe evaM himanaxa hEM.
+#The major sources of fresh water are the rivers, ponds, springs and glaciers.
+alavaNa_2(fresh_70)	1	-	-	2:mod	-	-	-	-
+jala_1(water_3)	2	-	-	4:r6	-	-	-	-
+muKya_15(major_6)	3	-	-	4:mod	-	-	-	-
+srowa_1(source_10)	4	-	-	10:k1	-	-	-	-
+naxI_1(river_3)	5	-	-	-	-	-	-	9:op1
+wAla_1(pond_1)	6	-	-	-	-	-	-	9:op2
+sowA_2(spring_15)	7	-	pl	-	-	-	-	9:op3
+himanaxa_1(glacier_4)	8	-	-	-	-	-	-	9:op4
+[conj_1]	9	-	-	10:k1s	-	-	-	-
+hE_1-pres	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0015>
+#महासागरों एवं समुद्रों का जल, लवणीय होता है।
+#mahAsAgaroM evaM samuxroM kA jala, lavaNIya howA hE.
+#The ocean bodies and the seas contain salty water.
+mahAsAgara_1(ocean_4)	1	-	pl	-	-	-	-	3:op1
+samuxra_2(sea_12)	2	-	pl	-	-	-	-	3:op2
+[conj_1]	3	-	-	4:r6	-	-	-	-
+jala_1(water_3)	4	-	-	6:k1	-	-	-	-
+lavaNIya_1(saline_4)	5	-	-	6:k1s	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0016>
+#इसमें अधिकांश नमक-सोडियम क्लोराइड या खाने में उपयोग किया जाने वाला नमक होता है।
+#isameM aXikAMSa namaka-sodiyama klorAida yA KAne meM upayoga kiyA jAne vAlA namaka howA hE.
+#The water of the oceans is salty or saline as it contains large amount of dissolved salts.
+$wyax	1	-	-	13:k7	Geo_ncert_7stnd_5ch_0015.4:coref	proximal	-	-
+aXika_1(more_1)	2	-	superl	3:mod	-	-	-	-
+namaka_1(salt_1)	3	-	-	13:k1	-	-	-	-
+sodiyama	4	-	-	-	-	-	-	6:begin
+klorAida	5	-	-	-	-	-	-	6:inside
+[ne_1]	6	-	-	-	-	-	-	12:op1
+KA_5(eating_14)	7	-	-	10:k7	-	-	-	-
+upayoga_1(use_2)	8	-	-	-	-	-	-	10:kriyAmUla
+kara_1	9	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	11:mod	-	-	-	-
+namaka_1(salt_1)	11	-	-	10:k2	-	-	-	12:op2
+[disjunct_1]	12	-	-	13:k1s	-	-	-	-
+ho_1-wA_hE_1	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0017>
+#एक बड़े जार के एक चौथाई भाग में मिट्टी भरकर उसे अच्छी तरह दबा दें।
+#eka badZe jAra ke eka cOWAI BAga meM mittI Barakara use acCI waraha xabA xeM.
+#Fill one-fourth of a big jar with soil and press it well.
+eka_2(a_1)	1	-	-	3:quant	-	-	-	-
+badZA_6(big_11)	2	-	-	3:mod	-	-	-	-
+^jAra_1	3	-	-	7:r6	-	-	-	-
+4	4	numex	-	5:card	-	-	-	-
+BAga_4(fraction_1)	5	-	-	7:rn	-	-	-	-
+1	6	numex	-	7:card	-	-	-	-
+BAga_4(fraction_1)	7	-	-	9:k7p	-	-	-	-
+mittI_2(soil_4)	8	-	-	9:k2	-	-	-	-
+Bara_1(fill_3)	9	-	-	13:rpk	-	-	-	-
+$addressee	10	anim	-	13:k1	-	respect	-	-
+$wyax	11	-	-	13:k2	8:coref	distal	-	-
+acCA_8(well_9)	12	-	-	13:krvn	-	-	-	-
+xabA_1-o_1	13	-	-	0:main	-	[shade:xe_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0018>
+#इसके ऊपर ह्यूमस की एक पतली परत लगाएँ।
+#isake Upara hyUmasa kI eka pawalI parawa lagAez.
+#Put a thin layer of humus on top of it.
+$addressee	1	anim	-	8:k1	-	respect	-	-
+$wyax	2	-	-	3:rdl	Geo_ncert_5ch_0017.8:coref	proximal	-	-
+Upara_3(above_2)	3	-	-	8:k7p	-	-	-	-
+hyUmasa_1(humus_1)	4	-	-	7:r6	-	-	-	-
+eka_2(a_1)	5	-	-	7:quant	-	-	-	-
+pawalA_1(thin_6)	6	-	-	7:mod	-	-	-	-
+parawa_1(layer_3)	7	-	-	8:k2	-	-	-	-
+lagA_1-o_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0019a>
+#पहले सबसे बड़े पौधे लगाएँ।
+#pahale sabase badZe pOXe lagAez.
+#Plant the largest plants first.
+pahale_5(first_28)	1	-	-	5:k7t	-	-	-	-
+$addressee	2	anim	-	5:k1	-	respect	-	-
+badZA_6(big_11)	3	-	superl	4:mod	-	-	-	-
+pOXA_1(plant_6)	4	-	pl	5:k2	-	-	-	-
+lagA_1-o_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0019b>
+#तदुपरांत उसके चारों ओर छोटे पौधें को व्यवस्थित करें।
+#waxuparAMwa usake cAroM ora Cote pOXeM ko vyavasWiwa kareM.
+#And then arrange the smaller ones around them.
+$addressee	1	anim	-	8:k1	-	respect	-	-
+$wyax	2	-	-	3:rdl	Geo_ncert_7stnd_5ch_0019a.4:coref	distal	-	-
+cAroM+ora_3(around_16)	3	-	-	8:k7p	-	-	-	-
+CotA_1(small_6)	4	-	-	5:mod	-	-	-	-
+pOXA_1(plant_6)	5	-	pl	8:k2	-	-	-	-
+vyavasWiwa_4(arranged_3)	6	-	-	-	-	-	-	8:kriyAmUla
+kara_1-o_1	7	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	0:main	Geo_ncert_7stnd_5ch_0019a.5:uwwarkAla	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0020>
+#इसमें जल की फुहार छिड़के जार को बंद कर दें।
+#isameM jala kI PuhAra CidZake jAra ko baMxa kara xeM.
+#Spray the arrangement with water and close the jar.
+$addressee	1	anim	-	8:k1	-	respect	-	-
+$wyax	2	-	-	5:k7	Geo_ncert_7stnd_5ch_0017.3:coref	proximal	-	-
+jala_1(water_3)	3	-	-	4:r6	-	-	-	-
+PuhAra(spray_2)	4	-	-	5:k2	-	-	-	-
+CidZa_1	5	-	-	8:rpk	-	-	-	-
+^jAra_1	6	-	-	8:k2	-	-	-	-
+baMxa_1(closed_3)	7	-	-	8:k2s	-	-	-	-
+kara_1-o_1	8	-	-	0:main	-	[shade:xe_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0021>
+#पत्तियों एवं मिट्टी के द्वारा वाष्पित जल, संघनित होकर जल की बूँदों के रूप में नीचे गिरता है।
+#pawwiyoM evaM mittI ke xvArA vARpiwa jala, saMGaniwa hokara jala kI bUzxoM ke rUpa meM nIce girawA hE.
+#The water that evaporates from the leaves and soil condenses and falls back in the form of drops of water.
+pawwI_9(leaf_27)	1	-	pl	-	-	-	-	3:op1
+mittI_2(soil_4)	2	-	-	-	-	-	-	3:op2
+[conj_1]	3	-	-	4:k5	-	-	-	-
+vARpiwa_1(evaporated_1)	4	-	-	5:mod	-	-	-	-
+jala_1(water_3)	5	-	-	11:k1	-	-	-	-
+saMGaniwa_1	6	-	-	7:k1s	-	-	-	-
+ho_1	7	-	-	11:rpk	-	-	-	-
+jala_1(water_3)	8	-	-	9:r6	-	-	-	-
+bUzxa_1(drop_10)	9	-	pl	11:krvn	-	-	-	-
+nIce_5(down_1)	10	-	-	11:rd	-	-	-	-
+gira_1-wA_hE_1	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0022a>
+#हम सभी यह जानते हैं।
+#hama saBI yaha jAnawe hEM.
+#We all know that three-fourth of the earth surface is covered by water.
+$speaker	1	anim	pl	4:k1	-	-	-	-
+saBI_1(all_1)	2	-	-	1:rs	-	-	-	-
+$wyax	3	-	-	4:k2	Geo_ncert_7stnd_5ch_0022b.9:coref	proximal	-	-
+jAna_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0022b>
+#कि पृथ्वी की सतह का तीन-चौथाई भाग जल से ढँका हुआ है।
+#ki pqWvI kI sawaha kA wIna-cOWAI BAga jala se DazkA huA hE.
+#We all know that three-fourth of the earth surface is covered by water.
+pqWvI_1(earth_9)	1	-	-	2:r6	-	-	-	-
+sawaha_1(surface_3)	2	-	-	6:r6	-	-	-	-
+4	3	numex	-	4:card	-	-	-	-
+BAga_4(fraction_1)	4	-	-	6:rn	-	-	-	-
+3	5	numex	-	6:card	-	-	-	-
+BAga_4(fraction_1)	6	-	-	9:k1	-	-	-	-
+jala_1(water_3)	7	-	-	8:k3	-	-	-	-
+Dazka_1(cover_27)	8	-	kqw	9:k1s	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0023a>
+#यदि धरती पर थल की अपेक्षा जल अधिक है।
+#yaxi XarawI para Wala kI apekRA jala aXika hE.
+#If there is more water than land on this earth, why do so many countries face water scarcity?
+XarawI_3(earth_15)	1	-	-	5:k7p	-	-	-	-
+Wala_1(land_3)	2	-	-	3:rv	-	-	-	-
+jala_1(water_3)	3	-	-	5:k1	-	-	-	-
+aXika_1(more_1)	4	-	-	5:k1s	-	-	-	-
+hE_1-pres	5	-	-	0:main	Geo_ncert_7stnd_5ch_0023b.8:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0023b>
+#तो अनेक देशों में जल की कमी का सामना क्यों करना पडता है?
+#wo aneka xeSoM meM jala kI kamI kA sAmanA kyoM karanA padawA hE?
+#If there is more water than land on this earth, why do so many countries face water scarcity?
+aneka_1(many_2)	1	-	-	2:quant	-	-	-	-
+xeSa_1(country_1)	2	-	pl	8:k7p	-	-	-	-
+jala_1(water_3)	3	-	-	4:r6	-	-	-	-
+kamI_6(scarcity_2)	4	-	-	8:k2	-	-	-	-
+sAmanA_2(encounter_7)	5	-	-	-	-	-	-	8:kriyAmUla
+$kim	6	-	-	8:rh	-	-	-	-
+kara_1-nA_padZawA_hE_1	7	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0024>
+#क्या पृथ्वी पर मौजूद संपूर्ण जल हमारे लिए उपलब्ध है?
+#kyA pqWvI para mOjUxa saMpUrNa jala hamAre lie upalabXa hE?
+#Is all the water on earth available to us?
+pqWvI_1(earth_9)	1	-	-	2:k7p	-	-	-	-
+mOjUxa_1(present_10)	2	-	-	4:mod	-	-	-	-
+saMpUrNa_8(all_3)	3	-	-	4:quant	-	-	-	-
+jala_1(water_3)	4	-	-	7:k1	-	-	-	-
+$speaker	5	anim	pl	7:rt	-	-	-	-
+upalabXa_1(available_1)	6	-	-	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0025>
+#निम्नलिखित तालिका में जल वितरण का प्रतिशत दिया गया है।
+#nimnaliKiwa wAlikA meM jala viwaraNa kA prawiSawa xiyA gayA hE.
+#The following table gives the distribution of water in percentage.
+nimnaliKiwa_2(following_8)	1	-	-	2:mod	-	-	-	-
+wAlikA_3(table_1)	2	-	-	7:k7	-	-	-	-
+jala_1(water_3)	3	-	-	-	-	-	-	5:mod
+viwaraNa_1(distribution_6)	4	-	-	-	-	-	-	5:head
+[nc_1]	5	-	-	6:r6	-	-	-	-
+prawiSawa_1(percentage_1)	6	-	-	7:k2	-	-	-	-
+xe_1-yA_jA_yA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0026>
+#साधारण क्रियाकलाप द्वारा जल के वितरण को प्रदर्शित किया जा सकता है।
+#sAXAraNa kriyAkalApa xvArA jala ke viwaraNa ko praxarSiwa kiyA jA sakawA hE.
+#Water distribution can be demonstrated by a simple activity.
+sAXAraNa_2(simple_12)	1	-	-	2:mod	-	-	-	-
+kriyAkalApa_1(activity_4)	2	-	-	7:k3	-	-	-	-
+jala_1(water_3)	3	-	-	4:r6	-	-	-	-
+viwaraNa_1(distribution_6)	4	-	-	7:k2	-	-	-	-
+praxarSiwa_5(demonstrated_2)	5	-	-	-	-	-	-	7:kriyAmUla
+kara_1-yA_jA_sakawA_hE_1	6	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0027>
+#‘लवणता’ 1000 ग्राम जल में मौजूद नमक की मात्रा होती है।
+#‘lavaNawA’ 1000 grAma jala meM mOjUxa namaka kI mAwrA howI hE.
+#Salinity is the amount of salt in grams present in 1000 grams of water.
+lavaNawA_1(salinity_2)	1	-	-	9:k1	-	-	-	-
+1000	2	numex	-	-	-	-	-	4:count
+grAma_4(gram_3)	3	-	-	-	-	-	-	4:unit
+[volume_meas_1]	4	-	-	5:rmeas	-	-	-	-
+jala_1(water_3)	5	-	-	6:k7	-	-	-	-
+mOjUxa_1(present_10)	6	-	-	8:mod	-	-	-	-
+namaka_1(salt_1)	7	-	-	8:r6	-	-	-	-
+mAwrA_9(amount_10)	8	-	-	9:k1s	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0028>
+#महासागर की औसत लवणता, 35 भाग प्रति हजार ग्राम है।
+#mahAsAgara kI Osawa lavaNawA, 35 BAga prawi hajAra grAma hE.
+#The average salinity of oceans is 35 parts per thousand.
+mahAsAgara_1(ocean_4)	1	-	-	3:r6	-	-	-	-
+Osawa_1(average_1)	2	-	-	3:mod	-	-	-	-
+lavaNawA_1(salinity_2)	3	-	-	9:k1	-	-	-	-
+35	4	numex	-	-	-	-	-	8:count
+grAma_4(gram_3)	5	-	-	-	-	-	-	8:unit_value
+1000	6	numex	-	-	-	-	-	8:count
+grAma_4(gram_3)	7	-	-	-	-	-	-	8:unit_every
+[rate_1]	8	-	-	9:k1s	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0029>
+#इजराइल के मृत सागर में 340 ग्राम प्रति लीटर लवणता होती है।
+#ijarAila ke mqwa sAgara meM 340 grAma prawi lItara lavaNawA howI hE.
+#Dead Sea in Israel has salinity of 340 grams per litre of water.
+ijarAila	1	-	-	-	-	-	-	2:begin
+[ne_1]	2	place	-	5:r6	-	-	-	-
+mqwa	3	-	-	-	-	-	-	5:begin
+sAgara	4	-	-	-	-	-	-	5:inside
+[ne_2]	5	place	-	12:k7p	-	-	-	-
+340	6	numex	-	-	-	-	-	10:count
+grAma_1	7	-	-	-	-	prawi	-	10:unit_value
+1	8	-	-	-	-	-	-	10:count
+lItara_1	9	-	-	-	-	-	-	10:unit_every
+[rate_1]	10	-	-	11:rmeas	-	-	-	-
+lavaNawA_1	11	-	-	12:k1	-	-	-	-
+ho_1-wA_hE_1	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0030a>
+#तैराक इसमें प्लव सकते हैं।
+#wErAka isameM plava sakawe hEM.
+#Swimmers can float in it.
+wErAka_1(swimmer_1)	1	anim	-	3:k1	-	-	-	-
+$wyax	2	-	-	3:k7p	Geo_ncert_7stnd_5ch_0029.5:coref	proximal	-	-
+plava_1-0_sakawA_hE_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0030b>
+#क्योंकि नमक की अधिकता इसे सघन बना देती है।
+#kyoMki namaka kI aXikawA ise saGana banA xewI hE.
+#Because the increased salt content makes it dense.
+namaka_1(salt_1)	1	-	-	2:r6	-	-	-	-
+aXikawA_4(increase_1)	2	-	-	5:k1	-	-	-	-
+$wyax	3	-	-	5:k2	Geo_ncert_5ch_0029.5:coref	proximal	-	-
+saGana_1(dense_12)	4	-	-	5:k2s	-	-	-	-
+banA_1-wA_hE_1	5	-	-	0:main	Geo_ncert_7stnd_5ch_0030a.3:kAryakAraNa	[shade:xe_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0031>
+#आप दो लीटर जल लें।
+#Apa xo lItara jala leM.
+#Apa xo lItara jala leM.
+$addressee	1	anim	-	11:k1	-	respect	-	-
+2	2	numex	-	-	-	-	-	7:count
+lItara_1	3	-	-	-	-	-	-	7:unit
+jala_1	4	-	-	11:k2	-	-	-	-
+[volume_meas_1]	7	-	-	4:rmeas	-	-	-	-
+le_1-o_1	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0031b>
+#आप यह मान लें।
+#Apa yaha mAna leM.
+#Apa yaha mAna leM.
+$addressee	1	-	-	3:k1	-	respect	-	-
+$wyax	2	-	-	3:k2	-	proximal	-	-
+mAna_1-e_1	3	-	-	0:main	-	[shade:le_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0032a>
+#आप यह मन लें
+#Apa yaha mana leM
+#Apa yaha mana leM
+-	-	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0032b>
+#कि यह पृथ्वी की सतह पर जल की संपूर्ण मात्रा है।
+#ki yaha pqWvI kI sawaha para jala kI saMpUrNa mAwrA hE.
+#This represents the total water of the surface of the earth.
+$wyax	1	-	-	10:k1	-	proximal	-	-
+pqWvI_1	2	-	-	4:r6	-	-	-	-
+sawaha_1	4	-	-	10:k7	-	-	-	-
+jala_1	6	-	-	9:r6	-	-	-	-
+saMpUrNa_1	8	-	-	9:mod	-	-	-	-
+mAwrA_1	9	-	-	10:k1	-	-	-	-
+hE_1-pres	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0033>
+#आप बर्तन से 12 चम्मच जल मापकर दूसरे कटोरे में रखें।
+#Apa barwana se 12 cammaca jala mApakara xUsare katore meM raKeM.
+#You measure 12 teaspoons of water from the vessel and place it in another bowl.
+$addressee	1	anim	-	11:k1	-	respect	-	-
+barwana_1	2	-	-	11:k5	-	-	-	-
+12	4	numex	-	-	-	-	-	12:count
+cammaca_1	5	-	-	-	-	-	-	12:unit
+jala_1	6	-	-	11:k2	-	-	-	-
+mApa_1	7	-	-	11:rpk	-	-	-	-
+xUsarA_1	8	-	-	9:ord	-	-	-	-
+katorA_1	9	-	-	11:k7p	-	-	-	-
+raKa_1-o_1	11	-	-	0:main	-	-	-	-
+[volume_meas_1]	12	-	-	6:rmeas	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0034>
+#बर्तन से जल निकालने के बाद शेष जल, लवणीय जल को दर्शाता है, जो महासागर एवं समुद्र में पाया जाता है।
+#barwana se jala nikAlane ke bAxa SeRa jala, lavaNIya jala ko xarSAwA hE, jo mahAsAgara evaM samuxra meM pAyA jAwA hE.
+#The water that is left behind in the vessel represents the salty water found in oceans and seas.
+barwana_1	1	-	-	4:k5	-	-	-	-
+jala_1(water_3)	3	-	-	4:k2	-	-	-	-
+nikAla_3(extract_4)	4	-	-	13:rblak	-	-	-	-
+SeRa_1(rest_7)	7	-	-	8:mod	-	-	-	-
+jala_1(water_3)	8	-	-	13:k1	-	-	-	-
+lavaNIya_1(saline_4)	10	-	-	11:mod	-	-	-	-
+jala_1(water_3)	11	-	-	13:k2	-	-	-	-
+xarSA_1-wA_hE_1	13	-	-	0:main	-	-	-	-
+$yax	16	-	-	21:k1	Geo_ncert_7stnd_0034.11:coref	-	-	-
+mahAsAgara(ocean_4)	17	-	-	-	-	-	-	25:op1
+samuxra_2(sea_12)	19	-	-	-	-	-	-	25:op2
+pA_1-yA_jA_wA_hE_1	21	-	-	11:rcelab	-	-	-	-
+[conj_1]	25	-	-	21:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0035>
+#यह जल उपभोग के लिए उपयुक्त नहीं है।
+#yaha jala upaBoga ke lie upayukwa nahIM hE.
+#The water is obviously not fit for consuming.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+jala_1(water_3)	2	-	-	8:k1	-	-	-	-
+upaBoga(consuming_1)	3	-	-	8:rt	-	-	-	-
+upayukwa_7(fit_21)	6	-	-	8:k1s	-	-	-	-
+nahIM_1(not_1)	7	-	-	8:neg	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0036>
+#यह लवणीय जल (नमक युक्त) होता है।
+#yaha lavaNIya jala (namaka yukwa) howA hE.
+#It is saline.
+$wyax	1	-	-	8:k1	Geo_ncert_7stnd_5ch_0035.2:coref	proximal	-	-
+lavaNIya_1	2	-	-	3:mod	-	-	-	-
+jala_1	3	-	-	8:k1s	-	-	-	-
+namaka_1(salt_1)	5	-	-	-	-	-	-	11:mod
+yukwa_1(containing_4)	6	-	-	-	-	-	-	11:head
+ho_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+[6-waw_1]	11	-	-	2:rs	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0037>
+#कटोरे में निकालकर रखा गया 12 चम्मच जल, पृथ्वी पर मौजूद संपूर्ण अलवण जल की मात्रा को दर्शाता है।
+#katore meM nikAlakara raKA gayA 12 cammaca jala, pqWvI para mOjUxa saMpUrNa alavaNa jala kI mAwrA ko xarSAwA hE.
+#The 12 spoons of water that was taken in a bowl is the total amount of freshwater on earth.
+katorA_1(bowl_1)	1	-	pl	3:k7p	-	-	-	-
+nikAla_1	3	-	-	4:rpk	-	-	-	-
+raKa_1(put_2)	4	-	-	8:mod	-	[shade:jA_1]	-	-
+12	6	numex	-	-	-	-	-	23:count
+cammaca_1(spoon_1)	7	-	-	-	-	-	-	23:unit
+jala_1(water_3)	8	-	-	19:k1	-	-	-	-
+pqWvI_1(earth_9)	10	-	-	12:k7p	-	-	-	-
+mOjUxa_1(present_10)	12	-	-	22:mod	-	-	-	-
+saMpUrNa(total_7)	13	-	-	22:quant	-	-	-	-
+alavaNa(fresh_70)	14	-	-	-	-	-	-	22:mod
+jala_1(water_3)	15	-	-	-	-	-	-	22:head
+mAwrA_9(amount_10)	17	-	-	19:k2	-	-	-	-
+xarSA_1-wA_hE_1	19	-	-	0:main	-	-	-	-
+[karmaXAraya_1]	22	-	-	17:r6	-	-	-	-
+[volume_meas_1]	23	-	-	8:rmeas	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0038>
+#चित्र में इस जल के वितरण को दर्शाया गया है।
+#ciwra meM isa jala ke viwaraNa ko xarSAyA gayA hE.
+#The figure shows us the distribution of this freshwater.
+ciwra_4(figure_3)	1	-	-	8:k7p	-	-	-	-
+$wyax	3	-	-	4:dem	-	proximal	-	-
+jala_1(water_3)	4	-	-	6:r6	-	-	-	-
+viwaraNa_1(distribution_6)	6	-	-	8:k2	-	-	-	-
+xarSA_1-yA_jA_yA_hE_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0039a>
+#आप स्वयं यह देखें।
+#Apa svayaM yaha xeKeM.
+#Apa svayaM yaha xeKeM.
+$addressee	1	anim	-	4:k1	-	respect	-	-
+$wyax	3	-	-	4:k2	Geo_ncert_7stnd_0039b.12:coref	proximal	-	-
+xeKa_1-o_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0039b>
+#कि आप जल की कितनी मात्रा का उपभोग कर सकते हैं।
+#ki Apa jala kI kiwanI mAwrA kA upaBoga kara sakawe hEM.
+#ki Apa jala kI kiwanI mAwrA kA upaBoga kara sakawe hEM.
+$addressee	1	anim	-	8:k1	-	respect	-	-
+jala_1	2	-	-	5:r6	-	-	-	-
+$kim	4	-	-	5:quant	-	-	-	-
+mAwrA_1(quantity_4)	5	-	-	7:k2	-	-	-	-
+upaBoga_13(use_37)	7	-	-	-	-	-	-	12:kriyAmUla
+kara_1-0_sakawA_hE_1	8	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0040>
+#जीवन के लिए जल अत्यधिक आवश्यक है।
+#jIvana ke lie jala awyaXika AvaSyaka hE.
+#Water is absolutely essential for survival.
+jIvana_1	1	-	-	7:rt	-	-	-	-
+jala_1(water_3)	4	-	-	7:k1	-	-	-	-
+awyaXika_1	5	-	-	6:intf	-	-	-	-
+AvaSyaka_2(essential_2)	6	-	-	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0041>
+#प्यासे होने पर केवल जल ही हमारी प्यास बुझा सकता है।
+#pyAse hone para kevala jala hI hamArI pyAsa buJA sakawA hE.
+#pyAse hone para kevala jala hI hamArI pyAsa buJA sakawA hE.
+pyAsA_1(thirsty_4)	1	-	-	2:k1s	-	-	-	-
+ho_1	2	-	-	9:rblsk	-	-	-	-
+jala_1(water_3)	5	-	-	9:k1	-	kevala_1/hI_1	-	-
+$speaker	7	anim	pl	8:r6	-	-	-	-
+pyAsa_1(thirst_4)	8	-	-	9:k2	-	-	-	-
+buJA_1-0_sakawA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0042a>
+#ऐसे में आपको क्या ऐसा नहीं लगता?
+#Ese meM Apako kyA EsA nahIM lagawA?
+#Now don't you think we are wasting a precious resource when we use water carelessly?
+$wyax	1	-	-	8:dem	-	proximal	-	-
+$addressee	3	anim	-	7:k4a	-	respect	-	-
+$wyax	5	-	-	9:dem	-	proximal	-	-
+nahIM_1(not_1)	6	-	-	7:neg	-	-	-	-
+laga_1-wA_hE_2	7	-	-	0:main	-	-	-	-
+prakAra(kind_8)	8	-	-	7:k7	Geo_ncert_7stnd_5ch_0041.9:coref	-	-	-
+prakAra(kind_8)	9	-	-	7:krvn	-	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0042b>
+#कि लापरवाही से जल का उपयोग करने पर हम बहुमूल्य संसाधन को बरबाद करते हैं।
+#ki lAparavAhI se jala kA upayoga karane para hama bahumUlya saMsAXana ko barabAxa karawe hEM.
+#Now don't you think we are wasting a precious resource when we use water carelessly?
+lAparavAhI_3(carelessness_4)	1	-	-	16:krvn	-	-	-	-
+jala_1(water_3)	3	-	-	16:k2	-	-	-	-
+upayoga_1(use_2)	5	-	-	-	-	-	-	16:kriyAmUla
+kara_17(do_2)	6	-	-	-	-	-	-	16:verbalizer
+$speaker	8	anim	pl	17:k1	-	-	-	-
+bahumUlya_1(precious_1)	9	-	-	10:mod	-	-	-	-
+saMsAXana_1(resource_1)	10	-	-	17:k2	-	-	-	-
+barabAxa_2(destroyed_6)	12	-	-	-	-	-	-	17:kriyAmUla
+kara_1-wA_hE_1	13	-	-	-	-	-	-	17:verbalizer
+[cp_1]	16	-	-	17:rblsk	-	-	-	-
+[cp_2]	17	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0043>
+#समुद्री तट पर नंगे पैर चलने से हमें कुछ जादुई-सी अनुभूति होती है।
+#samuxrI wata para naMge pEra calane se hameM kuCa jAxuI-sI anuBUwi howI hE.
+#There is something magical to us about walking barefoot on the seashore.
+samuxrI_1(oceanic_1)	1	-	-	2:mod	-	-	-	-
+wata_3(shore_2)	2	-	-	6:k7p	-	-	-	-
+naMgA_3(bare_3)	4	-	-	5:mod	-	-	-	-
+pEra_1(foot_7)	5	-	-	6:krvn	-	-	-	-
+cala_6(walk_1)	6	-	-	14:rh	-	-	-	-
+kuCa_6(something_1)	8	-	-	9:quant	-	-	-	-
+jAxuI	9	-	-	14:krvn	-	sA_3	-	-
+anuBUwi_4(sensation_1)	10	-	-	-	-	-	-	14:kriyAmUla
+ho_1-wA_hE_1	11	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	0:main	-	-	-	-
+$speaker	15	anim	pl	14:k4a	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0044>
+#पुलिन पर नम बालू, ठंडी पवन, समुद्री पक्षी, वायु में लवणीय गंध एवं लहरों का संगीत, सब कुछ सम्मोहित करने वाला प्रतीत होता है।
+#pulina para nama bAlU, TaMdI pavana, samuxrI pakRI, vAyu meM lavaNIya gaMXa evaM laharoM kA saMgIwa, saba kuCa sammohiwa karane vAlA prawIwa howA hE.
+#The wet sand on the beach, the cool breeze, the sea birds, the smell of salt in the air and music of waves everything is so fascinating.
+pulina	1	-	-	32:k7p	-	-	-	-
+nama_1	3	-	-	4:mod	-	-	-	-
+bAlU_1(sand_2)	4	-	-	-	-	-	-	32:op1
+TaMdA_1(cool_2)	6	-	-	7:mod	-	-	-	-
+pavana(breeze_1)	7	-	-	-	-	-	-	32:op2
+samuxrI_1(oceanic_1)	9	-	-	10:mod	-	-	-	-
+pakRI_1(bird_4)	10	-	-	-	-	-	-	32:op3
+vAyu(air_8)	12	-	-	15:k7p	-	-	-	-
+lavaNIya_1(saline_4)	14	-	-	15:mod	-	-	-	-
+gaMXa_1(smell_1)	15	-	-	-	-	-	-	32:op4
+lahara_1(wave_6)	17	-	-	19:r6	-	-	-	-
+saMgIwa_1(music_3)	19	-	-	-	-	-	-	32:op5
+saba_1	21	-	-	-	-	-	-	32:op6
+sammohiwa	23	-	-	-	-	-	-	30:kriyAmUla
+kara_17(do_2)	24	-	-	-	-	-	-	30:verbalizer
+prawIwa_1(appear_1)	26	-	-	-	-	-	-	31:kriyAmUla
+ho_1-wA_hE_1	27	-	-	-	-	-	-	31:verbalizer
+[cp_1]	30	-	-	31:mod	-	-	-	-
+[cp_2]	31	-	-	0:main	-	-	-	-
+[conj_1]	32	-	-	31:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0045>
+#ताल एवं झील के शांत जल के विपरीत महासागरीय जल हमेशा गतिमान रहता है।
+#wAla evaM JIla ke SAMwa jala ke viparIwa mahAsAgarIya jala hameSA gawimAna rahawA hE.
+#Unlike the calm waters of pond and lakes, ocean water keeps moving continuously.
+wAla_1(pond_1)	1	-	-	-	-	-	-	17:op1
+JIla_1(lake_1)	3	-	-	-	-	-	-	17:op2
+SAMwa_9(calm_7)	5	-	-	6:mod	-	-	-	-
+jala_1(water_3)	6	-	-	13:rviroXIk1	-	-	-	-
+mahAsAgarIya(oceanic_4)	9	-	-	10:mod	-	-	-	-
+jala_1(water_3)	10	-	-	13:k1	-	-	-	-
+hameSA_1	11	-	-	13:krvn	-	-	-	-
+gawimAna_3(moving_1)	12	-	-	13:k1s	-	-	-	-
+raha_1-wA_hE_1	13	-	-	0:main	-	-	-	-
+[conj_1]	17	-	-	6:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0046>
+#यह कभी शांत नहीं रहता है।
+#yaha kaBI SAMwa nahIM rahawA hE.
+#It is never still.
+$wyax	1	-	-	5:k1	Geo_ncert_7stnd_5ch_0045.10:coref	proximal	-	-
+kaBI(ever_2)	2	-	-	5:k7t	-	-	-	-
+SAMwa_3(still_12)	3	-	-	5:k1s	-	-	-	-
+nahIM_1(not_1)	4	-	-	5:neg	-	-	-	-
+raha_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0047>
+#हम महासागरों की गतियों को इस प्रकार वर्गीकृत कर सकते हैं जैसे-तरंगें, ज्वार-भाटा एवं धाराएँ।
+#hama mahAsAgaroM kI gawiyoM ko isa prakAra vargIkqwa kara sakawe hEM jEse-waraMgeM, jvAra-BAtA evaM XArAez.
+#The movements that occur in Oceans can be broadly categorised as waves Tides and currents.
+mahAsAgara_1(ocean_4)	1	-	pl	3:r6	-	-	-	-
+gawi_2(movement_3)	3	-	pl	17:k2	-	-	-	-
+$wyax	5	-	-	6:dem	-	proximal	-	-
+prakAra_1(kind_8)	6	-	-	17:krvn	-	-	-	-
+vargIkqwa_2(categorized_1)	7	-	-	-	-	-	-	17:kriyAmUla
+kara_1-0_sakawA_hE_1	8	-	-	-	-	-	-	17:verbalizer
+waraMga(wave_3)	11	-	pl	-	-	-	-	18:op1
+jvAra_1+BAta(tide_1)	13	-	-	-	-	-	-	18:op2
+XArA_1(current_4)	15	-	pl	-	-	-	-	18:op3
+[cp_1]	17	-	-	0:main	-	-	-	-
+[conj_1]	18	-	-	6:re	-	-	-	-
+$speaker	21	anim	pl	17:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0048>
+#22 मार्च ‘विश्व जल दिवस’ के रूप में मनाया जाता है।
+#22 mArca ‘viSva jala xivasa’ ke rUpa meM manAyA jAwA hE.
+#March 22 is celebrated as World Water Day
+22	1	dom	-	-	-	-	-	16:component1
+mArca	2	moy	-	-	-	-	-	16:component2
+viSva	3	-	-	-	-	-	-	15:begin
+jala	4	-	-	-	-	-	-	15:inside
+xivasa	5	-	-	-	-	-	-	15:inside
+mana_1-yA_jA_wA_hE_1	9	-	-	0:main	-	-	-	-
+[ne_1]	15	timex	-	9:k2s	-	-	-	-
+[calendar_1]	16	-	-	9:k2	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0049>
+#जब जल संरक्षण की विभिन्न विधियों को प्रबलित किया जाता है।
+#jaba jala saMrakRaNa kI viBinna viXiyoM ko prabaliwa kiyA jAwA hE.
+#when the need to conserve water is reinforced in different ways
+jala_1	1	-	pl	-	-	-	-	12:mod
+saMrakRaNa_1	2	-	-	-	-	-	-	12:head
+viBinna_1	4	-	-	5:mod	-	-	-	-
+viXi_1	5	-	pl	8:k2	-	-	-	-
+prabaliwa_1	7	-	-	-	-	-	-	13:kriyAmUla
+kara_1-yA_jA_wA_hE_1	8	-	-	-	-	-	-	13:verbalizer
+[nc_1]	12	-	-	5:r6	-	-	-	-
+[cp_1]	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0050a>
+#समुद्र तट पर गेंद से खेलते समय जब गेंद जल में गिर जाती है।
+#samuxra wata para geMxa se Kelawe samaya jaba geMxa jala meM gira jAwI hE.
+#when you are playing throw ball on a beach and a ball falls in water what happens?
+samuxra_2(sea_12)	1	-	-	-	-	-	-	16:mod
+wata_3(shore_2)	2	-	-	-	-	-	-	16:head
+geMxa_1(ball_3)	4	-	-	6:k2	-	-	-	-
+Kela_1(play_10)	6	-	-	12:rblsk	-	-	-	-
+geMxa_1(ball_3)	9	-	-	12:k1	-	-	-	-
+jala_1(water_3)	10	-	-	12:k7p	-	-	-	-
+gira_1-wA_hE_1	12	-	-	0:main	Geo_ncert_7stnd_5ch_0050b.2:AvaSyakawApariNAma	[shade:jA_1]	-	-
+[6-waw_1]	16	-	-	6:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0050b>
+#तो क्या होता है?
+#wo kyA howA hE?
+#when you are playing throw ball on a beach and a ball falls in water what happens?
+$kim	1	-	-	2:k1	-	-	-	-
+ho_1-wA_hE_1	2	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0051a>
+#यह दृश्य बहुत ही मनोरंजक होता है।
+#yaha xqSya bahuwa hI manoraMjaka howA hE.
+#It is fun to watch how the ball gets washed back to the Shore by the Waves.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+xqSya_2(sight_3)	2	-	-	6:k1	-	-	-	-
+bahuwa_7(very_1)	3	-	-	5:quant	-	hI	-	-
+manoraMjaka_1	5	-	-	6:k1s	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0051b>
+#कि कैसे तरंगों के साथ गेंद तट पर वापस लौट आती है।
+#ki kEse waraMgoM ke sAWa geMxa wata para vApasa lOta AwI hE.
+#It is fun to watch how the ball gets washed back to the Shore by the Waves.
+$kim	1	-	-	11:dem	-	-	-	-
+waraMga_1(wave_3)	2	-	pl	10:rask1	-	-	-	-
+geMxa_1(ball_3)	5	-	-	10:k1	-	-	-	-
+wata_3(shore_2)	6	-	-	10:k7p	-	-	-	-
+vApasa_5(back_7)	8	-	-	-	-	-	-	10:kriyAmUla
+lOta_1-wA_hE_1	9	-	-	-	-	[shade:A_1]	-	10:verbalizer
+[cp_1]	10	-	-	0:main	-	-	-	-
+prakAra(kind_8)	11	-	-	10:krvn	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0052a>
+#जब महासागरीय सतह पर जल लगातार उठता रहता है
+#jaba mahAsAgarIya sawaha para jala lagAwAra uTawA rahawA hE
+#when water continues to rise on the ocean surface
+mahAsAgarIya_1	1	-	-	2:mod	-	-	-	-
+sawaha_1(surface_3)	2	-	-	6:k7p	-	-	-	-
+jala_1(water_3)	4	-	-	6:k1	-	-	-	-
+lagAwAra_1(continuously_2)	5	-	-	6:krvn	-	-	-	-
+uTa_1-wA_rahawA_hE_1	6	-	-	0:main	Geo_ncert_7stnd_5ch_0052c.3:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0052b>
+#और यह लगातार वहा पर गिरता रहता है
+#Ora jaba yaha lagAwAra vahA para girawA rahawA hE
+#Ora yaha lagAwAra vahA para girawA rahawA hE
+$wyax	2	-	-	4:k1	Geo_ncert_7stnd_5ch_0052a.4:coref	proximal	-	-
+lagAwAra_1(continuously_2)	3	-	-	4:krvn	-	-	-	-
+gira_1-wA_rahawA_hE_1	4	-	-	0:main	Geo_ncert_7stnd_5ch_0052a.6:samuccaya	-	-	-
+$wyax	5	-	-	4:k7p	Geo_ncert_7stnd_5ch_0052a.2:coref	distal	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0052c>
+#तो इन्हें तरंगें कहते हैं।
+#wo inheM waraMgeM kahawe hEM.
+#they are called waves.
+$wyax	1	-	-	3:k2	Geo_ncert_7stnd_5ch_0052a.4:coref	proximal	-	-
+waraMga_1	2	-	pl	3:k2s	-	-	-	-
+kaha_1-wA_hE_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0053>
+#जब समुद्री सतह पर पवन बहती है, तब तरंगें उत्पन्न होती हैं।
+#jaba samuxrI sawaha para pavana bahawI hE, waba waraMgeM uwpanna howI hEM.
+#Waves are formed when wind scrape across the ocean surface.
+samuxrI_1(oceanic_1)	1	-	-	2:mod	-	-	-	-
+sawaha_1(surface_3)	2	-	-	5:k7p	-	-	-	-
+pavana(wind_2)	4	-	-	5:k1	-	-	-	-
+baha_1-wA_hE_1	5	-	-	14:rcsamAnakAla	-	-	-	-
+$yax	8	-	-	14:k7t	geo_ncert_7stnd_5ch_0053.15:coref	-	-	-
+waraMga_1	9	-	pl	14:k1	-	-	-	-
+uwpanna_1	10	-	-	-	-	-	-	14:kriyAmUla
+ho_1-wA_hE_1	11	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	0:main	-	-	-	-
+$yax	15	-	-	5:k7t	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0054>
+#जितनी ही तेज पवन बहती है, तरंगें भी उतनी ही बड़ी होती जाती हैं।
+#jiwanI hI weja pavana bahawI hE, waraMgeM BI uwanI hI badZI howI jAwI hEM.
+#The stronger the wind blows the bigger the wave becomes.
+$yax	1	-	-	3:quant	-	hI_1	-	-
+weja_8(strength_7)	3	-	-	5:krvn	-	-	-	-
+pavana(wind_2)	4	-	-	5:k1	-	-	-	-
+baha_1-wA_hE_1	5	-	-	10:rcprop	-	-	-	-
+waraMga_1(wave_3)	8	-	pl	13:k1	-	BI_1	-	-
+$yax	10	-	-	12:quant	Geo_ncert_7stnd_0054.1:coref	hI_1	-	-
+badZA_6(big_11)	12	-	-	13:k1s	-	-	-	-
+ho_1-wA_jAwA_hE_1	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0055a>
+#सुनामी जापानी भाषा का एक शब्द है, जिसका अर्थ है- पोताश्रय तरंगेंय्
+#sunAmI jApAnI BARA kA eka Sabxa hE, jisakA arWa hE- powASraya waraMgeMy
+#Tsunami is a Japanese word meaning 'harboring waves'.
+^sunAmI_1	1	-	-	7:k1	-	-	-	-
+jApAnI_1	2	-	-	3:mod	-	-	-	-
+BARA_1(language_2)	3	-	-	6:r6	-	-	-	-
+eka_2(a_1)	5	-	-	6:quant	-	-	-	-
+Sabxa_1(word_5)	6	-	-	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+$yax	9	-	-	10:r6	-	-	-	-
+arWa_1(meaning_1)	10	-	-	11:k1	-	-	-	-
+hE_1-pres	11	-	-	6:rcelab	-	-	-	-
+powASraya_1(harbour_3)	13	-	-	-	-	-	-	15:mod
+waraMga_1(wave_3)	14	-	pl	-	-	-	-	15:head
+[6-waw_1]	15	-	-	11:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0055b>
+#क्योंकि सुनामी आने पर पोताश्रय नष्ट हो जाते हैं।
+#kyoMki sunAmI Ane para powASraya naRta ho jAwe hEM.
+#Tsunami is a Japanese word that means Harbour waves as the harbours get destroyed whenever there is tsunami.
+^sunAmI_1	1	-	-	2:k1	-	-	-	-
+A_1	2	-	-	10:rh	-	-	-	-
+powASraya_1(harbour_3)	4	-	-	10:k1	-	-	-	-
+naRta_1(destroyed_5)	5	-	-	-	-	-	-	10:kriyAmUla
+ho_1-wA_hE_1	6	-	-	-	-	[shade:jA_1]	-	10:verbalizer
+[cp_1]	10	-	-	0:main	Geo_ncert_7stnd_5ch_0055a.7:kAryakAraNa	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0056>
+#26 दिसंबर 2004 को हिंद महासागर में सुनामी तरंगों अथवा पोताश्रय तरंगों के कारण अत्यधिक विनाश हुआ।
+#26 xisaMbara 2004 ko hiMxa mahAsAgara meM sunAmI waraMgoM aWavA powASraya waraMgoM ke kAraNa awyaXika vinASa huA.
+#Tsunami oR the harbour waves truck havoc in the Indian Ocean on the 26 December 2004.
+26	1	dom	-	-	-	-	-	23:component1
+xisaMbara	2	moy	-	-	-	-	-	23:component2
+2004	3	yoc	-	-	-	-	-	23:component3
+hiMxa	5	-	-	-	-	-	-	25:begin
+mahAsAgara	6	-	-	-	-	-	-	25:inside
+^sunAmI_1	8	-	-	-	-	-	-	24:op1
+waraMga_1(wave_3)	9	-	pl	8:rs	-	-	-	-
+powASraya_1(harbour_3)	11	-	-	-	-	-	-	26:mod
+waraMga_1(wave_3)	12	-	pl	-	-	-	-	26:head
+awyaXika_6(intense_1)	15	-	-	16:intf	-	-	-	-
+vinASa_1	16	-	-	17:k1	-	-	-	-
+ho_1-yA_hE_2	17	-	-	0:main	-	-	-	-
+[calendar_1]	23	-	-	17:k7t	-	-	-	-
+[disjunct_1]	24	-	-	17:rh	-	-	-	-
+[ne_1]	25	-	-	17:k7p	-	-	-	-
+[6-waw_1]	26	-	-	-	-	-	-	24:op2
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0057>
+#ये तरंगें उस भूकंप का परिणाम थीं, जिसका अधिकेंद्र सुमात्रा की पश्चिमी सीमा पर था।
+#ye waraMgeM usa BUkaMpa kA pariNAma WIM, jisakA aXikeMxra sumAwrA kI paScimI sImA para WA.
+#The wave was the result of an earthquake that had its epicenter close to The Western boundary of Sumatra.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+waraMga_1(wave_3)	2	-	pl	7:k1	-	-	-	-
+$wyax	3	-	-	4:dem	-	distal	-	-
+BUkaMpa_1(earthquake_2)	4	-	-	6:r6	-	-	-	-
+pariNAma_1(result_3)	6	-	-	7:k1s	-	-	-	-
+hE_1-past	7	-	-	0:main	-	-	-	-
+$yax	9	-	-	10:r6	Geo_ncert_7stnd_5ch_0057.3:coref	-	-	-
+aXikeMxra_2(epicentre_1)	10	-	-	16:k1	-	-	-	-
+sumAwrA	11	-	-	-	-	-	-	17:begin
+paScimI_1(western_7)	13	-	-	14:mod	-	-	-	-
+sImA(boundary_9)	14	-	-	16:k7p	-	-	-	-
+hE_1-past	16	-	-	3:rcdelim	-	-	-	-
+[ne_1]	17	-	-	14:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0058>
+#इस भूकंप की तीव्रता रिक्टर पैमाने पर 9.0 मापी गई थी।
+#isa BUkaMpa kI wIvrawA riktara pEmAne para 9.0 mApI gaI WI.
+#The magnitude of the earthquake was 9.0 on the richter scale.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+BUkaMpa_1(earthquake_2)	2	-	-	4:r6	-	-	-	-
+wIvrawA_4(strength_41)	4	-	-	9:k2	-	-	-	-
+riktara	5	-	-	-	-	-	-	10:mod
+pEmAnA(scale_4)	6	-	pl	-	-	-	-	10:head
+9.0	8	numex	-	9:k2s	-	-	-	-
+mApa_1-yA_jA_yA_WA_1	9	-	-	0:main	-	-	-	-
+[6_waw_1]	10	-	-	9:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0059a>
+#भारतीय प्लेट, बर्मा प्लेट के नीचे धँस गई थी।
+#BArawIya pleta, barmA pleta ke nIce Xazsa gaI WI.
+#As the Indian plate went under the Burma plate there was a sudden movement of the sea floor causing the earthquake.
+BArawIya_1	1	-	-	2:mod	-	-	-	-
+^pleta_1	2	-	-	8:k1	-	-	-	-
+barmA	4	-	-	-	-	-	-	9:begin
+^pleta_1	5	-	-	9:rs	-	-	-	-
+Xazsa_1-yA_jA_yA_WA_1	8	-	-	0:main	-	-	-	-
+[ne_1]	9	-	-	10:rdl	-	-	-	-
+nIcE	10	-	-	8:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0059b>
+#और समुद्र तल में अकस्मात् गति उत्पन्न हो गई।
+#Ora samuxra wala meM akasmAw gawi uwpanna ho gaI.
+#As the Indian plate went under the Burma plate there was a sudden movement of the sea floor causing the earthquake.
+samuxra_2(sea_12)	1	-	-	-	-	-	-	10:mod
+wala_2(floor_1)	2	-	-	-	-	-	-	10:head
+akasmAw_4(sudden_1)	4	-	-	5:mod	-	-	-	-
+gawi_1(motion_1)	5	-	-	12:k1	-	-	-	-
+uwpanna_1(produced_1)	6	-	-	-	-	-	-	12:kriyAmUla
+ho_1-yA_hE_1	7	-	-	-	-	[shade:jA_1]	-	12:verbalizer
+[6-waw_1]	10	-	-	7:k7p	-	-	-	-
+[cp_1]	12	-	-	0:main	Geo_ncert_7stnd_5ch_0059a.8:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0059c>
+#इस कारण यह भूकंप आया।
+#isa kAraNa yaha BUkaMpa AyA.
+#As the Indian plate went under the Burma plate there was a sudden movement of the sea floor causing the earthquake.
+$wyax	3	-	-	4:dem	-	proximal	-	-
+BUkaMpa_1(earthquake_2)	4	-	-	5:k1	-	-	-	-
+A_1-yA_hE_2	5	-	-	0:main	Geo_ncert_7stnd_5ch_0059b.12:pariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0060a>
+#महासागरीय तल लगभग 10-20 मीटर तक विस्थापित हो गया।
+#mahAsAgarIya wala lagaBaga 10-20 mItara waka visWApiwa ho gayA.
+#The ocean floor was displaced by about 10-20 metre and tilted in a downwardly direction.
+mahAsAgarIya_1	1	-	-	2:mod	-	-	-	-
+wala_1	2	-	-	8:k1	-	-	-	-
+10-20	4	numex	-	-	-	lagaBaga	-	12:count
+mItara_1	5	-	-	-	-	-	-	12:unit
+visWApiwa_1	7	-	-	-	-	-	-	11:kriyAmUla
+ho_1-yA_1	8	-	-	-	-	[shade:ja_1]	-	11:verbalizer
+[cp_1]	11	-	-	0:main	-	-	-	-
+[meas_1]	12	-	-	8:k7	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0060b>
+#और यह नीचे की दिशा में झुक गया।
+#Ora yaha nIce kI xiSA meM Juka gayA.
+#And tilted in a downwardly direction.
+$wyax	1	-	-	6:k1	Geo_ncert_7stnd_5ch_0060a.2:coref	proximal	-	-
+nIce_1	2	-	-	4:rdl	-	-	-	-
+xiSA_1	4	-	-	6:rd	-	-	-	-
+Juka_1-yA_1	6	-	-	0:main	Geo_ncert_7stnd_5ch_0060a.11:samuccaya	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0061>
+#इस विस्थापन के कारण निर्मित अंतराल को भरने के लिए विशाल मात्रा में महासागरीय जल उसी ओर बहने लगा।
+#isa visWApana ke kAraNa nirmiwa aMwarAla ko Barane ke lie viSAla mAwrA meM mahAsAgarIya jala usI ora bahane lagA.
+#A huge mass of ocean water flowed to fill in the gaps that was being created by the displacement.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+visWApana_1(displacement_1)	2	-	-	18:rh	-	def	-	-
+nirmiwa_4(created_1)	5	-	-	6:mod	-	-	-	-
+aMwarAla_2(gap_1)	6	-	-	8:k2	-	-	-	-
+Bara_1(fill_3)	8	-	-	18:rt	-	-	-	-
+viSAla_1(huge_9)	11	-	-	12:intf	-	-	-	-
+mAwrA_1	12	-	-	18:k7	-	-	-	-
+mahAsAgarIya_1(ocean_17)	14	-	-	15:mod	-	-	-	-
+jala_1(water_3)	15	-	-	18:k1	-	-	-	-
+$wyax	16	-	-	18:rd	Geo_ncert_7stnd_5ch_0061.6:coref	distal	-	-
+baha_1-nA_lagA_1	18	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0062>
+#फलस्वरूप, दक्षिणी एवं दक्षिण-पूर्वी एशिया के समुद्री तटों से जल हटने लगा।
+#PalasvarUpa, xakRiNI evaM xakRiNa-pUrvI eSiyA ke samuxrI watoM se jala hatane lagA.
+#This marked the withdrawal of a water mass from the coast lines of the land masses in the south and Southeast Asia.
+xakRiNI_2(south_4)	3	-	-	-	-	-	-	15:op1
+xakRiNa+pUrvI_1	5	-	-	-	-	-	-	15:op2
+eSiyA	6	-	-	-	-	-	-	16:begin
+samuxrI_1	8	-	-	-	-	-	-	17:mod
+wata_1	9	-	pl	-	-	-	-	17:head
+jala_1	11	-	-	12:k1	-	-	-	-
+hata_1-nA_lagA_1	12	-	-	0:main	Geo_ncert_7stnd_5ch_0061.18:pariNAma	-	-	-
+[conj_1]	15	-	-	16:mod	-	-	-	-
+[ne_1]	16	place	-	17:r6	-	-	-	-
+[nc_1]	17	-	-	12:k5	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0063>
+#भारतीय प्लेट के बर्मा की प्लेट के नीचे चले जाने पर जल वापस समुद्र तट की ओर लौटा।
+#BArawIya pleta ke barmA kI pleta ke nIce cale jAne para jala vApasa samuxra wata kI ora lOtA.
+#After thrusting of the Indian Plate below the Burma plate, the watermass rushed back towards the coastline.
+BArawIya_1(indian_1)	1	-	-	2:mod	-	-	-	-
+pleta_1(plate_6)	2	-	-	9:k1	-	-	-	-
+barmA_1	4	-	-	6:r6	-	-	-	-
+pleta_1(plate_6)	6	-	-	8:rdl	-	-	-	-
+nIce_1(below_3)	8	-	-	6:k7p	-	-	-	-
+cala_23(thurst_1)	9	-	-	18:rh	-	-	-	-
+jala_1(water_3)	12	-	-	18:k1	-	-	-	-
+vApasa_1(returned_3)	13	-	-	18:rp	-	-	-	-
+samuxra_1	14	-	-	-	-	-	-	19:mod
+wata_1	15	-	-	-	-	-	-	19:head
+lOtA_1-0_1	18	-	-	0:main	-	-	-	-
+[6-waw_1]	19	-	-	18:rd	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0064a>
+#यह सुनामी लगभग 800 कि-मी./घंटे की गति से आया, जिसकी तुलना व्यावसायिक वायुयानों की गति से की जा सकती है।
+#yaha sunAmI lagaBaga 800 ki-mI./GaMte kI gawi se AyA, jisakI wulanA vyAvasAyika vAyuyAnoM kI gawi se kI jA sakawI hE.
+#Tsunami travelled at the speed of about 800 km per hour comparable to speed of a commercial aircraft and completely washed away some of the islands in the Indian Ocean.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+sunAmI_1(tsunami_1)	2	-	-	11:k1	-	-	-	-
+800	4	numex	-	-	-	lagaBaga_1	-	25:count
+kilomitara_1	5	-	-	-	-	-	-	25:unit_value
+GaMtA_1	7	-	pl	-	-	-	-	25:unit_value
+gawi_3(speed_1)	9	-	-	11:krvn	-	-	-	-
+A_1-yA_1	11	-	-	0:main	-	-	-	-
+$yax	13	-	-	26:k2	Geo_ncert_7stnd_5ch_0064a.2:coref	-	-	-
+wulanA_1(comparison_2)	14	-	-	-	-	-	-	26:kriyAmUla
+vyAvasAyika_1	15	-	-	16:mod	-	-	-	-
+vAyuyAna_2(aircraft_6)	16	-	pl	18:r6	-	-	-	-
+gawi_3(speed_1)	18	-	-	26:k2as	-	-	-	-
+kara_1-yA_jA_sakawA_hE_1	20	-	-	-	-	-	-	26:verbalizer
+[rate_1]	25	-	-	9:rmeas	-	-	-	-
+[cp_1]	26	-	-	9:rcdelim	-	-	-	-
+1	27	numex	-	-	-	-	-	25:count
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0064b>
+#और इसके परिणामस्वरूप हिंद महासागर के कुछ द्वीप पूर्णतः डूब गए।
+#Ora isake pariNAmasvarUpa hiMxa mahAsAgara ke kuCa xvIpa pUrNawaH dUba gae.
+#Tsunami travelled at the speed of about 800 km per hour comparable to speed of a commercial aircraft and completely washed away some of the islands in the Indian Ocean.
+hiMxa	3	-	-	-	-	-	-	12:begin
+mahAsAgara(ocean_4)	4	-	-	7:r6	-	-	-	-
+kuCa_1(some_2)	6	-	-	7:quant	-	-	-	-
+xvIpa_1(island_3)	7	-	-	9:k1	-	-	-	-
+pUrNawaH_1	8	-	-	9:krvn	-	-	-	-
+dUba_1-yA_1	9	-	-	0:main	Geo_ncert_7stnd_5ch_0064a.11:pariNAma	[shade:jA_1]	-	-
+[ne_1]	12	place	-	4:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0065>
+#भारतीय सीमा का धुर दक्षिणी बिंदु, इंदिरा प्वाइंट जो अंडमान-निकोबार द्वीप समूह में स्थित पूरी तरह से डूब गया।
+#BArawIya sImA kA Xura xakRiNI biMxu, iMxirA pvAiMta jo aMdamAna-nikobAra xvIpa samUha meM sWiwa pUrI waraha se dUba gayA.
+#The Indira Point of Andaman and Nicobar Islands that marked the southernmost point of India got completely submerged.
+BArawIya_1(indian_1)	1	-	-	2:mod	-	-	-	-
+sImA_1(border_9)	2	-	-	4:r6	-	-	-	-
+Xura_1(extreme_3)	4	-	-	5:intf	-	-	-	-
+xakRiNI_1(southern_1)	5	-	-	6:mod	-	-	-	-
+biMxu_1(point_7)	6	-	-	22:rs	-	def	-	-
+iMxirA	8	-	-	-	-	-	-	22:begin
+pvAiMta	9	-	-	-	-	-	-	22:inside
+$yax	10	-	-	15:k1	Geo_ncert_7stnd_5ch_0065.22:coref	-	-	-
+aMdamAna	11	-	-	-	-	-	-	27:begin
+xvIpa(island_3)	12	-	-	24:mod	-	-	-	-
+sWiwa_1	15	-	-	22:rcelab	-	-	-	-
+pUrA_1	16	-	-	19:krvn	-	-	-	-
+dUba_1-yA_1	19	-	-	0:main	-	[shade:jA_1]	-	-
+[ne_1]	22	place	-	19:k1	-	def	-	-
+samuha_1	24	-	-	15:k7p	-	-	-	-
+nikobAra	25	-	-	-	-	-	-	28:begin
+[xvanxva_1]	26	-	-	12:rs	-	-	-	-
+[ne_2]	27	place	-	-	-	-	-	26:op1
+[ne_3]	28	place	-	-	-	-	-	26:op2
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0066>
+#जब सुमात्रा में भूकंप के अधिकेंद्र से तरंगें सुमात्रा की तरफ से अंडमान द्वीप समूह एवं श्रीलंका की ओर बढीं, तब तरंगों की लंबाई कम हो गई।
+#jaba sumAwrA meM BUkaMpa ke aXikeMxra se waraMgeM sumAwrA kI waraPa se aMdamAna xvIpa samUha evaM SrIlaMkA kI ora baDIM, waba waraMgoM kI laMbAI kama ho gaI.
+#As the wave moved from earthquake epicenter from Sumatra towards the Andaman Islands and Sri Lanka the wavelength decreased with decreasing depth of water.
+sumAwrA	1	-	-	-	-	-	-	34:begin
+BUkaMpa_1(earthquake_2)	3	-	-	5:r6	-	-	-	-
+aXikeMxra_2(epicentre_1)	5	-	-	19:k5	-	-	-	-
+waraMga_1(wave_3)	7	-	pl	19:k1	-	def	-	-
+sumAwrA	8	-	-	-	-	-	-	35:begin
+aMdamAna	12	-	-	-	-	-	-	30:begin
+xvIpa	13	-	-	37:mod	-	def	-	-
+SrIlaMkA	16	-	-	-	-	-	-	36:begin
+baDa_1-yA_1	19	-	-	21:rcsamAnakAla	-	-	-	-
+$wyax	21	-	-	26:k7t	-	distal	-	-
+waraMga_1(wave_3)	22	-	pl	24:r6	-	def	-	-
+laMbAI_1(length_3)	24	-	-	26:k1	-	-	-	-
+ho_1-yA_1	26	-	-	0:main	-	[shade:jA_1]	-	-
+[ne_3]	30	place	-	13:mod	-	-	-	-
+[conj_1]	32	-	-	19:rd	-	-	-	-
+$yax	33	-	-	19:k7t	-	-	-	-
+[ne_1]	34	place	-	19:k7p	-	-	-	-
+[ne_2]	35	place	-	19:rp	-	-	-	-
+[ne_4]	36	place	-	-	-	-	-	32:op2
+samuha	37	-	-	-	-	-	-	32:op1
+kama_22(decrease_18)	38	-	-	26:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0067a>
+#जल की गहराई भी कम होति गई।
+#jala kI gaharAI BI kama howi gaI.
+#The travel speed also declined from 700-900 km per hour to less than 70 km per hour.
+jala_1(water_3)	1	-	-	3:r6	-	-	-	-
+gaharAI_1(depth_2)	3	-	-	23:k1	-	BI_1	-	-
+ho_1-wA_jA_yA_1	23	-	-	0:main	-	-	-	-
+kama_1	29	-	-	23:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0067b>
+#इसके साथ-साथ इनकी गति भी 700-900 कि-मी./घंटे से 70 कि-मी./घंटे तक कम हो गई।
+#isake sAWa-sAWa inakI gawi BI 700-900 ki-mI./GaMte se 70 ki-mI./GaMte waka kama ho gaI.
+#The travel speed also declined from 700-900 km per hour to less than 70 km per hour.
+ho_1-yA_1	1	-	-	0:main	Geo_ncert_7stnd_5ch_0067a.23:samuccaya.samAveSI	[shade:jA_1]	-	-
+[rate_2]	2	-	-	-	-	-	-	17:end
+GaMtA_1	3	-	-	-	-	-	-	2:unit_every
+1	4	numex	-	-	-	-	-	2:count
+kilomitara_1	5	-	-	-	-	-	-	2:unit_value
+70	6	numex	-	-	-	-	-	2:count
+[rate_1]	7	-	-	-	-	-	-	17:start
+GaMtA_1	8	-	-	-	-	-	-	7:unit_every
+1	9	numex	-	-	-	-	-	7:count
+[speed_meas_1]	10	-	-	-	-	-	-	7:unit_value
+kilomitara_1	11	-	-	-	-	-	-	10:unit
+[span_1]	12	-	-	-	-	-	-	10:count
+900	13	numex	-	-	-	-	-	12:end
+700	14	numex	-	-	-	-	-	12:start
+gawi_3(speed_1)	15	-	-	1:k1	-	BI_1	-	-
+$wyax	16	-	-	15:r6	Geo_ncert_7stnd_5ch_0066.24:coref	proximal	-	-
+[span_2]	17	-	-	1:rmeas	-	-	-	-
+kama_1	18	-	-	1:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0068a>
+#समुद्र तट से सुनामी तरंगें 3 कि-मी. तक की गहराई तक गईं।
+#samuxra wata se sunAmI waraMgeM 3 ki-mI. waka kI gaharAI waka gaIM.
+#Tsunami waves travel up to a depth of 3 km from coast killing more than 10,000 people and affected more than lakh of houses.
+samuxra_1(ocean_14)	1	-	-	-	-	-	-	14:mod
+wata_2(coast_1)	2	-	-	-	-	-	-	14:head
+sunAmI_1(tsunami_1)	4	-	-	-	-	-	-	15:mod
+waraMga_1(wave_3)	5	-	pl	-	-	-	-	15:head
+3	6	numex	-	-	-	-	-	16:count
+kilomitara_1	7	-	-	-	-	-	-	16:unit
+gaharAI_1(depth_2)	10	-	-	-	-	-	-	17:end
+jA_1-yA_1	12	-	-	0:main	-	-	-	-
+[6-waw_1]	14	-	-	-	-	-	-	17:begin
+[nc_1]	15	-	-	12:k1	-	-	-	-
+[depth_meas_1]	16	-	-	17:r6	-	waka_1	-	-
+[span_1]	17	-	-	12:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0068b>
+#ईनके फलस्वरूप 10,000 से भी अधिक लोगों की मृत्यु हो गई।
+#Inake PalasvarUpa 10,000 se BI aXika logoM kI mqwyu ho gaI.
+#Tsunami waves travel up to a depth of 3 km from coast killing more than 10,000 people and affected more than lakh of houses.
+10000	3	numex	-	9:quantmore	-	BI_1	-	-
+loga_2(people_5)	9	-	pl	15:k1	-	-	-	-
+mqwyu_1(death_15)	11	-	-	-	-	-	-	15:kriyAmUla
+ho_1-yA_1	12	-	-	-	-	[shade:jA_1]	-	15:verbalizer
+[cp_1]	15	-	-	0:main	Geo_ncert_7stnd_5ch_0068a.12:pariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0068c>
+#और एक लाख से अधिक घर प्रभावित हुए।
+#Ora eka lAKa se aXika Gara praBAviwa hue.
+#Tsunami waves travel up to a depth of 3 km from coast killing more than 10,000 people and affected more than lakh of houses.
+100000	1	numex	-	5:quantmore	-	-	-	-
+Gara_1	5	-	-	7:k1	-	-	-	-
+praBAviwa_1	6	-	-	7:k1s	-	-	-	-
+ho_1-yA_1	7	-	-	0:main	Geo_ncert_7stnd_5ch_0068b.15:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0069>
+#भारत में आंध्र प्रदेश के तटीय प्रदेश, तमिलनाडु, केरल, पुदुच्चेरी तथा अंडमान और निकोबार द्वीप समूह सर्वाधिक प्रभावित हुए।
+#BArawa meM AMXra praxeSa ke watIya praxeSa, wamilanAdu, kerala, puxuccerI waWA aMdamAna Ora nikobAra xvIpa samUha sarvAXika praBAviwa hue.
+#In India the worst affected were the coastal areas of Andhra Pradesh Tamil Nadu Kerala puduCherry and the Andaman and Nicobar Islands.
+BArawa	1	-	-	-	-	-	-	29:begin
+AMXra	3	-	-	-	-	-	-	30:begin
+praxeSa	4	-	-	-	-	-	-	30:inside
+watIya_1(coastal_3)	6	-	-	7:mod	-	-	-	-
+praxeSa	7	-	-	-	-	-	-	35:op1
+wamilanAdu	9	-	-	-	-	-	-	31:begin
+kerala	11	-	-	-	-	-	-	32:begin
+puxuccerI	13	-	-	-	-	-	-	33:begin
+aMdamAna	15	-	-	-	-	-	-	34:begin
+nikobAra	17	-	-	-	-	-	-	25:begin
+xvIpa(island_3)	18	-	-	19:mod	-	-	-	-
+samUha(group_11)	19	-	-	-	-	-	-	35:op5
+praBAviwa_3(affected_3)	21	-	superl	-	-	-	-	27:kriyAmUla
+ho_1-yA_1	22	-	-	-	-	-	-	27:verbalizer
+[ne_7]	25	-	-	-	-	-	-	28:op2
+[cp_1]	27	-	-	0:main	-	-	-	-
+[conj_1]	28	-	-	18:mod	-	-	-	-
+[ne_1]	29	-	-	27:k7p	-	-	-	-
+[ne_2]	30	-	-	7:r6	-	-	-	-
+[ne_3]	31	-	-	-	-	-	-	35:op2
+[ne_4]	32	-	-	-	-	-	-	35:op3
+[ne_5]	33	-	-	-	-	-	-	35:op4
+[ne-6]	34	-	-	-	-	-	-	28:op1
+[conj_2]	35	-	-	27:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0070a>
+#यद्यपि पहले से भूकंप का अनुमान लगाना संभव नहीं है।
+#yaxyapi pahale se BUkaMpa kA anumAna lagAnA saMBava nahIM hE.
+#While the earthquake cannot be predicted in advance it is possible to give 3 hour notice of a potential Tsunami.
+pahalA+se_1	2	-	-	12:krvn	-	-	-	-
+BUkaMpa_1(earthquake_2)	4	-	-	12:r6	-	def	-	-
+anumAna_9(prediction_4)	6	-	-	-	-	-	-	12:kriyAmUla
+lagA_1	7	-	-	-	-	-	-	12:verbalizer
+saMBava_1(possible_3)	8	-	-	10:k1s	-	-	-	-
+nahIM_1(not_1)	9	-	-	10:neg	-	-	-	-
+hE_1-pres	10	-	-	0:main	Geo_ncert_7stnd_5ch_0070b.10:vyaBicAra	-	-	-
+[cp_1]	12	-	-	10:k1	-	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0070b>
+#फिर भी बड़ी सुनामी के संकेत तीन घंटे पहले मिल सकते हैं।
+#Pira BI badZI sunAmI ke saMkewa wIna GaMte pahale mila sakawe hEM.
+#While the earthquake cannot be predicted in advance it is possible to give 3 hour notice of a potential Tsunami.
+badZA_1	3	-	-	4:mod	-	-	-	-
+sunAmI_1(tsunami_1)	4	-	-	6:r6	-	-	-	-
+saMkewa_1	6	-	-	10:k1	-	-	-	-
+3	7	numex	-	8:card	-	-	-	-
+GaMtA_1	8	-	pl	9:mod	-	-	-	-
+pahalA_1	9	-	-	10:rblpk	-	-	-	-
+mila_1-0_sakwA_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0071a>
+#प्रशांत महासागर में प्राथमिक चेतावनी की ऐसी प्रणालियाँ क्रियाशील हैं।
+#praSAMwa mahAsAgara meM prAWamika cewAvanI kI EsI praNAliyAz kriyASIla hEM.
+#Such early warning system are in place across the Pacific Ocean but not in Indian ocean.
+praSAMwa	1	-	-	-	-	-	-	12:begin
+mahAsAgara(ocean_4)	2	-	-	10:k7p	-	def	-	-
+prAWamika_1	4	-	-	5:mod	-	-	-	-
+cewAvanI_1(warning_1)	5	-	-	8:r6	-	-	-	-
+Isa_1	7	-	-	13:dem	-	-	-	-
+praNAli_1	8	-	pl	10:k1	-	-	-	-
+kriyASIla_1	9	-	-	10:k1s	-	-	-	-
+hE_1-pres	10	-	-	0:main	-	-	-	-
+[ne_1]	12	place	-	2:mod	-	-	-	-
+prakAra_1	13	-	-	8:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0071b>
+#लेकिन हिंद महासागर में ये सुविधाएँ नहीं है।
+#lekina hiMxa mahAsAgara meM ye suviXAez nahIM hE.
+#Such early warning system are in place across the Pacific Ocean but not in Indian ocean.
+hiMxa	1	-	-	-	-	-	-	9:begin
+mahAsAgara	2	-	-	7:k7p	-	-	-	-
+$wyax	4	-	-	5:dem	Geo_ncert_7stnd_5ch_0071a.8:coref	proximal	-	-
+suviXA_1(facility_2)	5	-	pl	7:k1	-	-	-	-
+nahIM_1(not_1)	6	-	-	7:neg	-	-	-	-
+hE_1-pres	7	-	-	0:main	Geo_ncert_7stnd_5ch_0071a.10:viroXI	-	-	-
+[ne_1]	9	place	-	2:mod	-	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0072a>
+#प्रशांत महासागर की तुलना में हिंद महासागर में सुनामी कभी-कभी ही आती हैं।
+#praSAMwa mahAsAgara kI wulanA meM hiMxa mahAsAgara meM sunAmI kaBI-kaBI hI AwI hEM.
+#Tsunamis are rare in the Indian ocean as the seismic activity is less as compared to Pacific.
+praSAMwa	1	-	-	-	-	-	-	15:begin
+mahAsAgara_1(ocean_4)	2	-	-	12:k7p	-	-	-	-
+hiMxa	6	-	-	-	-	-	-	16:begin
+mahAsAgara_1(ocean_4)	7	-	-	2:rv	-	def	-	-
+sunAmI_1(tsunami_1)	9	-	-	12:k1	-	-	-	-
+kaBI_1	10	-	xviwva	12:freq	-	hI_1	-	-
+A_1-wA_hE_1	12	-	-	0:main	-	-	-	-
+[ne_1]	15	place	-	2:mod	-	-	-	-
+[ne_2]	16	place	-	7:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0072b>
+#क्योंकि यहाँ भूकंपी क्रिया बहुत कम होती है।
+#kyoMki yahAz BUkaMpI kriyA bahuwa kama howI hE.
+#Tsunamis are rare in the Indian ocean as the seismic activity is less as compared to Pacific.
+$wyax	1	-	-	6:k7p	Geo_ncert_7stnd_5ch_0072a.7:coref	proximal	-	-
+BUkaMpI_1(seismic_1)	2	-	-	3:mod	-	-	-	-
+kriyA_11(activity_1)	3	-	-	6:k1	-	-	-	-
+bahuwa_7(very_1)	4	-	-	5:intf	-	-	-	-
+kama_4(less_1)	5	-	-	6:k1s	-	-	-	-
+ho_1-wA_hE_1	6	-	-	-	Geo_ncert_7stnd_5ch_0072a.12:kAryakAraNa	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0073>
+#दिसंबर 2004 में जिस सुनामी ने दक्षिण एवं दक्षिण-पूर्वी एशिया के तटों पर तबाही मचाई वह पिछले कई सौ वर्षों की सर्वाधिक विनाशकारी सुनामी थी।
+#xisaMbara 2004 meM jisa sunAmI ne xakRiNa evaM xakRiNa-pUrvI eSiyA ke watoM para wabAhI macAI vaha piCale kaI sO varRoM kI sarvAXika vinASakArI sunAmI WI.
+#The tsunami that ravaged the south and Southeast Asia coasts in December 2004 is the most devastating Tsunami in the last several hundred years.
+xisaMbara_1	1	moy	-	-	-	-	-	30:component1
+2004	2	yoc	-	-	-	-	-	30:component2
+$yax	4	-	-	5:dem	-	-	-	-
+sunAmI_1(tsunami_1)	5	-	-	28:k1	-	def	-	-
+xakRiNa_2(south_2)	7	-	-	-	-	-	-	29:op1
+xakRiNa+pUrvI_1	9	-	-	-	-	-	-	29:op2
+eSiyA	10	-	-	-	-	-	-	31:begin
+wata_2(coast_1)	12	-	pl	28:k7p	-	-	-	-
+wabAhI_1	14	-	-	-	-	-	-	28:kriyAmUla
+macA_1-yA_1	15	-	-	-	-	-	-	28:verbalizer
+$wyax	16	-	-	25:k1	Geo_ncert_7stnd_5ch_0073.5:coref	distal	-	-
+piCalA_7(last_6)	17	-	pl	20:mod	-	-	-	-
+koI_1	18	-	-	20:quant	-	-	-	-
+100	19	numex	-	20:card	-	-	-	-
+varRa_1(year_4)	20	-	pl	24:r6	-	-	-	-
+vinASakArI_1(destructive_18)	23	-	superl	24:mod	-	-	-	-
+sunAmI_1(tsunami_1)	24	-	-	25:k1s	-	-	-	-
+hE_1-past	25	-	-	0:main	-	-	-	-
+[cp_1]	28	-	-	16:rcelab	-	-	-	-
+[conj_1]	29	-	-	10:mod	-	-	-	-
+[calender_1]	30	-	-	28:k7t	-	-	-	-
+[ne_1]	31	place	-	12:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0074>
+#हिंद महासागर में निरीक्षण, आरंभिक चेतावनी की प्रणालियों एवं हिंद महासागर के तटीय निवासियों में जागरूकता की कमी के कारण जीवन एवं संपत्ति की अत्यधिक क्षति हुई।
+#hiMxa mahAsAgara meM nirIkRaNa, AraMBika cewAvanI kI praNAliyoM evaM hiMxa mahAsAgara ke watIya nivAsiyoM meM jAgarUkawA kI kamI ke kAraNa jIvana evaM saMpawwi kI awyaXika kRawi huI.
+#The large damage caused to life and the property was primarily a result of lack of monitoring the early warning system and knowledge among the coast dwellers as of Indian Ocean.
+hiMxa	1	-	-	-	-	-	-	30:begin
+mahAsAgara_1(ocean_4)	2	-	-	4:k7p	-	-	-	-
+nirIkRaNa_1	4	-	-	-	-	-	-	33:op1
+AraMBika_1	6	-	-	7:mod	-	-	-	-
+cewAvanI_1(warning_1)	7	-	-	9:r6	-	-	-	-
+praNAli_1	9	-	pl	-	-	-	-	33:op2
+hiMxa	11	-	-	-	-	-	-	31:begin
+mahAsAgara_1(ocean_4)	12	-	-	15:r6	-	-	-	-
+watIya_1(coastal_3)	14	-	-	15:mod	-	-	-	-
+nivAsiya_1	15	-	pl	17:mod	-	-	-	-
+jAgarUkawA_1	17	-	-	-	-	-	-	33:op3
+kamI_4(lack_2)	19	-	-	28:rh	-	-	-	-
+jIvana_1(life_7)	22	-	-	-	-	-	-	34:op1
+saMpawwi_1(property_10)	24	-	-	-	-	-	-	34:op2
+awyaXika_1	26	-	-	27:intf	-	-	-	-
+kRawi_6(damage_2)	27	-	-	28:k1s	-	-	-	-
+ho_1-yA_1	28	-	-	-	-	-	-	-
+[ne_1]	30	place	-	2:mod	-	-	-	-
+[ne_2]	31	place	-	12:mod	-	-	-	-
+[conj_1]	33	-	-	19:r6	-	-	-	-
+[conj_2]	34	-	-	28:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0075a>
+#सुनामी आने का प्रथम संकेत यह होता है।
+#sunAmI Ane kA praWama saMkewa yaha howA hE.
+#The first indication that Tsunami is approaching is a rapid withdrawal of water from the coastal region followed by the destructive wave.
+sunAmI_1(tsunami_1)	1	-	-	2:k1	-	-	-	-
+A_1	2	-	-	5:r6	-	-	-	-
+praWama_3(first_7)	4	-	-	5:ord	-	-	-	-
+saMkewa_3(indication_4)	5	-	-	7:k1	-	def	-	-
+$wyax	6	-	-	7:k1s	Geo_ncert_7stnd_5ch_0075b.9:coref	proximal	-	-
+ho_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0075b>
+#कि तटीय क्षेत्र से जल में तेजी से कमी आती है।
+#ki watIya kRewra se jala meM wejI se kamI AwI hE.
+#The first indication that Tsunami is approaching is a rapid withdrawal of water from the coastal region followed by the destructive wave.
+watIya_1(coastal_3)	1	-	-	2:mod	-	-	-	-
+kRewra_4(region_3)	2	-	-	9:k5	-	-	-	-
+jala_1(water_3)	4	-	-	9:k7	-	-	-	-
+wejI_1	6	-	-	9:krvn	-	-	-	-
+kamI_1	8	-	-	9:k1	-	-	-	-
+A_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0075c>
+#और फिर विनाशकारी तरंगें उठने लगती हैं।
+#Ora Pira vinASakArI waraMgeM uTane lagawI hEM.
+#The first indication that Tsunami is approaching is a rapid withdrawal of water from the coastal region followed by the destructive wave.
+Pira_1	1	-	-	4:krvn	-	-	-	-
+vinASakArI_1(destructive_18)	2	-	-	3:mod	-	-	-	-
+waraMga_1(wave_3)	3	-	pl	4:k1	-	def	-	-
+uTa_1-nA_lagawA_hE_1	4	-	-	0:main	Geo_ncert_7stnd_5ch_0075a.7:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0076a>
+#जब तट पर ऐसा हुआ था।
+#jaba wata para EsA huA WA.
+#When this happened on the coast instead of people going to high ground they started assembling at the coast to view the Miracle.
+wata_2(coast_1)	1	-	-	4:k7p	-	-	-	-
+prakAr_1	3	-	-	4:k1	-	-	-	-
+ho_1-yA_WA_1	4	-	-	0:main	-	-	-	-
+$yax	8	-	-	4:k7t	-	-	-	-
+Isa_1	9	-	-	3:dem	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0076b>
+#तो लोग ऊँचे स्थानों पर न जाकर उस अचंभे को देखने के लिए तट पर एकत्र होने लगे।
+#wo loga Uzce sWAnoM para na jAkara usa acaMBe ko xeKane ke lie wata para ekawra hone lage.
+#When this happened on the coast instead of people going to high ground they started assembling at the coast to view the Miracle.
+loga_2(people_5)	1	-	-	16:k1	-	-	-	-
+UzcA_1(high_5)	2	-	-	3:mod	-	-	-	-
+sWAna_1	3	-	pl	6:k7p	-	-	-	-
+na_1	5	-	-	6:neg	-	-	-	-
+jA_1	6	-	-	16:rpk	-	-	-	-
+$wyax	7	-	-	8:dem	-	distal	-	-
+acaMBA_1	8	-	pl	10:k2	-	-	-	-
+xeKa_4(view_7)	10	-	-	16:rt	-	-	-	-
+wata_2(coast_1)	13	-	-	16:k7p	-	-	-	-
+ekawra_1	15	-	-	16:k1s	-	-	-	-
+ho_1-nA_laga_1	16	-	-	0:main	Geo_ncert_7stnd_5ch_0076a.4:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0077a>
+#इसके फलस्वरूप जब सुनामी की विशाल तरंग आई।
+#isake PalasvarUpa jaba sunAmI kI viSAla waraMga AI.
+#As the consequence is there was a large casualty of curious onlookers when the gigantic Waves Tsunami struck.
+$yax	3	-	-	8:k7t	-	-	-	-
+sunAmI_1(tsunami_1)	4	-	-	7:r6	-	-	-	-
+viSAla_9(gigantic_7)	6	-	-	7:intf	-	-	-	-
+waraMga_1(wave_3)	7	-	-	8:k1	-	-	-	-
+A_1-yA_1	8	-	-	0:main	Geo_ncert_7stnd_5ch_0076b.16:pariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0077b>
+#तो बड़ी संख्या में उत्सुक खडे दर्शकों की मृत्यु हो गई।
+#wo badZI saMKyA meM uwsuka Kade xarSakoM kI mqwyu ho gaI.
+#As the consequence is there was a large casualty of curious onlookers when the gigantic Waves Tsunami struck.
+badZA_1	1	-	-	2:quant	-	-	-	-
+saMKyA_1(number_8)	2	-	-	9:k7	-	-	-	-
+uwsuka_1(curious_2)	4	-	-	6:mod	-	-	-	-
+KadA_1	5	-	-	6:mod	-	-	-	-
+xarSaka_1(onlooker_1)	6	-	pl	8:k1	-	-	-	-
+mqwyu_1	8	-	-	-	-	-	-	12:kriyAmUla
+ho_1-yA_1	9	-	-	-	-	[shade:jA_1]	-	12:verbalizer
+[cp_1]	12	-	-	0:main	Geo_ncert_7stnd_5ch_0077a.8:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0078>
+#दिन में दो बार नियम से महासागरीय जल का उठना एवं गिरना ‘ज्वार-भाटा’ कहलाता है।
+#xina meM xo bAra niyama se mahAsAgarIya jala kA uTanA evaM giranA ‘jvAra-BAtA’ kahalAwA hE.
+#The rhythmic rise and fall of ocean water twice in a day is called tide.
+xina_1(day_6)	1	-	-	17:k7t	-	-	-	-
+2	3	numex	-	-	-	-	-	19:count
+bAra_1	4	-	-	-	-	-	-	19:unit
+niyama_1	5	-	-	17:k7	-	-	-	-
+mahAsAgarIya_1(ocean_17)	7	-	-	8:mod	-	-	-	-
+jala_1(water_3)	8	-	-	17:r6	-	-	-	-
+uTa_3(rise_17)	10	-	-	-	-	-	-	17:op1
+gira_1(fall_5)	12	-	-	-	-	-	-	17:op2
+kaha_1-lAwA_hE_1	14	-	-	0:main	-	-	-	-
+[conj_1]	17	-	-	14:k2	-	def	-	-
+jvAra+BAta_1(tide_1)	18	-	-	14:k2s	-	-	-	-
+[time_meas_1]	19	-	-	17:freq	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0079>
+#जब सर्वाधिक ऊँचाई तक उठकर जल, तट के बड़े हिस्से को डुबो देता है, तब उसे ज्वार कहते हैं।
+#jaba sarvAXika UzcAI waka uTakara jala, wata ke badZe hisse ko dubo xewA hE, waba use jvAra kahawe hEM.
+#It is high tide when water covers much of the Shore by rising to its highest level.
+UzcAI_1	2	-	superl	-	-	-	-	22:end
+uTa_1	4	-	-	12:rpk	-	-	-	-
+jala_1(water_3)	5	-	-	12:k1	-	-	-	-
+wata_3(shore_2)	7	-	-	10:r6	-	def	-	-
+badZA_1	9	-	-	10:quant	-	-	-	-
+hissA_1	10	-	pl	12:k2	-	-	-	-
+duba_1-wA_hE_1	12	-	-	21:rcsamAnakAla	-	[shade:xe_1]	-	-
+$wyax	17	-	-	19:k2	-	distal	-	-
+jvAra_1	18	-	-	19:k2s	-	-	-	-
+kaha_1-wA_hE_1	19	-	-	0:main	-	-	-	-
+$yax	20	-	-	12:k7t	-	-	-	-
+$wyax	21	-	-	19:k7t	Geo_ncert_7stnd_5ch_0079.20:coref	-	-	-
+[span_1]	22	-	-	4:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0080a>
+#जब जल अपने निम्नतम स्तर तक आ जाता है।
+#jaba jala apane nimnawama swara waka A jAwA hE .
+#It is low tide then water falls to its lowest level and recedes from the shore.
+jala_1(water_3)	1	-	-	6:k1	-	-	-	-
+apanA	2	-	-	4:r6	-	-	-	-
+nimna_1(low_6)	3	-	superl	4:mod	-	-	-	-
+swara_2(level_6)	4	-	-	6:k7p	-	-	-	-
+A_1-wA_hE_1	6	-	-	0:main	Geo_ncert_7stnd_5ch_0080c.3:AvaSyakawApariNAma	[shade:jA_1]	-	-
+$yax	7	-	-	6:k7t	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0080b>
+#एवं तट से पीछे चला जाता है।
+#evaM wata se pICe calA jAwA hE.
+#It is low tide then water falls to its lowest level and recedes from the shore.
+wata_3(shore_2)	1	-	-	4:k5	-	-	-	-
+pICA_1	3	-	-	4:k7p	-	-	-	-
+calA_1-yA_jA_wA_hE_1	4	-	-	0:main	Geo_ncert_7stnd_5ch_0080a.6:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0080c>
+#तो उसे भाटा कहते हैं।
+#wo use BAtA kahawe hEM.
+#It is low tide then water falls to its lowest level and recedes from the shore.
+$wyax	1	-	-	3:k2	Geo_ncert_7stnd_5ch_0080a.6:coref	distal	-	-
+BAtA_1	2	-	-	3:k2s	-	-	-	-
+kaha_1-wA_hE_1	3	-	-	0:main	Geo_ncert_7stnd_5ch_0080b.3:AvaSyakawApariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0081>
+#सूर्य एवं चंद्रमा के शक्तिशाली गुरुत्वाकर्षण बल के कारण पृथ्वी की सतह पर ज्वार-भाटे आते हैं।
+#sUrya evaM caMxramA ke SakwiSAlI guruwvAkarRaNa bala ke kAraNa pqWvI kI sawaha para jvAra-BAte Awe hEM.
+#The strong gravitational pull exerted by the sun and the moon on the earth surface causes the Tides.
+sUrya_1(sun_5)	1	-	-	-	-	def	-	19:op1
+caMxramA_1(moon_3)	3	-	-	-	-	def	-	19:op2
+SakwiSAlI_2(strong_35)	5	-	-	20:mod	-	-	-	-
+guruwvAkarRaNa_1	6	-	-	-	-	-	-	20:mod
+bala_1	7	-	-	-	-	-	-	20:head
+pqWvI_1(earth_9)	10	-	-	12:r6	-	def	-	-
+sawaha_1(surface_3)	12	-	-	15:k7p	-	-	-	-
+jvAra+BAtA_1	14	-	-	15:k1	-	def	-	-
+A_1-wA_hE_1	15	-	-	0:main	-	-	-	-
+[conj_1]	19	-	-	20:r6	-	-	-	-
+[nc_1]	20	-	-	15:rh	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0082a>
+#जब पृथ्वी का जल चंद्रमा के निकट होता है उस समय चंद्रमा के गुरुत्वाकर्षण बल से जल अभिकर्षित होता हैं।
+#jaba pqWvI kA jala caMxramA ke nikata howA hE usa samaya caMxramA ke guruwvAkarRaNa bala se jala aBikarRiwa howA hEM.
+#The water of earth closer to the moon gets put under the influence of the Moon's gravitational force causes high tide.
+pqWvI_1(earth_9)	1	-	-	3:r6	-	def	-	-
+jala_1(water_3)	3	-	-	7:k1	-	def	-	-
+caMxramA_1(moon_3)	4	-	-	6:rdl	-	def	-	-
+nikata_2(close_5)	6	-	-	7:k7p	-	-	-	-
+ho_1-wA_hE_1	7	-	-	10:rcsamAnakAla	-	-	-	-
+$wyax	9	-	-	10:dem	-	distal	-	-
+samaya_1(time_8)	10	-	-	22:k7t	-	-	-	-
+caMxramA_1(moon_3)	11	-	-	21:r6	-	def	-	-
+guruwvAkarRaNa_1	13	-	-	-	-	-	-	21:mod
+bala_3(force_5)	14	-	-	-	-	-	-	21:head
+jala_1(water_3)	16	-	-	22:k1	-	-	-	-
+aBikarRiwa_1(influence_1)	17	-	-	-	-	-	-	22:kriyAmUla
+ho_1-wA_hE_1	18	-	-	-	-	-	-	22:verbalizer
+[nc_1]	21	-	-	22:k3	-	-	-	-
+[cp_1]	22	-	-	0:main	-	-	-	-
+$yax	23	-	-	7:k7t	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0082b>
+#इसके कारण उच्च ज्वार आते हैं।
+#isake kAraNa ucca jvAra Awe hEM.
+#The water of earth closer to the moon gets put under the influence of the Moon's gravitational force causes high tide.
+ucca_1(high_1)	3	-	-	4:mod	-	-	-	-
+jvAra_1(tide_1)	4	-	-	5:k1	-	-	-	-
+A_1-wA_hE_1	5	-	-	0:main	Geo_ncert_7stnd_5ch_0082a.22:pariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0083a>
+#पूर्णिमा एवं अमावस्या के दिनों में सूर्य, चंद्रमा एवं पृथ्वी तीनों एक सीध में होते हैं।
+#pUrNimA evaM amAvasyA ke xinoM meM sUrya, caMxramA evaM pqWvI wInoM eka sIXa meM howe hEM.
+#During the full moon and new moon days, the sun, the moon and the earth are in same line and the Tides are highest.
+pUrNimA_1	1	-	-	-	-	def	-	19:op1
+amAvasyA_1(Amavasya_1)	3	-	-	-	-	def	-	19:op2
+xina_1(day_6)	5	-	pl	16:k7t	-	-	-	-
+sUrya_1(sun_5)	7	-	-	-	-	def	-	20:op1
+caMxramA_1(moon_3)	9	-	-	-	-	def	-	20:op2
+pqWvI_1(earth_9)	11	-	-	-	-	def	-	20:op3
+3	12	numex	pl	16:k1s	-	-	-	-
+eka_7(same_1)	13	-	-	14:mod	-	-	-	-
+sIXa_1	14	-	-	16:k7	-	-	-	-
+ho_1-wA_hE_1	16	-	-	0:main	-	-	-	-
+[conj_1]	19	-	-	5:r6	-	-	-	-
+[conj_2]	20	-	-	16:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0083b>
+#और इस समय सबसे ऊँचे ज्वार उठते हैं।
+#Ora isa samaya sabase Uzce jvAra uTawe hEM.
+#During the full moon and new moon days, the sun, the moon and the earth are in same line and the Tides are highest.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+samaya_1(time_8)	2	-	-	6:k7t	-	-	-	-
+UzcA_1(high_5)	4	-	superl	6:k1s	-	-	-	-
+jvAra_1	5	-	-	6:k1	-	def	-	-
+uTa_1-wA_hE_1	6	-	-	0:main	Geo_ncert_7stnd_5ch_0083a.16:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0084>
+#इस ज्वार को बृहत् ज्वार कहते हैं।
+#isa jvAra ko bqhaw jvAra kahawe hEM.
+#These Tides are called spring tides.
+$wyax	1	-	-	2:dem	Geo_ncert_7stnd_5ch_0083b.5:coref	proximal	-	-
+jvAra_1	2	-	-	6:k2	-	-	-	-
+bqhaw_1	4	-	-	5:mod	-	-	-	-
+jvAra_1	5	-	-	6:k2s	-	-	-	-
+kaha_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0085a>
+#लेकिन जब चाँद अपने प्रथम एवं अंतिम चतुर्थांश में होता है।
+#lekina jaba cAzxa apane praWama evaM aMwima cawurWAMSa meM howA hE.
+#But when the moon is in its first and last quarter the ocean waters get drawn in diagonally opposite directions by the gravitational pull of sun and moon resulting in low tide.
+$yax	1	-	-	9:k7t	-	-	-	-
+cAzxa_1(moon_4)	2	-	-	9:k1	-	def	-	-
+apanA	3	-	-	12:r6	-	-	-	-
+praWama_3(first_7)	4	-	-	-	-	-	-	12:op1
+aMwima_1(last_1)	6	-	-	-	-	-	-	12:op2
+cawurWAMSa_1	7	-	-	9:k7	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	Geo_ncert_7stnd_5ch_0084.6:viroXI	-	-	-
+[conj_1]	12	-	-	7:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0085b>
+#तो चाँद एवं सूर्य का गुरुत्वाकर्षण बल विपरीत दिशाओं से महासागरीय जल पर पडता है।
+#wo cAzxa evaM sUrya kA guruwvAkarRaNa bala viparIwa xiSAoM se mahAsAgarIya jala para padawA hE.
+#But when the moon is in its first and last quarter the ocean waters get drawn in diagonally opposite directions by the gravitational pull of sun and moon resulting in low tide.
+cAzxa_1(moon_4)	1	-	-	-	-	def	-	17:op1
+sUrya_1(sun_5)	3	-	-	-	-	def	-	17:op2
+guruwvAkarRaNa_1	5	-	-	-	-	-	-	16:mod
+bala_3(force_5)	6	-	-	-	-	-	-	16:head
+viparIwa_1(opposite_3)	7	-	-	8:mod	-	-	-	-
+xiSA_1(direction_6)	8	-	pl	13:vkvn	-	-	-	-
+mahAsAgarIya_1(ocean_17)	10	-	-	11:mod	-	-	-	-
+jala_1(water_3)	11	-	-	13:k7p	-	-	-	-
+pada_1-wA_hE_1	13	-	-	0:main	Geo_ncert_7stnd_5ch_0085a.9:AvaSyakawApariNAma	-	-	-
+[nc_1]	16	-	-	13:k1	-	def	-	-
+[conj_1]	17	-	-	16:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0085c>
+#परिणामस्वरूप, निम्न ज्वार-भाटा आता है।
+#pariNAmasvarUpa, nimna jvAra-BAtA AwA hE.
+#But when the moon is in its first and last quarter the ocean waters get drawn in diagonally opposite directions by the gravitational pull of sun and moon resulting in low tide.
+nimna_1(low_6)	3	-	-	4:mod	-	-	-	-
+jvAra+BAtA_1	4	-	-	5:k1	-	-	-	-
+A_1-wA_hE_1	5	-	-	0:main	Geo_ncert_7stnd_5ch_0085b.13:pariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0086>
+#ऐसे ज्वार को लघु ज्वार-भाटा कहते हैं।
+#Ese jvAra ko laGu jvAra-BAtA kahawe hEM.
+#These are called neap tides.
+IsA_1	1	-	-	7:dem	-	-	-	-
+jvAra_1	2	-	-	6:k2	-	-	-	-
+laGu_1	4	-	-	5:mod	-	-	-	-
+jvAra+BAtA_1	5	-	-	6:k2s	-	-	-	-
+kaha_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+prakAr_1	7	-	-	2:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0087>
+#उच्च ज्वार नौसंचालन में सहायक होता है।
+#ucca jvAra nOsaMcAlana meM sahAyaka howA hE.
+#High Tides help in navigation.
+ucca_1(high_1)	1	-	-	2:mod	-	-	-	-
+jvAra_1	2	-	-	9:k1	-	-	-	-
+nOsaMcAlana_1(navigation_7)	3	-	-	9:k7	-	-	-	-
+sahAyaka_1	5	-	-	-	-	-	-	9:kriyAmUla
+ho_1-wA_hE_1	6	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0088>
+#ये जल-स्तर को तट की ऊँचाई तक पहुँचाते हैं।
+#ye jala-swara ko wata kI UzcAI waka pahuzcAwe hEM.
+#They is the water level close to the shores.
+$wyax	1	-	-	8:k1	Geo_ncert_7stnd_5ch_0086.5:coref	proximal	-	-
+jala+swara_1	2	-	-	8:k2	-	def	-	-
+wata_3(shore_2)	4	-	-	9:r6	-	-	-	-
+UzcAI_1	6	-	-	-	-	-	-	9:end
+pahuzca_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+[span_1]	9	-	-	8:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0089>
+#ये जहाज को बंदरगाह तक पहुँचाने में सहायक होते हैं।
+#ye jahAja ko baMxaragAha waka pahuzcAne meM sahAyaka howe hEM.
+#This helps the ships to arrive at the harbour more easily.
+$wyax	1	-	-	12:k1	Geo_ncert_7stnd_5ch_0087.2:coref	proximal	-	-
+jahAja_1(ship_5)	2	-	-	6:k2	-	-	-	-
+baMxaragAha_1(harbour_2)	4	-	-	-	-	-	-	13:end
+pahuzcA_1	6	-	-	12:k7	-	-	-	-
+sahAyaka_1	8	-	-	-	-	-	-	12:kriyAmUla
+ho_1-wA_hE_1	9	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	-	-	-	-
+[span_1]	13	-	-	6:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0090>
+#उच्च ज्वार मछली पकडने में भी मदद करते हैं।
+#ucca jvAra maCalI pakadane meM BI maxaxa karawe hEM.
+#The high tides also help in fishing.
+ucca_1(high_1)	1	-	-	2:mod	-	-	-	-
+jvAra_1(tide_1)	2	-	-	11:k1	-	-	-	-
+maCalI_1(fish_2)	3	-	-	4:k2	-	-	-	-
+pakada_1	4	-	-	11:k7	-	BI_1	-	-
+maxaxa_1(help_4)	7	-	-	-	-	-	-	11:kriyAmUla
+kara_1-wA_hE_1	8	-	-	-	-	-	-	11:verbalizer
+[cp_1]	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0091>
+#उच्च ज्वार के दौरान अनेक मछलियाँ तट के निकट आ जाती हैं।
+#ucca jvAra ke xOrAna aneka maCaliyAz wata ke nikata A jAwI hEM.
+#Many more fish come closer to a shore during the high tide.
+ucca_1(high_1)	1	-	-	2:mod	-	-	-	-
+jvAra_1	2	-	-	11:rkl	-	-	-	-
+aneka_1(many_2)	5	-	-	6:quant	-	-	-	-
+maCalI_1(fish_2)	6	-	pl	10:k1	-	-	-	-
+wata_3(shore_2)	7	-	-	9:rdl	-	-	-	-
+nikata_2(close_5)	9	-	-	10:k7p	-	-	-	-
+A_1-wA_hE_1	10	-	-	0:main	-	[shade:jA_1]	-	-
+xOrAna_1	11	-	-	10:k7t	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0092>
+#इसके फलस्वरूप मछुआरे बिना कठिनाई के मछलियाँ पकड पाते हैं।
+#isake PalasvarUpa maCuAre binA kaTinAI ke maCaliyAz pakada pAwe hEM.
+#isake PalasvarUpa maCuAre binA kaTinAI ke maCaliyAz pakada pAwe hEM.
+maCuArA_2(fisherman_4)	3	-	pl	8:k1	-	-	-	-
+kaTinAI_7(difficulty_27)	5	-	-	8:krvnneg	-	-	-	-
+maCalI_1(fish_2)	7	-	pl	8:k2	-	-	-	-
+pakada_1-wA_hE_1	8	-	-	0:main	Geo_ncert_7stnd_5ch_0091.10:pariNAma	[shade:pA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0093>
+#कुछ स्थानों पर ज्वार-भाटे से होने वाले जल के उतार-चढाव का उपयोग विद्युत उत्पन्न करने के लिए किया जाता है।
+#kuCa sWAnoM para jvAra-BAte se hone vAle jala ke uwAra-caDAva kA upayoga vixyuwa uwpanna karane ke lie kiyA jAwA hE.
+#The rise the and the fall water due to Tides is being used to generate electricity in some places.
+kuCa_1(some_2)	1	-	-	2:quant	-	-	-	-
+sWAna_1(place_14)	2	-	pl	6:k7p	-	-	-	-
+jvAra+BAta_1	4	-	-	6:rh	-	-	-	-
+ho_6(be_4)	6	-	mawup	25:mod	-	-	-	-
+jala_1(water_3)	8	-	-	25:r6	-	-	-	-
+uwAra_3(fall_3)	10	-	-	-	-	-	-	25:op1
+upayoga_1(use_2)	12	-	-	-	-	-	-	22:kriyAmUla
+vixyuwa_3(electricity_2)	13	-	-	23:k2	-	-	-	-
+uwpanna_1	14	-	-	-	-	-	-	23:kriyAmUla
+kara_17(do_2)	15	-	-	-	-	-	-	23:verbalizer
+kara_1-yA_jA_wA_hE_1	18	-	-	-	-	-	-	22:verbalizer
+[cp_1]	22	-	-	0:main	-	-	-	-
+[cp_2]	23	-	-	22:rt	-	-	-	-
+caDAva_1	24	-	-	-	-	-	-	25:op2
+[nc_1]	25	-	-	12:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0094>
+#आप एक बाल्टी को नल के पानी से तीन-चौथाई भरें।
+#Apa eka bAltI ko nala ke pAnI se wIna-cEWAI BareM.
+#Apa eka bAltI ko nala ke pAnI se wIna-cOWAI BareM.
+$addressee	1	anim	-	10:k1	-	respect	-	-
+1	2	numex	-	3:card	-	-	-	-
+bAltI_1(bucket_1)	3	-	-	10:k2	-	-	-	-
+nala_2(tap_9)	5	-	-	7:r6	-	-	-	-
+pAnI_1(water_7)	7	-	-	10:k5	-	-	-	-
+4	9	numex	-	13:card	-	-	-	-
+Bara_1-o_1	10	-	-	0:main	-	-	-	-
+BAga_2(part_9)	11	-	-	10:quant	-	-	-	-
+3	12	numex	-	11:card	-	-	-	-
+BAga_2(part_9)	13	-	-	11:rn	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0095>
+#आप बाल्टी के एक ओर निमज्जन छड डालकर पानी को गर्म करें।
+#Apa bAltI ke eka ora nimajjana Cada dAlakara pAnI ko garma kareM.
+#Heat the water by putting an immersion rod on one side of bucket.
+$addressee	1	anim	-	12:k1	-	respect	-	-
+bAltI_1(bucket_1)	2	-	-	5:rdl	-	-	-	-
+eka_6(one_1)	4	-	-	5:quant	-	-	-	-
+ora_1(side_1)	5	-	-	8:k7	-	-	-	-
+nimajjana_3(immersion_3)	6	-	-	7:mod	-	-	-	-
+Cada_1(rod_5)	7	-	-	8:k2	-	-	-	-
+dAla_6(put_3)	8	-	-	12:rpk	-	-	-	-
+pAnI_1(water_7)	9	-	-	12:k2	-	-	-	-
+garma_2(hot_7)	11	-	-	12:k2s	-	-	-	-
+kara_1-o_1	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0096>
+#आप दूसरी ओर फ्रिज से निकली बर्फ डालें।
+#Apa xUsarI ora Prija se nikalI barPa dAleM.
+#On the other side introduce an ice tray just removed from a freezer.
+$addressee	1	anim	-	8:k1	-	respect	-	-
+xUsarA_8(other_3)	2	-	-	3:ord	-	-	-	-
+ora_1(side_1)	3	-	-	8:k7p	-	-	-	-
+Prija_1(freezer_2)	4	-	-	6:k5	-	-	-	-
+nikala_1	6	-	-	7:rbks	-	-	-	-
+barPa_2(ice_7)	7	-	-	8:k2	-	-	-	-
+dAla_1-o_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0097>
+#आप एक बूँद लाल स्याही डालकर संवहन की प्रक्रिया के द्वारा धारा के मार्ग का निरीक्षण कीजिए।
+#Apa eka bUzxa lAla syAhI dAlakara saMvahana kI prakriyA ke xvArA XArA ke mArga kA nirIkRaNa kIjie.
+#Add a drop of red ink to observe the path of current by the process of convection
+$addressee	1	anim	-	19:k1	-	respect	-	-
+1	2	numex	-	3:card	-	-	-	-
+bUzxa_1(drop_10)	3	-	-	5:quant	-	-	-	-
+lAla_1(red_44)	4	-	-	5:mod	-	-	-	-
+syAhI_1(ink_3)	5	-	-	6:k2	-	-	-	-
+dAla_3	6	-	-	19:rpk	-	-	-	-
+saMvahana_1	7	-	-	9:r6	-	-	-	-
+prakriyA_1(process_3)	9	-	-	19:k3	-	-	-	-
+XArA_1(current_4)	12	-	-	14:r6	-	-	-	-
+mArga_2(path_8)	14	-	-	19:k2	-	-	-	-
+nirIkRaNa_3	16	-	-	-	-	-	-	19:kriyAmUla
+kara_1-o_1	17	-	-	-	-	-	-	19:verbalizer
+[cp_1]	19	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0098>
+#महासागरीय धाराएँ, निश्चित दिशा में महासागरीय सतह पर नियमित रूप से बहने वाली जल की धाराएँ होती हैं।
+#mahAsAgarIya XArAez, niSciwa xiSA meM mahAsAgarIya sawaha para niyamiwa rUpa se bahane vAlI jala kI XArAez howI hEM.
+#Ocean currents are stream of water flowing constantly on a ocean surface in definite directions.
+mahAsAgarIya_1(ocean_17)	1	-	-	2:mod	-	-	-	-
+XArA_1(current_4)	2	-	pl	18:k1	-	-	-	-
+niSciwa_1(definite_2)	4	-	-	5:mod	-	-	-	-
+xiSA_1(direction_6)	5	-	-	13:k7	-	-	-	-
+mahAsAgarIya_1(ocean_17)	7	-	-	8:mod	-	-	-	-
+sawaha_1(surface_3)	8	-	-	13:k7p	-	-	-	-
+niyamiwa_1	10	-	-	11:mod	-	-	-	-
+rUpa_1(form_10)	11	-	-	13:krvn	-	-	-	-
+baha_1(flow_5)	13	-	mawup	15:mod	-	-	-	-
+jala_1(water_3)	15	-	-	17:r6	-	-	-	-
+XArA_2(stream_1)	17	-	pl	18:k1s	-	-	-	-
+ho_1-wA_hE_1	18	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0099>
+#महासागरीय धाराएँ गर्म या ठंडी हो सकती हैं।
+#mahAsAgarIya XArAez garma yA TaMdI ho sakawI hEM.
+#The ocean currents may be warm or cold.
+mahAsAgarIya_1(ocean_17)	1	-	-	2:mod	-	-	-	-
+XArA_1(current_4)	2	-	pl	6:k1	-	-	-	-
+garma_1(warm_6)	3	-	-	-	-	-	-	10:op1
+TaMdA_2(cold_4)	5	-	-	-	-	-	-	10:op2
+ho_1-0_sakawA_hE_1	6	-	-	0:main	-	-	-	-
+[disjunct_1]	10	-	-	6:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0100a>
+#सामान्यतः गर्म महासागरीय धाराएँ, भूमध्य रेखा के निकट उत्पन्न होती हैं।
+#sAmAnyawaH garma mahAsAgarIya XArAez, BUmaXya reKA ke nikata uwpanna howI hEM.
+#Generally the warm ocean currents originate near the equator move towards the poles.
+sAmAnyawaH_1(General_1)	1	-	-	15:krvn	-	-	-	-
+garma_1(warm_6)	2	-	-	4:mod	-	-	-	-
+mahAsAgarIya_1(ocean_17)	3	-	-	4:mod	-	-	-	-
+XArA_1(current_4)	4	-	pl	15:k1	-	-	-	-
+BUmaXya_1(equator_4)	6	-	-	-	-	-	-	14:mod
+reKA_1(line_12)	7	-	-	-	-	-	-	14:head
+nikata_1(near_5)	9	-	-	15:k7p	-	-	-	-
+uwpanna_3	10	-	-	-	-	-	-	15:kriyAmUla
+ho_1-wA_hE_1	11	-	-	-	-	-	-	15:verbalizer
+[nc_1]	14	-	-	9:rdl	-	-	-	-
+[cp_1]	15	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0100b>
+#एवं यह ध्रुवों की ओर प्रवाहित होती हैं।
+#evaM yaha XruvoM kI ora pravAhiwa howI hEM.
+#Generally the warm ocean currents originate near the equator move towards the poles.
+$wyax	1	-	-	9:k1	Geo_ncert_7stnd_5ch_0100a.4:coref	proximal	-	-
+Xruva_1(pole_2)	2	-	pl	9:rd	-	-	-	-
+pravAhiwa_1	5	-	-	-	-	-	-	9:kriyAmUla
+ho_1-wA_hE_1	6	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	Geo_ncert_7stnd_5ch_0100a.15:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0101>
+#ठंडी धाराएँ, ध्रुवों या उच्च अक्षांशों से उष्णकटिबंधीय या निम्न अक्षांशों की ओर प्रवाहित होती हैं।
+#TaMdI XArAez, XruvoM yA ucca akRAMSoM se uRNakatibaMXIya yA nimna akRAMSoM kI ora pravAhiwa howI hEM.
+#The cold currents carry water from polar or higher latitudes to tropical or lower latitudes.
+TaMdA_2(cold_4)	1	-	-	2:mod	-	-	-	-
+XArA_1(current_4)	2	-	pl	19:k1	-	-	-	-
+Xruva_1(pole_2)	4	-	pl	-	-	-	-	20:op1
+ucca_1(high_1)	6	-	-	7:mod	-	-	-	-
+akRAMSa_1(latitude_4)	7	-	pl	-	-	-	-	20:op2
+uRNakatibaMXIya_1(tropical_3)	9	-	-	-	-	-	-	21:op1
+nimna_6(lower_6)	11	-	-	12:mod	-	-	-	-
+akRAMSa_1(latitude_4)	12	-	pl	-	-	-	-	21:op2
+ora_1	14	-	-	19:k7p	-	-	-	-
+pravAhiwa_1	15	-	-	-	-	-	-	19:kriyAmUla
+ho_1-wA_hE_1	16	-	-	-	-	-	-	19:verbalizer
+[cp_1]	19	-	-	0:main	-	-	-	-
+[disjunct_1]	20	-	-	19:k5	-	-	-	-
+[disjunct_1]	21	-	-	14:rdl	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0102a>
+#लेब्राडोर महासागरीय धाराएँ, शीत जलधाराएँ होती हैं।
+#lebrAdora mahAsAgarIya XArAez, SIwa jalaXArAez howI hEM.
+#The Labrador ocean current is cold current while the gulf stream is a warm current.
+lebrAdora	1	-	-	-	-	-	-	8:begin
+mahAsAgarIya	2	-	-	-	-	-	-	8:inside
+XArA	3	-	pl	-	-	-	-	8:inside
+SIwa_1(cold_6)	5	-	-	6:mod	-	-	-	-
+jalaXArA_3(current_20)	6	-	pl	7:k1s	-	-	-	-
+ho_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+[ne_1]	8	-	-	7:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0102b>
+#जबकि गल्फस्ट्रीम गर्म जलधाराएँ होती हैं।
+#jabaki galPastrIma garma jalaXArAez howI hEM.
+#The Labrador ocean current is cold current while the gulf stream is a warm current.
+galPastrIma	1	-	-	4:k1	-	-	-	5:begin
+garma_1(warm_6)	2	-	-	3:mod	-	-	-	-
+jalaXArA_3(current_20)	3	-	pl	4:k1s	-	-	-	-
+ho_1-wA_hE_1	4	-	-	0:main	Geo_ncert_7stnd_5ch_0102a.7:viroXI_xyowaka	-	-	-
+[ne_1]	5	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0103>
+#महासागरीय धाराएँ, किसी क्षेत्र के तापमान को प्रभावित करती हैं।
+#mahAsAgarIya XArAez, kisI kRewra ke wApamAna ko praBAviwa karawI hEM.
+#The ocean current influence the temperature conditions of a area.
+mahAsAgarIya_1(ocean_17)	1	-	-	2:mod	-	-	-	-
+XArA_1(current_4)	2	-	pl	13:k1	-	-	-	-
+koI_1(any_1)	4	-	-	5:mod	-	-	-	-
+kRewra_5(area_2)	5	-	-	7:r6	-	-	-	-
+wApamAna_1(temperature_2)	7	-	-	13:k2	-	-	-	-
+praBAviwa_1(infulence_1)	9	-	-	-	-	-	-	13:kriyAmUla
+kara_1-wA_hE_1	10	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0104>
+#गर्म धाराओं से स्थलीय सतह का तापमान गर्म हो जाता है।
+#garma XArAoM se sWalIya sawaha kA wApamAna garma ho jAwA hE.
+#garma XArAoM se sWalIya sawaha kA wApamAna garma ho jAwA hE.
+garma_1(warm_6)	1	-	-	2:mod	-	-	-	-
+XArA_1(current_4)	2	-	pl	9:rh	-	-	-	-
+sWalIya_2(land_1)	4	-	-	5:mod	-	-	-	-
+sawaha_1(surface_3)	5	-	-	7:r6	-	-	-	-
+wApamAna_1(temperature_2)	7	-	-	9:k1	-	-	-	-
+garma_1(warm_6)	8	-	-	9:k1s	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	-	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0105>
+#जिस स्थान पर गर्म एवं शीत जलधाराएँ मिलती हैं, वह स्थान विश्वभर में सर्वोत्तम मत्स्यन क्षेत्र माना जाता है।
+#jisa sWAna para garma evaM SIwa jalaXArAez milawI hEM, vaha sWAna viSvaBara meM sarvowwama mawsyana kRewra mAnA jAwA hE.
+#The areas where the warm and cold currents meet provide the best fishing Grounds of the world.
+$yax	1	-	-	2:dem	-	-	-	-
+sWAna_1(place_14)	2	-	-	8:k7p	-	-	-	-
+garma_1(warm_6)	4	-	-	-	-	-	-	23:op1
+SIwa_1(cold_6)	6	-	-	-	-	-	-	23:op2
+jalaXArA_3(current_20)	7	-	pl	8:k1	-	-	-	-
+mila_1-wA_hE_1	8	-	-	12:rcdelim	-	-	-	-
+$wyax	11	-	-	12:dem	-	distal	-	-
+sWAna_1(place_14)	12	-	-	18:k1	-	-	-	-
+viSvaBara_1	13	-	-	18:rn	-	-	-	-
+mawsyana_1(fishing_8)	16	-	-	-	-	-	-	22:op1
+kRewra_2(ground_1)	17	-	-	-	-	-	-	22:op2
+mAna_1-wA_hE_1	18	-	-	0:main	-	[shade:jA_1]	-	-
+[nc_1]	22	-	-	18:k1s	-	-	-	-
+[conj_1]	23	-	-	7:mod	-	-	-	-
+sarvowwama_1	24	-	-	22:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0106>
+#जापान के आस-पास एवं उत्तर अमेरिका के पूर्वी तट इसके कुछ उदाहरण हैं।
+#jApAna ke Asa-pAsa evaM uwwara amerikA ke pUrvI wata isake kuCa uxAharaNa hEM.
+#Seas around Japan and Eastern Coast of North America are such examples.
+jApAna	1	-	-	-	-	-	-	17:begin
+Asa+pAsa_1(around_3)	3	-	-	-	-	-	-	16:op1
+uwwara	5	-	-	-	-	-	-	15:begin
+amerikA	6	-	-	-	-	-	-	15:inside
+pUrvI_1(eastern_2)	8	-	-	9:mod	-	-	-	-
+wata_2(coast_1)	9	-	-	-	-	-	-	16:op2
+$wyax	10	-	-	12:r6	Geo_ncert_7stnd_5ch_0105.12:coref	proximal	-	-
+kuCa_1(some_2)	11	-	-	12:quant	-	-	-	-
+uxAharaNa_1(example_1)	12	-	-	13:k1s	-	-	-	-
+hE_1-pres	13	-	-	0:main	-	-	-	-
+[ne_1]	15	-	-	9:r6	-	-	-	-
+[conj_1]	16	-	-	13:k1	-	-	-	-
+[ne_1]	17	-	-	3:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0107>
+#जहाँ गर्म एवं ठंडी जलधाराएँ मिलती हैं, वहाँ कुहरे वाला मौसम बनता है।
+#jahAz garma evaM TaMdI jalaXArAez milawI hEM, vahAz kuhare vAlA mOsama banawA hE.
+#The areas where a warm and cold currents meet also experience foggy weather
+$yax	1	-	-	6:k7p	-	-	-	-
+garma_1(warm_6)	2	-	-	-	-	-	-	16:op1
+TaMdA_2(cold_4)	4	-	-	-	-	-	-	16:op2
+jalaXArA_3(current_20)	5	-	pl	6:k1	-	-	-	-
+mila_1-wA_hE_1	6	-	-	9:rcloc	-	-	-	-
+$wyax	9	-	-	13:k7p	-	-	-	-
+kuharA_1(fog_1)	10	-	mawupa	12:mod	-	-	-	-
+mOsama_2(weather_1)	12	-	-	13:k1	-	-	-	-
+bana_1-wA_hE_1	13	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	5:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0108>
+#इसके फलस्वरूप नौसंचालन में बाधा उत्पन्न होती है।
+#isake PalasvarUpa nOsaMcAlana meM bAXA uwpanna howI hE.
+#isake PalasvarUpa nOsaMcAlana meM bAXA uwpanna howI hE.
+nOsaMcAlana_1(navigation_7)	3	-	-	10:k7	-	-	-	-
+bAXA_1	5	-	-	10:k1	-	-	-	-
+uwpanna(produced_1)	6	-	-	-	-	-	-	10:kriyAmUla
+ho_1-wA_hE_1	7	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	Geo_ncert_7stnd_5ch_0107.13:pariNAma	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0109>
+#आप निम्न प्रश्नों के उत्तर दीजिए।
+#Apa nimna praSnoM ke uwwara xIjie.
+#answer the following question.
+$addressee	1	anim	-	6:k1	-	respect	-	-
+nimna_5(following_6)	2	-	-	3:mod	-	-	-	-
+praSna_1(question_3)	3	-	pl	5:r6	-	-	-	-
+uwwara_1(answer_1)	5	-	-	6:k2	-	-	-	-
+xe_1-o_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0110>
+#वर्षण क्या है?
+#varRaNa kyA hE?
+#What is precipitation?
+varRaNa_1	1	-	-	3:k1	-	-	-	-
+$kim	2	-	-	3:k1s	-	-	-	-
+hE_1-pres	3	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0111>
+#जल चक्र क्या है?
+#jala cakra kyA hE?
+#What is water cycle?
+jala_1(water_3)	1	-	-	-	-	-	-	6:mod
+cakra_2(cycle_1)	2	-	-	-	-	-	-	6:head
+$kim	3	-	-	4:k1s	-	-	-	-
+hE_1-pres	4	-	-	0:main	-	-	-	-
+[nc_1]	6	-	-	4:k1	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0112>
+#लहरों की ऊंचाई प्रभावित करने वाले कारक कौन-से हैं?
+#laharoM kI UMcAI praBAviwa karane vAle kAraka kOna-se hEM?
+#What are the factors affecting the height of waves?
+lahara_1(wave_6)	1	-	pl	3:r6	-	-	-	-
+UMcAI_1(height_9)	3	-	-	11:k2	-	-	-	-
+praBAviwa_7(affect_5)	4	-	-	-	-	-	-	11:kriyAmUla
+kara_17(do_2)	5	-	mawup	-	-	-	-	11:verbalizer
+kAraka_1(factor_2)	7	-	-	9:k1	-	-	-	-
+$kim	8	-	-	9:k1s	-	sA_1	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+[cp_1]	11	-	-	7:mod	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0113>
+#महासागरीय जल की गति को प्रभावित करने वाले कारक कौन-से हैं?
+#mahAsAgarIya jala kI gawi ko praBAviwa karane vAle kAraka kOna-se hEM?
+#What factors affect the movement of ocean water?
+mahAsAgarIya_1(ocean_17)	1	-	-	2:mod	-	-	-	-
+jala_1(water_3)	2	-	-	4:r6	-	-	-	-
+gawi_2(movement_3)	4	-	-	13:k2	-	-	-	-
+praBAviwa_7(affect_5)	6	-	-	-	-	-	-	13:kriyAmUla
+kara_17(do_2)	7	-	mawup	-	-	-	-	13:verbalizer
+kAraka_1(factor_2)	9	-	-	11:k1	-	-	-	-
+$kim	10	-	-	11:k1s	-	sA_1	-	-
+hE_1-pres	11	-	-	0:main	-	-	-	-
+[cp_1]	13	-	-	9:mod	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0114a>
+#ज्वार-भाटा क्या हैं ?
+#jvAra-BAtA kyA hEM ?
+#What are Tides and how are they caused?
+jvAra+BAtA_1	1	-	-	3:k1	-	-	-	-
+$kim	2	-	-	3:k1s	-	-	-	-
+hE_1-pres	3	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0114b>
+#तथा ये कैसे उत्पन्न होते हैं?
+#waWA ye kEse uwpanna howe hEM?
+#What are Tides and how are they caused?
+$wyax	1	-	-	7:k1	Geo_ncert_7stnd_5ch_0114a.1:coref	proximal	-	-
+$kim	2	-	-	7:krvn	-	-	-	-
+uwpanna_1	3	-	-	-	-	-	-	7:kriyAmUla
+ho_1-wA_hE_1	4	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	0:main	Geo_ncert_7stnd_5ch_0114a.3:samuccaya	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0115>
+#महासागरीय धराएँ क्या हैं?
+#mahAsAgarIya XarAez kyA hEM?
+#What are ocean currents?
+mahAsAgarIya_1(ocean_17)	1	-	-	2:mod	-	-	-	-
+XArA_1(current_4)	2	-	pl	4:k1	-	-	-	-
+$kim	3	-	-	4:k1s	-	-	-	-
+hE_1-pres	4	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0116>
+#आप कारण बताइए।
+#Apa kAraNa bawAie.
+#Apa kAraNa bawAie.
+$addressee	1	anim	-	3:k1	-	respect	-	-
+kAraNa_1	2	-	-	3:k2	-	-	-	-
+bawA_1-o_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0117>
+#समुद्री जल नमकीन होता है।
+#samuxrI jala namakIna howA hE.
+#Ocean water is salty.
+samuxrI_1(oceanic_1)	1	-	-	2:mod	-	-	-	-
+jala_1(water_3)	2	-	-	4:k1	-	-	-	-
+namakIna_1(salty_2)	3	-	-	4:k1s	-	-	-	-
+ho_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_7stnd_5ch_0118>
+#जल की गुणवत्ता का ह्रास हो रहा है।
+#jala kI guNavawwA kA hrAsa ho rahA hE.
+#The quality of water is deteriorating.
+jala_1(water_3)	1	-	-	3:r6	-	-	-	-
+guNavawwA_1(quality_17)	3	-	-	5:k1	-	-	-	-
+hrAsa_1	5	-	-	-	-	-	-	7:kriyAmUla
+ho_1-0_rahA_hE_1	6	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	-	-	-	-	-
+%affirmative
+</segment_id>

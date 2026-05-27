@@ -1,0 +1,1783 @@
+<segment_id=Geo_ncert_6stnd_6ch_0001>
+#आपने इसमें कुछ स्थलरूपों को जरूर देखा होगा।
+#Apane isameM kuCa sWalarUpoM ko jarUra xeKA hogA.
+#You must have seen some of the landform features.
+$addressee	1	anim	-	6:k1	-	respect	-	-
+$wyax	2	-	-	6:k7p	-	proximal	-	-
+kuCa_1(some_2)	3	-	-	4:quant	-	-	-	-
+sWalarUpa_1(landforms_1)	4	-	pl	6:k2	-	-	-	-
+jarUra_1(certainly_5)	5	-	-	6:krvn	-	-	-	-
+xeKa_1-yA_hogA_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0002a>
+#आप यह देखेंगे।
+#Apa yaha xeKeMge.
+#You will notice this.
+$addressee	1	anim	-	3:k1	-	respect	-	-
+$wyax	2	-	-	3:k2	Geo_ncert_6stnd_6ch_0002b.7:coref	proximal	-	-
+xeKa_1-gA_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0002b>
+#कि पृथ्वी की सतह सभी जगह एकसमान नहीं है।
+#ki pqWvI kI sawaha saBI jagaha ekasamAna nahIM hE.
+#That the surface of the earth is not the same everywhere.
+pqWvI_1(earth_9)	1	-	-	2:r6	-	def	-	-
+sawaha_1(surface_3)	2	-	-	7:k1	-	def	-	-
+saBI_1(all_1)	3	-	-	4:quant	-	-	-	-
+jagaha_1(place_3)	4	-	-	7:krvn	-	-	-	-
+ekasamAna_1(uniform_9)	5	-	-	7:k1s	-	-	-	-
+nahIM_1(not_1)	6	-	-	7:neg	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0003>
+#पृथ्वी पर अनगिनत प्रकार के स्थलरूप हैं।
+#pqWvI para anaginawa prakAra ke sWalarUpa hEM.
+#The earth has an infinite variety of landforms.
+pqWvI_1(earth_9)	1	-	-	5:k7p	-	def	-	-
+anaginawa_5(infinite_9)	2	-	-	3:quant	-	-	-	-
+prakAra_9(variety_7)	3	-	-	4:r6	-	-	-	-
+sWalarUpa_1	4	-	-	5:k1	-	-	-	-
+hE_1-pres	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0004a>
+#स्थलमंडल के कुछ भाग ऊँचे-नीचे होते हैं।
+#sWalamaMdala ke kuCa BAga Uzce-nIce howe hEM.
+#Some parts of the lithosphere may be rugged.
+sWalamaMdala_1(lithosphere_1)	1	-	-	3:r6	-	def	-	-
+kuCa_1(some_2)	2	-	-	3:quant	-	-	-	-
+BAga_2(part_9)	3	-	-	5:k1	-	-	-	-
+UzcA+nIcA_1	4	-	-	5:k1s	-	-	-	-
+ho_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0004b>
+#तथा कुछ भाग समतल होते हैं।
+#waWA kuCa BAga samawala howe hEM.
+#And some parts may be flat.
+kuCa_1(some_2)	1	-	-	2:quant	-	-	-	-
+BAga_2(part_9)	2	-	-	4:k1	-	-	-	-
+samawala_3(flat_6)	3	-	-	4:k1s	-	-	-	-
+ho_1-wA_hE_1	4	-	-	0:main	Geo_ncert_6stnd_6ch_0004a.5:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0005>
+#ये स्थलरूप दो प्रक्रियाओं के परिणामस्वरूप बनते हैं।
+#ye sWalarUpa xo prakriyAoM ke pariNAmasvarUpa banawe hEM.
+#These landforms are a result of two processes.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+sWalarUpa_1	2	-	-	5:k1	-	-	-	-
+2	3	numex	-	4:card	-	-	-	-
+prakriyA_1(process_3)	4	-	pl	5:rh	-	-	-	-
+bana_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0006a>
+#आपको यह जानकर आश्चर्य होगा।
+#Apako yaha jAnakara AScarya hogA.
+#You will be amazed to know this.
+$addressee	1	anim	-	5:k4a	-	respect	-	-
+$wyax	2	-	-	3:k2	Geo_ncert_6stnd_6ch_0006b.9:coref	proximal	-	-
+jAna_10(know_1)	3	-	-	5:rpk	-	-	-	-
+AScarya_2(surprise_3)	4	-	-	5:k1	-	-	-	-
+ho_1-gA_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0006b>
+#कि जिस मैदान पर आप खडे हुए हैं, उसमें धीरे-धीरे गति हो रही है।
+#ki jisa mExAna para Apa KadZe hue hEM, usameM XIre-XIre gawi ho rahI hE.
+#That the ground you are standing on is slowly moving.
+$yax	1	-	-	2:dem	-	-	-	-
+mExAna_8	2	-	-	5:k7p	-	-	-	-
+$addressee	3	anim	-	5:k1	-	respect	-	-
+KadZA_1(stand_1)	4	-	kqw	5:k1s	-	-	-	-
+hE_1-pres	5	-	-	6:rcdelim	-	-	-	-
+$wyax	6	-	-	9:k7p	5:coref	distal	-	-
+XIre_1(slowly_3)	7	-	xviwva	9:krvn	-	-	-	-
+gawi_2(movement_3)	8	-	-	9:k1	-	-	-	-
+ho_1-0_raha_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0007>
+#पृथ्वी के अंदर लगातार गति हो रही है।
+#pqWvI ke aMxara lagAwAra gawi ho rahI hE.
+#Within the earth, a continuous movement is taking place.
+pqWvI_1(earth_9)	1	-	-	4:k7p	-	def	-	-
+lagAwAra_1(continuously_2)	2	-	-	4:krvn	-	-	-	-
+gawi_2(movement_3)	3	-	-	4:k1	-	-	-	-
+ho_1-0_raha_hE_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0008a>
+#प्रथम या आंतरिक प्रक्रिया के कारण बहुत से स्थानों पर पृथ्वी की सतह कहीं ऊपर उठ जाती है।
+#praWama yA AMwarika prakriyA ke kAraNa bahuwa se sWAnoM para pqWvI kI sawaha kahIM Upara uTa jAwI hE .
+#The first, or the internal process leads to the upliftment of the earth’s surface at several places.
+praWama_3(first_7)	1	-	-	-	-	-	-	3:op1
+AMwarika_1(internal_4)	2	-	-	-	-	-	-	3:op2
+[disjunct_1]	3	-	-	4:mod	-	-	-	-
+prakriyA_1(process_3)	4	-	-	12:rh	-	-	-	-
+bahuwa_2(many_5)	5	-	-	6:quant	-	sA_4	-	-
+sWAna_1(place_14)	6	-	pl	-	-	-	-	10:whole
+pqWvI_1(earth_9)	7	-	-	8:r6	-	def	-	-
+sawaha_1(surface_3)	8	-	-	12:k1	-	-	-	-
+kahIM_1	9	-	-	-	-	-	-	10:part
+[spatial_1]	10	-	-	12:k7p	-	-	-	-
+Upara_4(upward_1)	11	-	-	12:rd	-	-	-	-
+uTa_1-wA_hE_1	12	-	-	0:main	-	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0008b>
+#तो यह कही धँस जाती है।
+#wo yaha kahI Xazsa jAwI hE.
+#And sinking of the earth’s surface at several places.
+$wyax	1	-	-	3:k1	Geo_ncert_6stnd_6ch_0008a.8:coref	proximal	-	-
+kahIM_1	2	-	-	3:k7p	-	-	-	-
+Xazsa_1-wA_hE_1	3	-	-	0:main	Geo_ncert_6stnd_6ch_0008a.12:samuccaya	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0009>
+#दूसरी या बाह्य प्रक्रिया स्थल के लगातार बनने एवं टूटने की प्रक्रिया है।
+#xUsarI yA bAhya prakriyA sWala ke lagAwAra banane evaM tUtane kI prakriyA hE.
+#The second, or the external process is the continuous wearing down and rebuilding of the land surface.
+xUsarA_1(second_1)	1	-	-	-	-	-	-	3:op1
+bAhya_8(external_5)	2	-	-	-	-	-	-	3:op2
+[disjunct_1]	3	-	-	4:mod	-	-	-	-
+prakriyA_1(process_3)	4	-	-	11:k1	-	-	-	-
+sWala_1(land_9)	5	-	-	9:k1	-	def	-	-
+lagAwAra_1(continuously_2)	6	-	-	9:krvn	-	-	-	-
+bana_15(made_12)	7	-	-	-	-	-	-	9:op1
+tUta_1(break_1)	8	-	-	-	-	-	-	9:op2
+[conj_1]	9	-	-	10:r6	-	-	-	-
+prakriyA_1(process_3)	10	-	-	11:k1s	-	-	-	-
+hE_1-pres	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0010>
+#पृथ्वी की सतह के टूटकर घिस जाने को अपरदन कहते हैं।
+#pqWvI kI sawaha ke tUtakara Gisa jAne ko aparaxana kahawe hEM.
+#The wearing away of the earth’s surface is called erosion.
+pqWvI_1(earth_9)	1	-	-	2:r6	-	def	-	-
+sawaha_1(surface_3)	2	-	-	4:k1	-	-	-	-
+tUta_1(break_1)	3	-	-	4:rpk	-	-	-	-
+Gisa_3(grind_3)	4	-	-	6:k2	-	-	-	-
+aparaxana_1(erosion_1)	5	-	-	6:k2s	-	-	-	-
+kaha_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0011a>
+#अपरदन की क्रिया के द्वारा सतह नीची हो जाती है।
+#aparaxana kI kriyA ke xvArA sawaha nIcI ho jAwI hE .
+#The surface is being lowered by the process of erosion.
+aparaxana_1(erosion_1)	1	-	-	2:r6	-	def	-	-
+kriyA_9(process_5)	2	-	-	5:k3	-	-	-	-
+sawaha_1(surface_3)	3	-	-	5:k1	-	def	-	-
+nIcA_4(low_8)	4	-	-	5:k1s	-	-	-	-
+ho_1-wA_hE_1	5	-	-	0:main	-	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0011b>
+#तथा निक्षेपण की प्रक्रिया के द्वारा इनका फिर से निर्माण होता हैं।
+#waWA nikRepaNa kI prakriyA ke xvArA inakA Pira se nirmANa howA hEM.
+#And it is being rebuilt by the process of deposition.
+nikRepaNa_6(deposition_6)	1	-	-	2:r6	-	def	-	-
+prakriyA_1(process_3)	2	-	-	6:k3	-	-	-	-
+$wyax	3	-	-	5:r6	Geo_ncert_6stnd_6ch_0011a.3:coref	proximal	-	-
+Pira_2(again_3)	4	-	-	6:krvn	-	-	-	-
+nirmANa_2(creation_3)	5	-	-	6:k1	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	Geo_ncert_6stnd_6ch_0011a.5:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0012>
+#ये दो प्रक्रियाएँ बहते हुए जल, वायु तथा बर्फ़ के द्वारा होती हैं।
+#ye xo prakriyAez bahawe hue jala, vAyu waWA barPZa ke xvArA howI hEM.
+#These two processes are carried out by running water, ice and wind.
+$wyax	1	-	-	3:dem	-	proximal	-	-
+2	2	numex	-	3:card	-	-	-	-
+prakriyA_1(process_3)	3	-	pl	9:k1	-	-	-	-
+baha_7(run_10)	4	-	-	5:rvks	-	-	-	-
+jala_1(water_3)	5	-	-	-	-	-	-	8:op1
+vAyu_2(wind_5)	6	-	-	-	-	-	-	8:op2
+barPZa_1(ice_1)	7	-	-	-	-	-	-	8:op3
+[conj_1]	8	-	-	9:k3	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0013>
+#हम विभिन्न स्थलरूपों को उनकी ऊँचाई एवं ढाल के आधार पर पर्वतों, पठारों एवं मैदानों में वर्गीकृत कर सकते हैं।
+#hama viBinna sWalarUpoM ko unakI UzcAI evaM DAla ke AXAra para parvawoM, paTAroM evaM mExAnoM meM vargIkqwa kara sakawe hEM.
+#Broadly, we can group different landforms depending on elevation and slope as mountains, plateaus and plains.
+$speaker	1	anim	pl	14:k1	-	-	-	-
+viBinna_1(different_13)	2	-	-	3:mod	-	-	-	-
+sWalarUpa_1	3	-	pl	14:k2	-	-	-	-
+$wyax	4	-	-	7:r6	3:coref	distal	-	-
+UzcAI_7(elevation_5)	5	-	-	-	-	-	-	7:op1
+DAla_2(slope_2)	6	-	-	-	-	-	-	7:op2
+[conj_1]	7	-	-	14:k7a	-	-	-	-
+parvawa_1(mountain_3)	8	-	pl	-	-	-	-	11:op1
+paTAra_1(plateau_2)	9	-	pl	-	-	-	-	11:op2
+mExAna_5(plain_5)	10	-	pl	-	-	-	-	11:op3
+[conj_2]	11	-	-	14:k7	-	-	-	-
+vargIkqwa_1(classified_1)	12	-	-	-	-	-	-	14:kriyAmUla
+kara_1-0_sakawA_hE_1	13	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0014>
+#पर्वत पृथ्वी की सतह की प्राकृतिक ऊँचाई है।
+#parvawa pqWvI kI sawaha kI prAkqwika UzcAI hE.
+#A mountain is any natural elevation of the earth surface.
+parvawa_1(mountain_3)	1	-	-	6:k1	-	-	-	-
+pqWvI_1(earth_9)	2	-	-	3:r6	-	def	-	-
+sawaha_1(surface_3)	3	-	-	5:r6	-	-	-	-
+prAkqwika_1(natural_7)	4	-	-	5:mod	-	-	-	-
+UzcAI_7(elevation_5)	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0015a>
+#पर्वत का शिखर छोटा होता है।
+#parvawa kA SiKara CotA howA hE.
+#A mountain may have a small summit.
+parvawa_1(mountain_3)	1	-	-	2:r6	-	-	-	-
+SiKara_3(summit_3)	2	-	-	4:k1	-	-	-	-
+CotA_1(small_6)	3	-	-	4:k1s	-	-	-	-
+ho_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0015b>
+#तथा उसका आधार चौड़ा होता है।
+#waWA unkA AXAra cOdZA howA hE.
+#And it may have a broad base.
+$wyax	1	-	-	2:r6	Geo_ncert_6stnd_6ch_0015a.1:coref	distal	-	-
+AXAra_1(base_3)	2	-	-	4:k1	-	-	-	-
+cOdZA_4(broad_1)	3	-	-	4:k1s	-	-	-	-
+ho_1-wA_hE_1	4	-	-	0:main	Geo_ncert_6stnd_6ch_0015a.4:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0016>
+#यह आस-पास के क्षेत्र से बहुत ऊँचा होता है।
+#yaha Asa-pAsa ke kRewra se bahuwa UzcA howA hE.
+#It is considerably higher than the surrounding area.
+$wyax	1	-	-	6:k1	Geo_ncert_6stnd_6ch_0015a.1:coref	proximal	-	-
+Asa+pAsa_1(around_3)	2	-	-	3:r6	-	-	-	-
+kRewra_5(area_2)	3	-	-	1:rv	-	def	-	-
+bahuwa_1(much_6)	4	-	-	5:intf	-	-	-	-
+UzcA_1(high_5)	5	-	-	6:k1s	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0017>
+#कुछ पहाड़ बादलों से भी ऊँचे होते हैं।
+#kuCa pahAda bAxaloM se BI Uzce howe hEM.
+#Some mountains are even higher than the clouds.
+kuCa_1(some_2)	1	-	-	2:quant	-	-	-	-
+pahAdZa_1(mountain_4)	2	-	-	5:k1	-	-	-	-
+bAxala_1(cloud_3)	3	-	pl	2:rv	-	BI_1	-	-
+UzcA_1(high_5)	4	-	-	5:k1s	-	-	-	-
+ho_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0018>
+#जैसे-जैसे आप ऊँचाई पर जाएँगे वैसे-वैसे जलवायु ठंडी होती जाती है।
+#jEse-jEse Apa UzcAI para jAezge vEse-vEse jalavAyu TaMdI howI jAwI hE.
+#As you go higher, the climate becomes colder.
+$yax	1	-	-	2:dem	-	-	-	-
+prakAra_4(manner_5)	2	-	-	5:krvn	-	-	-	-
+$addressee	3	anim	-	5:k1	-	respect	-	-
+UzcAI_1(height_1)	4	-	-	5:rd	-	-	-	-
+jA_1-gA_1	5	-	-	6:rcprop	-	-	-	-
+$wyax	6	-	-	7:dem	-	-	-	-
+prakAra_4(manner_5)	7	-	-	10:krvn	-	-	-	-
+jalavAyu_1(climate_2)	8	-	-	10:k1	-	def	-	-
+TaMdA_2(cold_4)	9	-	-	10:k1s	-	-	-	-
+ho_1-wA_jAwA_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0019>
+#कुछ पर्वतों पर हमेशा जमी रहने वाली बर्फ़ की नदियाँ होती हैं।
+#kuCa parvawoM para hameSA jamI rahane vAlI barPZa kI naxiyAz howI hEM.
+#In some mountains, there are permanently frozen rivers of ice.
+kuCa_1(some_2)	1	-	-	2:quant	-	-	-	-
+parvawa_1(mountain_3)	2	-	pl	8:k7p	-	-	-	-
+hameSA_4	3	-	-	8:freq	-	-	-	-
+jama_1(freeze_1)	4	-	kqw	5:k2	-	-	-	-
+raha_4(remain_1)	5	-	-	6:mod	-	-	-	-
+barPZa_1(ice_1)	6	-	-	7:r6	-	-	-	-
+naxI_1(river_3)	7	-	pl	8:k1	-	-	-	-
+ho_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0020>
+#उन्हें हिमानी कहा जाता है।
+#unheM himAnI kahA jAwA hE.
+#They are called glaciers.
+$wyax	1	-	-	3:k2	Geo_ncert_6stnd_6ch_0019.7:coref	distal	-	-
+himAnI_1(glacier_1)	2	-	-	3:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0021a>
+#यहाँ कुछ ऐसे भी पर्वत हैं।
+#yahAz kuCa Ese BI parvawa hEM.
+#There are some mountains here.
+$wyax	1	-	-	6:k7p	-	-	-	-
+kuCa_1(some_2)	2	-	-	5:quant	-	-	-	-
+$wyax	3	-	-	4:dem	-	-	-	-
+prakAra_1(kind_8)	4	-	-	5:r6	-	BI_1	-	-
+parvawa_1(mountain_3)	5	-	-	6:k1	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0021b>
+#जो समुद्र के भीतर हैं।
+#jo samuxra ke BIwara hEM .
+#Which are under the sea.
+$yax	1	-	-	3:k1	Geo_ncert_6stnd_6ch_0021a.5:coref	-	-	-
+samuxra_2(sea_12)	2	-	-	3:k7p	-	def	-	-
+hE_1-pres	3	-	-	0:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0021c>
+#तथा जिन्हें आप नहीं देख सकते हैं।
+#waWA jinheM Apa nahIM xeKa sakawe hEM.
+#And which you cannot see.
+$yax	1	-	-	4:k2	Geo_ncert_6stnd_6ch_0021a.5:coref	-	-	-
+$addressee	2	anim	-	4:k1	-	respect	-	-
+nahIM_1(not_1)	3	-	-	4:neg	-	-	-	-
+xeKa_1-0_sakawA_hE_1	4	-	-	0:rcelab	Geo_ncert_6stnd_6ch_0021b.3:samuccaya	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0022>
+#कठोर जलवायु होने के कारण पर्वतीय क्षेत्रों में बहुत कम लोग निवास करते हैं।
+#kaTora jalavAyu hone ke kAraNa parvawIya kRewroM meM bahuwa kama loga nivAsa karawe hEM.
+#Because of harsh climate, less people live in the mountain areas.
+kaTora_14(harsh_14)	1	-	-	2:mod	-	-	-	-
+jalavAyu_1(climate_2)	2	-	-	3:k1	-	-	-	-
+ho_2(exist_7)	3	-	-	11:rh	-	-	-	-
+parvawIya_3(mountain_31)	4	-	-	5:mod	-	-	-	-
+kRewra_5(area_2)	5	-	pl	11:k7p	-	-	-	-
+bahuwa_7(very_1)	6	-	-	7:intf	-	-	-	-
+kama_4(less_1)	7	-	-	8:quant	-	-	-	-
+loga_2(people_5)	8	anim	-	11:k1	-	-	-	-
+nivAsa_1(residence_6)	9	-	-	-	-	-	-	11:kriyAmUla
+kara_1-wA_hE_1	10	-	-	-	-	-	-	11:verbalizer
+[cp_1]	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0023a>
+#वहाँ का धरातल खडी ढाल वाला होता है।
+#vahAz kA XarAwala KadI DAla vAlA howA hE .
+#The slopes are steep there.
+$wyax	1	-	-	2:r6	Geo_ncert_6stnd_6ch_0022.5:coref	distal	-	-
+XarAwala_1(surface_2)	2	-	-	5:k1	-	-	-	-
+KadZA_6(steep_1)	3	-	-	4:mod	-	-	-	-
+DAla_2(slope_2)	4	-	mawup	5:k1s	-	-	-	-
+ho_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0023b>
+#तथा वहाँ कृषि योग्य भूमि की कमी होती है।
+#waWA kqRi yogya BUmi kI kamI howI hE.
+#And less land is available for farming.
+$wyax	1	-	-	7:k7p	Geo_ncert_6stnd_6ch_0022.5:coref	-	-	-
+kqRi_2(farming_2)	2	-	-	-	-	-	-	4:mod
+yogya_8(suitable_9)	3	-	-	-	-	-	-	4:head
+[compound_1]	4	-	-	5:mod	-	-	-	-
+BUmi_1(land_6)	5	-	-	6:r6	-	-	-	-
+kamI_2(shortage_2)	6	-	-	7:k1	-	-	-	-
+ho_1-wA_hE_1	7	-	-	0:main	Geo_ncert_6stnd_6ch_0023a.5:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0024>
+#पर्वत एक रेखा के क्रम में भी व्यवस्थित हो सकते हैं जिसे शृंखला कहा जाता है।
+#parvawa eka reKA ke krama meM BI vyavasWiwa ho sakawe hEM jise SqMKalA kahA jAwA hE.
+#Mountains may be arranged in a line known as range.
+parvawa_1(mountain_3)	1	-	-	6:k1	-	-	-	-
+eka_2(a_1)	2	-	-	3:quant	-	-	-	-
+reKA_1(line_12)	3	-	-	4:r6	-	-	-	-
+krama_1(order_3)	4	-	-	6:k7	-	BI_1	-	-
+vyavasWiwa_4(arranged_3)	5	-	-	6:k1s	-	-	-	-
+ho_1-0_sakawA_hE_1	6	-	-	0:main	-	-	-	-
+$yax	7	-	-	9:k2	3:coref	-	-	-
+SqMKalA_6(range_1)	8	-	-	9:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	9	-	-	3:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0025>
+#बहुत से पर्वतीय तंत्र समानांतर शृंखलाओं के क्रम में होते हैं जो सैकडों किमी. में फैले होते हैं।
+#bahuwa se parvawIya waMwra samAnAMwara SqMKalAoM ke krama meM howe hEM jo sEkadoM kimI. meM PEle howe hEM.
+#Many mountain systems consist of a series of parallel ranges extending over hundreds of kilometres.
+bahuwa_2(many_5)	1	-	-	3:quant	-	sA_4	-	-
+parvawIya_3(mountain_31)	2	-	-	3:mod	-	-	-	-
+waMwra_1(system_2)	3	-	-	7:k1	-	-	-	-
+samAnAMwara_1(parallel_2)	4	-	-	5:mod	-	-	-	-
+SqMKalA_6(range_1)	5	-	pl	6:r6	-	-	-	-
+krama_12(series_16)	6	-	-	7:k7	-	-	-	-
+ho_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+$yax	8	-	-	14:k1	5:coref	-	-	-
+100	9	numex	-	-	-	-	-	11:count
+kimI_1(kilometre_2)	10	-	-	-	-	-	-	11:unit
+[dist_meas_1]	11	-	-	12:quantmore	-	-	-	-
+kimI_1(kilometre_2)	12	-	-	13:rmeas	-	-	-	-
+PEla_3(extend_1)	13	-	kqw	14:k1s	-	-	-	-
+ho_1-wA_hE_1	14	-	-	5:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0026>
+#हिमालय, आल्प्स तथा एंडीज क्रमशः एशिया, यूरोप तथा दक्षिण अमेरिका की पर्वत शृंखलाएँ हैं।
+#himAlaya, Alpsa waWA eMdIja kramaSaH eSiyA, yUropa waWA xakRiNa amerikA kI parvawa SqMKalAez hEM .
+#The Himalayas, the Alps and the Andes are mountain ranges of Asia, Europe and South America, respectively
+himAlaya	1	-	-	-	-	-	-	2:begin
+[ne_1]	2	place	-	-	-	def	-	7:op1
+Alpsa	3	-	-	-	-	-	-	4:begin
+[ne_2]	4	place	-	-	-	def	-	7:op2
+eMdIja	5	-	-	-	-	-	-	6:begin
+[ne_3]	6	place	-	-	-	def	-	7:op3
+[conj_1]	7	-	-	20:k1	-	-	-	-
+kramaSaH_1(respectively_3)	8	-	-	20:krvn	-	-	-	-
+eSiyA	9	-	-	-	-	-	-	10:begin
+[ne_4]	10	place	-	-	-	-	-	16:op1
+yUropa	11	-	-	-	-	-	-	12:begin
+[ne_5]	12	place	-	-	-	-	-	16:op2
+xakRiNa	13	-	-	-	-	-	-	15:begin
+amerikA	14	-	-	-	-	-	-	15:inside
+[ne_6]	15	place	-	-	-	-	-	16:op3
+[conj_2]	16	-	-	19:r6	-	-	-	-
+parvawa_1(mountain_3)	17	-	-	-	-	-	-	19:mod
+SqMKalA_6(range_1)	18	-	pl	-	-	-	-	19:head
+[nc_1]	19	-	-	20:k1s	-	-	-	-
+hE_1-pres	20	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0027>
+#पर्वतों की ऊँचाई एवं आकार में भिन्नता होती है।
+#parvawoM kI UzcAI evaM AkAra meM BinnawA howI hE.
+#Mountains vary in their heights and shape.
+parvawa_1(mountain_3)	1	-	pl	4:r6	-	-	-	-
+UzcAI_1(height_1)	2	-	-	-	-	-	-	4:op1
+AkAra_2(shape_1)	3	-	-	-	-	-	-	4:op2
+[conj_1]	4	-	-	6:k7p	-	-	-	-
+BinnawA_1(difference_4)	5	-	-	6:k1	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0028>
+#पर्वत तीन प्रकार के होते हैं - वलित पर्वत, भ्रंशोत्थ पर्वत तथा ज्वालामुखी पर्वत।
+#parvawa wIna prakAra ke howe hEM - valiwa parvawa, BraMSowWa parvawa waWA jvAlAmuKI parvawa.
+#There are three types of mountains- Fold Mountains, Block Mountains and the Volcanic Mountains.
+parvawa_1(mountain_3)	1	-	-	4:k1	-	-	-	-
+3	2	numex	-	3:card	-	-	-	-
+prakAra_7(type_6)	3	-	-	4:k1s	-	-	-	-
+ho_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+valiwa_1(folded_1)	5	-	-	6:mod	-	-	-	-
+parvawa_1(mountain_3)	6	-	-	-	-	-	-	13:op1
+BraMSowWa_1(block_13)	7	-	-	-	-	-	-	9:mod
+parvawa_1(mountain_3)	8	-	-	-	-	-	-	9:head
+[nc_1]	9	-	-	-	-	-	-	13:op2
+jvAlAmuKI_1(volcano_1)	10	-	-	-	-	-	-	12:mod
+parvawa_1(mountain_3)	11	-	-	-	-	-	-	12:head
+[nc_2]	12	-	-	-	-	-	-	13:op3
+[conj_1]	13	-	-	3:re	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0029a>
+#हिमालय तथा आल्प्स वलित पर्वत हैं।
+#himAlaya waWA Alpsa valiwa parvawa hEM.
+#The Himalayan Mountains and the Alps are young fold mountains.
+himAlaya	1	-	-	-	-	-	-	2:begin
+[ne_1]	2	place	-	-	-	def	-	5:op1
+Alpsa	3	-	-	-	-	-	-	4:begin
+[ne_2]	4	place	-	-	-	def	-	5:op2
+[conj_1]	5	-	-	8:k1	-	-	-	-
+valiwa_1(folded_1)	6	-	-	7:mod	-	-	-	-
+parvawa_1(mountain_3)	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0029b>
+#जिनकी सतह ऊबड़-खाबड़ हैं।
+#jinakI sawaha UbadZa-KAbadZa hEM.
+#Which have rugged reliefs.
+$yax	1	-	-	2:r6	Geo_ncert_6stnd_6ch_0029a.7:coref	-	-	-
+sawaha_1(surface_3)	2	-	-	4:k1	-	-	-	-
+UbadZa+KAbadZa_1(rugged_3)	3	-	-	4:k1s	-	-	-	-
+hE_1-pres	4	-	-	0:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0029c>
+#तथा जिनके शिखर शंक्वाकार हैं।
+#waWA jinake SiKara SaMkvAkAra hEM.
+#And which have high conical peaks.
+$yax	1	-	-	2:r6	Geo_ncert_6stnd_6ch_0029a.7:coref	-	-	-
+SiKara_1(peak_1)	2	-	-	4:k1	-	-	-	-
+SaMkvAkAra_1	3	-	-	4:k1s	-	-	-	-
+hE_1-pres	4	-	-	0:rcelab	Geo_ncert_6stnd_6ch_0029b.4:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0030>
+#भारत की अरावली शृंखला विश्व की सबसे पुरानी वलित पर्वत शृंखला है।
+#BArawa kI arAvalI SqMKalA viSva kI sabase purAnI valiwa parvawa SqMKalA hE.
+#The Aravali range in India is one of the oldest fold mountain systems in the world.
+BArawa	1	-	-	-	-	-	-	2:begin
+[ne_1]	2	place	-	5:r6	-	-	-	-
+arAvalI	3	-	-	-	-	-	-	5:begin
+SqMKalA	4	-	-	-	-	-	-	5:inside
+[ne_2]	5	place	-	13:k1	-	def	-	-
+viSva_11(world_20)	6	-	-	12:r6	-	def	-	-
+purAnA_1(old_5)	7	-	superl	12:mod	-	-	-	-
+valiwa_1(folded_1)	8	-	-	-	-	-	-	10:mod
+parvawa_1(mountain_3)	9	-	-	-	-	-	-	10:head
+[nc_1]	10	-	-	-	-	-	-	12:mod
+SqMKalA_6(range_1)	11	-	-	-	-	-	-	12:head
+[nc_2]	12	-	-	13:k1s	-	-	-	-
+hE_1-pres	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0031>
+#अपरदन की प्रक्रिया के कारण यह शृंखला घिस गई है।
+#aparaxana kI prakriyA ke kAraNa yaha SqMKalA Gisa gaI hE.
+#The range has considerably worn down due to the processes of erosion.
+aparaxana_1(erosion_1)	1	-	-	2:r6	-	-	-	-
+prakriyA_1(process_3)	2	-	-	5:rh	-	-	-	-
+$wyax	3	-	-	4:dem	-	proximal	-	-
+SqMKalA_6(range_1)	4	-	-	5:k1	-	-	-	-
+Gisa_1-yA_hE_1	5	-	-	0:main	-	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0032a>
+#उत्तरी अमेरिका के अप्लेशियन तथा रूस के यूराल पर्वत गोलाकार दिखाई देते हैं।
+#uwwarI amerikA ke apleSiyana waWA rUsa ke yUrAla parvawa golAkAra xiKAI xewe hEM .
+#The Appalachians in North America and the Ural mountains in Russia have rounded features.
+uwwarI_1	1	-	-	-	-	-	-	3:begin
+amerikA	2	-	-	-	-	-	-	3:inside
+[ne_1]	3	place	-	5:r6	-	-	-	-
+apleSiyana	4	-	-	-	-	-	-	5:begin
+[ne_2]	5	place	-	-	-	def	-	11:op1
+rUsa	6	-	-	-	-	-	-	7:begin
+[ne_3]	7	place	-	10:r6	-	-	-	-
+yUrAla	8	-	-	-	-	-	-	10:begin
+parvawa	9	-	-	-	-	-	-	10:inside
+[ne_4]	10	place	-	-	-	def	-	11:op2
+[conj_1]	11	-	-	13:k1	-	-	-	-
+golAkAra_1(round_2)	12	-	-	13:k1s	-	-	-	-
+xiKa_1-AI_xewA_hE_1	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0032b>
+#एवं इनकी ऊँचाई कम है।
+#evaM inakI UzcAI kama hE.
+#And they have low elevation.
+$wyax	1	-	-	2:r6	Geo_ncert_6stnd_6ch_0032a.11:coref	proximal	-	-
+UzcAI_7(elevation_5)	2	-	-	4:k1	-	-	-	-
+kama_1	3	-	-	4:k1s	-	-	-	-
+hE_1-pres	4	-	-	0:main	Geo_ncert_6stnd_6ch_0032a.13:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0033>
+#ये बहुत पुराने वलित पर्वत हैं।
+#ye bahuwa purAne valiwa parvawa hEM.
+#They are very old fold mountains.
+$wyax	1	-	-	6:k1	Geo_ncert_6stnd_6ch_0032a.11:coref	proximal	-	-
+bahuwa_7(very_1)	2	-	-	3:intf	-	-	-	-
+purAnA_1(old_5)	3	-	-	5:mod	-	-	-	-
+valiwa_1(folded_1)	4	-	-	5:mod	-	-	-	-
+parvawa_1(mountain_3)	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0034a>
+#जब बहुत बड़ा भाग टूट जाता है।
+#jaba bahuwa badZA BAga tUta jAwA hE .
+#When a large area is broken.
+$yax	1	-	-	5:k7t	Geo_ncert_6stnd_6ch_0034c.1:coref	-	-	-
+bahuwa_7(very_1)	2	-	-	3:intf	-	-	-	-
+badZA_1(big_2)	3	-	-	4:mod	-	-	-	-
+BAga_23(area_16)	4	-	-	5:k1	-	-	-	-
+tUta_1-wA_hE_1	5	-	-	0:rcsamAnakAla	-	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0034b>
+#तथा जब वह ऊर्ध्वाधर रूप से विस्थापित हो जाता है।
+#waWA jaba vaha UrXvAXara rUpa se visWApiwa ho jAwA hE.
+#And when it is displaced vertically.
+$yax	1	-	-	5:k7t	Geo_ncert_6stnd_6ch_0034c.1:coref	-	-	-
+$wyax	2	-	-	5:k1	-	distal	-	-
+UrXvAXara_1(vertical_2)	3	-	-	5:krvn	-	-	-	-
+visWApiwa_1(displaced_1)	4	-	-	5:k1s	-	-	-	-
+ho_1-wA_hE_1	5	-	-	0:rcsamAnakAla	Geo_ncert_6stnd_6ch_0034a.5:samuccaya	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0034c>
+#तब भ्रंशोत्थ पर्वतों का निर्माण होता है।
+#waba BraMSowWa parvawoM kA nirmANa howA hE.
+#Then block Mountains are created.
+$wyax	1	-	-	6:k7t	-	-	-	-
+BraMSowWa_1(block_13)	2	-	-	-	-	-	-	4:mod
+parvawa_1(mountain_3)	3	-	pl	-	-	-	-	4:head
+[nc_1]	4	-	-	5:r6	-	-	-	-
+nirmANa_2(creation_3)	5	-	-	6:k1	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0035a>
+#ऊपर उठे हुए खंड को उत्खंड (हार्स्ट) कहा जाता है।
+#Upara uTe hue KaMda ko uwKaMda kahA jAwA hE.
+#The uplifted blocks are termed as horsts.
+Upara_4(upward_1)	1	-	-	2:rd	-	-	-	-
+uTa_3(rise_17)	2	-	kqw	3:rbks	-	-	-	-
+KaMda_11(block_3)	3	-	-	6:k2	-	-	-	-
+uwKaMda_1	4	-	-	6:k2s	-	-	-	-
+^hArsta_1	5	-	-	4:rs	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0035b>
+#तथा नीचे धँसे हुए खंडों को द्रोणिका भ्रंश (ग्राबेन) कहा जाता है।
+#waWA nIce Xazse hue KaMdoM ko xroNikA BraMSa kahA jAwA hE.
+#And the lowered blocks are called graben.
+nIce_4(low_7)	1	-	-	2:rd	-	-	-	-
+Xazsa_1(descend_1)	2	-	kqw	4:rbks	-	-	-	-
+xroNikA_1	3	-	-	-	-	-	-	7:mod
+KaMda_1	4	-	pl	8:k2	-	-	-	-
+BraMSa_7(fault_1)	5	-	-	-	-	-	-	7:head
+^grAbena_1	6	-	-	7:rs	-	-	-	-
+[nc_1]	7	-	-	8:k2s	-	-	-	-
+kaha_1-yA_jA_wA_hE_1	8	-	-	0:main	Geo_ncert_6stnd_6ch_0035a.6:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0036>
+#यूरोप की राईन घाटी तथा वॉसजेस पर्वत इस तरह के पर्वत तंत्र के उदाहरण हैं।
+#yUropa kI rAIna GAtI waWA voYsajesa parvawa isa waraha ke parvawa waMwra ke uxAharaNa hEM.
+#The Rhine valley and the Vosges mountain in Europe are examples of such mountain systems.
+yUropa	1	-	-	-	-	-	-	21:begin
+rAIna	3	-	-	-	-	-	-	17:begin
+GAtI_1(valley_2)	4	-	-	17:rs	-	-	-	-
+vOYsajesa	6	-	-	-	-	-	-	18:begin
+parvawa_1(mountain_3)	7	-	-	18:rs	-	-	-	-
+$wyax	8	-	-	22:dem	-	proximal	-	-
+parvawa_1(mountain_3)	11	-	-	-	-	-	-	19:mod
+waMwra_1(system_2)	12	-	-	-	-	-	-	19:head
+uxAharaNa_1(example_1)	14	-	-	15:k1s	-	-	-	-
+hE_1-pres	15	-	-	0:main	-	-	-	-
+[ne_2]	17	place	-	-	-	-	-	20:op1
+[ne_3]	18	place	-	-	-	-	-	20:op2
+[6-waw_1]	19	-	-	14:r6	-	-	-	-
+[conj_1]	20	-	-	15:k1	-	-	-	-
+[ne_1]	21	place	-	20:r6	-	-	-	-
+waraha_1(kind_4)	22	-	-	19:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0037a>
+#आप एटलस में दिए गए विश्व मानचित्र से उनकी स्थिति को देखिए।
+#Apa etalasa meM xie gae viSva mAnaciwra se unakI sWiwi ko xeKie .
+#You locate them on the world map in the atlas.
+^etalasa_1	1	-	-	3:k7p	-	-	-	-
+xe_1(give_1)	3	-	kqw	14:rbks	-	-	-	-
+viSva_11(world_20)	5	-	-	-	-	-	-	14:mod
+mAnaciwra_1(map_3)	6	-	-	-	-	-	-	14:head
+$wyax	9	-	-	10:r6	Geo_ncert_6stnd_6ch_0036.11:coref	distal	-	-
+sWiwi_3(location_3)	10	-	-	12:k2	-	-	-	-
+xeKa_1-o_1	12	-	-	0:main	-	-	-	-
+[6-waw_1]	14	-	-	12:k5	-	def	-	-
+$addressee	15	anim	-	12:k1	-	respect	-	-
+%imperative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0037b>
+#तथा इस प्रकार की भू-आकृतियों के कुछ और उदाहरणों का आप पता लगाइए।
+#waWA isa prakAra kI BU-AkqwiyoM ke kuCa Ora uxAharaNoM kA Apa pawA lagAie.
+#and you find out some more examples of this type of landforms.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+prakAra_7(type_6)	2	-	-	4:r6	-	-	-	-
+BU+Akqwi_1	4	-	pl	8:r6	-	-	-	-
+kuCa_1(some_2)	6	-	-	8:quant	-	aura_1	-	-
+uxAharaNa_1(example_1)	8	-	pl	14:k2	-	-	-	-
+$addressee	10	anim	-	14:k1	-	respect	-	-
+pawA_11	11	-	-	-	-	-	-	14:kriyAmUla
+lagA_1-o_1	12	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	0:main	Geo_ncert_6stnd_6ch_0037a.12:samuccaya	-	-	-
+%imperative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0038>
+#ज्वालामुखी पर्वत ज्वालामुखी क्रियाओं के कारण बनते हैं।
+#jvAlAmuKI parvawa jvAlAmuKI kriyAoM ke kAraNa banawe hEM.
+#Volcanic mountains are formed due to volcanic activity.
+jvAlAmuKI(volcano_1)	1	-	-	-	-	-	-	10:mod
+parvawa_1(mountain_3)	2	-	-	-	-	-	-	10:head
+jvAlAmuKI_1(volcano_1)	3	-	-	-	-	-	-	11:mod
+kriyA_11(activity_1)	4	-	pl	-	-	-	-	11:head
+bana_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+[6-waw_1]	10	-	-	7:k1	-	-	-	-
+[6-waw_2]	11	-	-	7:rh	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0039>
+#अफ्रीका का माउंट किलिमंजारो तथा जापान का फ्यूजियामा इस तरह के पर्वतों के उदाहरण हैं।
+#aPrIkA kA mAuMta kilimaMjAro waWA jApAna kA PyUjiyAmA isa waraha ke parvawoM ke uxAharaNa hEM.
+#Mt.Kilimanjaro in Africa and Mt.Fujiyama in Japan are examples of such mountains.
+aPrIkA	1	-	-	-	-	-	-	19:begin
+mAuMta	3	-	-	-	-	-	-	20:begin
+kilimaMjAro	4	-	-	-	-	-	-	20:inside
+jApAna	6	-	-	-	-	-	-	21:begin
+PyUjiyAmA	8	-	-	-	-	-	-	22:begin
+$wyax	9	-	-	23:dem	-	proximal	-	-
+parvawa_1(mountain_3)	12	-	pl	14:r6	-	-	-	-
+uxAharaNa_1(example_1)	14	-	-	15:k1s	-	-	-	-
+hE_1-pres	15	-	-	0:main	-	-	-	-
+[conj_1]	18	-	-	15:k1	-	-	-	-
+[ne_1]	19	place	-	20:r6	-	-	-	-
+[ne_2]	20	place	-	-	-	-	-	18:op1
+[ne_3]	21	place	-	22:r6	-	-	-	-
+[ne_4]	22	place	-	-	-	-	-	18:op2
+waraha_1(kind_4)	23	-	-	12:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0040>
+#पर्वत बहुत लाभदायक होते हैं।
+#parvawa bahuwa lABaxAyaka howe hEM.
+#Mountains are very useful.
+parvawa_1(mountain_3)	1	-	-	4:k1	-	-	-	-
+bahuwa_7(very_1)	2	-	-	3:intf	-	-	-	-
+lABaxAyaka_5(useful_6)	3	-	-	4:k1s	-	-	-	-
+ho_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0041>
+#पर्वत जल के संग्रहागार होते हैं।
+#parvawa jala ke saMgrahAgAra howe hEM.
+#The mountains are a storehouse of water.
+parvawa_1(mountain_3)	1	-	-	5:k1	-	def	-	-
+jala_1(water_3)	2	-	-	4:r6	-	-	-	-
+saMgrahAgAra_1(storehouse_3)	4	-	-	5:k1s	-	-	-	-
+ho_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0042>
+#बहुत-सी नदियों का स्रोत पर्वतों में स्थित हिमानियों में होता है।
+#bahuwa-sI naxiyoM kA srowa parvawoM meM sWiwa himAniyoM meM howA hE.
+#Many rivers have their source in the glaciers in the mountains.
+bahuwa_2(many_5)	1	-	-	2:intf	-	sA_4	-	-
+naxI_1(river_3)	2	-	pl	4:r6	-	-	-	-
+srowa_1(source_10)	4	-	-	10:k1	-	-	-	-
+parvawa_1(mountain_3)	5	-	pl	12:k7p	-	def	-	-
+himAnI_1(glacier_1)	8	-	pl	10:k7p	-	-	-	-
+ho_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+sWiwa_1(situated_1)	12	-	-	8:mod	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0043>
+#जलाशयों के जल को लोगों तक पहुँचाया जाता है।
+#jalASayoM ke jala ko logoM waka pahuzcAyA jAwA hE.
+#Reservoirs are made and the water is harnessed for the use of people.
+jalASaya_1(reservoir_2)	1	-	pl	3:r6	-	-	-	-
+jala_1(water_3)	3	-	-	7:k2	-	def	-	-
+loga_2(people_5)	5	anim	pl	7:k4	-	-	-	-
+pahuzcA_1-yA_jA_wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0044>
+#पर्वतों के जल का उपयोग सिंचाई तथा पनबिजली के उत्पादन में भी किया जाता है।
+#parvawoM ke jala kA upayoga siMcAI waWA panabijalI ke uwpAxana meM BI kiyA jAwA hE.
+#Water from the mountains is also used for irrigation and generation of hydro-electricity.
+parvawa_1(mountain_3)	1	-	pl	3:r6	-	def	-	-
+jala_1(water_3)	3	-	-	5:r6	-	-	-	-
+upayoga_1(use_2)	5	-	-	13:k2	-	-	-	-
+siMcAI_1(irrigation_2)	6	-	-	-	-	-	-	17:op1
+panabijalI_2	8	-	-	10:r6	-	-	-	-
+uwpAxana_5	10	-	-	-	-	BI_1	-	17:op2
+kara_1-yA_jA_wA_hE_1	13	-	-	0:main	-	-	-	-
+[conj_1]	17	-	-	13:k7	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0045>
+#नदी घाटियाँ तथा वेदिकाएँ कृषि के लिए उपयुक्त होती हैं।
+#naxI GAtiyAz waWA vexikAez kqRi ke lie upayukwa howI hEM.
+#The river valleys and terraces are ideal for cultivation of crops.
+naxI_1(river_3)	1	-	-	-	-	-	-	15:mod
+GAtI_1(valley_2)	2	-	pl	-	-	-	-	15:head
+vexikA_3(terrace_3)	4	-	pl	-	-	-	-	14:op2
+kqRi_3(cultivation_2)	5	-	-	9:rt	-	-	-	-
+upayukwa_8(ideal_3)	8	-	-	9:k1s	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+[conj_1]	14	-	-	9:k1	-	-	-	-
+[6-waw_1]	15	-	-	-	-	def	-	14:op1
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0046>
+#पर्वतों में अलग-अलग प्रकार की वनस्पतियाँ तथा जीव-जंतु पाए जाते हैं।
+#parvawoM meM alaga-alaga prakAra kI vanaspawiyAz waWA jIva-jaMwu pAe jAwe hEM.
+#Mountains have a rich variety of flora and fauna.
+parvawa_1(mountain_3)	1	-	pl	9:k7p	-	-	-	-
+alaga_7(different_4)	3	-	xviwva	4:mod	-	-	-	-
+prakAra_9(variety_7)	4	-	-	13:r6	-	-	-	-
+vanaspawi_3(flora_1)	6	-	pl	-	-	-	-	13:op1
+jIva+jaMwu_1	8	anim	-	-	-	-	-	13:op2
+pA_1-yA_jA_wA_hE_1	9	-	-	0:main	-	-	-	-
+[conj_1]	13	-	-	9:k2	-	-	-	-
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0047>
+#वनों से हमें ईंधन,चारा, आश्रय तथा दूसरे उत्पाद जैसे गोंद, रेजिन इत्यादि प्राप्त होते हैं।
+#vanoM se hameM IMXana,cArA, ASraya waWA xUsare uwpAxa jEse goMxa, rejina iwyAxi prApwa howe hEM.
+#The forests provide fuel, fodder, shelter and other products like gum, raisins, etc.
+vana_2(forest_4)	1	-	pl	21:k5	-	def	-	-
+$speaker	3	anim	pl	21:k4	-	-	-	-
+IMXana_1(fuel_2)	4	-	-	-	-	-	-	22:op1
+cArA_1(fodder_1)	6	-	-	-	-	-	-	22:op2
+ASraya_1(shelter_1)	8	-	-	-	-	-	-	22:op3
+xUsarA_8(other_3)	10	-	-	11:mod	-	-	-	-
+uwpAxa_3(product_1)	11	-	-	-	-	-	-	22:op4
+goMxa_1(gum_1)	13	-	-	-	-	-	-	24:op1
+rejina_1(raisin_10)	15	-	-	-	-	-	-	24:op2
+prApwa(procured_1)	17	-	-	-	-	-	-	21:kriyAmUla
+ho_1-wA_hE_1	18	-	-	-	-	-	-	21:verbalizer
+[cp_1]	21	-	-	0:main	-	-	-	-
+[conj_1]	22	-	-	21:k1	-	-	-	-
+iwyAxi_1(etc_1)	23	-	-	-	-	-	-	24:op3
+[conj_2]	24	-	-	11:re	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0048>
+#सैलानियों के लिए पर्वतीय भाग उपयुक्त स्थान हैं।
+#sElAniyoM ke lie parvawIya BAga upayukwa sWAna hEM.
+#Mountains provide an idyllic site for tourists.
+sElAnI_1(tourist_2)	1	anim	pl	8:rt	-	-	-	-
+parvawIya_2(mountainous_1)	4	-	-	5:mod	-	-	-	-
+BAga_20(region_18)	5	-	-	8:k1	-	-	-	-
+upayukwa_1	6	-	-	7:mod	-	-	-	-
+sWAna_3(site_4)	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0049>
+#वे पर्वतों की यात्रा उनकी प्राकृतिक सुंदरता को देखने के लिए करते हैं।
+#ve parvawoM kI yAwrA unakI prAkqwika suMxarawA ko xeKane ke lie karawe hEM.
+#They visit the mountains for their scenic beauty.
+$wyax	1	-	-	15:k1	Geo_ncert_6stnd_6ch_0048.1:coref	distal	-	-
+parvawa_1(mountain_3)	2	-	pl	15:k2	-	def	-	-
+yAwrA_2(travel_2)	4	-	-	-	-	-	-	15:kriyAmUla
+$wyax	5	-	-	7:r6	2:coref	distal	-	-
+prAkqwika_2	6	-	-	7:mod	-	-	-	-
+suMxarawA_1(beauty_15)	7	-	-	9:k2	-	-	-	-
+xeKa_3(watch_3)	9	-	pl	15:rt	-	-	-	-
+kara_1-wA_hE_1	12	-	-	-	-	-	-	15:verbalizer
+[cp_1]	15	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0050>
+#विभिन्न प्रकार के खेल जैसे- पैराग्लाइडिंग, हैंग ग्लाइडिंग, रिवर राफ्टिंग तथा स्कीइंग पर्वतों के प्रचलित खेल हैं।
+#viBinna prakAra ke Kela: jEse- pErAglAidiMga, hEMga glAidiMga, rivara rAPitaga waWA skIiMga parvawoM ke pracaliwa Kela hEM.
+#Several sports like paragliding, hang gliding, river rafting and skiing are popular in the mountains.
+viBinna_1(different_13)	1	-	-	2:mod	-	-	-	-
+prakAra_1(kind_8)	2	-	-	4:r6	-	-	-	-
+Kela_3(sport_5)	4	-	-	21:k1	-	-	-	-
+pErAglAidiMga_1(paragliding_1)	8	-	-	-	-	-	-	26:op1
+^hEMga_1	10	-	-	-	-	-	-	11:mod
+[compound_1]	11	-	-	-	-	-	-	26:op2
+^rivara_1	13	-	-	-	-	-	-	27:mod
+^rAPitaga_1	14	-	-	-	-	-	-	27:head
+skIiMga_1(skiing_1)	16	-	-	-	-	-	-	26:op4
+parvawa_1(mountain_3)	17	-	pl	20:r6	-	-	-	-
+pracaliwa_7	19	-	-	20:mod	-	-	-	-
+Kela_3(sport_5)	20	-	-	21:k1s	-	-	-	-
+hE_1-pres	21	-	-	0:main	-	-	-	-
+^glAidiMga_1	23	-	-	-	-	-	-	11:head
+[conj_1]	26	-	-	4:re	-	-	-	-
+[compound_2]	27	-	-	-	-	-	-	26:op3
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0051>
+#क्या आप हिमालय में स्थित कुछ इस प्रकार के स्थानों के नाम बता सकते हैं जहाँ ये खेले जाते हैं?
+#kyA Apa himAlaya meM sWiwa kuCa isa prakAra ke sWAnoM ke nAma bawA sakawe hEM jahAz ye Kele jAwe hEM?
+#Can you name some places in the Himalayas associated with these sports?
+$addressee	2	anim	-	11:k1	-	respect	-	-
+himAlaya	3	-	-	-	-	-	-	17:begin
+kuCa_1(some_2)	6	-	-	8:quant	-	-	-	-
+$wyax	7	-	-	18:dem	-	proximal	-	-
+sWAna_1(place_14)	8	-	pl	10:r6	-	-	-	-
+nAma_1(name_3)	10	-	-	11:k2	-	-	-	-
+bawA_1-0_sakawA_hE_1	11	-	-	0:main	-	-	-	-
+$yax	14	-	-	16:k7p	8:coref	-	-	-
+$wyax	15	-	-	16:k2	Geo_ncert_6stnd_6ch_0050.26:coref	proximal	-	-
+Kela_1-yA_jA_wA_hE_1	16	-	-	8:rcdelim	-	-	-	-
+[ne_1]	17	place	-	20:k7p	-	-	-	-
+prakAra_1(kind_8)	18	-	-	8:r6	-	-	-	-
+sWiwa_1(situated_1)	20	-	-	8:mod	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0052>
+#पठार उठी हुई भूमि एवं सपाट भूमि होती है।
+#paTAra uTI huI BUmi evaM sapAta BUmi howI hE.
+#A plateau is an elevated land and flat land.
+paTAra_1(plateau_2)	1	-	-	7:k1	-	-	-	-
+sapAta_1(flat_5)	5	-	-	6:mod	-	-	-	-
+BUmi_1(land_6)	6	-	-	-	-	-	-	10:op2
+ho_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+[conj_1]	10	-	-	7:k1s	-	-	-	-
+uTa_1	11	-	kqw	12:rbks	-	-	-	-
+BUmi_1(land_6)	12	-	-	-	-	-	-	10:op1
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0052H>
+#पठार
+#paTAra
+#Plateau
+paTAra_1(plateau_2)	1	-	-	0:main	-	-	-	-
+%heading
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0053a>
+#यह आस-पास के क्षेत्रों से अधिक उठा हुआ होता है।
+#yaha Asa-pAsa ke kRewroM se aXika uTA huA howA hE .
+#It stands above the surrounding area.
+$wyax	1	-	-	8:k1	Geo_ncert_6stnd_6ch_0052.1:coref	proximal	-	-
+Asa+pAsa_1	2	-	-	4:r6	-	-	-	-
+kRewra_5(area_2)	4	-	pl	1:rv	-	-	-	-
+uTA_18(standing_15)	7	-	comparmore/kqw	8:k1s	-	-	-	-
+ho_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0053b>
+#तथा इसका ऊपरी भाग मेज के समान सपाट होता है।
+#waWA isakA UparI BAga meja ke samAna sapAta howA hE.
+#and it is a flat-topped table land.
+$wyax	1	-	-	3:r6	Geo_ncert_6stnd_6ch_0052.1:coref	proximal	-	-
+UparI_1(upper_1)	2	-	-	3:mod	-	-	-	-
+BAga_2(part_9)	3	-	-	8:k1	-	-	-	-
+meja_1(table_6)	4	-	-	1:ru	-	-	-	-
+sapAta_1(flat_5)	7	-	-	8:k1s	-	-	-	-
+ho_1-wA_hE_1	8	-	-	0:main	Geo_ncert_6stnd_6ch_0053a.8:samuccaya	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0054>
+#किसी पठार के एक या एक से अधिक किनारे होते हैं जिनके ढाल खडे होते हैं।
+#kisI paTAra ke eka yA eka se aXika kinAre howe hEM jinake DAla Kade howe hEM.
+#A plateau may have one or more sides with steep slopes.
+koI_1(any_1)	1	-	-	2:mod	-	-	-	-
+paTAra_1(plateau_2)	2	-	-	19:r6	-	-	-	-
+1	4	numex	-	20:card	-	-	-	-
+1	6	numex	-	9:quantmore	-	-	-	-
+kinArA_6(side_13)	9	-	pl	-	-	-	-	19:op2
+ho_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+$yax	12	-	-	13:r6	19:coref	-	-	-
+DAla_2(slope_2)	13	-	-	15:k1	-	-	-	-
+KadA_2	14	-	kqw	15:k1s	-	-	-	-
+ho_1-wA_hE_1	15	-	-	19:rcelab	-	-	-	-
+[disjunct_1]	19	-	-	10:k1	-	-	-	-
+kinArA_6(side_13)	20	-	-	-	-	-	-	19:op1
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0055>
+#पठारों की ऊँचाई प्रायः कुछ सौ मीटर से लेकर कई हजार मीटर तक हो सकती है।
+#paTAroM kI UzcAI prAyaH kuCa sO mItara se lekara kaI hajAra mItara waka ho sakawI hE.
+#The height of plateaus often varies from few hundred metres to several thousand metres.
+paTAra_1(plateau_2)	1	-	pl	3:r6	-	-	-	-
+UzcAI_1(height_1)	3	-	-	14:k1	-	-	-	-
+prAyaH_1(mostly_4)	4	-	-	14:krvn	-	-	-	-
+kuCa(few_5)	5	-	-	21:quant	-	-	-	-
+100	6	numex	-	-	-	-	-	21:count
+mItara_1(meter_3)	7	meas	-	-	-	-	-	21:unit
+kaI_1	10	-	-	22:quant	-	-	-	-
+1000	11	numex	-	-	-	-	-	22:count
+mItara_1(meter_3)	12	meas	-	-	-	-	-	22:unit
+ho_1-0_sakawA_hE_1	14	-	-	0:main	-	-	-	-
+[span_1]	20	-	-	14:k1s	-	-	-	-
+[height_meas_1]	21	-	-	-	-	-	-	20:start
+[height_meas_2]	22	-	-	-	-	-	-	20:end
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0056>
+#पर्वतों की तरह पठार भी नये या पुराने हो सकते हैं।
+#parvawoM kI waraha paTAra BI naye yA purAne ho sakawe hEM.
+#Plateaus, like mountains may be young or old.
+parvawa_1(mountain_3)	1	-	pl	4:ru	-	-	-	-
+paTAra_1(plateau_2)	4	-	-	9:k1	-	BI_1	-	-
+nayA_10	6	-	-	-	-	-	-	13:op1
+purAnA_1(old_5)	8	-	-	-	-	-	-	13:op2
+ho_1-0_sakawA_hE_1	9	-	-	0:main	-	-	-	-
+[disjunct_1]	13	-	-	9:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0057>
+#भारत में दक्कन पठार पुराने पठारों में से एक पठार है।
+#BArawa meM xakkana paTAra purAne paTAroM meM se eka paTAra hE.
+#The Deccan plateau in India is one of the oldest plateaus.
+BArawa	1	-	-	-	-	-	-	11:begin
+xakkana	3	-	-	-	-	-	-	12:begin
+paTAra_1(plateau_2)	4	-	-	12:rs	-	-	-	-
+purAnA_1(old_5)	5	-	-	6:mod	-	-	-	-
+paTAra_1(plateau_2)	6	-	pl	13:rn	-	-	-	-
+1	9	numex	-	13:card	-	-	-	-
+hE_1-pres	10	-	-	0:main	-	-	-	-
+[ne_1]	11	place	-	10:k7p	-	-	-	-
+[ne_2]	12	place	-	10:k1	-	-	-	-
+paTAra_1	13	-	-	10:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0058>
+#केन्या, तंजानिया तथा युगांडा का पूर्वी अफ्रीकी पठार एवं आस्ट्रेलिया का पश्चिमी पठार इस प्रकार के उदाहरण हैं।
+#kenyA, waMjAniyA waWA yugAMdA kA pUrvI aPrIkI paTAra evaM AstreliyA kA paScimI paTAra isa prakAra ke uxAharaNa hEM.
+#The East African Plateau in Kenya, Tanzania and Uganda and the Western plateau of Australia are other examples.
+kenyA	1	-	-	-	-	-	-	22:begin
+waMjAniyA	3	-	-	-	-	-	-	23:begin
+yugAMdA	5	-	-	-	-	-	-	24:begin
+pUrvI_1(eastern_2)	7	-	-	8:mod	-	-	-	-
+aPrIkI_1(african_1)	8	-	-	9:mod	-	-	-	-
+paTAra_1(plateau_2)	9	-	-	-	-	-	-	26:op1
+AstreliyA	11	-	-	-	-	-	-	25:begin
+paScimI_1(western_7)	13	-	-	14:mod	-	-	-	-
+paTAra_1(plateau_2)	14	-	-	-	-	-	-	26:op2
+$wyax	15	-	-	16:dem	-	proximal	-	-
+prakAra_1(kind_8)	16	-	-	18:r6	-	-	-	-
+uxAharaNa_1(example_1)	18	-	-	19:k1s	-	-	-	-
+hE_1-pres	19	-	-	0:main	-	-	-	-
+[conj_1]	21	-	-	9:r6	-	-	-	-
+[ne_1]	22	place	-	-	-	-	-	21:op1
+[ne_2]	23	place	-	-	-	-	-	21:op2
+[ne_3]	24	place	-	-	-	-	-	21:op3
+[ne_4]	25	place	-	14:r6	-	-	-	-
+[conj_2]	26	-	-	19:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0059>
+#तिब्बत का पठार विश्व का सबसे ऊँचा पठार है, जिसकी ऊँचाई माध्य समुद्र तल से 4,000 से 6,000 मीटर तक है।
+#wibbawa kA paTAra viSva kA sabase UzcA paTAra hE, jisakI UzcAI mAXya samuxra wala se 4,000 se 6,000 mItara waka hE.
+#The Tibet plateau is the highest plateau in the world with a height of 4,000 to 6,000 metres above the mean sea level.
+wibbawa	1	-	-	-	-	-	-	31:begin
+paTAra_1(plateau_2)	3	-	-	9:k1	-	-	-	-
+viSva_11(world_20)	4	-	-	8:r6	-	def	-	-
+UzcA_1(high_5)	7	-	superl	8:mod	-	-	-	-
+paTAra_1(plateau_2)	8	-	-	9:k1s	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+$yax	11	-	-	12:r6	8:coref	-	-	-
+UzcAI_1(height_1)	12	-	-	26:k1	-	-	-	-
+mAXya_1(mean_13)	13	-	-	29:mod	-	-	-	-
+samuxra_2(sea_12)	14	-	-	-	-	-	-	29:mod
+wala_7(level_4)	15	-	-	-	-	-	-	29:head
+4000	17	numex	-	-	-	-	-	33:count
+6000	21	numex	-	-	-	-	-	34:count
+mItara_1(meter_3)	24	meas	-	-	-	-	-	34:unit
+hE_1-pres	26	-	-	8:rcelab	-	-	-	-
+[6-waw_1]	29	-	-	30:k5	-	-	-	-
+[span_1]	30	-	-	26:k1s	-	-	-	-
+[ne_1]	31	place	-	3:r6	-	-	-	-
+mItara_1(meter_3)	32	meas	-	-	-	-	-	33:unit
+[height_meas_1]	33	-	-	-	-	-	-	30:start
+[height_meas_2]	34	-	-	-	-	-	-	30:end
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0060a>
+#पठार बहुत उपयोगी होते हैं।
+#paTAra bahuwa upayogI howe hEM .
+#Plateaus are very useful.
+paTAra_1(plateau_2)	1	-	-	4:k1	-	-	-	-
+bahuwa_7(very_1)	2	-	-	3:intf	-	-	-	-
+upayogI_1(useful_1)	3	-	-	4:k1s	-	-	-	-
+ho_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0060b>
+#क्योंकि उनमें खनिजों की प्रचुरता होती है।
+#kyoMki unameM KanijoM kI pracurawA howI hE.
+#Because they are rich in mineral deposits.
+$wyax	1	-	-	5:k7p	Geo_ncert_6stnd_6ch_0060a.1:coref	distal	-	-
+Kanija_1(mineral_1)	2	-	pl	4:r6	-	-	-	-
+pracurawA_1(richness_7)	4	-	-	5:k1	-	-	-	-
+ho_1-wA_hE_1	5	-	-	0:main	Geo_ncert_6stnd_6ch_0060a.4:kAryakAraNa	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0061a>
+#यही कारण है।
+#yahI kAraNa hE.
+#As a result, this happens.
+$wyax	1	-	-	2:dem	-	-	-	-
+kAraNa_1(reason_2)	2	-	-	3:k1	-	-	-	-
+hE_1-pres	3	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0061b>
+#कि विश्व के बहुत से खनन क्षेत्र पठारी भागों में स्थित हैं।
+#ki viSva ke bahuwa se Kanana kRewra paTArI BAgoM meM sWiwa hEM.
+#That many of the mining areas in the world are located in the plateau areas.
+viSva_1	1	-	-	11:r6	-	-	-	-
+bahuwa_1	3	-	-	11:krvn	-	-	-	-
+Kanana_1	5	-	-	-	-	-	-	13:mod
+kRewra_1	6	-	-	-	-	-	-	13:head
+paTArI_1	7	-	-	8:mod	-	-	-	-
+BAga_1	8	-	pl	11:k7p	-	-	-	-
+sWiwa_1	10	-	-	11:k1s	-	-	-	-
+hE_1-pres	11	-	-	0:main	-	-	-	-
+[nc_1]	13	-	-	11:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0062>
+#अफ्रीका का पठार सोना एवं हीरों के खनन के लिए प्रसिद्ध है।
+#aPrIkA kA paTAra sonA evaM hIroM ke Kanana ke lie prasixXa hE.
+#The African plateau is famous for gold and diamond mining.
+aPrIkA	1	-	-	-	-	-	-	15:begin
+paTAra_1(plateau_2)	3	-	-	12:k1	-	-	-	-
+sonA_1(gold_4)	4	-	-	-	-	-	-	14:op1
+hIrA_1(diamond_3)	6	-	pl	-	-	-	-	14:op2
+Kanana_1(mining_1)	8	-	-	12:rt	-	-	-	-
+prasixXa_1(famous_3)	11	-	-	12:k1s	-	-	-	-
+hE_1-pres	12	-	-	0:main	-	-	-	-
+[conj_1]	14	-	-	8:r6	-	-	-	-
+[ne_1]	15	-	-	3:r6	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0063>
+#भारत में छोटानागपुर के पठार में लोहा, कोयला तथा मैंगनीज के बहुत बड़े भंडार पाए जाते हैं।
+#BArawa meM CotAnAgapura ke paTAra meM lohA, koyalA waWA mEMganIja ke bahuwa bade BaMdAra pAe jAwe hEM.
+#In India huge reserves of iron, coal and manganese are found in the Chhotanagpur plateau.
+BArawa	1	-	-	-	-	-	-	22:begin
+CotAnAgapura	3	-	-	-	-	-	-	23:begin
+paTAra_1(plateau_2)	5	-	-	15:k7p	-	-	-	-
+lohA_1(iron_1)	7	-	-	-	-	-	-	21:op1
+koyalA_1(coal_1)	9	-	-	-	-	-	-	21:op2
+mEMganIja_1	11	-	-	-	-	-	-	21:op3
+bahuwa_3(abundant_7)	13	-	-	14:intf	-	-	-	-
+badA_2(huge_11)	14	-	-	15:mod	-	-	-	-
+BaMdAra_4(reserve_2)	15	-	-	16:k2	-	-	-	-
+pA_1-yA_jA_wA_hE_1	16	-	-	0:main	-	-	-	-
+[spatial_1]	20	-	-	5:r6	-	-	-	-
+[conj_1]	21	-	-	15:r6	-	-	-	-
+[ne_1]	22	place	-	-	-	-	-	20:whole
+[ne_2]	23	place	-	-	-	-	-	20:part
+%pass_affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0064a>
+#पठारी क्षेत्रों में बहुत से जलप्रपात हो सकते हैं।
+#paTArI kRewroM meM bahuwa se jalaprapAwa ho sakawe hEM .
+#In the plateau areas, there may be several waterfalls.
+paTArI_1(plateau_3)	1	-	-	2:mod	-	-	-	-
+kRewra_5(area_2)	2	-	pl	7:k7p	-	def	-	-
+bahuwa_8	4	-	-	6:quant	-	sA_4	-	-
+jalaprapAwa_1(waterfall_1)	6	-	-	7:k1	-	-	-	-
+ho_1-0_sakawA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0064b>
+#क्योंकि यहाँ नदियाँ ऊँचाई से गिरती हैं।
+#kyoMki yahAz naxiyAz UzcAI se girawI hEM.
+#As the river falls from a great height.
+$wyax	1	-	-	5:k7p	Geo_ncert_6stnd_6ch_0064a.2:coref	proximal	-	-
+naxI_1(river_3)	2	-	pl	5:k1	-	def	-	-
+UzcAI_1(height_1)	3	-	-	5:k5	-	-	-	-
+gira_1-wA_hE_1	5	-	-	0:main	Geo_ncert_6stnd_6ch_0064a.7:kAryakAraNa	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0065>
+#भारत में, छोटानागपुर पठार पर स्वर्णरेखा नदी पर स्थित हुंडरू जलप्रपात तथा कर्नाटक में जोग जलप्रपात, इस प्रकार के जलप्रपातों के उदाहरण हैं।
+#BArawa meM, CotAnAgapura paTAra para svarNareKA naxI para sWiwa huMdarU jalaprapAwa waWA karnAtaka meM joga jalaprapAwa, isa prakAra ke jalaprapAwoM ke uxAharaNa hEM.
+#In India, the Hundru falls in the Chhotanagpur plateau on the river Subarnarekha and the Jog falls in Karnataka are examples of such waterfalls.
+BArawa	1	-	-	-	-	-	-	32:begin
+CotAnAgapura	4	-	-	-	-	-	-	33:begin
+paTAra(plateau_2)	5	-	-	-	-	-	-	33:inside
+svarNareKA	7	-	-	-	-	-	-	34:begin
+naxI(river_3)	8	-	-	-	-	-	-	34:inside
+sWiwa_1(situated_1)	10	-	kqw	35:mod	-	-	-	-
+huMdarU	11	-	-	-	-	-	-	35:begin
+jalaprapAwa(waterfall_1)	12	-	-	-	-	-	-	35:inside
+karnAtaka	14	-	-	-	-	-	-	36:begin
+joga	16	-	-	-	-	-	-	37:begin
+jalaprapAwa(waterfall_1)	17	-	-	-	-	-	-	37:inside
+$wyax	19	-	-	20:dem	-	proximal	-	-
+prakAra_1(kind_8)	20	-	-	22:r6	-	-	-	-
+jalaprapAwa_1(waterfall_1)	22	-	pl	24:r6	-	-	-	-
+uxAharaNa_1(example_1)	24	-	-	25:k1	-	-	-	-
+hE_1-pres	25	-	-	0:main	-	-	-	-
+[spatial_3]	30	-	-	25:k1s	-	-	-	-
+[conj_1]	31	-	-	-	-	-	-	30:part
+[ne_1]	32	place	-	-	-	-	-	30:whole
+[ne_2]	33	place	-	-	-	-	-	39:whole
+[ne_3]	34	place	-	-	-	-	-	39:part
+[ne_4]	35	place	-	-	-	-	-	31:op1
+[ne_5]	36	place	-	-	-	-	-	38:whole
+[ne_6]	37	place	-	-	-	-	-	38:part
+[spatial_2]	38	-	-	-	-	-	-	31:op2
+[spatial_1]	39	-	-	10:k7p	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0066a>
+#लावा पठार में काली मिट्टी की प्रचुरता होती है।
+#lAvA paTAra meM kAlI mittI kI pracurawA howI hE.
+#The lava plateaus are rich in black soil.
+lAvA_1(lava_1)	1	-	-	-	-	-	-	23:mod
+paTAra_1(plateau_2)	2	-	-	-	-	-	-	23:head
+kAlA_1(black_1)	4	-	-	5:mod	-	-	-	-
+mittI_2(soil_4)	5	-	-	7:r6	-	-	-	-
+pracurawA_1(richness_7)	7	-	-	8:k1	-	-	-	-
+ho_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+[nc_1]	23	-	-	8:k7p	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0066b>
+#जो उपजाऊ है।
+#jo upajAU hE.
+#That is fertile.
+$yax	1	-	-	2:k1	Geo_ncert_6stnd_6ch_0066a.5:coref	-	-	-
+hE_1-pres	2	-	-	0:rcelab	-	-	-	-
+upajAU_1(fertile_1)	3	-	-	2:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0066c>
+#एवं जो खेती के लिए काफी अच्छी होती है।
+#evaM KewI ke lie kAPI acCI howI hE.
+#And that is good for cultivation.
+$yax	1	-	-	2:k1	Geo_ncert_6stnd_6ch_0066a.5:coref	-	-	-
+ho_1-wA_hE_1	2	-	-	0:rcelab	Geo_ncert_6stnd_6ch_0066b.2:samuccaya	-	-	-
+acCA_1(good_1)	3	-	-	2:k1s	-	-	-	-
+kAPI_2(quite_4)	4	-	-	3:intf	-	-	-	-
+KewI_2(cultivation_3)	5	-	-	2:rt	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0067>
+#कई पठारों में रमणीय स्थल होते हैं, जो पर्यटकों को आकर्षित करते हैं।
+#kaI paTAroM meM ramaNIya sWala howe hEM, jo paryatakoM ko AkarRiwa karawe hEM.
+#Many plateaus have scenic spots and are of great attraction to tourists.
+koI_10	1	-	-	2:quant	-	-	-	-
+paTAra_1(plateau_2)	2	-	pl	6:k7p	-	-	-	-
+ramaNIya_8	4	-	-	5:mod	-	-	-	-
+sWala_6(spot_6)	5	-	-	6:k1	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+$yax	9	-	-	14:k1	5:coref	-	-	-
+paryataka_1(tourist_1)	10	-	pl	14:k2	-	-	-	-
+AkarRiwa_1(attracted_1)	12	-	-	-	-	-	-	14:kriyAmUla
+kara_1-wA_hE_1	13	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	5:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0068>
+#मैदान समतल भूमि के बहुत बड़े भाग होते हैं।
+#mExAna samawala BUmi ke bahuwa bade BAga howe hEM.
+#Plains are large stretches of flat land.
+mExAna_5(plain_5)	1	-	-	8:k1	-	-	-	-
+samawala_3(flat_6)	2	-	-	3:mod	-	-	-	-
+BUmi(land_6)	3	-	-	7:r6	-	-	-	-
+bahuwa_7(very_1)	5	-	-	6:intf	-	-	-	-
+badA_8(large_25)	6	-	pl	7:mod	-	-	-	-
+BAga_1	7	-	-	8:k1s	-	-	-	-
+ho_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0069>
+#वे सामान्यतः मध्य समुद्री तल से 200 मीटर से अधिक ऊँचे नहीं होते हैं।
+#ve sAmAnyawaH maXya samuxrI wala se 200 mItara se aXika Uzce nahIM howe hEM.
+#They are, generally, not more than 200 metres above mean sea level.
+$wyax	1	-	-	13:k1	Geo_ncert_6stnd_6ch_0068.1:coref	distal	-	-
+maXya_9	3	-	-	4:mod	-	-	-	-
+samuxrI_5(sea_72)	4	-	-	5:mod	-	-	-	-
+wala_7(level_4)	5	-	-	13:k5	-	-	-	-
+200	7	meas	-	-	-	-	-	18:count
+mItara_2(metre_2)	8	-	-	-	-	-	-	18:unit
+UzcA_1	11	-	compermore	13:k1s	-	-	-	-
+nahIM_1(not_1)	12	-	-	13:neg	-	-	-	-
+ho_1-wA_hE_1	13	-	-	0:main	-	-	-	-
+[height_meas_1]	18	-	-	20:quantmore	-	-	-	-
+sAmAnyawaH(generally_10)	19	-	-	13:krvn	-	-	-	-
+mItara_2(metre_2)	20	-	-	11:rmeas	-	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0070>
+#कुछ मैदान काफी समतल होते हैं।
+#kuCa mExAna kAPI samawala howe hEM.
+#Some plains are extremely level.
+kuCa_1(some_2)	1	-	-	2:quant	-	-	-	-
+mExAna_5(plain_5)	2	-	-	5:k1	-	-	-	-
+kAPI_8	3	-	-	4:intf	-	-	-	-
+samawala_1(level_4)	4	-	-	5:k1s	-	-	-	-
+ho_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0071>
+#कुछ उर्मिल तथा तरंगित हो सकते हैं।
+#kuCa urmila waWA waraMgiwa ho sakawe hEM.
+#Others may be slightly rolling and undulating.
+kuCa_12	1	-	-	5:k1	-	-	-	-
+urmila_2(undulating_3)	2	-	-	-	-	-	-	10:op1
+waraMgiwa_6	4	-	-	-	-	-	-	10:op2
+ho_1-0_sakawA_hE_1	5	-	-	0:main	-	-	-	-
+[conj_1]	10	-	-	5:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0072>
+#अधिकांश मैदान नदियों तथा उनकी सहायक नदियों के द्वारा बने हैं।
+#aXikAMSa mExAna naxiyoM waWA unakI sahAyaka naxiyoM ke xvArA bane hEM.
+#Most of the plains are formed by rivers and their tributaries.
+aXikAMSa_1(most_1)	1	-	-	2:mod	-	-	-	-
+mExAna_5(plain_5)	2	-	-	10:k1	-	def	-	-
+naxI_1(river_3)	3	-	pl	-	-	-	-	13:op1
+$wyax	5	-	-	7:r6	3:coref	distal	-	-
+sahAyaka_13(tributary_3)	6	-	-	7:mod	-	-	-	-
+naxI_1(river_3)	7	-	pl	-	-	-	-	13:op2
+hE_1-pres	10	-	-	0:main	-	-	-	-
+[conj_1]	13	-	-	14:k1	-	-	-	-
+bana_1	14	-	kqw	10:k1s	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0073a>
+#नदियाँ पर्वतों के ढालों पर नीचे की ओर बहती हैं।
+#naxiyAz parvawoM ke DAloM para nIce kI ora bahawI hEM.
+#The rivers flow down the slopes of mountains.
+naxI_1(river_3)	1	-	pl	9:k1	-	def	-	-
+parvawa_1(mountain_3)	2	-	pl	4:r6	-	-	-	-
+DAla_2(slope_2)	4	-	pl	9:k7p	-	def	-	-
+nIce_5(down_1)	6	-	-	9:rd	-	-	-	-
+baha_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0073b>
+#तथा नदियाँ उन्हें अपरदित कर देती हैं।
+#waWA naxiyAz unheM aparaxiwa kara xewI hEM.
+#And rivers erode them.
+$wyax	1	-	-	3:k2	Geo_ncert_6stnd_6ch_0073a.4:coref	distal	-	-
+aparaxiwa_1(eroded_2)	2	-	-	3:k2s	-	-	-	-
+kara_1-wA_hE_1	3	-	-	0:main	Geo_ncert_6stnd_6ch_0073a.9:samuccaya	[shade:xe_1]	-	-
+naxi_1	4	-	pl	3:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0074>
+#वे अपरदित पदार्थों को अपने साथ आगे की ओर ले जाती हैं।
+#ve aparaxiwa paxArWoM ko apane sAWa Age kI ora le jAwI hEM.
+#They carry forward the eroded material.
+$wyax	1	-	-	10:k1	Geo_ncert_6stnd_6ch_0073a.1:coref	distal	-	-
+aparaxiwa_1(eroded_2)	2	-	-	3:mod	-	-	-	-
+paxArWa_10(material_7)	3	-	pl	10:k2	-	def	-	-
+apanA	5	-	-	10:rask1	-	-	-	-
+Age_3(forward_3)	7	-	-	10:rd	-	-	-	-
+le_1-wA_hE_1	10	-	-	0:main	-	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0075>
+#अपने साथ ढोये जाने वाले पदार्थों जैसे- पत्थर, बालू तथा सिल्ट को वे घाटियों में निक्षेपित कर देती हैं।
+#apane sAWa Doe jAne vAle paxArWoM jEse- pawWara, bAlU waWA silta ko ve GAtiyoM meM nikRepiwa kara xewI hEM.
+#Then they deposit their load consisting of stones, sand and silt along their courses and in their valleys.
+apanA	1	-	-	3:rask1	-	-	-	-
+Do_4(carry_1)	3	-	-	6:mod	-	-	-	-
+paxArWa_10(material_7)	6	-	pl	25:k2	-	-	-	-
+pawWara_1(stone_1)	9	-	-	-	-	-	-	24:op1
+bAlU_1(sand_2)	11	-	-	-	-	-	-	24:op2
+silta_1(silt_1)	13	-	-	-	-	-	-	24:op3
+$wyax	15	-	-	25:k1	Geo_ncert_6stnd_6ch_0073a.1:coref	distal	-	-
+GAtI_1(valley_2)	16	-	pl	25:k7p	-	-	-	-
+nikRepiwa_1(deposit_14)	18	-	-	-	-	-	-	25:kriyAmUla
+kara_1-wA_hE_1	19	-	-	-	-	[shade:xe_1]	-	25:verbalizer
+[conj_1]	24	-	-	6:re	-	-	-	-
+[cp_1]	25	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0076>
+#इन्हीं निक्षेपों से मैदानों का निर्माण होता है।
+#inhIM nikRepoM se mExAnoM kA nirmANa howA hE.
+#It is from these deposits that plains are formed.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+nikRepa_3(deposit_3)	2	-	pl	7:rh	-	-	-	-
+mExAna_5(plain_5)	4	-	pl	6:r6	-	-	-	-
+nirmANa_17(form_71)	6	-	-	7:k1	-	-	-	-
+ho_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0077>
+#सामान्यतः मैदान बहुत अधिक उपजाऊ होते हैं।
+#sAmAnyawaH mExAna bahuwa aXika upajAU howe hEM.
+#Generally, plains are very fertile.
+sAmAnyawaH_3(generally_10)	1	-	-	6:vkvn	-	-	-	-
+mExAna_5(plain_5)	2	-	-	6:k1	-	-	-	-
+bahuwa_7(very_1)	3	-	-	4:intf	-	-	-	-
+aXika_2(much_2)	4	-	-	5:mod	-	-	-	-
+upajAU_1(fertile_1)	5	-	-	6:k1s	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0078>
+#यहाँ परिवहन के साधनों का निर्माण करना आसान होता है।
+#yahAz parivahana ke sAXanoM kA nirmANa karanA AsAna howA hE.
+#Construction of transport network is easy.
+$wyax	1	-	-	9:k7p	-	proximal	-	-
+parivahana_2(transport_2)	2	-	-	4:r6	-	-	-	-
+sAXana_17	4	-	pl	12:k1	-	-	-	-
+nirmANa_1(construction_3)	6	-	-	-	-	-	-	12:kriyAmUla
+kara_1	7	-	-	-	-	-	-	12:verbalizer
+AsAna_1(easy_1)	8	-	-	9:k1s	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+[cp_1]	12	-	-	9:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0079>
+#इसलिए ये मैदान विश्व के सबसे अधिक जनसंख्या वाले भाग होते हैं।
+#isalie ye mExAna viSva ke sabase aXika janasaMKyA vAle BAga howe hEM.
+#Thus, these plains are very thickly-populated regions of the world.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+mExAna_5(plain_5)	2	-	-	10:k1	-	-	-	-
+viSva_11(world_20)	3	-	-	7:r6	-	def	-	-
+janasaMKyA_1(population_3)	7	-	mawupa	9:mod	-	-	-	-
+BAga_20(region_18)	9	-	-	10:k1s	-	-	-	-
+ho_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0080>
+#नदियों के द्वारा बनाए गए कुछ बड़े मैदान एशिया तथा उत्तरी अमेरिका में पाए जाते हैं।
+#naxiyoM ke xvArA banAe gae kuCa bade mExAna eSiyA waWA uwwarI amerikA meM pAe jAwe hEM.
+#Some of the largest plains made by the rivers are found in Asia and North America.
+naxI_1(river_3)	1	-	pl	4:k1	-	def	-	-
+banA_1	4	-	kqw	8:rvks	-	-	-	-
+kuCa_1(some_2)	6	-	-	8:quant	-	-	-	-
+badA_6(big_11)	7	-	pl	8:mod	-	-	-	-
+mExAna_5(plain_5)	8	-	-	14:k2	-	def	-	-
+eSiyA	9	-	-	-	-	-	-	20:begin
+uwwarI_1	11	-	-	-	-	-	-	19:begin
+amerikA	12	-	-	-	-	-	-	19:inside
+pA_1-yA_jA_wA_hE_1	14	-	-	0:main	-	-	-	-
+[conj_1]	18	-	-	14:k7p	-	-	-	-
+[ne_2]	19	place	-	-	-	-	-	18:op2
+[ne_1]	20	place	-	-	-	-	-	18:op1
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0081>
+#एशिया में स्थित भारत में गंगा एवं ब्रह्मपुत्र का मैदान तथा चीन में यांगत्से नदी का मैदान इसके प्रमुख उदाहरण हैं।
+#eSiyA meM sWiwa BArawa meM gaMgA evaM brahmapuwra kA mExAna waWA cIna meM yAMgawse naxI kA mExAna isake pramuKa uxAharaNa hEM.
+#For example, in Asia, these plains are formed by the Ganga and the Brahmaputra in India and the Yangtze in China.
+eSiyA	1	-	-	3:intf	-	-	-	24:begin
+sWiwa_1	3	-	kqw	4:mod	-	-	-	-
+BArawa	4	-	-	0:k7p	-	-	-	25:begin
+gaMgA	6	-	-	-	-	-	-	26:begin
+brahmapuwra	8	-	-	-	-	-	-	27:begin
+mExAna_1	10	-	-	11:ccof	-	-	-	23:op1
+cIna	12	-	-	21:k7p	-	-	-	28:begin
+yAMgawse	14	-	-	15:mod	-	-	-	29:begin
+naxI_1	15	-	-	17:r6	-	-	-	-
+mExAna_1	17	-	-	21:k1	-	-	-	23:op2
+$wyax	18	-	-	20:r6	-	proximal	-	-
+pramuKa_1	19	-	-	20:mod	-	-	-	-
+uxAharaNa_1	20	-	-	21:k1s	-	-	-	-
+hE_1	21	-	-	11:ccof	-	-	-	-
+[conj_1]	23	-	-	10:r6	-	-	-	-
+[ne_1]	24	place	-	-	-	def	-	-
+[ne_2]	25	place	-	-	-	def	-	-
+[ne_3]	26	ne	-	-	-	def	-	30:op1
+[ne_4]	27	ne	-	-	-	def	-	30:op2
+[ne_5]	28	place	-	-	-	def	-	-
+[ne_6]	29	ne	-	-	-	def	-	-
+[conj_1]	30	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0082>
+#मैदान मनुष्यों के रहने के लिए सबसे उपयोगी क्षेत्र होते हैं।
+#mExAna manuRyoM ke rahane ke lie sabase upayogI kRewra howe hEM.
+#Plains are the most useful areas for human habitation.
+mExAna_5(plain_5)	1	-	-	10:k1	-	-	-	-
+manuRya_5(human_14)	2	-	pl	4:r6	-	-	-	-
+raha_1	4	-	-	10:rt	-	-	-	-
+upayogI_1(useful_1)	8	-	superl	9:mod	-	-	-	-
+kRewra_5(area_2)	9	-	-	10:k1s	-	-	-	-
+ho_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0083a>
+#यहाँ की जनसंख्या बहुत अधिक होती है।
+#yahAz kI janasaMKyA bahuwa aXika howI hE .
+#There is great concentration of people.
+$wyax	1	-	-	6:k7p	Geo_ncert_6stnd_6ch_0082.1:coref	proximal	-	-
+janasaMKyA_1(population_3)	3	-	-	6:k1	-	-	-	-
+bahuwa_7(very_1)	4	-	-	5:intf	-	-	-	-
+aXika_7(excessive_3)	5	-	-	6:k1s	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0083b>
+#क्योंकि मकानों के बनाने तथा खेती करने के लिए यहाँ समतल भूमि की प्रचुरता होती है।
+#kyoMki makAnoM ke banAne waWA KewI karane ke lie yahAz samawala BUmi kI pracurawA howI hE.
+#As more flat land is available for building houses, as well as for cultivation.
+makAna_1(house_5)	1	-	pl	3:k2	-	-	-	-
+banA_25	3	-	-	-	-	-	-	17:op1
+KewI_2(cultivation_3)	5	-	-	18:k2	-	-	-	-
+$wyax	8	-	-	13:k7p	Geo_ncert_6stnd_6ch_0082.1:coref	proximal	-	-
+samawala_3(flat_6)	9	-	-	10:mod	-	-	-	-
+BUmi_1(land_6)	10	-	-	12:r6	-	-	-	-
+pracurawA_1(richness_7)	12	-	-	13:k1	-	-	-	-
+ho_1-wA_hE_1	13	-	-	0:main	Geo_ncert_6stnd_6ch_0083a.6:kAryakAraNa	-	-	-
+[conj_1]	17	-	-	13:rt	-	-	-	-
+kara_17(do_2)	18	-	-	-	-	-	-	17:op2
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0084>
+#उपजाऊ मिट्टी के कारण यह भाग खेती के लिए काफी उपयुक्त होता है।
+#upajAU mittI ke kAraNa yaha BAga KewI ke lie kAPI upayukwa howA hE.
+#Because of fertile soils, the land is highly productive for cultivation.
+upajAU_1(fertile_1)	1	-	-	2:mod	-	-	-	-
+mittI_2(soil_4)	2	-	-	12:rh	-	-	-	-
+$wyax	5	-	-	6:dem	Geo_ncert_6stnd_6ch_0082.1:coref	proximal	-	-
+BAga_2(part_9)	6	-	-	12:k1	-	-	-	-
+KewI_2(cultivation_3)	7	-	-	12:rt	-	-	-	-
+kAPI_1(very_3)	10	-	-	11:intf	-	-	-	-
+upayukwa_2(suitable_2)	11	-	-	12:k1s	-	-	-	-
+ho_1-wA_hE_1	12	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0085>
+#भारत में गंगा का मैदान देश में सबसे अधिक जनसंख्या वाला क्षेत्र है।
+#BArawa meM gaMgA kA mExAna xeSa meM sabase aXika janasaMKyA vAlA kRewra hE.
+#In India too, the Indo-Gangetic plains are the most densely populated regions of the country.
+BArawa	1	-	-	-	-	-	-	16:begin
+gaMgA	3	-	-	-	-	-	-	17:begin
+mExAna_5(plain_5)	5	-	-	13:k1	-	-	-	-
+xeSa_1(country_1)	6	-	-	12:rn	-	-	-	-
+janasaMKyA_1(population_3)	10	-	mawup/superl	12:mod	-	-	-	-
+kRewra_4(region_3)	12	-	-	13:k1s	-	-	-	-
+hE_1-pres	13	-	-	0:main	-	-	-	-
+[ne_1]	16	place	-	13:k7p	-	def	-	-
+[ne_2]	17	ne	-	5:r6	-	def	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0086>
+#स्थलरूपों की विभिन्नता के अनुरूप ही मानव विभिन्न प्रकार से जीवनयापन करते हैं।
+#sWalarUpoM kI viBinnawA ke anurUpa hI mAnava viBinna prakAra se jIvanayApana karawe hEM.
+#Humans have been living on different kinds of landforms in different ways.
+sWalarUpa_1(landforms_1)	1	-	pl	3:r6	-	-	-	-
+viBinnawA_5(difference_9)	3	-	-	13:k7a	-	hI_2	-	-
+mAnava_3(human_6)	7	anim	-	13:k1	-	-	-	-
+viBinna_1(different_13)	8	-	-	9:mod	-	-	-	-
+prakAra_5(way_8)	9	-	-	13:krvn	-	-	-	-
+jIvanayApana_1(living_15)	11	-	-	-	-	-	-	13:kriyAmUla
+kara_1-wA_hE_1	12	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0087>
+#पर्वतीय क्षेत्रों का जीवन कठिन होता है।
+#parvawIya kRewroM kA jIvana kaTina howA hE.
+#Life is difficult in mountainous areas.
+parvawIya_2(mountainous_1)	1	-	-	2:mod	-	-	-	-
+kRewra_5(area_2)	2	-	pl	4:r6	-	-	-	-
+jIvana_1(life_7)	4	-	-	6:k1	-	-	-	-
+kaTina_1(difficult_1)	5	-	-	6:k1s	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0088>
+#मैदानी क्षेत्रों का जीवन पर्वतीय क्षेत्रों की तुलना में सरल होता है।
+#mExAnI kRewroM kA jIvana parvawIya kRewroM kI wulanA meM sarala howA hE.
+#Plains provide much better conditions.
+mExAnI_2(plain_14)	1	-	-	2:mod	-	-	-	-
+kRewra_5(area_2)	2	-	pl	4:r6	-	-	-	-
+jIvana_1(life_7)	4	-	-	11:k1	-	-	-	-
+parvawIya_2(mountainous_1)	5	-	-	6:mod	-	-	-	-
+kRewra_5(area_2)	6	-	pl	2:rv	-	-	-	-
+sarala_1(easy_2)	10	-	-	11:k1s	-	-	-	-
+ho_1-wA_hE_1	11	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0089>
+#मैदानों में फसलें उगाना, घर बनाना या सड़कें बनाना, पर्वतीय क्षेत्रों की तुलना में अधिक आसान होता है।
+#mExAnoM meM PasaleM ugAnA, Gara banAnA yA sadakeM banAnA, parvawIya kRewroM kI wulanA meM aXika AsAna howA hE.
+#It is easy to grow crops, build a house or a road in a plain than a mountain.
+mExAna_5(plain_5)	1	-	pl	19:k7p	-	-	-	-
+Pasala_2(crop_7)	3	-	pl	4:k2	-	-	-	-
+ugA_1(grow_6)	4	-	-	-	-	-	-	23:op1
+Gara_2(house_1)	6	-	-	7:k2	-	-	-	-
+banA_1	7	-	-	-	-	-	-	23:op2
+sadaka_1(road_29)	9	-	pl	10:k2	-	-	-	-
+banA_1	10	-	-	-	-	-	-	23:op3
+parvawIya_3(mountain_31)	12	-	-	13:mod	-	-	-	-
+kRewra_5(area_2)	13	-	pl	1:rv	-	-	-	-
+AsAna_1(easy_1)	18	-	compermore	19:k1s	-	-	-	-
+ho_1-wA_hE_1	19	-	-	0:main	-	-	-	-
+[disjunct_1]	23	-	-	19:k1	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0090a>
+#विभिन्न प्रकार के स्थलरूपों पर रहने वाले लोगों के रहन-सहन के तरीकों में कुछ अंतर होता है
+#viBinna prakAra ke sWalarUpoM para rahane vAle logoM ke rahana-sahana ke warIkoM meM kuCa aMwara howA hE.
+#Can you point out some differences in the ways people live on different kinds of landforms
+viBinna_1(different_13)	1	-	-	2:mod	-	-	-	-
+prakAra_1(kind_8)	2	-	-	4:r6	-	-	-	-
+sWalarUpa_1(landforms_1)	4	-	pl	6:k7p	-	-	-	-
+raha_1(live_3)	6	-	-	8:mod	-	-	-	-
+loga_2(people_5)	8	anim	pl	10:r6	-	-	-	-
+rahana+sahana_1	10	-	-	12:r6	-	-	-	-
+warIkA_4(way_25)	12	-	pl	16:k7	-	-	-	-
+kuCa_1(some_2)	14	-	-	15:quant	-	-	-	-
+aMwara_1(difference_1)	15	-	-	16:k1	-	-	-	-
+ho_1-wA_hE_1	16	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0090b>
+#क्या आप उनमें से कुछ अंतरों को बता सकते हैं?
+#kyA Apa unameM se kuCa aMwaroM ko bawA sakawe hEM?
+#Can you point out some differences in them?
+$addressee	1	anim	-	5:k1	-	respect	-	-
+$wyax	2	-	-	4:rn	Geo_ncert_6stnd_6ch_0090a.15:coref	distal	-	-
+kuCa_1(some_2)	3	-	-	4:quant	-	-	-	-
+aMwara_1(difference_1)	4	-	pl	5:k1s	-	-	-	-
+bawA_1-0_sakawA_hE_1	5	-	-	0:main	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0091>
+#कभी-कभी प्राकृतिक आपदाएँ जैसे- भूकंप, ज्वालामुखी उद्गार, तूफान या बाढ बहुत विनाश कर देते हैं।
+#kaBI-kaBI prAkqwika ApaxAez jEse- BUkaMpa, jvAlAmuKI uxgAra, wUPAna yA bADa bahuwa vinASa kara xewe hEM.
+#Sometimes, natural calamities such as earthquakes, volcanic eruption, storms and floods cause widespread destruction.
+kaBI_1(sometime_1)	1	-	xviwva	21:freq	-	-	-	-
+prAkqwika_1(natural_7)	2	-	-	3:mod	-	-	-	-
+ApaxA_3(calamity_13)	3	-	pl	21:k1	-	-	-	-
+BUkaMpa_1(earthquake_2)	6	-	-	-	-	-	-	22:op1
+jvAlAmuKI_1(volcano_1)	8	-	-	9:mod	-	-	-	-
+uxgAra_1(eruption_5)	9	-	-	-	-	-	-	22:op2
+wUPAna_2(storm_8)	11	-	-	-	-	-	-	22:op3
+bADa_1(flood_6)	13	-	-	-	-	-	-	22:op4
+bahuwa_7(very_1)	14	-	-	21:intf	-	-	-	-
+vinASa_1(destruction_15)	15	-	-	-	-	-	-	21:kriyAmUla
+kara_1-wA_hE_1	16	-	-	-	-	[shade:xe_1]	-	21:verbalizer
+[cp_1]	21	-	-	0:main	-	-	-	-
+[disjunct_1]	22	-	-	3:re	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0092>
+#इन आकस्मिक घटनाओं के बारे में जागरूकता पैदा करके हम इनमें आने वाले खतरों को कम कर सकते हैं।
+#ina Akasmika GatanAoM ke bAre meM jAgarUkawA pExA karake hama inameM Ane vAle KawaroM ko kama kara sakawe hEM.
+#By creative awareness about such incidences we may lower the risks.
+$wyax	1	-	-	3:dem	-	proximal	-	-
+Akasmika_1(sudden_4)	2	-	-	3:mod	-	-	-	-
+GatanA_3(incidence_1)	3	-	pl	21:k7	-	-	-	-
+jAgarUkawA_4(awareness_3)	7	-	-	21:k2	-	-	-	-
+pExA_2(created_2)	8	-	-	-	-	-	-	21:kriyAmUla
+kara_17(do_2)	9	-	-	-	-	-	-	21:verbalizer
+$speaker	10	anim	pl	23:k1	-	-	-	-
+$wyax	11	-	-	12:k7	3:coref	proximal	-	-
+A_1(come_1)	12	-	-	14:mod	-	-	-	-
+KawarA_5(danger_6)	14	-	pl	23:k2	-	-	-	-
+kama_23(lower_16)	17	-	-	-	-	-	-	23:kriyAmUla
+[cp_1]	21	-	-	23:rpk	-	-	-	-
+kara_1-0_sakawA_hE_1	22	-	-	-	-	-	-	23:verbalizer
+[cp_1]	23	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0093a>
+#हम कितने तरीकों से जल एवं स्थल को उपयोग में ला सकते हैं?
+#hama kiwane warIkoM se jala evaM sWala ko upayoga meM lA sakawe hEM
+#In how many ways we use the land and water.
+$speaker	1	anim	pl	11:k1	-	-	-	-
+$kim	2	-	-	3:quant	-	-	-	-
+warIkA_4(way_25)	3	-	pl	11:k3	-	-	-	-
+jala_1(water_3)	5	-	-	-	-	-	-	12:op1
+sWala_1(land_9)	7	-	-	-	-	-	-	12:op2
+upayoga_1(use_2)	9	-	-	11:k7	-	-	-	-
+lA_1-0_sakawA_hE_1	11	-	-	0:main	-	-	-	-
+[conj_1]	12	-	-	-	-	-	-	-
+%interrogative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0093b>
+#इसका पता हम अपने आस-पास के क्षेत्र से लगा सकते हैं।
+#isakA pawA hama apane Asa-pAsa ke
+#this can be find out from the areas around us.
+$wyax	1	-	-	8:k7	Geo_ncert_6stnd_6ch_0093.9:coref	-	-	-
+pawA_5(trace_14)	2	-	-	-	-	-	-	8:kriyAmUla
+$speaker	3	anim	pl	8:k1	-	-	-	-
+apnA	4	-	-	5:r6	-	-	-	-
+Asa+pAsa_1(around_3)	5	-	-	6:r6	-	-	-	-
+kRewra_5(area_2)	6	-	-	8:k5	-	-	-	-
+lagA_1-0_sakawA_hE_1	7	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0094>
+#प्रायः हम स्थल का उपयोग गलत तरीके से करते हैं, जैसे उपजाऊ भूमि पर मकानों का निर्माण करना।
+#prAyaH hama sWala kA upayoga galawa warIke se karawe hEM jEse upajAU BUmi para makAnoM kA nirmANa karnA
+#Quite often we use the land in a wasteful manner for example, building houses on a fertile land.
+prAyaH_2(generally_9)	1	-	-	10:freq	-	-	-	-
+$speaker	2	anim	pl	10:k1	-	-	-	-
+sWala_1(land_9)	3	-	-	10:k2	-	-	-	-
+upayoga_1(use_2)	5	-	-	-	-	-	-	10:kriyAmUla
+galawa_10	6	-	-	7:mod	-	-	-	-
+warIkA_7	7	-	-	10:krvn	-	-	-	-
+kara_1-wA_hE_1	9	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	-	-	-	-
+upajAU_1(fertile_1)	11	-	-	12:mod	-	-	-	-
+BUmi_2(soil_2)	12	-	-	16:k7p	-	-	-	-
+makAna_1(house_5)	13	-	pl	16:k2	-	-	-	-
+nirmANa_6(building_3)	14	-	-	-	-	-	-	16:kriyAmUla
+kara_17(do_2)	15	-	-	-	-	-	-	16:verbalizer
+[cp_2]	16	-	-	7:re	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0094b>
+#जैसे उपजाऊ भूमि पर मकानों का निर्माण करना।
+#jEse upajAU BUmi para makAnoM kA niRmANa karnA
+#for example, building houses on a fertile land.
+-	-	-	-	-	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0095>
+#इसी प्रकार हम लोग कूड़ा किसी भी भूमि पर या पानी में फेंक देते हैं जो कि उन्हें गंदा कर देता है।
+#isI prakAra hama loga kUdA kisI BI BUmi para yA pAnI meM PeMka xewe hEM jo ki unheM gaMxA kara xewA hE.
+#Similarly we throw garbage on land or in water making them dirty.
+$wyax	1	-	-	2:dem	-	proximal	-	-
+prakAra_5(way_8)	2	-	-	13:krvn	-	-	-	-
+$speaker	3	anim	pl	13:k1	-	-	-	-
+loga_2(people_5)	4	-	-	3:rs	-	-	-	-
+kUdA_2	5	-	-	13:k2	-	-	-	-
+koI_1(any_1)	6	-	-	25:mod	-	BI_1	-	-
+BUmi_1(land_6)	8	-	-	-	-	-	-	25:op1
+pAnI_1(water_7)	11	-	-	-	-	-	-	25:op2
+PeMka_1-wA_hE_1	13	-	-	0:main	-	[shade:xe_1]	-	-
+$yax	16	-	-	26:k1	5:coref	ki_1	-	-
+$wyax	18	-	-	26:k2	25:coref	distal	-	-
+gaMxA_1(dirty_1)	19	-	-	-	-	-	-	26:kriyAmUla
+kara_1-wA_hE_1	20	-	-	-	-	[shade:xe_1]	-	26:verbalizer
+[disjunct_1]	25	-	-	13:k7p	-	-	-	-
+[cp_1]	26	-	-	5:rcelab	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0096>
+#हमें प्रकृति के इस महत्त्वपूर्ण वरदान का उपयोग इस प्रकार नहीं करना चाहिए।
+#hameM prakqwi ke isa mahawwvapUrNa varaxAna kA upayoga isa prakAra nahIM karanA cAhie.
+#We should avoid using such important gifts of nature in a careless manner.
+$speaker	1	anim	pl	15:k1	-	-	-	-
+prakqwi_4(nature_10)	2	-	-	6:r6	-	-	-	-
+$wyax	4	-	-	6:dem	-	proximal	-	-
+mahawwvapUrNa_1(important_4)	5	-	-	6:mod	-	-	-	-
+varaxAna_1(boon_3)	6	-	-	15:k2	-	-	-	-
+upayoga_1(use_2)	8	-	-	-	-	-	-	15:kriyAmUla
+$wyax	9	-	-	10:dem	-	proximal	-	-
+prakAra_4(manner_5)	10	-	-	15:krvn	-	-	-	-
+nahIM_1(not_1)	11	-	-	15:neg	-	-	-	-
+kara_1-nA_cAhie_1	12	-	-	-	-	-	-	15:verbalizer
+[cp_1]	15	-	-	0:main	-	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0097>
+#उपलब्ध भूमि केवल हमारे ही उपयोग के लिए नहीं है।
+#upalabXa BUmi kevala hamAre hI upayoga ke lie nahIM hE.
+#The available land is not only for our use.
+upalabXa_1(available_1)	1	-	-	2:mod	-	-	-	-
+BUmi_1(land_6)	2	-	-	10:k1	-	-	-	-
+$speaker	4	anim	pl	6:r6	-	hI_2/kevala_1	-	-
+upayoga_1(use_2)	6	-	-	10:rt	-	-	-	-
+nahIM_2(not_3)	9	-	-	10:neg	-	-	-	-
+hE_1-pres	10	-	-	0:main	-	-	-	-
+%negative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0098a>
+#यह हमारा कर्तव्य है।
+#yaha hamArA karwavya hE.
+#It is our duty to leave the earth a better place for future generations as well.
+$wyax	1	-	-	4:k1	Geo_ncert_6stnd_6ch_0098b.13:coref	proximal	-	-
+$speaker	2	anim	pl	3:r6	-	-	-	-
+karwavya_1(duty_11)	3	-	-	4:k1s	-	-	-	-
+hE_1-pres	4	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+<segment_id=Geo_ncert_6stnd_6ch_0098b>
+#कि हम आगे आने वाली पीढियों के लिए पृथ्वी को सुरक्षित रखें।
+#ki hama Age Ane vAlI pIDiyoM ke lie pqWvI ko surakRiwa raKeM.
+#It is our duty to leave the earth a better place for future generations as well.
+$speaker	1	anim	pl	13:k1	-	-	-	-
+Age_7(next_2)	2	-	-	3:k7t	-	-	-	-
+A_1(come_1)	3	-	-	5:mod	-	-	-	-
+pIDI_1	5	-	pl	13:rt	-	-	-	-
+pqWvI_1(earth_9)	8	-	-	13:k2	-	def	-	-
+surakRiwa_6(safe_4)	10	-	-	-	-	-	-	13:kriyAmUla
+raKa_1-e_1	11	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
