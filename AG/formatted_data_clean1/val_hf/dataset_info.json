@@ -3,9 +3,15 @@
   "citation": "",
   "config_name": "default",
   "dataset_name": "json",
-  "dataset_size": 3097641,
+  "dataset_size": 3555830,
   "description": "",
-  "download_size": 3591513,
+  "download_checksums": {
+    "/content/drive/MyDrive/AG/llm_training_data.jsonl": {
+      "num_bytes": 4049702,
+      "checksum": null
+    }
+  },
+  "download_size": 4049702,
   "features": {
     "id": {
       "dtype": "string",
@@ -26,11 +32,11 @@
   },
   "homepage": "",
   "license": "",
-  "size_in_bytes": 6689154,
+  "size_in_bytes": 7605532,
   "splits": {
     "train": {
       "name": "train",
-      "num_bytes": 3097641,
+      "num_bytes": 3555830,
       "num_examples": 5196,
       "dataset_name": "json"
     }
