@@ -1,3 +1,6 @@
+import unsloth  # MUST be first
+
+from unsloth import FastLanguageModel
 import os
 import torch
 from datasets import load_dataset, DatasetDict
@@ -7,350 +10,287 @@ from trl import SFTTrainer, SFTConfig
 # ==================================================
 # PATHS
 # ==================================================
-DATA_FILE = "AG/llm_training_data.jsonl"
 
-FORMATTED_SAVE_DIR = "AG/formatted_data_clean1"
+DATA_FILE          = "AG/llm_training_data.jsonl"
+FORMATTED_SAVE_DIR = "AG/formatted_data_v2"
+CHECKPOINT_DIR     = "AG/checkpoints_v2"
 
-CHECKPOINT_DIR = "AG/checkpoints_n1"
+# Adapter-only save (small — ~50 MB instead of ~4 GB)
+ADAPTER_SAVE_DIR   = "AG/qlora_adapters_qwen2.5_7b"
 
-FINAL_MODEL_DIR = "AG/finetuned_model_qwen2.5_7b_FINAL"
+# Optional: merged model path (only needed for inference/deployment)
+# Leave as None to skip merging entirely and save time/space.
+MERGED_MODEL_DIR   = None   # set to a path string to enable merge+save
+
+# ==================================================
+# T4 SETTINGS
+# ==================================================
+
+MAX_SEQ_LENGTH = 1024   # safe for T4 16 GB; bump to 1536/2048 only after OOM-free run
 
 # ==================================================
 # SYSTEM PROMPT
 # ==================================================
-SYSTEM_PROMPT = """
- "आप एक हिंदी वाक्य जनरेटर हैं जो USR (Universal Semantic Representation) सिमेंटिक डेटा से स्वाभाविक और व्याकरणिक रूप से सही हिंदी वाक्य बनाता है।\n\n"
 
-    "इनपुट फ़ॉर्मेट की समझ\n\n"
-
-    "USR की प्रत्येक पंक्ति वाक्य में एक अवधारणा (concept) का प्रतिनिधित्व करती है।\n\n"
-
-    "कॉलम 1: अवधारणा / शाब्दिक इकाई — इसमें वास्तविक सिमेंटिक इकाई होती है (जैसे, वायु_1, अत्यधिक_2)।\n"
-
-    "कॉलम 2: इंडेक्स — अवधारणा का अद्वितीय पहचानकर्ता, जिसका उपयोग निर्भरता संबंधों (dependency relations) को जोड़ने के लिए किया जाता है (जैसे, 1, 2, 3)।\n"
-
-    "कॉलम 3: सिमेंटिक श्रेणी — अवधारणा का सिमेंटिक प्रकार (जैसे, anim, place, obj)।\n"
-
-    "कॉलम 4: मॉर्फो-सिमेंटिक जानकारी — व्याकरणिक जानकारी जैसे वचन (pl), लिंग, TAM, और अन्य रूपात्मक विशेषताएँ।\n"
-
-    "कॉलम 5: निर्भरता संबंध — यह बताता है कि वर्तमान अवधारणा किसी दूसरी अवधारणा से कैसे संबंधित है, इसके लिए target_index:relation फ़ॉर्मेट का उपयोग किया जाता है।\n\n"
-
-    "उदाहरण:\n"
-
-    "\"7:k1\" → वर्तमान अवधारणा, इंडेक्स 7 पर स्थित अवधारणा का कर्ता (subject) है।\n"
-
-    "\"9:k2\" → वर्तमान अवधारणा, इंडेक्स 9 पर स्थित अवधारणा का कर्म (object) है।\n"
-
-    "\"14:r6\" → वर्तमान अवधारणा, अवधारणा 14 को संशोधित करती है या उस पर स्वामित्व दर्शाती है।\n"
-
-    "\"15:k7\" → वर्तमान अवधारणा, अवधारणा 15 के लिए स्थान/समय व्यक्त करती है।\n"
-
-    "\"quant\" → मात्रा संशोधक (quantity modifier)।\n"
-
-    "\"rt\", \"rcdelim\", \"vkvn\", \"verbalizer\" आदि की व्याख्या USR निर्भरता परंपराओं के अनुसार की जानी चाहिए।\n\n"
-
-    "कॉलम 6: सह-संदर्भ / विमर्श जानकारी — यह खंडों (segments) के बीच के संदर्भों या विमर्श संबंधों को इंगित करता है (जैसे, coref, pariNAma)। सर्वनामों को स्पष्ट करने और वाक्य में निरंतरता बनाए रखने के लिए इसका उपयोग करें।\n"
-
-    "कॉलम 7: वक्ता का दृष्टिकोण — इसमें परिप्रेक्ष्य संबंधी जानकारी होती है, जैसे ज़ोर (emphasis) या दूरी (distal आदि)।\n"
-
-    "कॉलम 8: दायरा (Scope) — जहाँ लागू हो, वहाँ यह सिमेंटिक दायरे को परिभाषित करता है।\n"
-
-    "कॉलम 9: वाक्य का प्रकार — यह निर्धारित करता है कि आउटपुट किस प्रकार का होना चाहिए: कथनात्मक, प्रश्नवाचक, नकारात्मक आदि।\n\n"
-
-    "निर्माण निर्देश\n\n"
-
-    "1. केवल USR में मौजूद जानकारी का ही उपयोग करें।\n"
-
-    "2. कोई नए तथ्य, उदाहरण, या स्पष्टीकरण न जोड़ें और न ही कोई छूटी हुई जानकारी मनगढ़ंत रूप से शामिल करें।\n"
-
-    "3. USR में दी गई कोई भी जानकारी न छोड़ें।\n"
-
-    "4. USR की सभी पंक्तियों को ठीक उसी क्रम में संसाधित करें जिस क्रम में वे दी गई हैं।\n"
-
-    "5. k1, k2, k7, r6, rt, rcdelim, quant, vkvn, verbalizer आदि जैसे निर्भरता संबंधों का उपयोग करके वाक्य का अर्थ निकालें।\n"
-
-    "6. स्वाभाविक और प्रवाहपूर्ण हिंदी लिखें, न कि शब्द-दर-शब्द अनुवाद।\n"
-
-    "7. विमर्श (discourse) और सह-संदर्भ (coreference) को सही ढंग से हल करें, और संज्ञाओं की बार-बार पुनरावृत्ति करने के बजाय उचित सर्वनामों का उपयोग करें।\n"
-
-    "8. सभी अवधारणाओं को एक सुसंगत वाक्य में पिरोएँ और उनके तार्किक प्रवाह को बनाए रखें।\n"
-
-    "9. वाक्य-खंडों के बीच के संबंधों को बनाए रखें, न कि उन्हें अलग-अलग टुकड़ों के रूप में लिखें।\n"
-
-    "10. संख्या, अन्वय (agreement), काल-पक्ष-वृत्ति (TAM), और व्याकरणिक रूप जैसी रूप-अर्थ संबंधी जानकारी का ध्यान रखें।\n"
-
-    "11. जब भी निर्भरता संबंधों द्वारा संकेत दिया गया हो, तो सापेक्ष-सहसंबंधी संरचनाओं और अंतर्निहित उपवाक्यों को बनाए रखें।\n"
-
-    "12. वाक्य के प्रकार का सख्ती से पालन करें (उदाहरण: प्रश्नवाचक → प्रश्न के रूप में)।\n"
-
-    "13. आउटपुट के रूप में केवल अंतिम हिंदी वाक्य दें, और उसके अलावा कुछ भी नहीं।"
-"""
+SYSTEM_PROMPT = (
+    "नीचे दिए गए यूनिवर्सल स्ट्रक्चर रिप्रेजेंटेशन (USR) स्ट्रक्चर से एक नेचुरल लगने वाला हिंदी वाक्य बनाएं।"
+    "ज़रूरी: नीचे दिए गए USR सेगमेंट का इस्तेमाल करके एक पूरा वाक्य बनाएं।"
+    "आपको हर USR सेगमेंट का सही कंटेंट बताए गए क्रम में इस्तेमाल करना होगा।"
+    "ऐसी कोई भी एक्स्ट्रा जानकारी न जोड़ें जो दिए गए स्ट्रक्चर में मौजूद न हो।"
+)
 
 # ==================================================
-# LOAD & SPLIT DATA
+# LOAD DATASET
 # ==================================================
+
 print("📂 Loading dataset...")
 
-raw_dataset = load_dataset(
-    "json",
-    data_files=DATA_FILE,
-    split="train"
-)
-
-train_testval = raw_dataset.train_test_split(
-    test_size=0.1,
-    seed=3407
-)
-
-test_val = train_testval["test"].train_test_split(
-    test_size=0.5,
-    seed=3407
-)
+raw_dataset   = load_dataset("json", data_files=DATA_FILE, split="train")
+train_testval = raw_dataset.train_test_split(test_size=0.10, seed=3407)
+test_val      = train_testval["test"].train_test_split(test_size=0.50, seed=3407)
 
 split_dataset = DatasetDict({
-    "train": train_testval["train"],
-    "val": test_val["train"],
-    "test": test_val["test"]
+    "train" : train_testval["train"],
+    "val"   : test_val["train"],
+    "test"  : test_val["test"],
 })
 
 print(split_dataset)
 
 # ==================================================
+# LOAD BASE MODEL IN 4-BIT  ← this is the "Q" in QLoRA
+# The base model weights are quantized to 4-bit and
+# are COMPLETELY FROZEN throughout training.
+# Only the small LoRA adapter weights (added next)
+# will receive gradient updates.
+# ==================================================
+
+print("📥 Loading base model in 4-bit (frozen)...")
+
+model, tokenizer = FastLanguageModel.from_pretrained(
+    model_name       = "unsloth/Qwen2.5-7B-Instruct-bnb-4bit",
+    max_seq_length   = MAX_SEQ_LENGTH,
+    dtype            = None,        # auto → FP16 on T4 (no BF16 on Turing arch)
+    load_in_4bit     = True,        # quantize base model → ~4-5 GB VRAM
+)
+
+# ==================================================
+# ATTACH LORA ADAPTERS  ← this is the "LoRA" in QLoRA
+#
+# Only these adapter parameters are trainable.
+# The 4-bit base model is untouched.
+#
+# Trainable params ≈ 2 × r × d_model × num_layers
+# For Qwen2.5-7B with r=16: ~40 M params vs 7B total
+# That's < 0.6% of the model — very fast, very low VRAM.
+# ==================================================
+
+print("🔧 Attaching LoRA adapters (only these will train)...")
+
+model = FastLanguageModel.get_peft_model(
+    model,
+    r                        = 16,
+    target_modules           = [
+        "q_proj", "k_proj", "v_proj", "o_proj",
+        "gate_proj", "up_proj", "down_proj",
+    ],
+    lora_alpha               = 16,
+    lora_dropout             = 0,
+    bias                     = "none",
+    use_gradient_checkpointing = "unsloth",  # saves ~30% VRAM on T4
+    random_state             = 3407,
+)
+
+# Confirm only adapters are trainable
+trainable = sum(p.numel() for p in model.parameters() if p.requires_grad)
+total     = sum(p.numel() for p in model.parameters())
+print(f"✅ Trainable params: {trainable/1e6:.1f}M / {total/1e6:.1f}M "
+      f"({100*trainable/total:.2f}%)")
+
+# ==================================================
 # FORMATTING FUNCTION
 # ==================================================
+
+EOS_TOKEN = tokenizer.eos_token
+
 def formatting_prompts_func(examples):
     texts = []
-
-    ids = examples.get(
-        "id",
-        ["unknown"] * len(examples["input"])
-    )
-
-    for segment_id, input_text, output_text in zip(
-        ids,
-        examples["input"],
-        examples["output"]
-    ):
-
-        cleaned_output_lines = []
-
-        for line in output_text.splitlines():
-
-            line = line.strip()
-
-            if not line:
-                continue
-
-            parts = line.split("\t")
-
-            if len(parts) >= 6:
-                cleaned_line = (
-                    f"{parts[0]}\t"
-                    f"{parts[1]}\t"
-                    f"{parts[4]}\t"
-                    f"{parts[5]}"
-                )
-                cleaned_output_lines.append(cleaned_line)
-
-            else:
-                cleaned_output_lines.append(line)
-
-        processed_output = "\n".join(cleaned_output_lines)
-
+    for input_text, output_text in zip(examples["input"], examples["output"]):
         messages = [
-            {
-                "role": "system",
-                "content": SYSTEM_PROMPT
-            },
-            {
-                "role": "user",
-                "content": input_text
-            },
-            {
-                "role": "assistant",
-                "content": processed_output
-            }
+            {"role": "system",    "content": SYSTEM_PROMPT},
+            {"role": "user",      "content": input_text},
+            {"role": "assistant", "content": output_text},
         ]
-
         text = tokenizer.apply_chat_template(
             messages,
             tokenize=False,
-            add_generation_prompt=False
+            add_generation_prompt=False,
         )
-
+        if not text.endswith(EOS_TOKEN):
+            text += EOS_TOKEN
         texts.append(text)
-
     return {"text": texts}
 
 # ==================================================
-# FORMAT DATASETS
+# FORMAT & SAVE DATASETS
 # ==================================================
+
 print("🔄 Formatting datasets...")
 
-train_dataset = split_dataset["train"].map(
-    formatting_prompts_func,
-    batched=True
-)
+train_dataset = split_dataset["train"].map(formatting_prompts_func, batched=True)
+val_dataset   = split_dataset["val"].map(formatting_prompts_func,   batched=True)
+test_dataset  = split_dataset["test"].map(formatting_prompts_func,  batched=True)
 
-val_dataset = split_dataset["val"].map(
-    formatting_prompts_func,
-    batched=True
-)
+print(f"Train={len(train_dataset)} | Val={len(val_dataset)} | Test={len(test_dataset)}")
+print("\nSample formatted text (first 500 chars):")
+print(train_dataset[0]["text"][:500])
 
-test_dataset = split_dataset["test"].map(
-    formatting_prompts_func,
-    batched=True
-)
-
-print(
-    f"✅ Train: {len(train_dataset)} | "
-    f"Val: {len(val_dataset)} | "
-    f"Test: {len(test_dataset)}"
-)
-
-# ==================================================
-# SAVE FORMATTED DATA
-# ==================================================
 os.makedirs(FORMATTED_SAVE_DIR, exist_ok=True)
+os.makedirs(CHECKPOINT_DIR,     exist_ok=True)
+os.makedirs(ADAPTER_SAVE_DIR,   exist_ok=True)
 
-train_dataset.save_to_disk(
-    os.path.join(FORMATTED_SAVE_DIR, "train_hf")
-)
-
-val_dataset.save_to_disk(
-    os.path.join(FORMATTED_SAVE_DIR, "val_hf")
-)
-
-test_dataset.save_to_disk(
-    os.path.join(FORMATTED_SAVE_DIR, "test_hf")
-)
-
-train_dataset.to_json(
-    os.path.join(FORMATTED_SAVE_DIR, "train.jsonl")
-)
-
-val_dataset.to_json(
-    os.path.join(FORMATTED_SAVE_DIR, "val.jsonl")
-)
-
-test_dataset.to_json(
-    os.path.join(FORMATTED_SAVE_DIR, "test.jsonl")
-)
-
-print("✅ Formatted datasets saved.")
+train_dataset.save_to_disk(os.path.join(FORMATTED_SAVE_DIR, "train_hf"))
+val_dataset.save_to_disk(  os.path.join(FORMATTED_SAVE_DIR, "val_hf"))
+test_dataset.save_to_disk( os.path.join(FORMATTED_SAVE_DIR, "test_hf"))
+print("✅ Datasets saved")
 
 # ==================================================
 # TRAINER
 # ==================================================
+
 trainer = SFTTrainer(
-    model=model,
-    tokenizer=tokenizer,
-    train_dataset=train_dataset,
-    eval_dataset=val_dataset,
-    callbacks=[
-        EarlyStoppingCallback(
-            early_stopping_patience=2
-        )
-    ],
+    model         = model,
+    tokenizer     = tokenizer,
+    train_dataset = train_dataset,
+    eval_dataset  = val_dataset,
 
-    args=SFTConfig(
-        per_device_train_batch_size=2,
-        gradient_accumulation_steps=4,
+    callbacks = [EarlyStoppingCallback(early_stopping_patience=1)],
 
-        warmup_steps=30,
-        num_train_epochs=5,
+    args = SFTConfig(
+        output_dir             = CHECKPOINT_DIR,
 
-        learning_rate=2e-4,
+        dataset_text_field     = "text",
+        max_seq_length         = MAX_SEQ_LENGTH,
+        packing                = True,
 
-        fp16=not torch.cuda.is_bf16_supported(),
-        bf16=torch.cuda.is_bf16_supported(),
+        # T4: batch=1 + accum=8 keeps effective batch=8
+        # while halving per-step activation memory vs batch=2
+        per_device_train_batch_size = 1,
+        gradient_accumulation_steps = 8,
 
-        logging_steps=10,
+        num_train_epochs       = 5,
+        warmup_steps           = 30,
+        learning_rate          = 2e-4,
+        weight_decay           = 0.01,
 
-        optim="adamw_8bit",
+        optim                  = "adamw_8bit",
+        lr_scheduler_type      = "linear",
 
-        weight_decay=0.01,
-        lr_scheduler_type="linear",
+        # T4 = Turing arch, no BF16 — auto-selects FP16
+        fp16                   = not torch.cuda.is_bf16_supported(),
+        bf16                   = torch.cuda.is_bf16_supported(),
 
-        seed=3407,
+        logging_steps          = 10,
 
-        output_dir=CHECKPOINT_DIR,
+        eval_strategy          = "epoch",
+        save_strategy          = "epoch",
+        save_total_limit       = 3,
 
-        dataset_text_field="text",
+        load_best_model_at_end = True,
+        metric_for_best_model  = "eval_loss",
+        greater_is_better      = False,
 
-        packing=True,
-        max_seq_length=1024,
+        # Prevents CPU-RAM pressure on Colab (~12 GB system RAM)
+        dataloader_pin_memory  = False,
 
-        eval_strategy="epoch",
-        save_strategy="epoch",
-
-        save_total_limit=3,
-
-        load_best_model_at_end=True,
-
-        metric_for_best_model="eval_loss",
-        greater_is_better=False,
+        seed                   = 3407,
     ),
 )
 
 # ==================================================
-# RESUME IF CHECKPOINT EXISTS
+# TRAIN (resume if checkpoint exists)
 # ==================================================
-print("🚀 Preparing training...")
 
-checkpoints_exist = False
+print("🚀 Starting QLoRA training (adapters only)...")
 
-if os.path.exists(CHECKPOINT_DIR):
-
-    checkpoint_folders = [
-        f
-        for f in os.listdir(CHECKPOINT_DIR)
-        if f.startswith("checkpoint-")
-    ]
-
-    if len(checkpoint_folders) > 0:
-        checkpoints_exist = True
-
-if checkpoints_exist:
-
-    print("📂 Checkpoint found.")
-    print("🔄 Resuming training...")
-
-    trainer_stats = trainer.train(
-        resume_from_checkpoint=True
-    )
-
-else:
-
-    print("🆕 Starting fresh training...")
-
-    trainer_stats = trainer.train()
-
-# ==================================================
-# TRAINING COMPLETE
-# ==================================================
-print("✅ Training completed.")
-
-print(
-    f"📊 Peak VRAM Used: "
-    f"{torch.cuda.max_memory_allocated()/1e9:.2f} GB"
+checkpoint_exists = (
+    os.path.exists(CHECKPOINT_DIR) and
+    any(f.startswith("checkpoint-") for f in os.listdir(CHECKPOINT_DIR))
 )
 
-# ==================================================
-# SAVE BEST MODEL
-# ==================================================
-print(f"💾 Saving model to {FINAL_MODEL_DIR}")
+if checkpoint_exists:
+    print("📂 Resuming from checkpoint...")
+    trainer_stats = trainer.train(resume_from_checkpoint=True)
+else:
+    print("🆕 Fresh training run")
+    trainer_stats = trainer.train()
 
-model.save_pretrained(FINAL_MODEL_DIR)
-tokenizer.save_pretrained(FINAL_MODEL_DIR)
-
-print("🎉 Final model saved successfully!")
+print("✅ Training complete")
+print(f"Peak VRAM: {torch.cuda.max_memory_allocated()/1e9:.2f} GB")
 
 # ==================================================
-# OPTIONAL EVALUATION
+# SAVE — ADAPTERS ONLY (~50 MB, not the full model)
+#
+# This saves only the trained LoRA weights.
+# To run inference later, load the original base model
+# and these adapters together (see inference note below).
 # ==================================================
-print("🧪 Running final evaluation...")
 
+print(f"💾 Saving LoRA adapters to {ADAPTER_SAVE_DIR} ...")
+model.save_pretrained(ADAPTER_SAVE_DIR)      # saves adapter_config.json + adapter weights
+tokenizer.save_pretrained(ADAPTER_SAVE_DIR)  # saves tokenizer alongside adapters
+print("🎉 Adapters saved")
+
+# --------------------------------------------------
+# OPTIONAL: Merge adapters into base model and save
+# full merged weights (needed for deployment/GGUF).
+# This requires extra VRAM — skip on T4 if OOM.
+# --------------------------------------------------
+
+if MERGED_MODEL_DIR:
+    print(f"🔀 Merging adapters into base model → {MERGED_MODEL_DIR} ...")
+    merged_model = model.merge_and_unload()   # fuses adapters into base weights
+    merged_model.save_pretrained(MERGED_MODEL_DIR)
+    tokenizer.save_pretrained(MERGED_MODEL_DIR)
+    print("✅ Merged model saved")
+else:
+    print("ℹ️  Merge skipped (MERGED_MODEL_DIR=None). "
+          "To load for inference use:\n"
+          "  model = PeftModel.from_pretrained(base_model, ADAPTER_SAVE_DIR)")
+
+# ==================================================
+# FINAL EVAL LOSS
+# ==================================================
+
+print("🧪 Final evaluation on test set...")
 results = trainer.evaluate(test_dataset)
-
 print(results)
+
+# ==================================================
+# INFERENCE USAGE REMINDER
+# ==================================================
+
+print("""
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📌 How to load your trained model later:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+from unsloth import FastLanguageModel
+from peft import PeftModel
+
+# 1. Load original 4-bit base model (frozen)
+model, tokenizer = FastLanguageModel.from_pretrained(
+    model_name   = "unsloth/Qwen2.5-7B-Instruct-bnb-4bit",
+    max_seq_length = 1024,
+    load_in_4bit = True,
+)
+
+# 2. Load your trained adapters on top
+model = PeftModel.from_pretrained(model, ADAPTER_SAVE_DIR)
+FastLanguageModel.for_inference(model)
+
+# 3. Run inference
+inputs = tokenizer("your USR input", return_tensors="pt").to("cuda")
+outputs = model.generate(**inputs, max_new_tokens=128)
+print(tokenizer.decode(outputs[0]))
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+""")
